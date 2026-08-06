@@ -296,6 +296,9 @@ a { color: var(--teal); }
   padding: 1.5rem;
   z-index: 10;
 }
+.email-modal[hidden] {
+  display: none;
+}
 .email-modal-card {
   position: relative;
   background: var(--card-bg);
