@@ -5,7 +5,7 @@
 // ---------------------------------------------------------------
 
 let allEntries = [];
-let activeFilters = { field: null, level: null, type: null };
+let activeFilters = { field: null, level: null, type: null, appType: null };
 let searchTerm = "";
 
 const listingsEl = document.getElementById("listings");
@@ -17,6 +17,7 @@ const clearBtn = document.getElementById("clear-filters");
 const fieldFilterEl = document.getElementById("field-filters");
 const levelFilterEl = document.getElementById("level-filters");
 const typeFilterEl = document.getElementById("type-filters");
+const appTypeFilterEl = document.getElementById("apptype-filters");
 
 init();
 
@@ -33,6 +34,7 @@ async function init() {
   buildFilterTabs("field", fieldFilterEl, uniqueValues(allEntries, e => [e.field]));
   buildFilterTabs("level", levelFilterEl, uniqueValues(allEntries, e => e.levels));
   buildFilterTabs("type", typeFilterEl, uniqueValues(allEntries, e => e.opportunityTypes));
+  buildFilterTabs("appType", appTypeFilterEl, uniqueValues(allEntries, e => [e.applicationType || "Direct Outreach"]));
 
   searchInput.addEventListener("input", (e) => {
     searchTerm = e.target.value.trim().toLowerCase();
@@ -40,7 +42,7 @@ async function init() {
   });
 
   clearBtn.addEventListener("click", () => {
-    activeFilters = { field: null, level: null, type: null };
+    activeFilters = { field: null, level: null, type: null, appType: null };
     searchTerm = "";
     searchInput.value = "";
     document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
@@ -83,9 +85,11 @@ function buildFilterTabs(key, container, values) {
 
 function render() {
   const filtered = allEntries.filter(entry => {
+    const appType = entry.applicationType || "Direct Outreach";
     if (activeFilters.field && entry.field !== activeFilters.field) return false;
     if (activeFilters.level && !entry.levels.includes(activeFilters.level)) return false;
     if (activeFilters.type && !entry.opportunityTypes.includes(activeFilters.type)) return false;
+    if (activeFilters.appType && appType !== activeFilters.appType) return false;
 
     if (searchTerm) {
       const haystack = [
@@ -97,7 +101,7 @@ function render() {
     return true;
   });
 
-  const anyFilterActive = activeFilters.field || activeFilters.level || activeFilters.type || searchTerm;
+  const anyFilterActive = activeFilters.field || activeFilters.level || activeFilters.type || activeFilters.appType || searchTerm;
   clearBtn.hidden = !anyFilterActive;
 
   resultCountEl.textContent = `${filtered.length} ${filtered.length === 1 ? "entry" : "entries"}`;
@@ -110,6 +114,13 @@ function render() {
   });
 }
 
+function starRating(rating) {
+  if (!rating) return "";
+  const full = "★".repeat(rating);
+  const empty = "☆".repeat(5 - rating);
+  return `${full}${empty}`;
+}
+
 function buildCard(entry) {
   const card = document.createElement("article");
   card.className = "card";
@@ -117,14 +128,24 @@ function buildCard(entry) {
   card.setAttribute("role", "button");
   card.setAttribute("aria-label", `View details for ${entry.name}`);
 
+  const appType = entry.applicationType || "Direct Outreach";
+  const ratingHtml = entry.resumeRating
+    ? `<span class="card-rating" title="Resume/application impact (subjective editorial rating)">${starRating(entry.resumeRating)}</span>`
+    : "";
+
   card.innerHTML = `
-    <span class="card-field-tag">${escapeHtml(entry.field.toUpperCase())} &middot; ${escapeHtml(entry.department)}</span>
+    <div class="card-top-row">
+      <span class="card-field-tag">${escapeHtml(entry.field.toUpperCase())} &middot; ${escapeHtml(entry.department)}</span>
+      ${ratingHtml}
+    </div>
     <h3>${escapeHtml(entry.name)}</h3>
     <p class="card-university">${escapeHtml(entry.university)} &mdash; ${escapeHtml(entry.state)}</p>
     <p class="card-summary">${escapeHtml(entry.summary)}</p>
+    ${appType === "Structured Program" ? `<p class="card-window">${escapeHtml(entry.applicationWindow || "")}</p>` : ""}
     <div class="card-badges">
       ${entry.levels.map(l => `<span class="badge level">${escapeHtml(l)}</span>`).join("")}
       ${entry.opportunityTypes.map(t => `<span class="badge">${escapeHtml(t)}</span>`).join("")}
+      <span class="badge apptype">${escapeHtml(appType)}</span>
     </div>
   `;
 
@@ -138,24 +159,52 @@ function buildCard(entry) {
 }
 
 function openModal(entry) {
+  const appType = entry.applicationType || "Direct Outreach";
+
   document.getElementById("modal-field").textContent = `${entry.field.toUpperCase()} · ${entry.department}`;
   document.getElementById("modal-title").textContent = `${entry.name}, ${entry.title}`;
   document.getElementById("modal-university").textContent = `${entry.university} — ${entry.state}`;
   document.getElementById("modal-summary").textContent = entry.summary;
 
+  const ratingEl = document.getElementById("modal-rating");
+  if (entry.resumeRating) {
+    ratingEl.textContent = `${starRating(entry.resumeRating)}  ${entry.ratingNote || ""}`;
+    ratingEl.hidden = false;
+  } else {
+    ratingEl.hidden = true;
+  }
+
+  const windowEl = document.getElementById("modal-window");
+  if (appType === "Structured Program" && entry.applicationWindow) {
+    windowEl.textContent = `Application window: ${entry.applicationWindow}`;
+    windowEl.hidden = false;
+  } else {
+    windowEl.hidden = true;
+  }
+
   const metaEl = document.getElementById("modal-meta");
   metaEl.innerHTML = [
     ...entry.levels.map(l => `<span class="badge level">${escapeHtml(l)}</span>`),
-    ...entry.opportunityTypes.map(t => `<span class="badge">${escapeHtml(t)}</span>`)
+    ...entry.opportunityTypes.map(t => `<span class="badge">${escapeHtml(t)}</span>`),
+    `<span class="badge apptype">${escapeHtml(appType)}</span>`
   ].join("");
 
-  const subject = encodeURIComponent(`Interested in research opportunities in your lab`);
-  const body = encodeURIComponent(
-    `Dear ${entry.name},\n\nMy name is [your name], and I'm a [high school / undergraduate] student interested in ${entry.field.toLowerCase()}. I came across your work in ${entry.department} at ${entry.university} and wanted to reach out about ${entry.opportunityTypes.join("/").toLowerCase()} opportunities in your lab.\n\n[A sentence or two about your background and why this lab specifically.]\n\nThank you for your time, and I look forward to hearing from you.\n\nBest,\n[Your name]`
-  );
-
   const emailBtn = document.getElementById("modal-email-btn");
-  emailBtn.href = `mailto:${entry.email}?subject=${subject}&body=${body}`;
+  const applyBtn = document.getElementById("modal-apply-btn");
+
+  if (appType === "Structured Program") {
+    emailBtn.hidden = true;
+    applyBtn.hidden = false;
+    applyBtn.href = entry.applyUrl || "#";
+  } else {
+    applyBtn.hidden = true;
+    emailBtn.hidden = false;
+    const subject = encodeURIComponent(`Interested in research opportunities in your lab`);
+    const body = encodeURIComponent(
+      `Dear ${entry.name},\n\nMy name is [your name], and I'm a [high school / undergraduate] student interested in ${entry.field.toLowerCase()}. I came across your work in ${entry.department} at ${entry.university} and wanted to reach out about ${entry.opportunityTypes.join("/").toLowerCase()} opportunities in your lab.\n\n[A sentence or two about your background and why this lab specifically.]\n\nThank you for your time, and I look forward to hearing from you.\n\nBest,\n[Your name]`
+    );
+    emailBtn.href = `mailto:${entry.email}?subject=${subject}&body=${body}`;
+  }
 
   const labBtn = document.getElementById("modal-lab-btn");
   if (entry.labUrl) {
