@@ -222,6 +222,12 @@ a { color: var(--teal); }
   box-shadow: 0 6px 16px rgba(31,42,36,0.12);
   outline: none;
 }
+.card-top-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
 .card-field-tag {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 0.7rem;
@@ -231,6 +237,21 @@ a { color: var(--teal); }
   padding: 0.2rem 0.5rem;
   border-radius: var(--radius);
   letter-spacing: 0.03em;
+}
+.card-rating {
+  font-size: 0.85rem;
+  color: var(--accent);
+  white-space: nowrap;
+  letter-spacing: 0.05em;
+}
+.card-window {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.72rem;
+  color: var(--teal);
+  background: var(--teal-soft);
+  padding: 0.4rem 0.55rem;
+  border-radius: var(--radius);
+  margin: 0;
 }
 .card h3 {
   font-family: 'Fraunces', serif;
@@ -263,6 +284,7 @@ a { color: var(--teal); }
   color: var(--ink-soft);
 }
 .badge.level { background: var(--teal-soft); border-color: var(--teal-soft); color: var(--teal); }
+.badge.apptype { background: var(--ink); border-color: var(--ink); color: var(--paper); }
 
 .empty-state {
   max-width: 980px;
@@ -335,8 +357,22 @@ a { color: var(--teal); }
   margin: 0 0 0.9rem;
   font-size: 0.92rem;
 }
+.modal-rating {
+  font-size: 0.85rem;
+  color: var(--accent-ink);
+  margin: 0 0 0.7rem;
+}
 .modal-summary {
   font-size: 0.92rem;
+  margin: 0 0 1rem;
+}
+.modal-window {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.78rem;
+  color: var(--teal);
+  background: var(--teal-soft);
+  padding: 0.5rem 0.65rem;
+  border-radius: var(--radius);
   margin: 0 0 1rem;
 }
 .modal-meta {
