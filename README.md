@@ -19,6 +19,10 @@ research-connect/
 Open `data.json` in any text editor (even GitHub's own web editor works). Each listing
 is one entry like this — copy an existing one and change the values:
 
+There are two kinds of listings, and the fields differ slightly:
+
+**A) Direct Outreach** — a professor you email directly, no application form.
+
 ```json
 {
   "id": 7,
@@ -31,9 +35,39 @@ is one entry like this — copy an existing one and change the values:
   "tags": ["a few", "keywords", "for search"],
   "levels": ["High School", "Undergraduate"],
   "opportunityTypes": ["Research Assistant", "Shadowing", "Internship"],
+  "applicationType": "Direct Outreach",
+  "applicationWindow": "Rolling — reach out directly, no formal deadline",
   "summary": "A sentence or two describing what the lab does and who they're looking for.",
   "email": "professor@university.edu",
   "labUrl": "https://link-to-lab-page.edu",
+  "applyUrl": "",
+  "dateAdded": "2026-08-05"
+}
+```
+
+**B) Structured Program** — a formal program with its own application and deadline
+(no individual professor email — students apply through the program's site).
+
+```json
+{
+  "id": 8,
+  "name": "Name of the Program",
+  "title": "Structured Summer Research Program",
+  "university": "Name of University",
+  "state": "State/Province, Country",
+  "department": "Department(s) involved",
+  "field": "Biology",
+  "tags": ["a few", "keywords"],
+  "levels": ["High School"],
+  "opportunityTypes": ["Research Assistant"],
+  "applicationType": "Structured Program",
+  "applicationWindow": "When applications typically open/close, and whether this year's cycle is open or closed",
+  "resumeRating": 4,
+  "ratingNote": "One sentence on why it earned that score — prestige/selectivity weighed against real accessibility.",
+  "summary": "What the program actually involves, and any eligibility restrictions (location, school, income status, etc.) students should know before getting excited about it.",
+  "email": "",
+  "labUrl": "",
+  "applyUrl": "https://link-to-program-application-page.edu",
   "dateAdded": "2026-08-05"
 }
 ```
@@ -44,8 +78,13 @@ A few rules to keep it working:
   buttons are built from.
 - `levels` and `opportunityTypes` are **lists**, so an entry can belong to more than one
   (e.g. a lab welcoming both high schoolers and undergrads).
-- `labUrl` and any other optional value can be left as an empty string `""` if you don't
-  have it — just don't delete the field entirely.
+- `resumeRating` (1–5) and `ratingNote` are **optional** and only make sense for
+  Structured Programs where you can actually judge selectivity. This is an editorial,
+  subjective call weighing prestige against real accessibility (a locally-restricted
+  Ivy League lab isn't automatically a 5 just because of the name) — always pair the
+  number with a one-line reason so visitors can judge for themselves.
+- Any optional value (`labUrl`, `applyUrl`, `email`, `resumeRating`) can be left out or
+  set to `""` if it doesn't apply — just don't delete the field entirely.
 - Keep commas between entries, and make sure the whole file is still wrapped in `[ ]`.
 
 **Tip:** if you're not sure the file is still valid after editing, paste it into
