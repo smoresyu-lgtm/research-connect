@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Research Connect — Find a research opportunity</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="wordmark">
+      <span class="wordmark-tab">RC</span>
+      <span class="wordmark-text">Research Connect</span>
+    </div>
+    <p class="header-tagline">A running catalog of professors currently looking for student researchers across North America.</p>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <h1>Find the researcher<br>who's looking for someone like you.</h1>
+    <p class="hero-sub">Search by field of study. Every entry here is a real opening — email the professor directly, on your own terms.</p>
+
+    <div class="search-card">
+      <label for="search-input" class="visually-hidden">Search by name, university, or keyword</label>
+      <input type="text" id="search-input" placeholder="Search by name, university, or keyword&hellip;" autocomplete="off">
+      <span class="search-card-index" id="result-count">6 entries</span>
+    </div>
+  </section>
+
+  <section class="filters" aria-label="Filter listings">
+    <div class="filter-group">
+      <span class="filter-label">Field</span>
+      <div class="tab-row" id="field-filters" role="group"></div>
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">Level</span>
+      <div class="tab-row" id="level-filters" role="group"></div>
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">Opportunity</span>
+      <div class="tab-row" id="type-filters" role="group"></div>
+    </div>
+    <button id="clear-filters" class="clear-btn" hidden>Clear filters</button>
+  </section>
+
+  <section class="listings" id="listings" aria-live="polite">
+    <!-- Cards injected by script.js -->
+  </section>
+
+  <p class="empty-state" id="empty-state" hidden>
+    No entries match those filters yet. Try clearing a filter, or check back after the next update.
+  </p>
+</main>
+
+<footer class="site-footer">
+  <p>Listings are reviewed by hand and updated a couple of times a week. Always verify a posting is current before reaching out. &mdash; Research Connect</p>
+</footer>
+
+<div class="email-modal" id="email-modal" hidden>
+  <div class="email-modal-card" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <button class="modal-close" id="modal-close" aria-label="Close">&times;</button>
+    <span class="modal-eyebrow" id="modal-field"></span>
+    <h2 id="modal-title"></h2>
+    <p class="modal-university" id="modal-university"></p>
+    <p class="modal-summary" id="modal-summary"></p>
+    <div class="modal-meta" id="modal-meta"></div>
+    <div class="modal-actions">
+      <a id="modal-email-btn" class="btn-primary" href="#" target="_blank" rel="noopener">Draft email</a>
+      <a id="modal-lab-btn" class="btn-secondary" href="#" target="_blank" rel="noopener" hidden>Visit lab page</a>
+    </div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
