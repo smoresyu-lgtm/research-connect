@@ -2470,4 +2470,178 @@
     "applyUrl": "https://greenerjc.org/internship-opportunities",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 82,
+    "name": "Genomics Research Internship Program (GRIPS)",
+    "title": "Genomics and Bioinformatics Research Internship",
+    "university": "Stanford University School of Medicine",
+    "state": "California, USA",
+    "department": "Department of Genetics",
+    "field": "Computational Biology",
+    "tags": [
+      "computational genetics",
+      "genomics",
+      "bioinformatics",
+      "genetics",
+      "biomedical research",
+      "laboratory research",
+      "data analysis"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The 2026 program ran from June 15 through August 6 and used a hybrid format. The program is intended for eligible Bay Area high school students. Students should check the Stanford GRIPS page for the next application cycle, with information typically becoming available around December.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional genomics research opportunity where high school students are placed directly into Stanford research laboratories and work under individual lab mentors. The extended eight-week format provides substantial exposure to genetics, genomics, bioinformatics, and professional biomedical research.",
+    "summary": "Stanford Medicine's Genomics Research Internship Program gives Bay Area high school students an intensive eight-week research experience in genetics and genomics. Participants are placed in Stanford research laboratories, work under the guidance of research mentors, and gain hands-on exposure to genomics, bioinformatics, computational genetics, data analysis, and biomedical research.",
+    "email": "",
+    "labUrl": "https://med.stanford.edu/content/sm/genetics/education/GRIPS.html",
+    "applyUrl": "https://med.stanford.edu/content/sm/genetics/education/GRIPS.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 83,
+    "name": "Computational Biology Pre-College",
+    "title": "Computational Biology and Genomics Research Program",
+    "university": "Carnegie Mellon University",
+    "state": "Pennsylvania, USA",
+    "department": "School of Computer Science",
+    "field": "Computational Biology",
+    "tags": [
+      "computational biology",
+      "bioinformatics",
+      "genomics",
+      "microbiology",
+      "DNA sequencing",
+      "biological data",
+      "coding"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The program is offered through Carnegie Mellon's Pre-College Programs. Students should review the official program page for current summer dates, eligibility requirements, tuition, and application deadlines.",
+    "resumeRating": 4,
+    "ratingNote": "A strong interdisciplinary experience combining wet-lab biology with computational analysis. Students generate biological data themselves and then use computational methods to analyze DNA sequences, providing meaningful exposure to the workflow used in modern computational biology research.",
+    "summary": "Carnegie Mellon's Computational Biology Pre-College program introduces high school students to research at the intersection of biology and computation. Students collect environmental samples, isolate bacterial DNA, generate sequence information, and computationally analyze biological sequences while learning methods used in genomics, microbiology, and bioinformatics.",
+    "email": "",
+    "labUrl": "https://www.cmu.edu/pre-college/academic-programs/computational-biology.html",
+    "applyUrl": "https://www.cmu.edu/pre-college/academic-programs/computational-biology.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 84,
+    "name": "Computational Biology Internship",
+    "title": "Computational Biology Research Internship",
+    "university": "Pacific Northwest National Laboratory",
+    "state": "Washington, USA",
+    "department": "Predictive Phenomics Science and Technology Initiative",
+    "field": "Computational Biology",
+    "tags": [
+      "computational biology",
+      "bioinformatics",
+      "predictive biology",
+      "Python",
+      "R",
+      "biological data",
+      "national laboratory research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "PNNL offers computational biology summer internships for eligible high school and undergraduate students. Students should review the official Predictive Phenomics internship page for current application dates, eligibility requirements, and program availability.",
+    "resumeRating": 5,
+    "ratingNote": "A rare national-laboratory computational biology opportunity explicitly available to high school students. Previous experience is not required, and participants receive introductory training in Python, R, and biology before working with research mentors on projects at the intersection of computation and biological science.",
+    "summary": "Pacific Northwest National Laboratory offers summer computational biology internships through its Predictive Phenomics Science and Technology Initiative. High school and undergraduate interns begin with training in Python, R, and biological concepts before working with PNNL researchers on projects combining computational methods, biological data, predictive biology, and bioinformatics.",
+    "email": "",
+    "labUrl": "https://www.pnnl.gov/projects/predictive-phenomics-science-technology-initiative/summer-internships-computational-biology",
+    "applyUrl": "https://www.pnnl.gov/projects/predictive-phenomics-science-technology-initiative/summer-internships-computational-biology",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 85,
+    "name": "Waksman Student Scholars Program",
+    "title": "Year-Long Molecular Biology and Bioinformatics Research Program",
+    "university": "Rutgers University",
+    "state": "New Jersey, USA",
+    "department": "Waksman Institute of Microbiology",
+    "field": "Computational Biology",
+    "tags": [
+      "bioinformatics",
+      "molecular biology",
+      "genomics",
+      "DNA sequencing",
+      "sequence analysis",
+      "genetics",
+      "scientific publication"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The Waksman Student Scholars Program operates through summer institutes followed by continued research during the academic year at participating schools. Students and educators should review the official Rutgers WSSP site for current participation requirements, program dates, and application information.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually substantial high school research experience because students contribute to an authentic molecular-biology and bioinformatics research problem over an extended period. Participants conduct DNA sequence analysis and may have opportunities to publish valid research findings through the program.",
+    "summary": "The Waksman Student Scholars Program at Rutgers University engages high school students and teachers in authentic molecular biology and bioinformatics research. Students work with research scientists on DNA sequencing and computational sequence analysis, beginning with summer training and continuing research during the academic year. Students may contribute scientifically valid findings and potentially publish results through the program.",
+    "email": "",
+    "labUrl": "https://wssp.rutgers.edu/",
+    "applyUrl": "https://wssp.rutgers.edu/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 86,
+    "name": "Waksman Institute Summer Experience (WISE)",
+    "title": "Bioinformatics and Comparative Genomics Research Experience",
+    "university": "Rutgers University",
+    "state": "New Jersey, USA",
+    "department": "Waksman Institute of Microbiology",
+    "field": "Computational Biology",
+    "tags": [
+      "bioinformatics",
+      "comparative genomics",
+      "molecular biology",
+      "DNA sequencing",
+      "sequence analysis",
+      "plant genomics",
+      "genetics"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "WISE is offered as a two-week summer research experience through Rutgers University's Waksman Institute. Students should review the official WISE page for current program dates, eligibility requirements, costs, and application deadlines.",
+    "resumeRating": 4,
+    "ratingNote": "A focused hands-on bioinformatics experience where high school students work on an authentic genomics research problem. Students combine molecular biology with computational DNA sequence analysis and comparative genomics, although the two-week duration makes it shorter than the year-long Waksman Student Scholars Program.",
+    "summary": "The Waksman Institute Summer Experience gives high school students a two-week introduction to authentic molecular biology and bioinformatics research. Participants analyze DNA sequences from the aquatic plant Landoltia punctata and compare genes with sequences from other organisms, combining molecular techniques with computational sequence analysis and comparative genomics.",
+    "email": "",
+    "labUrl": "https://wssp.rutgers.edu/wise",
+    "applyUrl": "https://wssp.rutgers.edu/wise",
+    "dateAdded": "2026-08-07"
+  }
 ]
