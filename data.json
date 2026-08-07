@@ -3485,4 +3485,180 @@
     "applyUrl": "https://www.harvard.edu/community/initiatives/college-and-career-awareness/",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 107,
+    "name": "Chandra Lab",
+    "title": "Neuroscience and Parkinson's Disease Research Placement",
+    "university": "Yale School of Medicine",
+    "state": "Connecticut, USA",
+    "department": "Neuroscience",
+    "field": "Neuroscience",
+    "tags": [
+      "neuroscience",
+      "Parkinson's disease",
+      "cell biology",
+      "immunohistochemistry",
+      "microscopy",
+      "image analysis",
+      "R"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "The Chandra Lab is participating in Yale Pathways Research Internships for 2026. Eligibility is limited to qualifying public high school students from the New Haven area. Students should review Yale Pathways for current application cycles and eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional hands-on neuroscience placement where high school students contribute to active Yale research involving Parkinson's disease and cellular pathology. The 2026 project includes techniques such as cryosectioning, immunohistochemistry, microscopy, image analysis, and basic R, with no prior research skills required.",
+    "summary": "The Chandra Lab at Yale School of Medicine studies neurological disease and cellular mechanisms related to disorders such as Parkinson's disease. Through Yale Pathways, high school students can participate in active laboratory research. The 2026 project examines Parkinson's-related pathology in the spinal cord and introduces students to cryosectioning, immunohistochemistry, microscopy, image analysis, and basic R.",
+    "email": "",
+    "labUrl": "https://ssri.sites.yale.edu/interns/participating-labs-2026",
+    "applyUrl": "https://ssri.sites.yale.edu/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 108,
+    "name": "Saxena Lab",
+    "title": "Computational Neuroscience and AI Research Placement",
+    "university": "Yale University",
+    "state": "Connecticut, USA",
+    "department": "Biomedical Engineering / Neuroscience",
+    "field": "Neuroscience",
+    "tags": [
+      "computational neuroscience",
+      "artificial intelligence",
+      "machine learning",
+      "motor control",
+      "brain dynamics",
+      "Python",
+      "computational modeling"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "The Saxena Lab is participating in Yale Pathways Research Internships for 2026. Participation is available to qualifying public high school students from the New Haven area through the Yale Pathways application process.",
+    "resumeRating": 5,
+    "ratingNote": "An outstanding interdisciplinary research opportunity combining neuroscience, artificial intelligence, machine learning, and computational modeling. The 2026 high school project involves creating a virtual marmoset model using real movement recordings to investigate neural control of behavior.",
+    "summary": "The Saxena Lab at Yale uses computational modeling and machine learning to study how neural activity produces movement and behavior. Through Yale Pathways, high school students can contribute to active research projects. The 2026 project involves building a virtual marmoset model from experimental movement data to explore sensorimotor processing and brain dynamics, with Python experience considered helpful.",
+    "email": "",
+    "labUrl": "https://ssri.sites.yale.edu/interns/participating-labs-2026",
+    "applyUrl": "https://ssri.sites.yale.edu/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 109,
+    "name": "Massilani Lab",
+    "title": "Ancient DNA and Human Evolution Research Placement",
+    "university": "Yale University",
+    "state": "Connecticut, USA",
+    "department": "Genetics",
+    "field": "Molecular Biology",
+    "tags": [
+      "ancient DNA",
+      "genetics",
+      "genomics",
+      "human evolution",
+      "molecular biology",
+      "population genetics",
+      "DNA analysis"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "The Massilani Lab is listed as a participating laboratory in the 2026 Yale Pathways Research Internship program. Eligible New Haven-area public high school students should apply through Yale Pathways and verify future lab participation each cycle.",
+    "resumeRating": 5,
+    "ratingNote": "A highly distinctive genetics research opportunity exposing high school students to ancient DNA, genomics, population genetics, and human evolution. The unusual research focus makes this especially valuable for students interested in genetics, anthropology, evolutionary biology, or computational genomics.",
+    "summary": "The Massilani Lab at Yale conducts research involving ancient DNA, genetics, genomics, and human evolution. Through Yale Pathways, high school students can be placed into the laboratory to gain exposure to active genetic and evolutionary research involving ancient biological material and questions about human population history.",
+    "email": "",
+    "labUrl": "https://ssri.sites.yale.edu/interns/participating-labs-2026",
+    "applyUrl": "https://ssri.sites.yale.edu/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 110,
+    "name": "O'Hern Lab",
+    "title": "Mechanical Engineering and Materials Research Placement",
+    "university": "Yale University",
+    "state": "Connecticut, USA",
+    "department": "Mechanical Engineering and Materials Science",
+    "field": "Engineering",
+    "tags": [
+      "mechanical engineering",
+      "materials science",
+      "molecular dynamics",
+      "computational physics",
+      "material properties",
+      "simulation",
+      "engineering research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "The O'Hern Lab is participating in the 2026 Yale Pathways Research Internship program. Eligible New Haven-area public high school students apply through Yale Pathways, with laboratory placements determined by the program and participating research groups.",
+    "resumeRating": 5,
+    "ratingNote": "A strong engineering research placement that gives high school students exposure to active work in mechanical engineering, materials science, and computational simulation. Projects involving material properties and molecular-dynamics methods provide a valuable alternative to the biomedical-heavy research opportunities common at the high school level.",
+    "summary": "The O'Hern Lab at Yale conducts research in mechanical engineering and materials science, including the study of material properties and molecular-dynamics simulations. Through Yale Pathways, high school students can gain exposure to computational and physical approaches used to understand materials and engineering systems.",
+    "email": "",
+    "labUrl": "https://ssri.sites.yale.edu/interns/participating-labs-2026",
+    "applyUrl": "https://ssri.sites.yale.edu/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 111,
+    "name": "Natarajan Lab",
+    "title": "Astrophysics and Black Hole Research Placement",
+    "university": "Yale University",
+    "state": "Connecticut, USA",
+    "department": "Astronomy",
+    "field": "Astronomy",
+    "tags": [
+      "astrophysics",
+      "black holes",
+      "galaxy formation",
+      "cosmology",
+      "astronomy",
+      "theoretical astrophysics",
+      "space science"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "The Natarajan Lab is listed as a participating research group for the 2026 Yale Pathways Research Internship program. Eligible New Haven-area public high school students should apply through Yale Pathways and verify the lab's participation in future cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional astrophysics opportunity where eligible high school students can gain exposure to research on black holes, galaxies, and cosmic structure within an active Yale astronomy group. The specialized focus makes this one of the strongest astronomy listings in the database.",
+    "summary": "The Natarajan Lab at Yale University conducts astrophysics research focused on black holes, galaxy formation, and the evolution of cosmic structure. Through Yale Pathways, eligible high school students can be placed into the lab and gain exposure to active theoretical and computational astronomy research.",
+    "email": "",
+    "labUrl": "https://ssri.sites.yale.edu/interns/participating-labs-2026",
+    "applyUrl": "https://ssri.sites.yale.edu/",
+    "dateAdded": "2026-08-07"
+  }
 ]
