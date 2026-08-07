@@ -609,18 +609,18 @@
   },
   {
     "id": 26,
-    "name": "Physics Research in School Environments (PRiSE)",
-    "title": "Physics Research Partnership",
+    "name": "Imperial College Physics School Research Outreach",
+    "title": "Physics Research & School Engagement Opportunity",
     "university": "Imperial College London",
     "state": "London, United Kingdom",
-    "department": "Department of Physics",
+    "department": "Space and Atmospheric Physics",
     "field": "Physics",
     "tags": [
       "physics",
-      "astrophysics",
       "space physics",
-      "particle physics",
-      "research partnership"
+      "atmospheric physics",
+      "school outreach",
+      "research"
     ],
     "levels": [
       "High School"
@@ -629,13 +629,13 @@
       "Research Project"
     ],
     "applicationType": "Open Inquiry",
-    "applicationWindow": "Schools typically apply during the autumn each year.",
-    "resumeRating": 4,
-    "ratingNote": "A unique opportunity allowing high school students to participate in authentic university-led physics research. Although students apply through participating schools, the research experience is highly regarded.",
-    "summary": "PRiSE partners high school students with Imperial College London physicists to conduct authentic research in areas such as astrophysics, particle physics, and space weather. The program emphasizes genuine research experiences rather than traditional classroom laboratory activities.",
+    "applicationWindow": "No fixed application window. Schools and colleges interested in engagement opportunities are encouraged to contact the Space and Atmospheric Physics group directly.",
+    "resumeRating": 3,
+    "ratingNote": "A potentially valuable opportunity for high school students interested in physics, particularly space and atmospheric physics. Unlike a structured internship, participation depends on available school engagement and research outreach opportunities, so students or schools should inquire directly.",
+    "summary": "Imperial College London's Space and Atmospheric Physics group works with school students and teachers through physics outreach and longer-term engagement activities. Schools and colleges interested in working with the group can contact them about available opportunities. This listing replaces the former PRiSE listing because a current dedicated PRiSE application page could not be verified.",
     "email": "",
-    "labUrl": "https://www.imperial.ac.uk/prime/secondary-schools/physics-research-in-school-environments/",
-    "applyUrl": "https://www.imperial.ac.uk/prime/secondary-schools/physics-research-in-school-environments/",
+    "labUrl": "https://www.imperial.ac.uk/space-and-atmospheric-physics/outreach--engagement/school-students--teachers/",
+    "applyUrl": "https://www.imperial.ac.uk/space-and-atmospheric-physics/outreach--engagement/school-students--teachers/",
     "dateAdded": "2026-08-07"
-  }
+}
 ]
