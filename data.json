@@ -1313,4 +1313,175 @@
     "applyUrl": "https://www.mae.rutgers.edu/SLAAM",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 47,
+    "name": "VIMS Summer Aide Program",
+    "title": "Paid Marine Research Opportunity",
+    "university": "William & Mary — Virginia Institute of Marine Science",
+    "state": "Virginia, USA",
+    "department": "Virginia Institute of Marine Science",
+    "field": "Marine Science",
+    "tags": [
+      "marine biology",
+      "fisheries",
+      "oceanography",
+      "marine ecology",
+      "coastal science",
+      "paid research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Volunteer"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Summer positions depend on faculty research needs and available funding. A limited number of paid positions may be offered, while research-related volunteer opportunities may also be available during the summer or academic year.",
+    "resumeRating": 5,
+    "ratingNote": "An excellent marine research opportunity because students may be selected directly for paid work based on active faculty research needs. VIMS also offers the possibility of research-related volunteer involvement, making this more flexible than many structured summer programs.",
+    "summary": "The VIMS Summer Aide Program gives high school students opportunities to work with researchers in marine science fields such as fisheries, oceanography, ecology, and coastal research. A limited number of paid positions may be available depending on faculty needs and funding, and VIMS also notes that research-related volunteer tasks may be available during the summer or throughout the year.",
+    "email": "",
+    "labUrl": "https://www.vims.edu/engage/high_school/summer_aide/",
+    "applyUrl": "https://www.vims.edu/engage/high_school/summer_aide/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 48,
+    "name": "Shoals Marine Laboratory — Investigative Marine Biology Laboratory",
+    "title": "Field and Laboratory Marine Research Course",
+    "university": "Cornell University / University of New Hampshire",
+    "state": "Maine, USA",
+    "department": "Shoals Marine Laboratory",
+    "field": "Marine Science",
+    "tags": [
+      "marine biology",
+      "marine ecology",
+      "ecophysiology",
+      "ecomechanics",
+      "field research",
+      "laboratory research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Offered as a summer field-intensive course through Shoals Marine Laboratory. Students should review the current course schedule and registration information for the next available session.",
+    "resumeRating": 4,
+    "ratingNote": "A strong hands-on marine research experience that goes beyond a typical summer class. Students conduct actual research projects in a field-station environment and gain exposure to marine biology, ecology, ecophysiology, and experimental methods.",
+    "summary": "Shoals Marine Laboratory offers an intensive marine biology research experience on Appledore Island in the Gulf of Maine. Students participate in field and laboratory research projects while studying marine ecology, ecomechanics, and ecophysiology under marine scientists. The experience emphasizes learning scientific methods by conducting real research.",
+    "email": "",
+    "labUrl": "https://catalog.cornell.edu/courses/biosm/",
+    "applyUrl": "https://catalog.cornell.edu/courses/biosm/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 49,
+    "name": "Duke Marine Lab STEM Pathways Internship",
+    "title": "Paid Marine Science Internship",
+    "university": "Duke University — Marine Laboratory",
+    "state": "North Carolina, USA",
+    "department": "Duke University Marine Laboratory",
+    "field": "Marine Science",
+    "tags": [
+      "marine ecology",
+      "coastal science",
+      "community science",
+      "marine biology",
+      "science outreach",
+      "paid internship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Assistant",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The program is open to eligible high school students in Carteret and Craven Counties, North Carolina. Students should review the Duke Marine Lab program page for current summer dates, application deadlines, and stipend information.",
+    "resumeRating": 4,
+    "ratingNote": "A valuable paid marine science opportunity that combines direct exposure to Duke Marine Lab research with community science and outreach. Geographic eligibility is limited, but students who qualify can gain meaningful experience alongside marine researchers.",
+    "summary": "The Duke Marine Lab STEM Pathways Internship allows local high school students to experience marine and coastal research alongside Duke University Marine Laboratory scientists. Participants also engage in community science and outreach activities. Eligibility is limited to students in Carteret and Craven Counties, North Carolina, and summer stipends may be available.",
+    "email": "",
+    "labUrl": "https://sites.duke.edu/communityscience/programs/high-school-students/",
+    "applyUrl": "https://sites.duke.edu/communityscience/programs/high-school-students/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 50,
+    "name": "Bonnie Sue Internship",
+    "title": "Marine Research Internship",
+    "university": "William & Mary — VIMS Eastern Shore Laboratory",
+    "state": "Virginia, USA",
+    "department": "Virginia Institute of Marine Science — Eastern Shore Laboratory",
+    "field": "Marine Science",
+    "tags": [
+      "aquaculture",
+      "marine ecology",
+      "fisheries",
+      "water quality",
+      "shellfish",
+      "coastal research",
+      "marine monitoring"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Assistant"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Eligibility is limited to students connected to Accomack and Northampton Counties, Virginia. Students should review the Eastern Shore Laboratory internship page for the current application cycle, eligibility rules, and deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "A highly specialized marine research internship where students assist VIMS scientists with active projects in aquaculture, fisheries, water quality, habitat, and coastal ecology. The geographic restriction makes it inaccessible to most students but especially valuable for eligible local applicants.",
+    "summary": "The Bonnie Sue Internship at the VIMS Eastern Shore Laboratory gives high school and college students opportunities to assist scientists with ongoing marine research. Projects may involve oyster, clam, and scallop aquaculture, juvenile fish habitat, marine ecology, water quality, and environmental monitoring. Eligibility is tied to Accomack and Northampton Counties in Virginia.",
+    "email": "",
+    "labUrl": "https://www.vims.edu/esl/education-outreach/internship-prog/",
+    "applyUrl": "https://www.vims.edu/esl/education-outreach/internship-prog/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 51,
+    "name": "See the Sea: CC Scholars",
+    "title": "One-on-One Marine Research Mentorship",
+    "university": "The University of Texas at Austin — Marine Science Institute",
+    "state": "Texas, USA",
+    "department": "Marine Science Institute",
+    "field": "Marine Science",
+    "tags": [
+      "marine biology",
+      "marine ecology",
+      "ocean science",
+      "independent research",
+      "research mentorship",
+      "coastal science"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Mentorship",
+      "Research Project"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The 2026 opportunity is specifically designed for eligible advanced seniors at Flour Bluff High School in Corpus Christi. Students should review the UT Marine Science Institute page for future cycles and updated eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional one-on-one research experience for eligible students. Participants are paired directly with a graduate student, postdoctoral researcher, research associate, or scientist and complete an independent marine science project over an academic semester.",
+    "summary": "See the Sea: CC Scholars provides advanced high school seniors with semester-long marine research mentorship at the UT Austin Marine Science Institute. Students are paired one-on-one with a graduate student, postdoc, research associate, or research scientist and conduct an independent real-world research project. The 2026 version is limited to eligible Flour Bluff High School seniors in Corpus Christi.",
+    "email": "",
+    "labUrl": "https://utmsi.utexas.edu/flour-bluff-high-school-mentorship-opportunities-available/",
+    "applyUrl": "https://utmsi.utexas.edu/flour-bluff-high-school-mentorship-opportunities-available/",
+    "dateAdded": "2026-08-07"
+  }
 ]
