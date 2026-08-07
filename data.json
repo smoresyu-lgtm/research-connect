@@ -4359,4 +4359,182 @@
     "applyUrl": "https://think.mit.edu/",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 132,
+    "name": "Pediatrics Internship Program at Stanford (PIPS)",
+    "title": "Pediatrics Faculty-Lab Research Internship",
+    "university": "Stanford University",
+    "state": "California, USA",
+    "department": "Department of Pediatrics — Stanford Medicine",
+    "field": "Biomedical Science",
+    "tags": [
+      "pediatrics",
+      "biomedical science",
+      "maternal health",
+      "child health",
+      "medical research",
+      "laboratory research",
+      "faculty mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "PIPS serves eligible Bay Area rising high school juniors and seniors who are at least 16 years old. The 2026 application cycle is closed. Students should review the official Stanford Pediatrics program page for future application dates, geographic eligibility requirements, and program availability.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional Stanford biomedical research opportunity because each participant is paired with a Stanford faculty mentor and research group. Students spend the majority of their weekly program time working on a research project and conclude the experience by presenting a scientific poster to Stanford's Pediatrics research community.",
+    "summary": "The Pediatrics Internship Program at Stanford gives eligible high school students an intensive research experience within Stanford Medicine. Participants are paired with faculty mentors and research teams and spend approximately 23 hours per week working on their research projects. Students also receive scientific training and conclude the program by presenting their work in poster format.",
+    "email": "",
+    "labUrl": "https://med.stanford.edu/pediatrics/education/pediatrics-internship-program.html",
+    "applyUrl": "https://med.stanford.edu/pediatrics/education/pediatrics-internship-program.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 133,
+    "name": "Science, Technology, and Reconstructive Surgery (STaRS)",
+    "title": "Reconstructive Surgery and Biomedical Research Internship",
+    "university": "Stanford University",
+    "state": "California, USA",
+    "department": "Division of Plastic and Reconstructive Surgery — Stanford Medicine",
+    "field": "Biomedical Science",
+    "tags": [
+      "reconstructive surgery",
+      "regenerative medicine",
+      "biomedical science",
+      "histology",
+      "imaging",
+      "genotyping",
+      "laboratory research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "STaRS accepts eligible high school and community college students age 16 or older. Applicants may come from across the United States and associated territories, although participants are responsible for arranging housing and transportation. Students should review the official Stanford STaRS page for current deadlines and eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An outstanding hands-on Stanford biomedical research opportunity where students work alongside clinician-scientist mentors. Participants gain experience with research methods such as histology, imaging, and genotyping and contribute to biomedical and reconstructive-surgery research before presenting their findings.",
+    "summary": "Stanford's Science, Technology, and Reconstructive Surgery program provides an intensive eight-week biomedical research experience for eligible high school and community college students. Participants work alongside clinician-scientist mentors, conduct hands-on research, learn laboratory techniques such as histology, imaging, and genotyping, and present their findings at the conclusion of the program.",
+    "email": "",
+    "labUrl": "https://med.stanford.edu/plasticsurgery/research/stars.html",
+    "applyUrl": "https://med.stanford.edu/plasticsurgery/research/stars/Apply.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 134,
+    "name": "Stanford Institutes of Medicine Summer Research Program (SIMR)",
+    "title": "Biomedical and Medical Research Internship",
+    "university": "Stanford University",
+    "state": "California, USA",
+    "department": "Stanford Medicine",
+    "field": "Biomedical Science",
+    "tags": [
+      "immunology",
+      "cancer biology",
+      "neuroscience",
+      "stem cells",
+      "regenerative medicine",
+      "bioinformatics",
+      "cardiovascular research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "SIMR is designed for eligible high school juniors and seniors who are at least 16 years old. The 2026 program ran from June 8 through July 30. Students should review the official SIMR website for future application dates, eligibility requirements, research institutes, and program availability.",
+    "resumeRating": 5,
+    "ratingNote": "One of Stanford's strongest high school biomedical research programs. Students conduct hands-on medically oriented research alongside Stanford faculty, postdoctoral researchers, students, and other scientists, with possible research areas spanning immunology, cancer biology, neuroscience, stem cells, bioinformatics, and cardiovascular medicine.",
+    "summary": "The Stanford Institutes of Medicine Summer Research Program is an eight-week research experience for high school students interested in biomedical science and medicine. Participants work on active Stanford research projects with faculty, postdocs, students, and researchers in areas including immunology, cancer biology, neuroscience, stem cell and regenerative medicine, bioinformatics, and cardiovascular research.",
+    "email": "",
+    "labUrl": "https://med.stanford.edu/simr",
+    "applyUrl": "https://med.stanford.edu/simr",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 135,
+    "name": "FAST Summer Research Internship",
+    "title": "Paid Stanford Laboratory Research Internship",
+    "university": "Stanford University",
+    "state": "California, USA",
+    "department": "Future Advancers of Science and Technology (FAST)",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "biology",
+      "psychology",
+      "computer science",
+      "engineering",
+      "laboratory research",
+      "independent research",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "The FAST Summer Research Internship is available to eligible current FAST students who are at least 16 years old and are not graduating seniors. Selected students work in Stanford research laboratories during the summer. Students should review FAST's official internship information for current eligibility, dates, and selection details.",
+    "resumeRating": 5,
+    "ratingNote": "A highly valuable and unusually niche paid research pathway. Selected FAST students spend eight weeks working on a research project with a mentor in a real Stanford laboratory. Research placements can span fields including engineering, psychology, biology, computer science, and other STEM disciplines.",
+    "summary": "The FAST Summer Research Internship provides selected current FAST students with paid research placements in Stanford laboratories. Interns spend eight weeks working approximately six hours per day on research projects with Stanford mentors. Projects can span biology, psychology, computer science, engineering, and other STEM disciplines.",
+    "email": "",
+    "labUrl": "https://fast.stanford.edu/resources/internships/",
+    "applyUrl": "https://fast.stanford.edu/resources/internships/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 136,
+    "name": "RAMP UP / STaRS",
+    "title": "Dental Regenerative Medicine Research Internship",
+    "university": "Stanford University",
+    "state": "California, USA",
+    "department": "Stanford Medicine",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "dental research",
+      "regenerative medicine",
+      "tissue engineering",
+      "biomedical research",
+      "oral health",
+      "stem cells",
+      "laboratory research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "RAMP UP provides research opportunities for eligible high school and community college students through Stanford Medicine's STaRS research infrastructure. Students should review Stanford Medicine's current high school and undergraduate research-program information for eligibility requirements, future application cycles, and availability.",
+    "resumeRating": 5,
+    "ratingNote": "A highly specialized Stanford biomedical research opportunity focused on dental regenerative medicine. Participants receive hands-on research experience and apply research skills to NIH and NIDCR-supported projects involving oral health, regenerative medicine, tissue engineering, and related biomedical fields.",
+    "summary": "RAMP UP is a Stanford Medicine research initiative that provides eligible students with hands-on experience in dental regenerative medicine and biomedical research. The program builds on Stanford's STaRS research infrastructure and connects students with research skills and projects related to NIH and NIDCR-supported work in regenerative medicine, tissue engineering, and oral health.",
+    "email": "",
+    "labUrl": "https://med.stanford.edu/education/high-school-and-undergraduate-programs.html",
+    "applyUrl": "https://med.stanford.edu/education/high-school-and-undergraduate-programs.html",
+    "dateAdded": "2026-08-07"
+  }
 ]
