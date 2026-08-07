@@ -4010,4 +4010,180 @@
     "applyUrl": "",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 122,
+    "name": "Bugaj Lab",
+    "title": "Bioengineering and Synthetic Biology Research Placement",
+    "university": "University of Pennsylvania",
+    "state": "Pennsylvania, USA",
+    "department": "Bioengineering",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "bioengineering",
+      "synthetic biology",
+      "cell engineering",
+      "biosensors",
+      "biotechnology",
+      "mammalian cells",
+      "biomedical research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "High school research participation in the Bugaj Lab is supported through Penn's Office of Outreach, Education & Research pathway. Penn has identified a research project led by Professor Christopher Bugaj that supports a summer high school researcher. Students should review Penn OER for current eligibility, application dates, and future placement availability.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional faculty-level Penn research opportunity with documented support for a high school researcher. The underlying project involves engineering thermal biosensors for remote control of mammalian cells, providing exposure to synthetic biology, bioengineering, cellular engineering, and experimental biomedical research.",
+    "summary": "The Bugaj Lab at the University of Pennsylvania conducts bioengineering and synthetic biology research involving the development of technologies for controlling and studying cellular behavior. Penn's Office of Outreach, Education & Research has identified a project led by Professor Christopher Bugaj that supports a summer high school researcher working on thermal biosensors for remote control of mammalian cells.",
+    "email": "",
+    "labUrl": "https://www.med.upenn.edu/evdresearch/oer-introduction.html",
+    "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 123,
+    "name": "Penn Center for Musculoskeletal Disorders — Soslowsky Research",
+    "title": "Musculoskeletal and Orthopedic Research Placement",
+    "university": "University of Pennsylvania",
+    "state": "Pennsylvania, USA",
+    "department": "Penn Center for Musculoskeletal Disorders",
+    "field": "Biomedical Science",
+    "tags": [
+      "orthopedics",
+      "musculoskeletal biology",
+      "biomedical engineering",
+      "biomechanics",
+      "tissue research",
+      "medical research",
+      "laboratory research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "The Penn Center for Musculoskeletal Disorders supports high school summer researchers through Penn's Office of Outreach, Education & Research Summer Internship Program. Students should review Penn OER for current Philadelphia-area eligibility requirements, deadlines, and future summer application cycles.",
+    "resumeRating": 5,
+    "ratingNote": "A strong biomedical research opportunity with explicit infrastructure for high school participation. Penn reports that the Center's Learning on a Limb initiative supports multiple summer high school researchers through OER, giving students access to active research in musculoskeletal biology, orthopedics, biomechanics, and related biomedical fields.",
+    "summary": "The Penn Center for Musculoskeletal Disorders conducts interdisciplinary research involving orthopedics, musculoskeletal biology, biomechanics, and biomedical engineering. Through its Learning on a Limb initiative and Penn OER, the Center hosts high school researchers during the summer and connects them with active Penn research environments.",
+    "email": "",
+    "labUrl": "https://www.med.upenn.edu/evdresearch/oer-introduction.html",
+    "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 124,
+    "name": "Penn OER Summer Research Internship",
+    "title": "Paid Biomedical Faculty-Lab Research Internship",
+    "university": "University of Pennsylvania",
+    "state": "Pennsylvania, USA",
+    "department": "Perelman School of Medicine — Office of Outreach, Education & Research",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomedical science",
+      "molecular biology",
+      "medical research",
+      "bench research",
+      "laboratory research",
+      "experimental biology",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The Penn OER Summer Research Internship serves eligible Philadelphia-area high school students. Participants receive preparatory research training followed by placement in Penn faculty laboratories. Students should verify current eligibility requirements, deadlines, dates, and application availability through Penn OER for each summer cycle.",
+    "resumeRating": 5,
+    "ratingNote": "An outstanding paid biomedical research opportunity where high school students receive actual research positions hosted by Penn faculty. Participants receive preparation in laboratory skills, scientific literature, experimental methods, and research documentation before conducting hands-on bench research with mentorship from Penn trainees and laboratory staff.",
+    "summary": "The Penn OER Summer Research Internship provides eligible high school students with paid biomedical research experience at the Perelman School of Medicine. Students complete preparatory training and then spend six weeks in research positions hosted by Penn faculty, where they work with laboratory trainees and staff while contributing to hands-on basic biomedical research.",
+    "email": "",
+    "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+    "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 125,
+    "name": "Penn Research Experience for High School Students (PREHSS)",
+    "title": "Faculty-Mentored Multidisciplinary Research Experience",
+    "university": "University of Pennsylvania",
+    "state": "Pennsylvania, USA",
+    "department": "School of Arts and Sciences",
+    "field": "Multidisciplinary",
+    "tags": [
+      "biology",
+      "chemistry",
+      "physics",
+      "astronomy",
+      "linguistics",
+      "psychology",
+      "faculty research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "PREHSS places participating high school students with research laboratories and mentors at the University of Pennsylvania. Students should review the official program page for current eligibility requirements, available disciplines, application dates, and future summer cycles.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly valuable multidisciplinary opportunity because students are assigned to an active Penn research laboratory and mentor rather than simply taking a pre-college course. Research areas can include biology, chemistry, physics, astronomy, linguistics, psychology, and other disciplines, and students present their research at the conclusion of the experience.",
+    "summary": "The Penn Research Experience for High School Students places participants into University of Pennsylvania research laboratories where they work with mentors on current scientific research. Projects may span biology, chemistry, physics, astronomy, linguistics, psychology, and related disciplines. Students gain direct research experience and present their work at the end of the program.",
+    "email": "",
+    "labUrl": "https://web.sas.upenn.edu/office-aee/soi/penn-prehss/",
+    "applyUrl": "https://web.sas.upenn.edu/office-aee/soi/penn-prehss/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 126,
+    "name": "GRASP High School Internship",
+    "title": "Robotics and Artificial Intelligence Research Internship",
+    "university": "University of Pennsylvania",
+    "state": "Pennsylvania, USA",
+    "department": "GRASP Laboratory — Penn Engineering",
+    "field": "Engineering",
+    "tags": [
+      "robotics",
+      "artificial intelligence",
+      "machine learning",
+      "computer vision",
+      "autonomous systems",
+      "computer science",
+      "engineering research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "High school students interested in research within Penn's robotics and artificial intelligence ecosystem are directed toward the GRASP high school internship pathway. Students should review GRASP's current information for application availability, eligibility requirements, deadlines, and participating research projects.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional engineering research pathway into one of Penn's major robotics and autonomous-systems research communities. Penn research groups explicitly direct interested high school students toward the GRASP high school internship rather than unsolicited individual-lab applications, providing a documented route into robotics and AI research.",
+    "summary": "The GRASP High School Internship provides a pathway for high school students interested in robotics, artificial intelligence, computer vision, autonomous systems, and related engineering research at the University of Pennsylvania. Penn research groups such as the Lifelong Machine Learning group direct high school students toward this dedicated internship pathway for potential research involvement.",
+    "email": "",
+    "labUrl": "https://www.grasp.upenn.edu/",
+    "applyUrl": "https://www.grasp.upenn.edu/",
+    "dateAdded": "2026-08-07"
+  }
 ]
