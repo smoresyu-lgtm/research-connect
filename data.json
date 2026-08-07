@@ -1827,4 +1827,172 @@
     "applyUrl": "https://www.urmc.rochester.edu/del-monte-neuroscience/about/neuroscience-commission/neurorochs",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 62,
+    "name": "Computational Biomedicine Lab",
+    "title": "AI and Computational Medicine Research Internship",
+    "university": "University of Houston",
+    "state": "Texas, USA",
+    "department": "Computational Biomedicine",
+    "field": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "computational medicine",
+      "biomedical research",
+      "data science",
+      "healthcare AI"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "The lab recruits undergraduate and secondary-school research interns based on current project and mentor availability. Interested students should review the official internship page for current openings and application instructions.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional direct-access AI research opportunity because the lab explicitly welcomes both high school and undergraduate research interns. Students can gain experience formulating research questions, applying modern AI and machine-learning methods, and working on real computational medicine projects.",
+    "summary": "The Computational Biomedicine Lab at the University of Houston conducts research using artificial intelligence, machine learning, and computational methods to address biomedical and healthcare problems. The lab explicitly seeks research interns from both undergraduate and secondary-school populations. Interns may learn how to develop hypotheses, analyze data, and apply advanced AI techniques to active research projects.",
+    "email": "",
+    "labUrl": "https://www.uh.edu/cbl/careers/internship.php",
+    "applyUrl": "https://www.uh.edu/cbl/careers/internship.php",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 63,
+    "name": "Stanford AIMI Academic Year Research Internship",
+    "title": "Virtual Healthcare AI Research Internship",
+    "university": "Stanford University School of Medicine",
+    "state": "California, USA",
+    "department": "Center for Artificial Intelligence in Medicine and Imaging",
+    "field": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "medical imaging",
+      "healthcare AI",
+      "biomedical data",
+      "responsible AI"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The previous academic-year cohort has already been selected. Students should check the Stanford AIMI program page for the next application cycle, eligibility requirements, and updated deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "An outstanding and unusually accessible AI research opportunity because the internship is virtual and specifically designed for high school students. Participants work with Stanford researchers on healthcare AI projects using real-world data while learning responsible and rigorous research practices.",
+    "summary": "Stanford AIMI's Academic Year Research Internship gives high school students the opportunity to work virtually with researchers in artificial intelligence, medical imaging, and healthcare data science. Students participate in mentored projects involving real-world healthcare data and learn about machine learning, responsible AI, research methods, and the development of medical AI systems.",
+    "email": "",
+    "labUrl": "https://aimi.stanford.edu/academic-year-research-internship",
+    "applyUrl": "https://aimi.stanford.edu/academic-year-research-internship",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 64,
+    "name": "MIN Lab K-12 Research Project",
+    "title": "AI and Engineering Research Pathway",
+    "university": "University of Wisconsin–Madison",
+    "state": "Wisconsin, USA",
+    "department": "Mechanical Engineering",
+    "field": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "data science",
+      "engineering",
+      "industrial research",
+      "computational research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "The K-12 research pathway operates based on project and mentor availability. Interested students should review the MIN Lab's K-12 research page and contact the laboratory regarding current opportunities.",
+    "resumeRating": 5,
+    "ratingNote": "A rare individual-lab AI opportunity specifically designed to move high school students toward genuine research engagement. Students can progress from statistical and machine-learning data analysis to coding, engineering problem-solving, and participation in active research projects.",
+    "summary": "The MIN Lab at the University of Wisconsin–Madison offers a K-12 research pathway introducing high school students to artificial intelligence, machine learning, data analysis, engineering, and research. Students may progress through increasingly advanced projects involving statistical analysis, coding, industrial problem-solving, and eventually direct research engagement with the laboratory.",
+    "email": "",
+    "labUrl": "https://min.me.wisc.edu/k-12-research-project/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 65,
+    "name": "BeSMART",
+    "title": "Machine Learning and AI Research Training Program",
+    "university": "University of California, Berkeley",
+    "state": "California, USA",
+    "department": "Industrial Engineering and Operations Research",
+    "field": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "data science",
+      "algorithms",
+      "data analysis",
+      "research methods"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The program launched for summer 2026. Students interested in future sessions should check the UC Berkeley Engineering program page for updated application dates, eligibility requirements, and program details.",
+    "resumeRating": 4,
+    "ratingNote": "A strong AI research-training opportunity for high school students at a major engineering university. The program provides hands-on experience with machine-learning algorithms, data manipulation, validation, and data-driven research, although it is more structured and instructional than a traditional laboratory research assistant position.",
+    "summary": "BeSMART is a UC Berkeley Engineering summer program introducing high school students to machine learning, artificial intelligence, and data-driven research. Participants work with algorithms, data manipulation, validation methods, and other foundations of modern AI while gaining experience with research-oriented problem solving.",
+    "email": "",
+    "labUrl": "https://ieor.berkeley.edu/uc-berkeley-ieor-launches-summer-machine-learning-and-ai-research-program-for-high-school-students/",
+    "applyUrl": "https://ieor.berkeley.edu/uc-berkeley-ieor-launches-summer-machine-learning-and-ai-research-program-for-high-school-students/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 66,
+    "name": "UCSD Advanced Research Experience (ARE)",
+    "title": "Artificial Intelligence and Multidisciplinary Research Program",
+    "university": "University of California San Diego",
+    "state": "California, USA",
+    "department": "San Diego Supercomputer Center",
+    "field": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "computer science",
+      "neuroscience",
+      "multidisciplinary research",
+      "data science"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The 2026 application cycle ran from January 5 through February 8, with the summer program held from late June through July. Students should check the official UCSD page for the next application cycle and updated dates.",
+    "resumeRating": 4,
+    "ratingNote": "A strong interdisciplinary research experience that exposes high school students to artificial intelligence and machine learning alongside other scientific disciplines. It is broader than a dedicated AI lab internship but provides meaningful experience with research methods and computational approaches.",
+    "summary": "The UCSD Advanced Research Experience is a five-week interdisciplinary summer program where high school students work with university researchers across multiple scientific fields. The program includes artificial intelligence and machine-learning algorithms taught in a research context before expanding into areas such as neuroscience and other multidisciplinary research topics.",
+    "email": "",
+    "labUrl": "https://education.sdsc.edu/studenttech/ucsd-advanced-research-experience/",
+    "applyUrl": "https://education.sdsc.edu/studenttech/ucsd-advanced-research-experience/",
+    "dateAdded": "2026-08-07"
+  }
 ]
