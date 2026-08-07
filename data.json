@@ -2132,4 +2132,169 @@
     "applyUrl": "https://csr.utexas.edu/education-outreach/high-school-internships/sees/",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 72,
+    "name": "Social Science Summer Pre-College Research Experience",
+    "title": "Social Science Research Experience",
+    "university": "Chapman University",
+    "state": "California, USA",
+    "department": "Wilkinson College of Arts, Humanities, and Social Sciences",
+    "field": "Social Sciences",
+    "tags": [
+      "social science",
+      "sociology",
+      "survey research",
+      "data analysis",
+      "research poster",
+      "public opinion"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The 2026 program filled all available spots and moved to a waitlist. Students interested in future sessions should review the official Chapman program page for updated registration dates, costs, and availability.",
+    "resumeRating": 5,
+    "ratingNote": "A strong dedicated social-science research opportunity where high school students develop an original research question using a nationally recognized survey dataset, evaluate scholarly literature, analyze data, create a research poster, and professionally present their findings.",
+    "summary": "Chapman University's Social Science Summer Pre-College Research Experience gives high school students hands-on experience with social-science research using data from the Chapman Survey of American Fears. Participants develop their own research questions, critically evaluate scholarly literature, analyze data, design research posters, and present their findings in a professional setting.",
+    "email": "",
+    "labUrl": "https://www.chapman.edu/wilkinson/research-centers/henley-lab/social-science-summerpre-college-research-experience.aspx",
+    "applyUrl": "https://www.chapman.edu/wilkinson/research-centers/henley-lab/social-science-summerpre-college-research-experience.aspx",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 73,
+    "name": "Pathways in Economics",
+    "title": "Economics Research and Experimentation Program",
+    "university": "University of Chicago",
+    "state": "Illinois, USA",
+    "department": "Economics",
+    "field": "Economics",
+    "tags": [
+      "economics",
+      "experimental economics",
+      "game theory",
+      "microeconomics",
+      "macroeconomics",
+      "field experiments"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The current course is full and applications are closed, with waitlist consideration possible if space becomes available. Students should review the official UChicago Summer Session page for future application cycles.",
+    "resumeRating": 4,
+    "ratingNote": "A strong introduction to the methods economists use for research and experimentation. Students study microeconomics, macroeconomics, game theory, and field experiments and apply those ideas through labs, problem sets, group projects, and discussions, although this is more course-based than a traditional research assistant placement.",
+    "summary": "Pathways in Economics introduces high school students to the research and experimental approaches used by University of Chicago economists. Students explore microeconomics, macroeconomics, game theory, and field experiments while applying economic methods through labs, problem sets, discussions, and collaborative projects.",
+    "email": "",
+    "labUrl": "https://summer.uchicago.edu/courses/pathways-in-economics/",
+    "applyUrl": "https://summer.uchicago.edu/courses/pathways-in-economics/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 74,
+    "name": "World Politics Summer Institute",
+    "title": "Political Science and International Relations Research Program",
+    "university": "University of California, Los Angeles",
+    "state": "California, USA",
+    "department": "Political Science",
+    "field": "Political Science",
+    "tags": [
+      "political science",
+      "international relations",
+      "public policy",
+      "foreign policy",
+      "political research",
+      "policy analysis"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The World Politics Summer Institute is offered through UCLA Political Science for high school students. Students should review the official program page for current session dates, application deadlines, tuition, and eligibility requirements.",
+    "resumeRating": 4,
+    "ratingNote": "A strong political-science research-oriented experience where students investigate real foreign-policy problems, learn to use academic research resources, write analytical reports, and publicly present policy recommendations. It is structured as an academic institute rather than a traditional faculty research assistant position.",
+    "summary": "UCLA's World Politics Summer Institute introduces high school students to international relations and political-science research. Students receive briefings from UCLA experts, examine contemporary foreign-policy issues using theoretical and statistical approaches, research critical policy problems, write collaborative reports, and present their recommendations in a public capstone event.",
+    "email": "",
+    "labUrl": "https://polisci.ucla.edu/academics/summer-institutes/world-politics-summer-institute/",
+    "applyUrl": "https://polisci.ucla.edu/academics/summer-institutes/world-politics-summer-institute/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 75,
+    "name": "Pathways in World Politics",
+    "title": "International Relations Research Training Program",
+    "university": "University of Chicago",
+    "state": "Illinois, USA",
+    "department": "Political Science",
+    "field": "Political Science",
+    "tags": [
+      "political science",
+      "international relations",
+      "political economy",
+      "world politics",
+      "research methods",
+      "diplomacy"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The current course is full and applications are closed, with waitlist consideration possible if openings occur. Students should check the University of Chicago Summer Session site for future program dates and application information.",
+    "resumeRating": 4,
+    "ratingNote": "A useful social-science research training experience taught by research-active political scientists. Students learn how scholars study international relations using multiple methodologies and approaches, although the program is classroom- and project-based rather than a traditional research internship.",
+    "summary": "Pathways in World Politics introduces high school students to the scientific study of international relations at a research university. Students learn methodologies and approaches used by political scientists, examine topics including international organizations, diplomacy, global economics, conflict, and political institutions, and develop intensive analytical and writing skills.",
+    "email": "",
+    "labUrl": "https://summer.uchicago.edu/courses/pathways-in-world-politics-s2/",
+    "applyUrl": "https://summer.uchicago.edu/courses/pathways-in-world-politics-s2/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 76,
+    "name": "Undergraduate Sociology Teaching and Research Students (USTARS)",
+    "title": "Faculty-Sponsored Sociology Research Assistant Opportunity",
+    "university": "University of Nebraska–Lincoln",
+    "state": "Nebraska, USA",
+    "department": "Sociology",
+    "field": "Sociology",
+    "tags": [
+      "sociology",
+      "social science",
+      "data analysis",
+      "data collection",
+      "literature review",
+      "faculty research",
+      "research assistant"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant"
+    ],
+    "applicationType": "Faculty Sponsorship",
+    "applicationWindow": "Academic-year and summer opportunities may be available. The program primarily serves sociology students, but the department states that high school students may be eligible in special circumstances when sponsored by a faculty member or advanced PhD student.",
+    "resumeRating": 4,
+    "ratingNote": "A particularly niche social-science research pathway because the sociology department explicitly notes that high school students may participate in special circumstances. Sponsored assistants can contribute to real faculty or graduate-student research through tasks such as data analysis, data collection, and literature review, with some positions potentially offered for credit or pay.",
+    "summary": "The University of Nebraska–Lincoln Sociology Department's USTARS program allows sponsored students to work with faculty or advanced PhD researchers as teaching or research assistants. Although primarily intended for university sociology students, the department explicitly states that high school students may participate in special circumstances. Research duties can include data analysis, collecting data, conducting literature reviews, and other work supporting active social-science projects.",
+    "email": "sociology@unl.edu",
+    "labUrl": "https://soc.unl.edu/experiential-learning/undergraduate-research/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  }
 ]
