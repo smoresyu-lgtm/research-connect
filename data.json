@@ -3661,4 +3661,182 @@
     "applyUrl": "https://ssri.sites.yale.edu/",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 112,
+    "name": "SCALE Lab",
+    "title": "Mechanical Engineering and Imaging Research Opportunity",
+    "university": "Cornell University",
+    "state": "New York, USA",
+    "department": "Mechanical and Aerospace Engineering",
+    "field": "Engineering",
+    "tags": [
+      "mechanical engineering",
+      "mechatronics",
+      "micro-CT imaging",
+      "image processing",
+      "Python",
+      "3D reconstruction",
+      "materials research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "The SCALE Lab has hosted high school researchers and directs prospective members to contact the laboratory about joining. Participation depends on current projects, available mentorship, and laboratory capacity.",
+    "resumeRating": 5,
+    "ratingNote": "A rare direct-access Cornell engineering opportunity with documented high school participation. Current high school research in the lab has involved micro-CT imaging, Python-based image processing, 3D reconstruction, and experimental analysis, making this especially valuable for students interested in engineering, computation, and materials research.",
+    "summary": "The SCALE Lab at Cornell Engineering conducts interdisciplinary research involving mechanical engineering, mechatronics, imaging, materials, and computational analysis. The lab currently documents high school research participation, including work involving micro-CT imaging, Python image processing, 3D reconstruction, and compression experiments. Prospective students can contact the laboratory to ask about possible research involvement.",
+    "email": "",
+    "labUrl": "https://scalelab.engineering.cornell.edu/team/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 113,
+    "name": "Cornell Lab of Ornithology — Faculty and Mentor Research Volunteering",
+    "title": "Ecology and Ornithology Research Volunteer Opportunity",
+    "university": "Cornell University",
+    "state": "New York, USA",
+    "department": "Cornell Lab of Ornithology",
+    "field": "Biology",
+    "tags": [
+      "ornithology",
+      "ecology",
+      "conservation",
+      "wildlife biology",
+      "data science",
+      "field research",
+      "volunteer research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Volunteer",
+      "Research Project"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "High school students age 16 or older may explore volunteer opportunities at the Cornell Lab of Ornithology. Prospective researchers are encouraged to identify faculty members or mentors whose projects match their interests and inquire about volunteering or research involvement. Individual opportunities and age requirements vary by project.",
+    "resumeRating": 5,
+    "ratingNote": "A highly valuable direct-inquiry pathway because Cornell explicitly encourages prospective students to identify relevant researchers and inquire about project involvement. The Lab of Ornithology offers access to internationally recognized work in ecology, conservation, wildlife biology, ornithology, and biological data science.",
+    "summary": "The Cornell Lab of Ornithology provides pathways for students to become involved in research and volunteering related to birds, ecology, conservation, and biological data. High school students age 16 or older may participate in eligible volunteer activities. Students interested in research are encouraged to explore faculty and mentor projects and inquire directly about opportunities that align with their interests.",
+    "email": "",
+    "labUrl": "https://www.birds.cornell.edu/home/jobs/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 114,
+    "name": "Boyce Thompson Institute High School Research Experience",
+    "title": "Plant Science and Computational Biology Research Experience",
+    "university": "Boyce Thompson Institute / Cornell University",
+    "state": "New York, USA",
+    "department": "Boyce Thompson Institute",
+    "field": "Biology",
+    "tags": [
+      "plant biology",
+      "molecular biology",
+      "computational biology",
+      "bioinformatics",
+      "bioengineering",
+      "plant-microbe interactions",
+      "laboratory research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The program is designed for eligible local and regional high school students age 16 or older. Students should review the Boyce Thompson Institute's official program page for current application deadlines, eligibility requirements, stipend information, and future summer cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An excellent hands-on research experience where students work on real projects with both a graduate or postdoctoral research mentor and a faculty mentor. Participants gain experience in areas such as plant molecular biology, bioinformatics, biological engineering, and plant-biotic interactions and present their work at a research symposium.",
+    "summary": "The Boyce Thompson Institute High School Research Experience gives students six weeks of mentored research in plant science and related biological fields. Participants work on active projects with graduate or postdoctoral mentors and faculty researchers, attend laboratory meetings, read scientific literature, prepare a research proposal, and present their work at a final research symposium.",
+    "email": "",
+    "labUrl": "https://bti.cornell.edu/education-and-outreach/research-experiences/high-school-research-experience/",
+    "applyUrl": "https://bti.cornell.edu/education-and-outreach/research-experiences/high-school-research-experience/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 115,
+    "name": "VTPMD 2990 Research in Epidemiology",
+    "title": "Veterinary Epidemiology Research Apprenticeship",
+    "university": "Cornell University College of Veterinary Medicine",
+    "state": "New York, USA",
+    "department": "Population Medicine and Diagnostic Sciences",
+    "field": "Biomedical Science",
+    "tags": [
+      "epidemiology",
+      "veterinary medicine",
+      "public health",
+      "biostatistics",
+      "research methods",
+      "data analysis",
+      "scientific writing"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Faculty-Supervised Placement",
+    "applicationWindow": "Qualified unmatriculated high school students may participate through Cornell Summer College when eligible. Cornell undergraduates may also enroll. Students should verify current course availability, prerequisites, and Summer College access before planning around this opportunity.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually niche Cornell research pathway that can place qualified high school students into active epidemiology research under graduate students, postdoctoral researchers, or faculty. Participants complete a defined research project, deliver an oral presentation, and prepare a manuscript in publication-style format.",
+    "summary": "VTPMD 2990 is a mentored epidemiology research apprenticeship through Cornell's College of Veterinary Medicine. Qualified high school students participating through Cornell Summer College may work in research laboratories under graduate researchers, postdocs, or faculty. Students complete a designed epidemiology project, analyze their findings, present their work orally, and prepare a manuscript in a format suitable for scientific publication.",
+    "email": "",
+    "labUrl": "https://classes.cornell.edu/browse/roster/FA26/class/VTPMD/2990",
+    "applyUrl": "https://classes.cornell.edu/browse/roster/FA26/class/VTPMD/2990",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 116,
+    "name": "High School Catalyst Program",
+    "title": "Biomedical Laboratory Research Program",
+    "university": "Weill Cornell Medicine",
+    "state": "New York, USA",
+    "department": "Graduate School of Medical Sciences",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomedical research",
+      "molecular biology",
+      "medical research",
+      "laboratory research",
+      "experimental design",
+      "research mentorship",
+      "NYBioForce"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "Participation requires eligibility through the NYBioForce pathway. Students should review Weill Cornell Medicine's official High School Catalyst Program page for current prerequisites, application requirements, program dates, and future participation information.",
+    "resumeRating": 5,
+    "ratingNote": "A substantial biomedical research placement where high school students spend approximately 25 hours per week working in an active laboratory under a graduate student, staff scientist, or postdoctoral mentor. The NYBioForce prerequisite makes access more restricted, but the depth of hands-on research is excellent for eligible students.",
+    "summary": "The Weill Cornell Medicine High School Catalyst Program provides eligible high school students with six weeks of intensive laboratory research. Participants are paired with graduate students, staff scientists, or postdoctoral researchers to develop and conduct an in-person research project. Students gain experience planning and performing experiments and present their work at both a closing event and a public research symposium.",
+    "email": "",
+    "labUrl": "https://gradschool.weill.cornell.edu/access-and-belonging/capacity-building-programs/high-school-catalyst-program",
+    "applyUrl": "https://gradschool.weill.cornell.edu/access-and-belonging/capacity-building-programs/high-school-catalyst-program",
+    "dateAdded": "2026-08-07"
+  }
 ]
