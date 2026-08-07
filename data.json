@@ -5384,4 +5384,180 @@
     "applyUrl": "https://wp.nyu.edu/gstem/about-us/",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 161,
+    "name": "Aspirnaut Summer Research Internship",
+    "title": "Paid Life Sciences Research Internship",
+    "university": "University of Michigan",
+    "state": "Michigan, USA",
+    "department": "Life Sciences Institute",
+    "field": "Biology",
+    "tags": [
+      "biology",
+      "chemistry",
+      "neuroscience",
+      "genetics",
+      "ecology",
+      "laboratory research",
+      "faculty mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "The Aspirnaut Summer Research Internship serves eligible Michigan high school juniors and rising seniors. The 2026 application cycle is closed, with information for the 2027 cycle expected in late fall 2026. Students should review the official program page for updated eligibility requirements, deadlines, housing, and stipend information.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional University of Michigan research opportunity because students are matched to active laboratories based on their scientific interests and work directly at the bench on defined research projects. The program is fully funded, includes housing and meals, and provides a stipend.",
+    "summary": "The University of Michigan Aspirnaut Summer Research Internship gives a small cohort of high school students six weeks of intensive laboratory research. Participants are matched with research groups based on their interests and work on defined projects in areas such as biology, chemistry, neuroscience, genetics, ecology, and environmental science. The program is residential, free to participants, and includes a stipend.",
+    "email": "",
+    "labUrl": "https://aspirnaut.lsi.umich.edu/faq",
+    "applyUrl": "https://aspirnaut.lsi.umich.edu/faq",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 162,
+    "name": "BioMed Focus",
+    "title": "Paid Biomedical Research Internship",
+    "university": "University of Michigan",
+    "state": "Michigan, USA",
+    "department": "Michigan Medicine",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomedical science",
+      "physiology",
+      "molecular biology",
+      "medical research",
+      "laboratory research",
+      "research mentorship",
+      "pre-med"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "BioMed Focus serves eligible Michigan high school students who can commute to Ann Arbor, with rising juniors and seniors especially encouraged. The 2026 program runs from June 15 through August 7. Students should check the official program page for future deadlines, eligibility requirements, attendance expectations, and stipend information.",
+    "resumeRating": 5,
+    "ratingNote": "A strong pre-med and biomedical research opportunity because students spend eight weeks working with research mentors at Michigan Medicine and completing an authentic biomedical project. The paid format and extended duration provide substantial exposure to professional medical research.",
+    "summary": "BioMed Focus is an eight-week Michigan Medicine research internship for eligible high school students. Participants work with research mentors on biomedical projects in areas such as physiology, molecular biology, and medical science while gaining experience with research methods and the professional biomedical research environment. The program provides a stipend.",
+    "email": "",
+    "labUrl": "https://biomed-focus.medicine.umich.edu/about",
+    "applyUrl": "https://biomed-focus.medicine.umich.edu/about",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 163,
+    "name": "Genetics Immersion Program (GIP)",
+    "title": "Paid Genetics and Genomics Research Program",
+    "university": "University of Michigan",
+    "state": "Michigan, USA",
+    "department": "Department of Human Genetics",
+    "field": "Molecular Biology",
+    "tags": [
+      "genetics",
+      "genomics",
+      "molecular biology",
+      "clinical genetics",
+      "laboratory research",
+      "experimental biology",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "For 2026, the Genetics Immersion Program serves eligible high school students from the Wayne-Westland Community School District. Students should review the official program page for future school eligibility, application dates, stipend information, transportation support, and program availability.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional genetics opportunity because every participating student receives an individual mini research project inside a University of Michigan Human Genetics laboratory and works closely with a PhD student or postdoctoral mentor. Students conduct experiments, analyze results, attend lab meetings, and present their findings.",
+    "summary": "The Genetics Immersion Program at the University of Michigan gives eligible high school students six weeks of intensive genetics research. Each participant receives an individual project within a Human Genetics laboratory and works with a PhD student or postdoctoral mentor. Students perform experiments, collect and interpret data, attend lab meetings and journal clubs, and present their final research findings.",
+    "email": "",
+    "labUrl": "https://geneticsimmersionprogram.medicine.umich.edu/about-us",
+    "applyUrl": "https://geneticsimmersionprogram.medicine.umich.edu/about-us",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 164,
+    "name": "D-RISE",
+    "title": "Detroit Chemistry Research Internship Summer Experience",
+    "university": "University of Michigan",
+    "state": "Michigan, USA",
+    "department": "Department of Chemistry",
+    "field": "Chemistry",
+    "tags": [
+      "chemistry",
+      "chemical biology",
+      "materials chemistry",
+      "experimental chemistry",
+      "laboratory research",
+      "faculty research",
+      "scientific mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Partner School Program",
+    "applicationWindow": "D-RISE operates through a partnership between the University of Michigan Department of Chemistry and Cass Technical High School. Eligible students should verify current participation requirements and future summer program information through their school and the U-M Chemistry Department.",
+    "resumeRating": 5,
+    "ratingNote": "A highly specialized chemistry research opportunity where students are placed directly into University of Michigan faculty laboratories and conduct full-time, hands-on research connected to active graduate or postdoctoral projects. The program provides substantially deeper research exposure than a traditional chemistry enrichment course.",
+    "summary": "The Detroit Research Internship Summer Experience connects eligible Cass Technical High School students with University of Michigan Chemistry laboratories. Participants conduct full-time hands-on research in faculty labs and work alongside graduate students, postdoctoral researchers, faculty, and other members of the university research community on active chemistry projects.",
+    "email": "",
+    "labUrl": "https://lsa.umich.edu/chem/WhoWeAre/d-rise.html",
+    "applyUrl": "https://lsa.umich.edu/chem/WhoWeAre/d-rise.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 165,
+    "name": "Research Experiences for Youth (REY)",
+    "title": "Materials Science Research Experience",
+    "university": "University of Michigan",
+    "state": "Michigan, USA",
+    "department": "Center for Materials Innovation",
+    "field": "Engineering",
+    "tags": [
+      "materials science",
+      "semiconductors",
+      "2D materials",
+      "sustainable polymers",
+      "computational research",
+      "experimental research",
+      "materials engineering"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "REY serves eligible current 11th-grade Michigan residents. The 2026 program runs from June 15 through July 31. Students should review the University of Michigan materials-research education page for future eligibility requirements, application dates, and research focus areas.",
+    "resumeRating": 5,
+    "ratingNote": "A strong engineering and materials-science opportunity because students spend seven weeks conducting genuine research in advanced areas such as semiconductors, two-dimensional materials, and sustainable polymers. Projects may use computational, statistical, theoretical, or experimental approaches.",
+    "summary": "Research Experiences for Youth at the University of Michigan gives eligible high school students seven weeks of materials-science research. Participants may work on projects involving Semiconductors and 2D Materials or Sustainable Polymers using computational, statistical, theoretical, or experimental approaches while gaining experience in university research methods.",
+    "email": "",
+    "labUrl": "https://mrsec.umich.edu/education/",
+    "applyUrl": "https://mrsec.umich.edu/education/",
+    "dateAdded": "2026-08-07"
+  }
 ]
