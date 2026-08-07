@@ -1995,4 +1995,175 @@
     "applyUrl": "https://education.sdsc.edu/studenttech/ucsd-advanced-research-experience/",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 67,
+    "name": "Physics Summer Research Program",
+    "title": "Faculty-Mentored Physics Research Program",
+    "university": "Indiana University Indianapolis",
+    "state": "Indiana, USA",
+    "department": "Physics",
+    "field": "Physics",
+    "tags": [
+      "experimental physics",
+      "theoretical physics",
+      "biophysics",
+      "faculty mentorship",
+      "laboratory research",
+      "physics research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The 2026 application deadline was April 15. The program runs for approximately six weeks, and students should review the official IU Indianapolis physics outreach page for future application dates and requirements.",
+    "resumeRating": 5,
+    "ratingNote": "A strong faculty-mentored physics opportunity because applicants identify research topics and potential faculty mentors as part of the application process. Students can gain direct exposure to active research in areas such as experimental physics, theoretical physics, and biophysics.",
+    "summary": "Indiana University Indianapolis offers a six-week summer physics research experience for high school students. Applicants review faculty research areas and identify several topics and mentors that interest them. Selected students participate in intensive faculty-mentored research involving areas such as experimental physics, theoretical physics, and biophysics.",
+    "email": "",
+    "labUrl": "https://science.indianapolis.iu.edu/physics/research/k-12-outreach.html",
+    "applyUrl": "https://science.indianapolis.iu.edu/physics/research/k-12-outreach.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 68,
+    "name": "NCMN High School Research Internship",
+    "title": "Paid Physics and Nanoscience Research Internship",
+    "university": "University of Nebraska–Lincoln",
+    "state": "Nebraska, USA",
+    "department": "Nebraska Center for Materials and Nanoscience",
+    "field": "Physics",
+    "tags": [
+      "physics",
+      "nanoscience",
+      "materials science",
+      "laboratory research",
+      "engineering",
+      "chemistry",
+      "paid research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The 2026 application deadline was March 15. The internship generally runs for approximately eight weeks and is intended for eligible Lincoln-area high school students age 16 or older.",
+    "resumeRating": 5,
+    "ratingNote": "An excellent paid research opportunity where students work directly in university physics, engineering, or chemistry laboratories under faculty or research-scientist supervision. No prior research experience is required, and participants complete a research poster at the end of the internship.",
+    "summary": "The Nebraska Center for Materials and Nanoscience High School Research Internship places eligible students into university research laboratories for approximately eight weeks. Students may work in physics, engineering, or chemistry labs under faculty or research-scientist supervision, receive hourly pay, and present their work through a final research poster.",
+    "email": "",
+    "labUrl": "https://ncmn.unl.edu/hs-interns/",
+    "applyUrl": "https://ncmn.unl.edu/hs-interns/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 69,
+    "name": "Yale Summer Program in Astrophysics (YSPA)",
+    "title": "Astrophysics Research Program",
+    "university": "Yale University",
+    "state": "Connecticut, USA",
+    "department": "Leitner Family Observatory and Planetarium",
+    "field": "Astronomy",
+    "tags": [
+      "astrophysics",
+      "astronomy",
+      "observational astronomy",
+      "scientific research",
+      "physics",
+      "research methods"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The 2026 application cycle is closed. The program is designed for rising high school seniors and combines online preparation with a residential research experience at Yale. Students should review the official YSPA page for the next cycle.",
+    "resumeRating": 5,
+    "ratingNote": "One of the strongest dedicated astrophysics opportunities available to high school students. Participants complete an intensive research-focused experience involving astronomy, physics, observational methods, and scientific analysis at Yale's observatory.",
+    "summary": "The Yale Summer Program in Astrophysics is an intensive six-week research and enrichment experience for rising high school seniors interested in astronomy, physics, and scientific research. The program combines online preparation with several residential weeks at Yale's Leitner Family Observatory and Planetarium, where students gain experience with astrophysical research and observational astronomy.",
+    "email": "",
+    "labUrl": "https://yspa.yale.edu/post/program-overview",
+    "applyUrl": "https://yspa.yale.edu/post/program-overview",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 70,
+    "name": "CMAP Research Experience for High School Students",
+    "title": "High-Energy-Density and Planetary Physics Research Internship",
+    "university": "University of Rochester",
+    "state": "New York, USA",
+    "department": "Center for Matter at Atomic Pressures",
+    "field": "Physics",
+    "tags": [
+      "high-energy-density physics",
+      "planetary science",
+      "computational physics",
+      "Python",
+      "laboratory research",
+      "laser physics"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Teacher Nomination",
+    "applicationWindow": "Participation is organized through teacher nomination rather than a standard individual application. Students and teachers should review the Center for Matter at Atomic Pressures high school outreach page for current nomination details and program dates.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually specialized physics research experience exposing high school students to high-energy-density physics, planetary science, computational methods, and laboratory experiments. The teacher-nomination process makes it less broadly accessible but especially valuable for eligible students.",
+    "summary": "The Center for Matter at Atomic Pressures at the University of Rochester offers a high school research experience involving high-energy-density physics, planetary science, computational physics, Python, and laboratory experimentation. Students work alongside physics and astronomy graduate researchers on real-world projects and gain exposure to facilities such as Rochester's Laboratory for Laser Energetics.",
+    "email": "",
+    "labUrl": "https://cmap.rochester.edu/education-outreach/high-school/",
+    "applyUrl": "https://cmap.rochester.edu/education-outreach/high-school/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 71,
+    "name": "STEM Enhancement in Earth Science (SEES)",
+    "title": "NASA-Connected Space Science Research Internship",
+    "university": "The University of Texas at Austin",
+    "state": "Texas, USA",
+    "department": "Center for Space Research",
+    "field": "Astronomy",
+    "tags": [
+      "astronomy",
+      "planetary science",
+      "space science",
+      "remote sensing",
+      "NASA",
+      "aerospace",
+      "space geodesy"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "SEES serves eligible high school students in grades 10 and 11. Future program continuation and expansion depend on available funding, so students should verify the current status and application cycle on the official UT Austin Center for Space Research page.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional space-science research opportunity connecting high school students with NASA, university, and industry experts. Participants work with mission data and research topics spanning astronomy, planetary science, aerospace, remote sensing, microgravity, and space geodesy.",
+    "summary": "STEM Enhancement in Earth Science is a nationally competitive research internship hosted by UT Austin's Center for Space Research. High school students collaborate with NASA, university, and industry researchers and work with real scientific mission data. Research areas may include astronomy, planetary science, remote sensing, aerospace, microgravity, and space geodesy.",
+    "email": "",
+    "labUrl": "https://csr.utexas.edu/education-outreach/high-school-internships/sees/",
+    "applyUrl": "https://csr.utexas.edu/education-outreach/high-school-internships/sees/",
+    "dateAdded": "2026-08-07"
+  }
 ]
