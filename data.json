@@ -5033,4 +5033,179 @@
     "applyUrl": "https://scienceoutreach.princeton.edu/laboratory-learning-program",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 151,
+    "name": "BRAINYAC",
+    "title": "Neuroscience Research Laboratory Internship",
+    "university": "Columbia University",
+    "state": "New York, USA",
+    "department": "Zuckerman Institute",
+    "field": "Neuroscience",
+    "tags": [
+      "neuroscience",
+      "brain research",
+      "biomedical science",
+      "laboratory research",
+      "research mentorship",
+      "neurobiology",
+      "scientific poster"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "BRAINYAC serves eligible New York City 10th- and 11th-grade students enrolled through participating partner programs. The 2026 cycle is closed, and Columbia indicates that applications for the 2027 cycle are expected to open in October 2026. Students should verify current partner-program and eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional neuroscience research opportunity because each student is matched with a Columbia neuroscientist and spends substantial time working inside an active research laboratory. Participants receive sustained mentorship, conduct authentic neuroscience research, and conclude the experience by presenting their work.",
+    "summary": "BRAINYAC is a Columbia Zuckerman Institute research internship for eligible New York City high school students. Participants are matched with Columbia neuroscience researchers and spend approximately 30 hours per week in active laboratories during the summer. Students conduct mentored brain research and present their work through a final scientific poster.",
+    "email": "",
+    "labUrl": "https://zuckermaninstitute.columbia.edu/brainyac",
+    "applyUrl": "https://zuckermaninstitute.columbia.edu/brainyac",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 152,
+    "name": "Engineering the Next Generation (ENG) — Foundations of Research",
+    "title": "Paid Engineering Faculty Research Program",
+    "university": "Columbia University",
+    "state": "New York, USA",
+    "department": "Columbia Engineering",
+    "field": "Engineering",
+    "tags": [
+      "biomedical engineering",
+      "computer science",
+      "environmental engineering",
+      "engineering research",
+      "faculty mentorship",
+      "data analysis",
+      "scientific communication"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The ENG Foundations of Research program serves eligible New York City rising high school seniors. Students should review Columbia Engineering's current outreach information for application deadlines, geographic eligibility, compensation, and future summer cycles.",
+    "resumeRating": 5,
+    "ratingNote": "A strong paid engineering research opportunity because students conduct genuine research alongside Columbia faculty and graduate students rather than completing only classroom projects. Research may span biomedical engineering, computer science, environmental engineering, and other technical areas.",
+    "summary": "Engineering the Next Generation: Foundations of Research is a Columbia Engineering summer program for eligible New York City high school students. Participants conduct faculty-supported research in engineering fields such as biomedical engineering, computer science, and environmental engineering while receiving mentorship and training in research methods and scientific communication.",
+    "email": "",
+    "labUrl": "https://outreach.engineering.columbia.edu/eng",
+    "applyUrl": "https://outreach.engineering.columbia.edu/eng",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 153,
+    "name": "My Streetscape Summer Research Institute",
+    "title": "Urban AI and Interdisciplinary Research Internship",
+    "university": "Columbia University",
+    "state": "New York, USA",
+    "department": "Columbia Engineering / CS3",
+    "field": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "computer vision",
+      "Internet of Things",
+      "transportation",
+      "social science",
+      "data science",
+      "urban research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The My Streetscape Summer Research Institute is designed for eligible 11th-grade students from Harlem and surrounding New York City communities. Students should review Columbia Engineering's current ENG information for future application cycles, eligibility requirements, dates, and compensation.",
+    "resumeRating": 5,
+    "ratingNote": "A highly distinctive interdisciplinary research experience combining engineering, artificial intelligence, data science, and social science. Students work with Columbia faculty and graduate researchers on real urban problems involving technology, transportation, privacy, trust, and community needs.",
+    "summary": "The My Streetscape Summer Research Institute gives eligible New York City high school students experience conducting interdisciplinary research with Columbia faculty and graduate students. Participants may work with artificial intelligence, computer vision, IoT, data science, and transportation technologies while also investigating social questions such as privacy, trust, and community needs. Student work may contribute to research papers or presentations to public officials.",
+    "email": "",
+    "labUrl": "https://outreach.engineering.columbia.edu/eng",
+    "applyUrl": "https://outreach.engineering.columbia.edu/eng",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 154,
+    "name": "Science Matters Research Internship (SMRI)",
+    "title": "Biomedical Laboratory Research Internship",
+    "university": "Columbia University",
+    "state": "New York, USA",
+    "department": "Columbia University Medical Center",
+    "field": "Biomedical Science",
+    "tags": [
+      "molecular biology",
+      "biomedical science",
+      "neuroscience",
+      "laboratory research",
+      "medical research",
+      "research mentorship",
+      "scientific presentation"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Partner Program Placement",
+    "applicationWindow": "SMRI serves eligible Minds Matter NYC students entering their junior year. Participants complete preparatory biological science training before beginning a multi-month laboratory research project. Students should verify current eligibility and participation information through SMRI and Minds Matter NYC.",
+    "resumeRating": 5,
+    "ratingNote": "An excellent and highly niche Columbia laboratory pathway because students move from preparatory training into a three-month mentored research project under senior predoctoral or postdoctoral researchers. The sustained duration and final formal presentation provide meaningful exposure to professional biomedical research.",
+    "summary": "The Science Matters Research Internship at Columbia University Medical Center provides eligible Minds Matter NYC students with laboratory research experience in areas such as molecular biology, biomedical science, and neuroscience. Students begin with a biology boot camp, are paired with senior predoctoral or postdoctoral mentors, conduct research over approximately three months, receive a stipend, and conclude with a formal presentation.",
+    "email": "",
+    "labUrl": "https://smri.neuroscience.columbia.edu/content/about-smri",
+    "applyUrl": "https://smri.neuroscience.columbia.edu/content/being-smri-intern",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 155,
+    "name": "EARTH Program",
+    "title": "Community Environmental Health Research Program",
+    "university": "Columbia University",
+    "state": "New York, USA",
+    "department": "Mailman School of Public Health — Environmental Health Sciences",
+    "field": "Environmental Science",
+    "tags": [
+      "environmental health",
+      "water quality",
+      "air pollution",
+      "public health",
+      "mining exposure",
+      "community research",
+      "environmental science"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Community-Based Research Program",
+    "applicationWindow": "EARTH serves high school students from participating Native communities in the Northern Plains through Columbia's environmental health research partnerships. Participation is community-specific. Students should verify current partner communities, project availability, and eligibility requirements through Columbia Mailman School of Public Health.",
+    "resumeRating": 5,
+    "ratingNote": "A distinctive community-based research opportunity connecting high school students directly with ongoing environmental-health projects. Students investigate locally relevant issues such as drinking-water quality, air pollution, mining-related exposures, and dietary exposure while working with Columbia and community research partners.",
+    "summary": "The EARTH Program through Columbia University's Mailman School of Public Health engages high school students from participating Native communities in environmental-health research. Students work with Columbia and Missouri Breaks researchers on projects connected to real community concerns, including drinking-water quality, air pollution, uranium and gold mining exposures, dietary exposures, and related public-health questions.",
+    "email": "",
+    "labUrl": "https://www.publichealth.columbia.edu/academics/departments/environmental-health-sciences/educational-programs/non-degree-offerings/earth",
+    "applyUrl": "https://www.publichealth.columbia.edu/academics/departments/environmental-health-sciences/educational-programs/non-degree-offerings/earth",
+    "dateAdded": "2026-08-07"
+  }
 ]
