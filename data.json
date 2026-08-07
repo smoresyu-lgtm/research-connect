@@ -4537,4 +4537,147 @@
     "applyUrl": "https://med.stanford.edu/education/high-school-and-undergraduate-programs.html",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 137,
+    "name": "Personality Across Development Lab (PADLab)",
+    "title": "Developmental Psychology Research Internship",
+    "university": "Northwestern University",
+    "state": "Illinois, USA",
+    "department": "Psychology",
+    "field": "Psychology",
+    "tags": [
+      "developmental psychology",
+      "personality",
+      "mental health",
+      "human behavior",
+      "psychological research",
+      "research mentorship",
+      "behavioral science"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Volunteer"
+    ],
+    "applicationType": "Direct Application",
+    "applicationWindow": "The Personality Across Development Lab accepts a small class of high school interns during the summer. Interested high school students are instructed to send the lab a resume and a short paragraph explaining why they would be a good fit. Undergraduate students have a separate pathway for volunteer research involvement.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional professor-level psychology opportunity because the individual Northwestern lab explicitly recruits a small group of high school interns each summer and provides direct application instructions. This gives students a genuine route into active developmental and personality research rather than a general pre-college program.",
+    "summary": "Northwestern's Personality Across Development Lab studies personality, development, behavior, and mental health across the lifespan. The lab explicitly accepts a small class of high school interns each summer. Interested students can apply directly by submitting a resume and short statement explaining their interest and fit with the laboratory.",
+    "email": "",
+    "labUrl": "https://sites.northwestern.edu/padlab/participate/",
+    "applyUrl": "https://sites.northwestern.edu/padlab/participate/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 138,
+    "name": "Northwestern University Research Program for High Schoolers (NURPH)",
+    "title": "Paid Materials Science and Engineering Research Program",
+    "university": "Northwestern University",
+    "state": "Illinois, USA",
+    "department": "Materials Science and Engineering",
+    "field": "Engineering",
+    "tags": [
+      "materials science",
+      "materials engineering",
+      "nanomaterials",
+      "sustainability",
+      "manufacturing",
+      "polymers",
+      "faculty research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "NURPH serves eligible rising high school juniors and seniors from the Chicago and Evanston areas. The program operates during the summer and places students on faculty-sponsored research projects. Students should review the official NURPH site for current application dates, geographic eligibility, stipend information, and future cycles.",
+    "resumeRating": 5,
+    "ratingNote": "One of Northwestern's strongest high school research opportunities. Students conduct novel research in Materials Science and Engineering through faculty-sponsored projects with graduate-student mentorship. The intensive schedule provides substantial technical and research experience, and no previous research experience is required.",
+    "summary": "The Northwestern University Research Program for High Schoolers places eligible local students into active Materials Science and Engineering research projects. Participants work on faculty-sponsored research with graduate-student mentorship in areas such as nanomaterials, sustainability, polymers, manufacturing, biomaterials, and energy-related materials. The program is paid and emphasizes genuine research rather than classroom enrichment.",
+    "email": "",
+    "labUrl": "https://sites.northwestern.edu/nurph/",
+    "applyUrl": "https://sites.northwestern.edu/nurph/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 139,
+    "name": "SciHigh",
+    "title": "Kidney and Biomedical Research Internship",
+    "university": "Northwestern University",
+    "state": "Illinois, USA",
+    "department": "NUGoKidney / Feinberg School of Medicine",
+    "field": "Biomedical Science",
+    "tags": [
+      "kidney research",
+      "nephrology",
+      "biomedical science",
+      "molecular biology",
+      "medical research",
+      "microscopy",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "SciHigh matches participating high school students with research mentors and host laboratories based on their interests and skills. Students should review Northwestern NUGoKidney's current SciHigh information for application dates, eligibility requirements, mentor availability, and future program cycles.",
+    "resumeRating": 5,
+    "ratingNote": "A strong medical research opportunity because the centerpiece of the program is an actual research internship rather than simple exposure or shadowing. Students are individually matched with scientists and host laboratories and contribute to active biomedical and kidney-related research projects.",
+    "summary": "SciHigh is a Northwestern NUGoKidney program that connects high school students with scientists and research laboratories for mentored biomedical research. Students are matched with mentors and host labs according to their interests and skills and actively contribute to research projects involving kidney science, molecular biology, medical research, and related biomedical fields.",
+    "email": "",
+    "labUrl": "https://www.feinberg.northwestern.edu/sites/nephrohub/nephrohub-u/scihigh.html",
+    "applyUrl": "https://www.feinberg.northwestern.edu/sites/nephrohub/nephrohub-u/scihigh.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 140,
+    "name": "Continuing Umbrella of Research Experience (CURE)",
+    "title": "Cancer Research Training Opportunity",
+    "university": "Northwestern University",
+    "state": "Illinois, USA",
+    "department": "Cancer Research / Molecular Biosciences",
+    "field": "Biomedical Science",
+    "tags": [
+      "cancer biology",
+      "oncology",
+      "clinical research",
+      "population science",
+      "molecular biology",
+      "cancer research",
+      "biomedical research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "CURE accepts eligible graduating high school seniors and early college students from qualifying underserved populations. Students should review Northwestern's current program information for eligibility requirements, application dates, research placements, and future summer cycles.",
+    "resumeRating": 5,
+    "ratingNote": "A strong cancer-research pathway for students transitioning from high school into college. The NIH and NCI-supported program provides research training in basic, clinical, and population-based cancer science, making it especially valuable for students interested in oncology, medicine, and biomedical research.",
+    "summary": "Northwestern's Continuing Umbrella of Research Experience provides eligible graduating high school seniors and early college students with training and research exposure in cancer science. Participants can gain experience with basic laboratory research, clinical research, and population-based approaches to understanding cancer and oncology.",
+    "email": "",
+    "labUrl": "https://molbiosci.northwestern.edu/programs/biological-sciences-major/summer-outreach.html",
+    "applyUrl": "https://molbiosci.northwestern.edu/programs/biological-sciences-major/summer-outreach.html",
+    "dateAdded": "2026-08-07"
+  }
 ]
