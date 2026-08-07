@@ -3308,4 +3308,181 @@
     "applyUrl": "",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 102,
+    "name": "Needleman Lab",
+    "title": "Biophysics and Quantitative Biology Research Opportunity",
+    "university": "Harvard University",
+    "state": "Massachusetts, USA",
+    "department": "School of Engineering and Applied Sciences",
+    "field": "Biology",
+    "tags": [
+      "biophysics",
+      "quantitative biology",
+      "microscopy",
+      "image analysis",
+      "bioengineering",
+      "experimental biology",
+      "independent research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Volunteer"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "The Needleman Lab explicitly welcomes inquiries from students interested in potential research projects. High school students have contributed to past and current projects. Interested students may contact current lab members and/or Professor Daniel Needleman to discuss possible projects, with participation dependent on research needs and available mentorship.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional direct-access Harvard research opportunity because the lab explicitly documents high school participation and invites interested students to discuss possible projects. High school researchers can work with graduate students or postdoctoral mentors on independent questions involving quantitative biology, microscopy, image analysis, and biophysical experimentation.",
+    "summary": "The Needleman Lab at Harvard University conducts quantitative and experimental research at the intersection of biology, physics, and engineering. High school students have contributed to past and current projects and may work with graduate students or postdoctoral researchers on independent research questions. Interested students are encouraged to contact lab members and/or Professor Daniel Needleman to discuss potential projects.",
+    "email": "",
+    "labUrl": "https://needleman.seas.harvard.edu/join-us/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 103,
+    "name": "Shafiee Laboratory",
+    "title": "Biomedical Engineering High School Research Opportunity",
+    "university": "Harvard Medical School / Brigham and Women's Hospital",
+    "state": "Massachusetts, USA",
+    "department": "Division of Engineering in Medicine",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "biomedical engineering",
+      "bioengineering",
+      "microfluidics",
+      "biosensing",
+      "nanotechnology",
+      "biomaterials",
+      "microfabrication",
+      "diagnostics"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship"
+    ],
+    "applicationType": "Direct Application",
+    "applicationWindow": "The Shafiee Laboratory maintains recruitment information for prospective researchers, including a dedicated high school intern category. Interested students should review the laboratory's current positions page and follow its application instructions. Availability depends on current projects and mentorship capacity.",
+    "resumeRating": 5,
+    "ratingNote": "A rare Harvard-affiliated individual-lab opportunity with explicit recruitment information for high school interns. Students can gain exposure to cutting-edge biomedical engineering research involving diagnostics, biosensing, microfluidics, nanotechnology, biomaterials, and microfabrication.",
+    "summary": "The Shafiee Laboratory at Harvard Medical School and Brigham and Women's Hospital develops biomedical technologies involving microfluidics, biosensing, nanotechnology, biomaterials, diagnostics, and microfabrication. The laboratory's recruitment page explicitly includes high school interns and provides a direct pathway for interested students to seek research involvement.",
+    "email": "",
+    "labUrl": "https://shafieelab.bwh.harvard.edu/positions",
+    "applyUrl": "https://shafieelab.bwh.harvard.edu/positions",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 104,
+    "name": "Visual Attention Lab — Jeremy Wolfe",
+    "title": "Visual Cognition and Neuroscience Research Opportunity",
+    "university": "Harvard Medical School / Brigham and Women's Hospital",
+    "state": "Massachusetts, USA",
+    "department": "Ophthalmology / Visual Attention Laboratory",
+    "field": "Psychology",
+    "tags": [
+      "visual attention",
+      "cognitive psychology",
+      "neuroscience",
+      "vision science",
+      "cognitive science",
+      "human perception",
+      "behavioral research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "High school participation in the Visual Attention Lab is available through Harvard Medical School's Project Success pathway rather than unrestricted direct laboratory applications. Students should review Project Success for current eligibility requirements, application dates, and program availability.",
+    "resumeRating": 5,
+    "ratingNote": "An outstanding psychology and neuroscience research opportunity with a long documented history of mentoring high school students. Professor Jeremy Wolfe has hosted Project Success researchers for more than two decades, and previous high school participants have made meaningful contributions to peer-reviewed laboratory research.",
+    "summary": "The Visual Attention Lab led by Professor Jeremy Wolfe studies visual attention, perception, cognition, and related areas of psychological and neuroscience research. The lab has hosted high school researchers through Harvard Medical School's Project Success program for more than two decades. High school participants work within an active research environment and can make substantive contributions to ongoing projects.",
+    "email": "",
+    "labUrl": "https://occe.hms.harvard.edu/news/2025/05/three-project-success-alumni-named-co-authors-paper",
+    "applyUrl": "https://dicp.hms.harvard.edu/project-success",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 105,
+    "name": "RWE Laboratory",
+    "title": "Medical AI Research and Scientific Observership Opportunity",
+    "university": "Massachusetts General Hospital / Harvard Medical School",
+    "state": "Massachusetts, USA",
+    "department": "Real World Evidence Laboratory",
+    "field": "Artificial Intelligence",
+    "tags": [
+      "medical AI",
+      "healthcare data",
+      "biomedical informatics",
+      "machine learning",
+      "clinical research",
+      "real-world evidence",
+      "data science"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Shadowing"
+    ],
+    "applicationType": "Direct Application",
+    "applicationWindow": "The RWE Laboratory primarily advertises research internships for undergraduate students. In exceptional cases, highly talented high school students in grades 11 or 12 may be considered individually for a scientific observership. Interested students should review the laboratory's current positions page and submit the requested application materials if eligible.",
+    "resumeRating": 4,
+    "ratingNote": "A highly selective Harvard-affiliated medical AI opportunity. High school participation is not the standard pathway, but the laboratory explicitly states that exceptional juniors and seniors may be considered individually. This makes it a legitimate but reach-level option for students with unusually strong backgrounds in AI, programming, data science, or biomedical research.",
+    "summary": "The RWE Laboratory at Massachusetts General Hospital conducts research involving medical artificial intelligence, healthcare data, biomedical informatics, and real-world clinical evidence. Research internships are primarily designed for undergraduate students, but the laboratory states that exceptional high school juniors and seniors may occasionally be considered for scientific observership opportunities on an individual basis.",
+    "email": "",
+    "labUrl": "https://rwe.mgh.harvard.edu/portfolio/new-open-positions-for-undergrad-intern/",
+    "applyUrl": "https://rwe.mgh.harvard.edu/portfolio/new-open-positions-for-undergrad-intern/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 106,
+    "name": "Science Research Mentoring Program",
+    "title": "Year-Long Astrophysics Research Mentorship",
+    "university": "Center for Astrophysics | Harvard & Smithsonian",
+    "state": "Massachusetts, USA",
+    "department": "Center for Astrophysics",
+    "field": "Astronomy",
+    "tags": [
+      "astrophysics",
+      "astronomy",
+      "space science",
+      "independent research",
+      "research mentorship",
+      "scientific research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The Science Research Mentoring Program serves eligible students from Cambridge Rindge and Latin School. Participants conduct year-long independent astrophysics research with scientists at the Center for Astrophysics | Harvard & Smithsonian. Students should verify current eligibility and application information for future cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional year-long astrophysics research opportunity where eligible high school students work directly with professional scientists on independent projects. Geographic and school eligibility are extremely narrow, but the depth of mentorship and sustained research involvement make it highly valuable for qualifying students.",
+    "summary": "The Science Research Mentoring Program at the Center for Astrophysics | Harvard & Smithsonian pairs eligible Cambridge Rindge and Latin School students with scientists for year-long independent astrophysics research. Participants develop and conduct substantial research projects under professional scientific mentorship, gaining long-term exposure to astronomy and astrophysical research.",
+    "email": "",
+    "labUrl": "https://www.harvard.edu/community/initiatives/college-and-career-awareness/",
+    "applyUrl": "https://www.harvard.edu/community/initiatives/college-and-career-awareness/",
+    "dateAdded": "2026-08-07"
+  }
 ]
