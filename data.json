@@ -1146,4 +1146,171 @@
     "applyUrl": "https://www.mskcc.org/education-training/summer-student",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 42,
+    "name": "Missouri S&T Mechanical & Aerospace Engineering High School Research",
+    "title": "Direct Faculty Research Opportunity",
+    "university": "Missouri University of Science and Technology",
+    "state": "Missouri, USA",
+    "department": "Mechanical and Aerospace Engineering",
+    "field": "Engineering",
+    "tags": [
+      "aerospace engineering",
+      "mechanical engineering",
+      "manufacturing",
+      "additive manufacturing",
+      "engineering research",
+      "faculty research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant"
+    ],
+    "applicationType": "Cold Email",
+    "applicationWindow": "Research positions are posted based on current faculty availability. High school students should review the available projects and contact the listed principal investigator directly for details about joining a research project.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional engineering opportunity because the department maintains a dedicated page of research positions available to high school students and provides direct faculty contacts for individual projects. Students may work alongside university faculty, graduate students, and research teams on active engineering research.",
+    "summary": "Missouri S&T's Mechanical and Aerospace Engineering department lists research opportunities specifically available to high school students. Projects vary with faculty availability and can cover areas such as advanced manufacturing, mechanical engineering, and aerospace-related research. Students identify a project that interests them and contact the listed principal investigator directly about participating.",
+    "email": "",
+    "labUrl": "https://maeugresearch.mst.edu/available-positions/research-with-high-school-students/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 43,
+    "name": "Robotics & Autonomous Systems Lab (RASL)",
+    "title": "Direct Inquiry Robotics Research Opportunity",
+    "university": "Vanderbilt University",
+    "state": "Tennessee, USA",
+    "department": "Mechanical Engineering",
+    "field": "Engineering",
+    "tags": [
+      "robotics",
+      "autonomous systems",
+      "human-robot interaction",
+      "rehabilitation robotics",
+      "virtual reality",
+      "intelligent systems"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "No fixed application cycle is listed. The lab encourages and provides research experiences to undergraduate and high school students, with participation dependent on available projects and mentorship.",
+    "resumeRating": 5,
+    "ratingNote": "A rare direct-access robotics opportunity at a major research university. The lab explicitly states that it encourages research experiences for both high school and undergraduate students, with exposure to advanced robotics, autonomous systems, virtual reality, and human-robot interaction.",
+    "summary": "Vanderbilt's Robotics & Autonomous Systems Lab conducts interdisciplinary research involving autonomous robots, human-robot interaction, rehabilitation robotics, virtual reality, intelligent systems, and human behavior. Although primarily a graduate research laboratory, RASL explicitly encourages and provides research experiences for undergraduate and high school students.",
+    "email": "",
+    "labUrl": "https://lab.vanderbilt.edu/rasl/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 44,
+    "name": "Utah NeuroRobotics Lab",
+    "title": "High School NeuroRobotics Research Opportunity",
+    "university": "University of Utah",
+    "state": "Utah, USA",
+    "department": "Electrical and Computer Engineering",
+    "field": "Engineering",
+    "tags": [
+      "robotics",
+      "neurorobotics",
+      "exoskeletons",
+      "biomedical engineering",
+      "virtual reality",
+      "augmented reality",
+      "human-subject research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The lab typically hosts one to two high school students each summer through its NeuroRobotics Summer Enrichment partnership. Availability is limited and students should review the lab's high school opportunities page for current participation information.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually hands-on engineering research experience for high school students. Previous students have contributed to projects involving robotic exoskeletons, virtual and augmented reality, clinical diagnostic technologies, and human-subject experiments, providing exposure to real interdisciplinary engineering research.",
+    "summary": "The Utah NeuroRobotics Lab develops technologies at the intersection of robotics, neuroscience, rehabilitation, and human-machine interaction. The lab hosts a small number of high school researchers, particularly through its summer enrichment partnership. Past high school participants have worked on exoskeletons, VR and AR systems, clinical diagnostic tools, and human-subject research.",
+    "email": "",
+    "labUrl": "https://neurorobotics.ece.utah.edu/high-school-students/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 45,
+    "name": "Research Immersion in Materials Science & Engineering (RIMSE)",
+    "title": "Materials Science Research Immersion",
+    "university": "University of California San Diego",
+    "state": "California, USA",
+    "department": "Materials Research Science and Engineering Center",
+    "field": "Engineering",
+    "tags": [
+      "materials science",
+      "materials engineering",
+      "nanotechnology",
+      "engineering research",
+      "laboratory research",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Participation and application timing vary by RIMSE program cycle. Interested students should review the UC San Diego MRSEC RIMSE page for current opportunities, eligibility requirements, and application information.",
+    "resumeRating": 4,
+    "ratingNote": "A strong engineering research opportunity that introduces students to authentic materials science research environments. The program is notable for bringing together participants at multiple educational levels, including high school students, undergraduates, graduate students, postdoctoral researchers, and other researchers.",
+    "summary": "Research Immersion in Materials Science & Engineering is an NSF-supported initiative through UC San Diego's Materials Research Science and Engineering Center. Participants gain experience with materials science and engineering research while working in research environments that can include high school students, undergraduates, graduate students, postdoctoral researchers, visiting scholars, and professional researchers.",
+    "email": "",
+    "labUrl": "https://mrsec.ucsd.edu/rimse/",
+    "applyUrl": "https://mrsec.ucsd.edu/rimse/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 46,
+    "name": "SLAAM Engineering Summer Academy",
+    "title": "Structured Summer Engineering Research Program",
+    "university": "Rutgers University",
+    "state": "New Jersey, USA",
+    "department": "Mechanical and Aerospace Engineering",
+    "field": "Engineering",
+    "tags": [
+      "aerospace engineering",
+      "mechanical engineering",
+      "engineering research",
+      "research project",
+      "design",
+      "summer research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The 2026 session ran July 6–17 and is now closed. Students interested in a future session should check the Rutgers Mechanical and Aerospace Engineering program page for updated application dates and requirements.",
+    "resumeRating": 3,
+    "ratingNote": "A solid engineering research experience for high school students interested in mechanical and aerospace engineering. Students conduct research projects and participate in applied engineering activities, although the program charges tuition and is more structured than the direct-access laboratory opportunities in the database.",
+    "summary": "The SLAAM Engineering Summer Academy at Rutgers introduces high-achieving high school students to science and engineering research through the Department of Mechanical and Aerospace Engineering. Participants spend part of each day conducting a research project and also complete applied engineering group projects. The 2026 program ran for two weeks and charged an $875 program fee.",
+    "email": "",
+    "labUrl": "https://www.mae.rutgers.edu/SLAAM",
+    "applyUrl": "https://www.mae.rutgers.edu/SLAAM",
+    "dateAdded": "2026-08-07"
+  }
 ]
