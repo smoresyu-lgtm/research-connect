@@ -4186,4 +4186,177 @@
     "applyUrl": "https://www.grasp.upenn.edu/",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 127,
+    "name": "HIP-SAT",
+    "title": "Paid MIT Research Laboratory Internship",
+    "university": "Massachusetts Institute of Technology",
+    "state": "Massachusetts, USA",
+    "department": "MIT Research Laboratories",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "chemistry",
+      "chemical biology",
+      "engineering",
+      "computational research",
+      "laboratory research",
+      "scientific programming",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "HIP-SAT is designed for eligible homeschooled high school students who can commute to MIT or arrange local housing. The 2026 program provides an eight-week summer research placement. Students should review the official HIP-SAT site for future application dates, eligibility requirements, compensation, and participating laboratories.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional MIT research opportunity because students are placed directly into active research laboratories and mentored by MIT PhD students or postdoctoral researchers. Participants contribute to frontier research, attend project meetings, develop scientific communication skills, and present their work at a final symposium.",
+    "summary": "MIT's Homeschool Internship Program for Science and Technology places eligible high school students into active MIT research laboratories for an eight-week summer experience. Students work under PhD student or postdoctoral mentorship on projects that may involve laboratory experiments, scientific programming, theory, data processing, literature research, and scientific communication. The 2026 program is paid.",
+    "email": "",
+    "labUrl": "https://hip-sat.mit.edu/summer-2026-program/",
+    "applyUrl": "https://hip-sat.mit.edu/summer-2026-program/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 128,
+    "name": "MIT PRIMES",
+    "title": "Year-Long Mathematics and Computational Research Program",
+    "university": "Massachusetts Institute of Technology",
+    "state": "Massachusetts, USA",
+    "department": "Department of Mathematics",
+    "field": "Computer Science",
+    "tags": [
+      "mathematics",
+      "computer science",
+      "computational biology",
+      "bioinformatics",
+      "theoretical computer science",
+      "independent research",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "MIT PRIMES serves eligible high school sophomores and juniors in the Greater Boston area. The 2026 cycle is underway, and applications for the 2027 cycle are expected to become available in September 2026. Students should verify current eligibility requirements and deadlines on the official MIT PRIMES site.",
+    "resumeRating": 5,
+    "ratingNote": "One of MIT's strongest high school research opportunities because students work on genuine unsolved problems under academic mentorship rather than completing predetermined classroom projects. Research areas include mathematics, computer science, bioinformatics, and computational biology.",
+    "summary": "MIT PRIMES is a year-long research program for highly motivated Greater Boston high school students. Participants work with academic mentors, often MIT graduate students or postdoctoral researchers, on unsolved research problems in mathematics, computer science, bioinformatics, and computational biology.",
+    "email": "",
+    "labUrl": "https://math.mit.edu/research/highschool/primes/program/index.html",
+    "applyUrl": "https://math.mit.edu/research/highschool/primes/program/index.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 129,
+    "name": "PRIMES-USA",
+    "title": "Remote Year-Long Mathematics and Computer Science Research Program",
+    "university": "Massachusetts Institute of Technology",
+    "state": "Nationwide, USA",
+    "department": "Department of Mathematics",
+    "field": "Computer Science",
+    "tags": [
+      "mathematics",
+      "theoretical computer science",
+      "computational biology",
+      "bioinformatics",
+      "remote research",
+      "independent research",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "PRIMES-USA is designed for eligible high school sophomores and juniors who live outside the Greater Boston area. The 2026 application cycle is closed, and MIT states that applications for the 2027 cycle are expected to appear in September 2026.",
+    "resumeRating": 5,
+    "ratingNote": "An outstanding national research opportunity because students outside Greater Boston can conduct serious year-long research remotely with MIT-affiliated mentors. Participants work on unsolved problems rather than standard coursework, making this especially valuable for students without access to a nearby research university.",
+    "summary": "PRIMES-USA is MIT's remote research program for high school students living outside the Greater Boston area. Participants meet remotely with research mentors and work over an extended period on unsolved problems in areas such as mathematics, theoretical computer science, computational biology, and bioinformatics.",
+    "email": "",
+    "labUrl": "https://math.mit.edu/research/highschool/primes/usa/apply-usa.html",
+    "applyUrl": "https://math.mit.edu/research/highschool/primes/usa/apply-usa.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 130,
+    "name": "LEAH Knox Scholars Program",
+    "title": "Biology Laboratory Training and Research Internship Pathway",
+    "university": "Massachusetts Institute of Technology",
+    "state": "Massachusetts, USA",
+    "department": "Department of Biology",
+    "field": "Biology",
+    "tags": [
+      "biology",
+      "molecular biology",
+      "biomedical science",
+      "laboratory research",
+      "research training",
+      "research mentorship",
+      "summer internship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The LEAH Knox Scholars Program serves eligible rising juniors from participating Boston, Cambridge, and Everett public schools. Students first complete intensive biology laboratory training and later progress into research internships. Applicants should review MIT Biology's official program page for current income, school, and residency eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "A strong long-term research pathway because students first build laboratory skills and then progress into real summer research internships in Boston-area laboratories. The multi-year structure provides substantially more preparation and continuity than a short standalone enrichment program.",
+    "summary": "The LEAH Knox Scholars Program through MIT Biology is a multi-year pathway for eligible local high school students. Rising juniors complete several weeks of hands-on biology laboratory training at MIT, and returning scholars later participate in summer research internships at Boston-area research laboratories, gaining experience in molecular biology and biomedical science.",
+    "email": "",
+    "labUrl": "https://biology.mit.edu/outreach/leah-knox-scholars-program/",
+    "applyUrl": "https://biology.mit.edu/outreach/leah-knox-scholars-program/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 131,
+    "name": "MIT THINK Scholars Program",
+    "title": "Independent STEM Research Mentorship and Funding Program",
+    "university": "Massachusetts Institute of Technology",
+    "state": "Nationwide, USA",
+    "department": "MIT THINK",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "independent research",
+      "engineering",
+      "computer science",
+      "science",
+      "research mentorship",
+      "project funding",
+      "student-led research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The THINK Scholars Program accepts research proposals from eligible high school students in the United States. Application timing varies by cycle, so students should review the official MIT THINK site for current deadlines, proposal requirements, finalist selection, and program dates.",
+    "resumeRating": 5,
+    "ratingNote": "A highly distinctive opportunity because students propose and carry out their own research rather than joining a predetermined laboratory project. Selected finalists receive technical mentorship from MIT students and up to $1,000 in project funding, making it especially useful for students who already have a strong research idea but need resources and guidance.",
+    "summary": "The MIT THINK Scholars Program supports high school students who have developed promising STEM research ideas but need mentorship or resources to carry them out. Selected finalists receive regular technical mentorship from MIT students and up to $1,000 in funding to execute their proposed research project, with opportunities to engage with the MIT research community.",
+    "email": "",
+    "labUrl": "https://think.mit.edu/",
+    "applyUrl": "https://think.mit.edu/",
+    "dateAdded": "2026-08-07"
+  }
 ]
