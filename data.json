@@ -2297,4 +2297,177 @@
     "applyUrl": "",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 77,
+    "name": "Teen Research and Education in Environmental Science (TREES)",
+    "title": "Environmental Science Research Program",
+    "university": "University of Pennsylvania",
+    "state": "Pennsylvania, USA",
+    "department": "Center of Excellence in Environmental Toxicology",
+    "field": "Environmental Science",
+    "tags": [
+      "environmental science",
+      "environmental health",
+      "toxicology",
+      "laboratory research",
+      "independent research",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Summer Research",
+      "Research Project"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "TREES is offered as a summer research program for high school students. Students should review the official University of Pennsylvania program page for current application dates, eligibility requirements, and future program availability.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional environmental-science opportunity because students receive one-on-one research mentorship and move from laboratory training into an independent research project. The program is tuition-free and provides meaningful experience with environmental health and toxicology research.",
+    "summary": "The Teen Research and Education in Environmental Science program at the University of Pennsylvania provides high school students with mentored environmental-science research experience. Students receive laboratory training, develop a testable scientific hypothesis, conduct an independent research project, analyze their results, and gain exposure to environmental health and toxicology research.",
+    "email": "",
+    "labUrl": "https://ceet.upenn.edu/education-training/high-school/",
+    "applyUrl": "https://ceet.upenn.edu/education-training/high-school/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 78,
+    "name": "MELNHE Forest Ecology Research",
+    "title": "Direct Forest Ecology Research Opportunity",
+    "university": "SUNY College of Environmental Science and Forestry",
+    "state": "New York, USA",
+    "department": "Forest and Natural Resources Management",
+    "field": "Environmental Science",
+    "tags": [
+      "forest ecology",
+      "ecosystem science",
+      "biogeochemistry",
+      "nutrient cycling",
+      "field research",
+      "ecology"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "Research opportunities may be available during the summer or academic year. Motivated high school students should review the Forest Ecology Lab page and inquire about current participation options. College-credit registration may also be available.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly strong niche opportunity because high school students can join an active forest-ecology research project alongside undergraduate and graduate researchers. Participation may be possible during either the summer or academic year, and students can potentially receive college credit.",
+    "summary": "The Multiple Element Limitation in Northern Hardwood Ecosystems project at SUNY-ESF studies how nutrients influence the growth and functioning of northern hardwood forests. Motivated high school students can participate in research through Dr. Ruth Yanai's Forest Ecology Lab, working alongside undergraduate and graduate researchers on field and laboratory activities involving ecosystems, nutrient cycling, and biogeochemistry.",
+    "email": "",
+    "labUrl": "https://www.esf.edu/srm/yanai/publishing/research_op_high_school_students.php",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 79,
+    "name": "HIRES",
+    "title": "High School Initiative in Remote Sensing Research Program",
+    "university": "The City College of New York — CUNY",
+    "state": "New York, USA",
+    "department": "Grove School of Engineering",
+    "field": "Environmental Science",
+    "tags": [
+      "climate science",
+      "remote sensing",
+      "GIS",
+      "water resources",
+      "atmospheric science",
+      "coastal science",
+      "environmental data"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Summer Research",
+      "Research Project"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "HIRES is offered as a summer research program for high school students. Students should review the official program page for current application dates, eligibility requirements, and future session information.",
+    "resumeRating": 5,
+    "ratingNote": "A strong environmental research opportunity that combines field and laboratory science with computational tools such as GIS and remote sensing. Students work with scientists on real environmental questions and present their findings through a final research-poster symposium.",
+    "summary": "HIRES gives high school students hands-on research experience in environmental and Earth science through the use of GIS, remote sensing, laboratory work, and field research. Projects may address climate change, atmosphere and weather, water resources, oceans, and coastal environments. Students work with researchers, analyze data, and present their findings at a research-poster symposium.",
+    "email": "",
+    "labUrl": "https://www.studentresearchnyc.org/our_programs/hires/",
+    "applyUrl": "https://www.studentresearchnyc.org/our_programs/hires/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 80,
+    "name": "High School Internship Program — Geographical Sciences",
+    "title": "Environmental Data and Geospatial Research Internship",
+    "university": "University of Maryland",
+    "state": "Maryland, USA",
+    "department": "Department of Geographical Sciences",
+    "field": "Environmental Science",
+    "tags": [
+      "climate science",
+      "GIS",
+      "remote sensing",
+      "environmental data science",
+      "machine learning",
+      "geospatial analysis",
+      "Earth science"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The internship operates through program-specific summer cycles. Students should review the University of Maryland Geographical Sciences site for current application information, eligibility requirements, and future program dates.",
+    "resumeRating": 5,
+    "ratingNote": "An excellent computational environmental-science opportunity where students conduct original research with faculty and graduate mentors. Participants can gain experience with tools such as GIS, remote sensing, Google Earth Engine, RStudio, and machine learning while investigating environmental and societal problems.",
+    "summary": "The University of Maryland Department of Geographical Sciences offers high school students research experience involving climate, geography, remote sensing, GIS, and environmental data science. Recent participants worked with faculty and graduate mentors on original projects using tools such as ArcGIS Pro, Google Earth Engine, RStudio, remote sensing, and machine learning to investigate environmental and societal challenges.",
+    "email": "",
+    "labUrl": "https://geog.umd.edu/featured-content/high-school-interns-explore-global-challenges-through-geographical-sciences-umd",
+    "applyUrl": "https://geog.umd.edu/featured-content/high-school-interns-explore-global-challenges-through-geographical-sciences-umd",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 81,
+    "name": "High School Urban Ecologist Internship",
+    "title": "Paid Urban Ecology Research Internship",
+    "university": "Greener JC",
+    "state": "New Jersey, USA",
+    "department": "Urban Ecology and Environmental Education",
+    "field": "Environmental Science",
+    "tags": [
+      "urban ecology",
+      "wildlife research",
+      "microplastics",
+      "shorebirds",
+      "aquatic ecology",
+      "field research",
+      "conservation"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The 2026 internship is open to eligible rising sophomores and juniors attending Jersey City public high schools. Students should review the official Greener JC internship page for current deadlines, eligibility requirements, and future program cycles.",
+    "resumeRating": 5,
+    "ratingNote": "A highly specialized paid field-research opportunity for eligible Jersey City students. Interns conduct authentic urban ecology research involving wildlife habitat or microplastic accumulation while receiving scientific mentorship and hands-on environmental research experience.",
+    "summary": "Greener JC's High School Urban Ecologist Internship gives eligible Jersey City public high school students seven weeks of paid environmental field research. Students conduct projects in locations such as Liberty State Park and Lincoln Park West, studying topics including shorebird habitat preferences and microplastic accumulation in aquatic food chains while receiving mentorship from environmental scientists.",
+    "email": "",
+    "labUrl": "https://greenerjc.org/internship-opportunities",
+    "applyUrl": "https://greenerjc.org/internship-opportunities",
+    "dateAdded": "2026-08-07"
+  }
 ]
