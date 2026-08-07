@@ -2644,4 +2644,178 @@
     "applyUrl": "https://wssp.rutgers.edu/wise",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 87,
+    "name": "Biomaterials & Regenerative Medicine Lab",
+    "title": "Biomaterials and Regenerative Medicine Research Opportunity",
+    "university": "University of Kentucky",
+    "state": "Kentucky, USA",
+    "department": "Biomedical Engineering",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "biomaterials",
+      "regenerative medicine",
+      "tissue engineering",
+      "biomedical engineering",
+      "stem cells",
+      "tissue regeneration",
+      "laboratory research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Volunteer"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "The Biomaterials & Regenerative Medicine Lab recruits students based on current research needs and mentor availability. Prospective researchers should review the lab's current recruitment information and contact Dr. Ni Su with a CV and description of their research interests. High school participation is associated with the local MSTC pathway.",
+    "resumeRating": 5,
+    "ratingNote": "An excellent direct-access biomedical engineering opportunity because prospective researchers can contact the PI directly with their CV and research interests. The lab works at the intersection of biomaterials, regenerative medicine, tissue engineering, and tissue regeneration, with pathways for both university and eligible high school researchers.",
+    "summary": "The Biomaterials & Regenerative Medicine Lab at the University of Kentucky conducts research involving biomaterials, tissue engineering, regenerative medicine, and tissue regeneration. The lab recruits research trainees and provides a direct inquiry pathway for prospective researchers, who can contact Dr. Ni Su with a CV and description of their research interests. High school research participation is available through the local MSTC pathway.",
+    "email": "",
+    "labUrl": "https://sulab.engr.uky.edu/",
+    "applyUrl": "https://sulab.engr.uky.edu/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 88,
+    "name": "Independent High School Lab Volunteers",
+    "title": "Biomedical Engineering Faculty Lab Volunteer Research",
+    "university": "Tufts University",
+    "state": "Massachusetts, USA",
+    "department": "Biomedical Engineering",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "biomedical engineering",
+      "biomaterials",
+      "tissue engineering",
+      "laboratory research",
+      "faculty mentorship",
+      "volunteer research",
+      "research safety"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Volunteer"
+    ],
+    "applicationType": "Faculty Sponsorship",
+    "applicationWindow": "High school students age 16 or older may volunteer independently in Tufts Biomedical Engineering faculty laboratories outside the TUBERS program when a faculty principal investigator agrees to host them. After obtaining faculty sponsorship, students complete the university's required affiliate and research-safety procedures.",
+    "resumeRating": 5,
+    "ratingNote": "A rare direct pathway into individual university biomedical engineering laboratories. Rather than applying to a single structured summer program, eligible high school students can be sponsored by a Tufts faculty PI to volunteer in their laboratory and complete the university's formal research onboarding and safety requirements.",
+    "summary": "Tufts Biomedical Engineering provides an administrative pathway for high school students age 16 or older to volunteer independently in faculty research laboratories outside the department's structured TUBERS program. Students first need a faculty principal investigator willing to host them. Tufts then establishes the necessary affiliate status and requires completion of appropriate laboratory and research-safety training.",
+    "email": "",
+    "labUrl": "https://sites.tufts.edu/tubers/volunteer-hs-students/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 89,
+    "name": "Neuromuscular Research Volunteer Program",
+    "title": "Neuromuscular Clinical Research Volunteer Opportunity",
+    "university": "University of California, Davis",
+    "state": "California, USA",
+    "department": "Department of Physical Medicine and Rehabilitation",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "neuromuscular disease",
+      "clinical research",
+      "rehabilitation",
+      "biomedical research",
+      "clinical trials",
+      "research volunteering",
+      "neuromuscular medicine"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Volunteer"
+    ],
+    "applicationType": "Direct Application",
+    "applicationWindow": "High school students age 16 or older are eligible to apply for the summer volunteer cycle. Applicants should review the official UC Davis Neuromuscular Research Volunteer Program page for current deadlines and requirements. Application materials include a resume or CV and a short essay.",
+    "resumeRating": 5,
+    "ratingNote": "A strong direct research-volunteer opportunity for students interested in biomedical and clinical research. Eligible high school students can work with an active neuromuscular research team and gain exposure to clinical research coordinators, evaluators, physicians, and the operation of human-subject research studies.",
+    "summary": "The UC Davis Neuromuscular Research Volunteer Program gives eligible high school and college students experience supporting an active clinical research team studying neuromuscular disease. Volunteers gain exposure to clinical research operations and may work alongside research coordinators, clinical evaluators, and study physicians. High school students age 16 or older may apply for summer participation.",
+    "email": "",
+    "labUrl": "https://health.ucdavis.edu/pmr/research/neuromuscular-research/volunteer-program.html",
+    "applyUrl": "https://health.ucdavis.edu/pmr/research/neuromuscular-research/volunteer-program.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 90,
+    "name": "Mohan Lab High School Research Internship",
+    "title": "Biomedical Engineering and AI Research Internship",
+    "university": "University of Houston",
+    "state": "Texas, USA",
+    "department": "Biomedical Engineering",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "biomedical engineering",
+      "biomedical science",
+      "artificial intelligence",
+      "image analysis",
+      "neuroscience",
+      "bench research",
+      "data analysis"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Individual Lab Application",
+    "applicationWindow": "The Mohan Lab offers research opportunities for eligible rising high school seniors through an individual laboratory internship. Students should review the lab's high school research page for current application dates, eligibility requirements, and availability.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually strong individual-lab opportunity where high school students conduct research under the mentorship of scientists or graduate researchers. Projects may involve biomedical engineering, biomedical science, AI and image analysis, or neuroscience, and students may have opportunities to continue contributing through data analysis or manuscript preparation.",
+    "summary": "The Mohan Lab at the University of Houston offers rising high school seniors an intensive research experience in areas including biomedical engineering, biomedical science, artificial intelligence, image analysis, and neuroscience. After initial training, students conduct research under the supervision of a scientist or graduate researcher. Some participants may continue contributing to laboratory work through data analysis or manuscript preparation after the summer.",
+    "email": "",
+    "labUrl": "https://mohanlab.bme.uh.edu/open-positions/high-school-students/",
+    "applyUrl": "https://mohanlab.bme.uh.edu/open-positions/high-school-students/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 91,
+    "name": "RISER",
+    "title": "Biomedical Engineering Research Immersion in Science and Engineering",
+    "university": "Rowan University",
+    "state": "New Jersey, USA",
+    "department": "Biomedical Engineering",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "biomedical engineering",
+      "biomedical science",
+      "laboratory research",
+      "independent research",
+      "faculty mentorship",
+      "research immersion"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Summer Research",
+      "Research Project"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "RISER is designed primarily for eligible rising high school seniors from South Jersey, with some nearby students outside the region potentially eligible. Students should check Rowan University's official RISER page for current application deadlines, geographic eligibility, and future summer sessions.",
+    "resumeRating": 4,
+    "ratingNote": "A legitimate laboratory research experience where high school students are placed into biomedical engineering or biomedical sciences research groups for several weeks of guided and independent work. It is more structured than the direct-inquiry opportunities in this batch but still provides substantial exposure to active university research.",
+    "summary": "Rowan University's RISER program places rising high school seniors into biomedical engineering or biomedical sciences laboratories for a multi-week research experience. Participants conduct guided and independent research while working within university laboratory environments and gaining exposure to biomedical research methods and mentorship.",
+    "email": "",
+    "labUrl": "https://engineering.rowan.edu/programs/biomedical/outreach/riser.html",
+    "applyUrl": "https://engineering.rowan.edu/programs/biomedical/outreach/riser.html",
+    "dateAdded": "2026-08-07"
+  }
 ]
