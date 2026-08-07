@@ -476,5 +476,166 @@
     "labUrl": "https://www.lerner.ccf.org/education/undergraduate-high-school-programs/overview/",
     "applyUrl": "",
     "dateAdded": "2026-08-07"
+    },
+  {
+    "id": 22,
+    "name": "Computer Science & Informatics Research Experience (CSIRE)",
+    "title": "Structured Summer Research Program",
+    "university": "Stony Brook University",
+    "state": "New York, USA",
+    "department": "Department of Biomedical Informatics",
+    "field": "Computer Science",
+    "tags": [
+      "computer science",
+      "artificial intelligence",
+      "machine learning",
+      "data science",
+      "cybersecurity",
+      "human-computer interaction"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Applications typically open in January and close in March.",
+    "resumeRating": 5,
+    "ratingNote": "One of the strongest computer science research opportunities available to high school students. Participants conduct genuine faculty-led research while receiving mentorship from graduate students and researchers.",
+    "summary": "The CSIRE program places high school students into active computer science and biomedical informatics research laboratories at Stony Brook University. Students conduct projects involving artificial intelligence, cybersecurity, visualization, machine learning, and human-computer interaction while working alongside faculty, PhD students, and postdoctoral researchers.",
+    "email": "",
+    "labUrl": "https://bmi.stonybrookmedicine.edu/csire/introduction",
+    "applyUrl": "https://bmi.stonybrookmedicine.edu/csire/introduction",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 23,
+    "name": "Research Program for High School Students",
+    "title": "Structured Summer Research Program",
+    "university": "The University of Texas at Dallas",
+    "state": "Texas, USA",
+    "department": "Computer Science K-12 Outreach",
+    "field": "Computer Science",
+    "tags": [
+      "computer science",
+      "artificial intelligence",
+      "computational biology",
+      "programming",
+      "research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Applications generally open in January with a priority deadline around March 1.",
+    "resumeRating": 5,
+    "ratingNote": "A highly competitive research opportunity that provides meaningful faculty mentorship and authentic computer science research experience for high school students.",
+    "summary": "This eight-week summer research program allows advanced high school students to participate in real-world computer science research projects under university faculty. Students may earn recommendation letters based on their research performance.",
+    "email": "",
+    "labUrl": "https://k12.utdallas.edu/research/",
+    "applyUrl": "https://k12.utdallas.edu/research/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 24,
+    "name": "Mentor Assistance Program (MAP)",
+    "title": "Faculty Mentorship Research Program",
+    "university": "University of California San Diego",
+    "state": "California, USA",
+    "department": "San Diego Supercomputer Center",
+    "field": "Computer Science",
+    "tags": [
+      "computer science",
+      "physics",
+      "nanoengineering",
+      "neuroscience",
+      "faculty mentorship",
+      "research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Applications typically open in late summer for the academic year.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional interdisciplinary mentorship program connecting high school students with UC San Diego faculty conducting cutting-edge STEM research.",
+    "summary": "The Mentor Assistance Program matches high school students with faculty mentors across disciplines including computer science, physics, biochemistry, neuroscience, and nanoengineering. Students work on authentic research projects throughout the academic year.",
+    "email": "",
+    "labUrl": "https://education.sdsc.edu/studenttech/internship/",
+    "applyUrl": "https://education.sdsc.edu/studenttech/internship/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 25,
+    "name": "Research Experience for High School Students (REHS)",
+    "title": "Supercomputing Research Program",
+    "university": "University of California San Diego",
+    "state": "California, USA",
+    "department": "San Diego Supercomputer Center",
+    "field": "Computer Science",
+    "tags": [
+      "high performance computing",
+      "artificial intelligence",
+      "scientific computing",
+      "supercomputing",
+      "visualization"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Applications generally open in February and close around March 15.",
+    "resumeRating": 5,
+    "ratingNote": "An outstanding opportunity for students interested in computational science and high-performance computing. Students work directly with researchers at one of the nation's leading supercomputing centers.",
+    "summary": "Students spend eight weeks conducting computational science research involving artificial intelligence, scientific visualization, supercomputing, and high-performance computing alongside researchers at the San Diego Supercomputer Center.",
+    "email": "",
+    "labUrl": "https://education.sdsc.edu/studenttech/rehs./",
+    "applyUrl": "https://education.sdsc.edu/studenttech/rehs./",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 26,
+    "name": "Physics Research in School Environments (PRiSE)",
+    "title": "Physics Research Partnership",
+    "university": "Imperial College London",
+    "state": "London, United Kingdom",
+    "department": "Department of Physics",
+    "field": "Physics",
+    "tags": [
+      "physics",
+      "astrophysics",
+      "space physics",
+      "particle physics",
+      "research partnership"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "Schools typically apply during the autumn each year.",
+    "resumeRating": 4,
+    "ratingNote": "A unique opportunity allowing high school students to participate in authentic university-led physics research. Although students apply through participating schools, the research experience is highly regarded.",
+    "summary": "PRiSE partners high school students with Imperial College London physicists to conduct authentic research in areas such as astrophysics, particle physics, and space weather. The program emphasizes genuine research experiences rather than traditional classroom laboratory activities.",
+    "email": "",
+    "labUrl": "https://www.imperial.ac.uk/prime/secondary-schools/physics-research-in-school-environments/",
+    "applyUrl": "https://www.imperial.ac.uk/prime/secondary-schools/physics-research-in-school-environments/",
+    "dateAdded": "2026-08-07"
   }
 ]
