@@ -5208,4 +5208,180 @@
     "applyUrl": "https://www.publichealth.columbia.edu/academics/departments/environmental-health-sciences/educational-programs/non-degree-offerings/earth",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 156,
+    "name": "Torres-Vázquez Lab",
+    "title": "Developmental and Vascular Biology Volunteer Research Opportunity",
+    "university": "New York University",
+    "state": "New York, USA",
+    "department": "NYU Langone Health",
+    "field": "Molecular Biology",
+    "tags": [
+      "cell biology",
+      "developmental biology",
+      "vascular biology",
+      "zebrafish",
+      "molecular biology",
+      "laboratory research",
+      "volunteer research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Volunteer"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "Students and other prospective volunteers age 16 or older may inquire directly with Dr. Jesús Torres-Vázquez regarding research involvement. Applicants should describe their availability and interest in the laboratory, with a commitment of at least approximately two months preferred. Participation depends on PI approval and completion of NYU Langone volunteer onboarding requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional direct-access NYU research opportunity because the lab explicitly welcomes student volunteers and provides a direct route to contact the principal investigator. Eligible students can gain hands-on exposure to active developmental, vascular, and cell biology research involving zebrafish models.",
+    "summary": "The Torres-Vázquez Lab at NYU Langone conducts research involving developmental biology, vascular biology, cell biology, and zebrafish models. The laboratory explicitly welcomes students and other individuals interested in volunteering to support its research mission. Prospective volunteers age 16 or older can contact Dr. Jesús Torres-Vázquez directly and, if accepted, complete NYU Langone's research-volunteer onboarding process.",
+    "email": "",
+    "labUrl": "https://med.nyu.edu/research/torres-vazquez-lab/members",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 157,
+    "name": "Hartman Research Laboratory — K-12 Research",
+    "title": "Chemical Engineering Academic-Year Research Opportunity",
+    "university": "New York University",
+    "state": "New York, USA",
+    "department": "Chemical and Biomolecular Engineering — NYU Tandon",
+    "field": "Engineering",
+    "tags": [
+      "chemical engineering",
+      "chemistry",
+      "process engineering",
+      "laboratory research",
+      "engineering research",
+      "scientific writing",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Lab Research Pathway",
+    "applicationWindow": "Eligible 11th- and 12th-grade students may participate in Hartman Lab research during the fall and spring semesters through its K-12 pathway. Projects may be conducted in person or remotely depending on the research. Students should review the lab's current K-12 research information for application details and availability.",
+    "resumeRating": 5,
+    "ratingNote": "A strong individual-lab engineering research pathway because high school students work on lab-led projects under doctoral or postdoctoral mentorship over an academic term. Students develop sustained research experience and conclude their work with a written senior thesis and research presentation.",
+    "summary": "The Hartman Research Laboratory at NYU Tandon offers a K-12 research pathway for eligible high school juniors and seniors. Students work on chemical engineering and chemistry research projects during NYU's academic semesters, often under the mentorship of doctoral students or postdoctoral researchers. Participants complete substantial research work and communicate their results through a senior thesis and presentation.",
+    "email": "",
+    "labUrl": "https://wp.nyu.edu/hartmanlab/k-12-research/",
+    "applyUrl": "https://wp.nyu.edu/hartmanlab/k-12-research/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 158,
+    "name": "LINC Research Program — Jonesy Lab",
+    "title": "Paid Chemistry and Materials Research Program",
+    "university": "New York University",
+    "state": "New York, USA",
+    "department": "Department of Chemistry",
+    "field": "Chemistry",
+    "tags": [
+      "chemistry",
+      "materials chemistry",
+      "experimental science",
+      "laboratory research",
+      "research design",
+      "scientific communication",
+      "materials research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Individual Lab Program",
+    "applicationWindow": "The LINC Research Program accepts a small cohort of eligible high school students who have completed at least freshman year. Students from across the United States may apply. Applicants should review the Jonesy Lab's current program information for application deadlines, eligibility, stipend details, housing availability, and future summer cycles.",
+    "resumeRating": 5,
+    "ratingNote": "A highly distinctive individual-lab research opportunity because only a small number of students are selected each year for intensive chemistry research. The program is free, provides a stipend, can offer housing for out-of-state students, and encourages participants to return in later summers to continue their research.",
+    "summary": "The LINC Research Program through NYU Chemistry's Jonesy Lab provides a small cohort of high school students with an intensive five-week laboratory research experience. Participants learn experimental design and scientific communication, conduct chemistry and materials research, receive a stipend, and may return in subsequent summers to continue developing their projects.",
+    "email": "",
+    "labUrl": "https://wp.nyu.edu/labjonesy/linc-program/",
+    "applyUrl": "https://wp.nyu.edu/labjonesy/linc-program/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 159,
+    "name": "ARISE",
+    "title": "Paid NYU Faculty-Lab Research Internship",
+    "university": "New York University",
+    "state": "New York, USA",
+    "department": "NYU Tandon School of Engineering",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "engineering",
+      "life science",
+      "computer science",
+      "data science",
+      "laboratory research",
+      "faculty mentorship",
+      "STEM research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "ARISE serves eligible New York City high school students through an annual summer cycle. Participants complete foundational research and safety training before being placed into NYU research laboratories. Students should review the official ARISE page for current application dates, eligibility requirements, stipend information, and participating labs.",
+    "resumeRating": 5,
+    "ratingNote": "One of NYU's strongest high school research pathways because students are placed across dozens of active university laboratories and spend substantial time assisting faculty and researchers on real projects. The program is free and provides a stipend after successful completion.",
+    "summary": "ARISE is a ten-week NYU Tandon research program for eligible New York City high school students. Participants begin with training in research methods and laboratory safety and then spend six weeks working in one of more than 80 NYU research laboratories. Students assist faculty and researchers on real projects and accumulate approximately 150 hours of laboratory experience.",
+    "email": "",
+    "labUrl": "https://k12stem.engineering.nyu.edu/programs/arise",
+    "applyUrl": "https://k12stem.engineering.nyu.edu/programs/arise",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 160,
+    "name": "GSTEM",
+    "title": "Mentored STEM Summer Research Program",
+    "university": "New York University",
+    "state": "New York, USA",
+    "department": "Courant Institute of Mathematical Sciences",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "mathematics",
+      "computer science",
+      "natural science",
+      "STEM research",
+      "research mentorship",
+      "scientific research",
+      "summer research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "GSTEM operates as a six-week summer research program for high school students through NYU's Courant Institute. The 2026 session runs from June 29 through August 7. Students should review the current GSTEM site for future application deadlines, tuition, eligibility requirements, and financial-aid information.",
+    "resumeRating": 4,
+    "ratingNote": "A strong mentored STEM research experience spanning mathematics, computer science, and natural science. The program emphasizes sustained research immersion and mentor-supported work, although it is tuition-based rather than a paid or free laboratory placement.",
+    "summary": "GSTEM is a six-week summer research program through NYU's Courant Institute that gives high school students sustained exposure to STEM research. Participants work with mentors on research-oriented projects in areas such as mathematics, computer science, and natural science while developing scientific reasoning and communication skills.",
+    "email": "",
+    "labUrl": "https://wp.nyu.edu/gstem/about-us/",
+    "applyUrl": "https://wp.nyu.edu/gstem/about-us/",
+    "dateAdded": "2026-08-07"
+  }
 ]
