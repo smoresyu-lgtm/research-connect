@@ -2818,4 +2818,183 @@
     "applyUrl": "https://engineering.rowan.edu/programs/biomedical/outreach/riser.html",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 92,
+    "name": "Burke Lab",
+    "title": "Molecular Microbiology and Genetics Research Opportunity",
+    "university": "University of Missouri",
+    "state": "Missouri, USA",
+    "department": "Biochemistry",
+    "field": "Molecular Biology",
+    "tags": [
+      "molecular biology",
+      "molecular microbiology",
+      "genetics",
+      "evolution",
+      "biochemistry",
+      "laboratory research",
+      "microbiology"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Volunteer",
+      "Summer Research"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "The Burke Lab has hosted local high school students for summer and academic-year research. High school students interested in joining the laboratory should contact Dr. Burke directly regarding current availability and application expectations.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional direct-access laboratory opportunity because the Burke Lab explicitly has a history of hosting local high school researchers and tells interested students to contact the PI directly. High school participants may work substantial hours during the summer and potentially continue research during the academic year.",
+    "summary": "The Burke Lab at the University of Missouri conducts research spanning molecular microbiology, genetics, evolution, and biochemistry. The research team has included local high school students who participate substantially during the summer before senior year and may continue during the school year. Interested high school students are instructed to contact Dr. Burke directly about joining the laboratory.",
+    "email": "",
+    "labUrl": "https://burkelab.missouri.edu/opportunities.html",
+    "applyUrl": "https://burkelab.missouri.edu/opportunities.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 93,
+    "name": "Lake Lab",
+    "title": "Genetics and Genomics Research Opportunity",
+    "university": "Yale University",
+    "state": "Connecticut, USA",
+    "department": "Genetics",
+    "field": "Molecular Biology",
+    "tags": [
+      "genetics",
+      "genomics",
+      "single-cell biology",
+      "computational biology",
+      "molecular biology",
+      "bioinformatics",
+      "biomedical research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "The Lake Lab encourages high school students seeking summer internships to get in touch regarding potential opportunities. Undergraduate students interested in research projects are also encouraged to inquire. Availability depends on current laboratory projects and mentorship capacity.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly valuable niche opportunity because an individual Yale Genetics laboratory explicitly encourages high school students seeking summer internships to contact the lab. Research spans genetics, genomics, single-cell biology, and computational approaches, offering exposure to modern molecular and genomic research.",
+    "summary": "The Lake Lab at Yale University conducts genetics and genomics research using experimental and computational approaches, including single-cell biology. The lab explicitly encourages high school students interested in summer internships to get in touch and also welcomes inquiries from undergraduate students interested in research projects.",
+    "email": "",
+    "labUrl": "https://www.thelakelab.org/join.html",
+    "applyUrl": "https://www.thelakelab.org/join.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 94,
+    "name": "Liu Lab",
+    "title": "Molecular and Cellular Biology Research Opportunity",
+    "university": "University of Georgia",
+    "state": "Georgia, USA",
+    "department": "Department of Animal and Dairy Science",
+    "field": "Molecular Biology",
+    "tags": [
+      "molecular biology",
+      "cell biology",
+      "taste biology",
+      "metabolism",
+      "biomedical research",
+      "laboratory research",
+      "physiology"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Volunteer"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "Highly motivated undergraduate and high school students are encouraged to contact Dr. Hongxiang Liu directly regarding research opportunities. The lab gives preference to students who can make a substantial commitment, including at least two semesters and approximately 12 hours per week.",
+    "resumeRating": 5,
+    "ratingNote": "A strong direct-inquiry opportunity because the lab explicitly encourages both undergraduate and high school students to become involved in research and provides a direct route to contact the PI. The substantial time commitment makes this especially valuable for students seeking longer-term laboratory experience rather than short-term enrichment.",
+    "summary": "The Liu Lab at the University of Georgia conducts research involving molecular and cellular biology, taste biology, physiology, and metabolism. The laboratory encourages highly motivated high school and undergraduate students to contact Dr. Hongxiang Liu about joining the research team. Preference is given to students who can commit significant weekly time across multiple semesters.",
+    "email": "",
+    "labUrl": "https://site.caes.uga.edu/liulab/join-us/",
+    "applyUrl": "https://site.caes.uga.edu/liulab/join-us/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 95,
+    "name": "D'Orazio Laboratory",
+    "title": "Microbiology and Molecular Genetics Research Opportunity",
+    "university": "University of Kentucky",
+    "state": "Kentucky, USA",
+    "department": "Microbiology, Immunology and Molecular Genetics",
+    "field": "Molecular Biology",
+    "tags": [
+      "molecular biology",
+      "molecular genetics",
+      "microbiology",
+      "immunology",
+      "infectious disease",
+      "bacterial research",
+      "laboratory research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "High school students interested in completing a university research experience for credit are instructed to contact the principal investigator directly by email. Undergraduate students interested in research or volunteering may also inquire. Participation depends on current laboratory availability and applicable university requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually explicit direct-access research opportunity because the laboratory specifically tells high school students seeking a university research experience for credit to contact the PI. Students can gain experience designing experiments, collecting and analyzing scientific data, and communicating research findings.",
+    "summary": "The D'Orazio Laboratory at the University of Kentucky conducts research in microbiology, immunology, molecular genetics, and infectious disease. High school students seeking a university research experience for credit are explicitly invited to contact the principal investigator. Laboratory trainees learn how to design and conduct controlled experiments, analyze results, and communicate scientific research.",
+    "email": "",
+    "labUrl": "https://www.doraziolab.org/join-us.html",
+    "applyUrl": "https://www.doraziolab.org/join-us.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 96,
+    "name": "JSeeliger Lab",
+    "title": "Molecular Biology and Microbiology Summer Research Placement",
+    "university": "Stony Brook University",
+    "state": "New York, USA",
+    "department": "Pharmacological Sciences",
+    "field": "Molecular Biology",
+    "tags": [
+      "molecular biology",
+      "microbiology",
+      "biochemistry",
+      "bacterial biology",
+      "pharmacology",
+      "laboratory research",
+      "infectious disease"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Direct Application",
+    "applicationWindow": "High school students interested in a full-time summer placement should contact Dr. Jessica Seeliger and submit a cover letter and CV. The laboratory instructs prospective high school researchers to submit their materials by December preceding the desired summer placement.",
+    "resumeRating": 5,
+    "ratingNote": "An excellent individual-lab opportunity with unusually clear instructions for high school applicants. Students can apply directly to the PI for a full-time summer research placement by submitting a cover letter and CV, providing a genuine pathway into university molecular biology and microbiology research.",
+    "summary": "The JSeeliger Lab at Stony Brook University conducts research at the intersection of molecular biology, microbiology, biochemistry, bacterial biology, and pharmacology. High school students can apply for full-time summer research placements by sending Dr. Jessica Seeliger a cover letter and CV by the preceding December, making this an unusually direct route into an individual university research laboratory.",
+    "email": "",
+    "labUrl": "https://renaissance.stonybrookmedicine.edu/pharmacological_sciences/jseeliger_lab/contact",
+    "applyUrl": "https://renaissance.stonybrookmedicine.edu/pharmacological_sciences/jseeliger_lab/contact",
+    "dateAdded": "2026-08-07"
+  }
 ]
