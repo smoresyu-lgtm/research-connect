@@ -975,4 +975,175 @@
     "applyUrl": "",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 37,
+    "name": "Eugene Koay — Cancer Physics & Engineering Lab",
+    "title": "Summer Research Internship Opportunity",
+    "university": "UT MD Anderson Cancer Center",
+    "state": "Texas, USA",
+    "department": "Radiation Oncology",
+    "field": "Biomedical Science",
+    "tags": [
+      "cancer research",
+      "oncology",
+      "biomedical engineering",
+      "cancer physics",
+      "medical research",
+      "radiation oncology"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Cold Email",
+    "applicationWindow": "Summer research opportunities are offered based on lab availability. High school and college students interested in a summer experience or internship are instructed to contact Dr. Eugene Koay directly.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional direct-access opportunity for students interested in medicine, oncology, biomedical engineering, or cancer research. The lab explicitly advertises summer experiences for both high school and college students at one of the world's leading cancer research centers.",
+    "summary": "The Cancer Physics & Engineering Lab at UT MD Anderson Cancer Center conducts interdisciplinary research involving cancer, physics, engineering, imaging, and oncology. The lab explicitly offers summer experiences and internships for high school and college students. Interested students are instructed to email Dr. Eugene Koay directly about potential research opportunities.",
+    "email": "",
+    "labUrl": "https://www.mdanderson.org/research/departments-labs-institutes/labs/koay-laboratory/join-our-lab.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 38,
+    "name": "Subree Lab",
+    "title": "Direct Inquiry Cancer Research Opportunity",
+    "university": "University of Minnesota",
+    "state": "Minnesota, USA",
+    "department": "Biomedical Research",
+    "field": "Biomedical Science",
+    "tags": [
+      "cancer biology",
+      "translational medicine",
+      "bioinformatics",
+      "biomedical research",
+      "cancer research",
+      "computational biology"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Summer Research"
+    ],
+    "applicationType": "Cold Email",
+    "applicationWindow": "High school students interested in research are welcomed to inquire about joining the lab during the summer. Undergraduate students may also contact the lab and are encouraged to provide a résumé and statement describing their research interests.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly strong opportunity for pre-med and biomedical students because the lab explicitly welcomes high school researchers during the summer and also provides a direct pathway for undergraduates to inquire about research positions.",
+    "summary": "The Subree Lab at the University of Minnesota conducts biomedical research involving cancer biology, translational medicine, bioinformatics, and related approaches. The lab explicitly welcomes high school students interested in joining research during the summer. Undergraduate students are also encouraged to inquire and may submit a résumé and description of their research interests.",
+    "email": "",
+    "labUrl": "https://subreelab.umn.edu/join-lab",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 39,
+    "name": "Dolmetsch Lab",
+    "title": "Volunteer Biomedical Research Opportunity",
+    "university": "Stanford University",
+    "state": "California, USA",
+    "department": "Neurobiology",
+    "field": "Neuroscience",
+    "tags": [
+      "neuroscience",
+      "neurodevelopment",
+      "biomedical research",
+      "cell biology",
+      "neurological disease",
+      "volunteer research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Volunteer"
+    ],
+    "applicationType": "Cold Email",
+    "applicationWindow": "The lab accepts a small number of high school students each year. Interested high school students are instructed to email the lab with a one-page essay explaining why they want to work there. Undergraduate students from outside Stanford may also inquire about volunteer opportunities.",
+    "resumeRating": 5,
+    "ratingNote": "A rare direct-inquiry opportunity at Stanford for high school students interested in neuroscience and biomedical research. The lab explicitly states that it hosts a small number of high school researchers each year, although positions are likely highly competitive.",
+    "summary": "The Dolmetsch Lab at Stanford University conducts biomedical and neuroscience research involving neurodevelopment, cellular signaling, and neurological disease. The laboratory accepts a small number of high school students each year. High school applicants are asked to contact the lab with a one-page essay describing why they want to participate, while outside undergraduates may also inquire about volunteer research.",
+    "email": "",
+    "labUrl": "https://web.stanford.edu/group/dolmetschlab/Dolmetsch_Lab_Website/Join_us.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 40,
+    "name": "Summer Youth Science Fellowship",
+    "title": "Structured Summer Cancer Research Program",
+    "university": "University of California, Irvine — Cancer Research Institute",
+    "state": "California, USA",
+    "department": "Cancer Research Institute",
+    "field": "Biomedical Science",
+    "tags": [
+      "cancer biology",
+      "oncology",
+      "population science",
+      "biomedical research",
+      "laboratory research",
+      "mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The 2026 application cycle is closed. The program operates during the summer, and students interested in future participation should check the official program page for the next application cycle.",
+    "resumeRating": 5,
+    "ratingNote": "A strong pre-med and cancer research opportunity because students spend several weeks working alongside UCI researchers and receive direct research mentorship. The specialized cancer focus makes it especially valuable for students considering medicine, oncology, or biomedical science.",
+    "summary": "The Summer Youth Science Fellowship at the UC Irvine Cancer Research Institute is a six-week research experience for high school students interested in cancer science. Participants work alongside UCI researchers in laboratory or research-team settings and are paired with research mentors while gaining exposure to cancer biology, population science, and biomedical research.",
+    "email": "",
+    "labUrl": "https://cancerresearch.uci.edu/education-and-training/high-school-students/summer-youth-science-fellowship-program/",
+    "applyUrl": "https://cancerresearch.uci.edu/education-and-training/high-school-students/summer-youth-science-fellowship-program/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 41,
+    "name": "Memorial Sloan Kettering Summer Student Program",
+    "title": "Structured Summer Biomedical Research Program",
+    "university": "Memorial Sloan Kettering Cancer Center",
+    "state": "New York, USA",
+    "department": "Biomedical Research",
+    "field": "Biomedical Science",
+    "tags": [
+      "cancer research",
+      "biomedical research",
+      "computational biology",
+      "oncology",
+      "laboratory research",
+      "mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Applications are offered through an annual summer program cycle. Students should consult the official Memorial Sloan Kettering program page for the next application opening and deadline.",
+    "resumeRating": 5,
+    "ratingNote": "An outstanding opportunity for students interested in medicine, cancer biology, or computational biomedical research. Participants conduct an extended mentored project at one of the country's leading cancer centers, making it one of the strongest pre-med-oriented listings in the database.",
+    "summary": "The Memorial Sloan Kettering Summer Student Program provides high school students with an eight-week biomedical or computational research experience. Students are paired with research mentors and work on an individual project connected to the broader research of an MSK laboratory, gaining direct exposure to cancer science and professional biomedical research.",
+    "email": "",
+    "labUrl": "https://www.mskcc.org/education-training/summer-student",
+    "applyUrl": "https://www.mskcc.org/education-training/summer-student",
+    "dateAdded": "2026-08-07"
+  }
 ]
