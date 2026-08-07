@@ -4857,4 +4857,180 @@
     "applyUrl": "",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 146,
+    "name": "Biophysics: Experiment & Computational Modeling",
+    "title": "Biophysics, AI, Imaging and Computational Research",
+    "university": "Princeton University",
+    "state": "New Jersey, USA",
+    "department": "Department of Physics",
+    "field": "Physics",
+    "tags": [
+      "biophysics",
+      "artificial intelligence",
+      "machine learning",
+      "microscopy",
+      "microfluidics",
+      "soft robotics",
+      "computational modeling"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "This research placement is offered through Princeton's Laboratory Learning Program for eligible local New Jersey high school students age 16 or older. The 2026 application cycle is closed. Projects may change each year, so students should review the Laboratory Learning Program for future availability and should not contact faculty directly regarding LLP placements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional interdisciplinary research placement where high school students can contribute to active biophysics projects involving experimental and computational methods. Past student work has included deep-learning tumor segmentation, zebrafish AI, light-sheet microscopy, soft robotics, microfluidics, hyperspectral imaging, and protein modeling.",
+    "summary": "This Princeton Physics research placement gives eligible high school students experience in experimental and computational biophysics. Students work alongside researchers and may join an ongoing project or develop a suitable project within the lab's research areas. Depending on the project, students can gain experience with Python, MATLAB, machine learning, microscopy, imaging, microfluidics, soft robotics, and other research techniques before producing a final poster.",
+    "email": "",
+    "labUrl": "https://scienceoutreach.princeton.edu/laboratory-learning-program-2026-biophysics-experiment-and-computational-modeling-phy-01",
+    "applyUrl": "https://scienceoutreach.princeton.edu/laboratory-learning-program",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 147,
+    "name": "Modeling Disease Dysregulation Using Large Genomic Datasets",
+    "title": "Computational Genomics and Disease Modeling Research",
+    "university": "Princeton University",
+    "state": "New Jersey, USA",
+    "department": "Lewis-Sigler Institute for Integrative Genomics",
+    "field": "Computational Biology",
+    "tags": [
+      "computational biology",
+      "genomics",
+      "machine learning",
+      "bioinformatics",
+      "disease biology",
+      "statistics",
+      "data science"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "This project is offered through Princeton's Laboratory Learning Program for eligible local New Jersey high school students age 16 or older. The 2026 application cycle is closed. No previous research experience is required, and prior coding experience is helpful but not required. Students should check LLP for future project availability rather than contacting faculty directly.",
+    "resumeRating": 5,
+    "ratingNote": "A standout computational biology opportunity because students work with large genomic datasets and apply statistical and machine-learning approaches to genuine biological questions. The project is unusually accessible because Princeton states that previous research and programming experience are not required.",
+    "summary": "This Lewis-Sigler Institute research project introduces high school students to computational genomics and disease biology. Students work with a mentor to analyze large genomic datasets and develop or apply statistical and machine-learning approaches to questions involving cell types, genetic variation, genome function, development, aging, and disease.",
+    "email": "",
+    "labUrl": "https://scienceoutreach.princeton.edu/laboratory-learning-program-2026-modeling-disease-dysregulation-using-large-genomic-datasets-lsi-02",
+    "applyUrl": "https://scienceoutreach.princeton.edu/laboratory-learning-program",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 148,
+    "name": "Study & Engineering of New Enzymes for Biocatalytic Peptide Synthesis",
+    "title": "Enzyme Engineering and Biocatalysis Research",
+    "university": "Princeton University",
+    "state": "New Jersey, USA",
+    "department": "Department of Chemistry",
+    "field": "Chemistry",
+    "tags": [
+      "biochemistry",
+      "enzyme engineering",
+      "molecular biology",
+      "bioengineering",
+      "bioinformatics",
+      "protein purification",
+      "analytical chemistry"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "This paid research project was offered through Princeton's 2026 Laboratory Learning Program for eligible local New Jersey high school students age 16 or older. The 2026 placement offered a $150 weekly stipend. Projects and compensation may change in future years, so students should verify future availability through LLP and should not contact faculty directly regarding program placements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional hands-on chemistry and biochemistry placement involving techniques used in active molecular research. Students can gain experience with bioinformatics, molecular cloning, DNA analysis, microbial culture, protein purification, chromatography, electrophoresis, mutagenesis, and analytical chemistry while contributing to enzyme-engineering research.",
+    "summary": "This Princeton Chemistry research project investigates enzymes that can be used for biocatalytic peptide synthesis. The high school researcher contributes to the study and engineering of new enzymes while learning techniques including molecular cloning, DNA analysis, protein purification, chromatography, electrophoresis, microbial culture, bioinformatics, mutagenesis, and analytical chemistry.",
+    "email": "",
+    "labUrl": "https://scienceoutreach.princeton.edu/laboratory-learning-program-2026-study-and-engineering-new-enzymes-biocatalytic-peptide-synthesis",
+    "applyUrl": "https://scienceoutreach.princeton.edu/laboratory-learning-program",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 149,
+    "name": "Semiconductor Laser Systems Design",
+    "title": "Photonics and Semiconductor Engineering Research",
+    "university": "Princeton University",
+    "state": "New Jersey, USA",
+    "department": "Electrical and Computer Engineering",
+    "field": "Engineering",
+    "tags": [
+      "electrical engineering",
+      "photonics",
+      "semiconductors",
+      "laser systems",
+      "optical engineering",
+      "computational modeling",
+      "data analysis"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "This paid research placement was offered through Princeton's 2026 Laboratory Learning Program for eligible local New Jersey high school students age 16 or older. The 2026 position paid $15.92 per hour. Projects and compensation may change each year, so students should verify future availability through LLP rather than contacting the research group directly.",
+    "resumeRating": 5,
+    "ratingNote": "A strong engineering research placement where a high school student becomes embedded in a Princeton research group studying semiconductor laser systems. Potential work includes quantum and optical design, computational analysis, scientific literature research, data analysis, and software development.",
+    "summary": "This Princeton Electrical and Computer Engineering project gives a high school researcher experience with semiconductor laser systems and photonics. The research group studies topics spanning materials, device design, laser systems, chemical sensing, and emerging computing technologies. Student contributions can include quantum and optical design, computational work, data analysis, literature research, and software development.",
+    "email": "",
+    "labUrl": "https://scienceoutreach.princeton.edu/laboratory-learning-program-2026-semiconductor-laser-systems-design-ece-01",
+    "applyUrl": "https://scienceoutreach.princeton.edu/laboratory-learning-program",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 150,
+    "name": "How Social Isolation Shapes Social Thought",
+    "title": "Psychology, Linguistics and Machine Learning Research",
+    "university": "Princeton University",
+    "state": "New Jersey, USA",
+    "department": "Department of Psychology",
+    "field": "Psychology",
+    "tags": [
+      "psychology",
+      "cognitive science",
+      "social psychology",
+      "natural language processing",
+      "machine learning",
+      "linguistic analysis",
+      "behavioral research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "This research project was offered through Princeton's 2026 Laboratory Learning Program for eligible local New Jersey high school students age 16 or older. The 2026 application cycle is closed. Students should review future LLP project listings for availability and should not contact Princeton faculty directly regarding LLP placements.",
+    "resumeRating": 5,
+    "ratingNote": "A distinctive psychology research assistantship combining traditional social and cognitive psychology with computational methods. Students contribute to real research involving linguistic data, machine learning, behavioral science, and the study of how social experiences influence thought.",
+    "summary": "This Princeton Psychology research project examines how periods of social isolation may influence the way people think and communicate. High school researchers assist with data collection and preprocessing for computational linguistic analysis and text classification. The broader research environment uses behavioral experiments, functional neuroimaging, machine learning, and other methods to study the self and social cognition.",
+    "email": "",
+    "labUrl": "https://scienceoutreach.princeton.edu/laboratory-learning-program-2026-how-social-isolation-shapes-social-thought-psy-01",
+    "applyUrl": "https://scienceoutreach.princeton.edu/laboratory-learning-program",
+    "dateAdded": "2026-08-07"
+  }
 ]
