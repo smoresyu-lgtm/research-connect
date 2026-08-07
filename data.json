@@ -637,5 +637,173 @@
     "labUrl": "https://www.imperial.ac.uk/space-and-atmospheric-physics/outreach--engagement/school-students--teachers/",
     "applyUrl": "https://www.imperial.ac.uk/space-and-atmospheric-physics/outreach--engagement/school-students--teachers/",
     "dateAdded": "2026-08-07"
-}
+  },
+  {
+    "id": 27,
+    "name": "Hanbin Mao — Mao Research Lab",
+    "title": "Direct Inquiry Research Opportunity",
+    "university": "Kent State University",
+    "state": "Ohio, USA",
+    "department": "Chemistry and Biochemistry",
+    "field": "Chemistry",
+    "tags": [
+      "mechanoanalytical chemistry",
+      "single-molecule biophysics",
+      "molecular biology",
+      "DNA",
+      "proteins",
+      "wet lab"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "Rolling. The lab is currently recruiting high school students; interested students should contact Dr. Hanbin Mao directly.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually strong direct-inquiry opportunity for high school students because the lab already hosts high school researchers and is actively seeking additional students. Participants may gain experience with highly specialized single-molecule, chemical, and molecular biology research.",
+    "summary": "The Mao Research Lab studies mechanical forces and interactions involving biomolecules using single-molecule techniques. Research spans mechanoanalytical chemistry, DNA and protein behavior, molecular biology, and biophysics. The lab currently includes high school researchers and is seeking additional high school students, making this a rare direct-access university laboratory opportunity.",
+    "email": "",
+    "labUrl": "https://www.personal.kent.edu/~hmao/index.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 28,
+    "name": "Ran Blekhman — Blekhman Lab",
+    "title": "Direct Inquiry Research Opportunity",
+    "university": "University of Chicago",
+    "state": "Illinois, USA",
+    "department": "Genetic Medicine",
+    "field": "Computational Biology",
+    "tags": [
+      "computational genomics",
+      "microbiome",
+      "machine learning",
+      "population genetics",
+      "sequencing",
+      "multi-omics"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "Rolling with no fixed application deadline listed. Interested high school students may contact Professor Blekhman with a short introduction and CV.",
+    "resumeRating": 5,
+    "ratingNote": "A rare opportunity for high school students to directly inquire about computational genomics research at a major research university. Particularly strong for students with programming or computational experience who want exposure to genomics, machine learning, and microbiome research.",
+    "summary": "The Blekhman Lab studies interactions between human genetics, the microbiome, and health using computational genomics. Its research incorporates machine learning, population genetics, sequencing, and multi-omics approaches. The lab explicitly welcomes inquiries from high school students and asks interested students to contact Professor Blekhman with a brief introduction and CV.",
+    "email": "",
+    "labUrl": "https://blekhmanlab.org/join/index.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 29,
+    "name": "Hillel Chiel — Chiel Lab",
+    "title": "Volunteer Research Opportunity",
+    "university": "Case Western Reserve University",
+    "state": "Ohio, USA",
+    "department": "Biology",
+    "field": "Neuroscience",
+    "tags": [
+      "neurobiology",
+      "computational neuroscience",
+      "animal behavior",
+      "motor control",
+      "experimental biology",
+      "volunteer research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Volunteer"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "Rolling with no fixed application deadline listed. Interested students should contact Dr. Hillel Chiel directly about volunteering in the laboratory.",
+    "resumeRating": 4,
+    "ratingNote": "A strong opportunity for high school and undergraduate students seeking hands-on exposure to neurobiology and animal behavior research. The lab explicitly welcomes student volunteers and provides a pathway for students to become involved with ongoing research projects.",
+    "summary": "The Chiel Lab conducts experimental and computational research on neurobiology, motor control, and animal behavior. High school and undergraduate students are encouraged to inquire about volunteering. Students can become involved with lab meetings, learn about ongoing projects, and connect with researchers whose work matches their interests.",
+    "email": "",
+    "labUrl": "https://case.edu/artsci/biology/chiellab/join-lab",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 30,
+    "name": "Andrés Vidal-Gadea — Vidal-Gadea Lab",
+    "title": "Direct Inquiry Research Opportunity",
+    "university": "Illinois State University",
+    "state": "Illinois, USA",
+    "department": "Biological Sciences",
+    "field": "Neuroscience",
+    "tags": [
+      "neurogenetics",
+      "muscular dystrophy",
+      "magnetoreception",
+      "space biology",
+      "C. elegans",
+      "microscopy",
+      "animal models"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "Rolling. Interested students should contact the lab directly about currently available research opportunities.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional niche research opportunity for motivated high school students. Previous high school researchers have participated in behavioral testing, microscopy, immunohistochemistry, and data analysis connected to ongoing laboratory research.",
+    "summary": "The Vidal-Gadea Lab conducts highly specialized neurobiology and neurogenetics research involving C. elegans and other animal models. Projects include Duchenne muscular dystrophy, animal magnetoreception, crayfish neurogenetics, and the biological effects of simulated extraterrestrial environments. The lab explicitly welcomes driven high school students to inquire about ongoing research opportunities.",
+    "email": "",
+    "labUrl": "https://about.illinoisstate.edu/avidal/opportunities/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 31,
+    "name": "Robert Landick — Landick Lab",
+    "title": "Direct Inquiry Research Opportunity",
+    "university": "University of Wisconsin–Madison",
+    "state": "Wisconsin, USA",
+    "department": "Biochemistry",
+    "field": "Molecular Biology",
+    "tags": [
+      "RNA polymerase",
+      "gene regulation",
+      "synthetic biology",
+      "transcription",
+      "single-molecule biology",
+      "bioenergy",
+      "molecular biology"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "Rolling. High school students may contact the lab about summer or academic-year opportunities, while undergraduate research opportunities are also available.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly strong molecular biology opportunity because the lab explicitly invites high school students to inquire and states that prior research experience is not required. Research can provide exposure to advanced molecular biology, transcription, and synthetic biology techniques.",
+    "summary": "The Landick Lab studies the molecular mechanisms controlling gene expression, with particular emphasis on RNA polymerase and transcription. Research includes transcriptional regulation, single-molecule approaches, synthetic biology, and bioenergy. Interested high school students are specifically encouraged to contact the lab, and prior research experience is not required.",
+    "email": "",
+    "labUrl": "https://landick.wisc.edu/join-us/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  }
 ]
