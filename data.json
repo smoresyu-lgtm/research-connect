@@ -805,5 +805,175 @@
     "labUrl": "https://landick.wisc.edu/join-us/",
     "applyUrl": "",
     "dateAdded": "2026-08-07"
+  [
+  {
+    "id": 32,
+    "name": "Hillel Chiel — Chiel Lab",
+    "title": "Volunteer Research Opportunity",
+    "university": "Case Western Reserve University",
+    "state": "Ohio, USA",
+    "department": "Biology",
+    "field": "Neuroscience",
+    "tags": [
+      "neurobiology",
+      "computational neuroscience",
+      "biomechanics",
+      "animal behavior",
+      "motor control",
+      "experimental biology",
+      "volunteer research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Volunteer"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "Rolling with no fixed application deadline listed. Interested students should contact Dr. Hillel Chiel directly with their research interests and a one-page résumé.",
+    "resumeRating": 4,
+    "ratingNote": "A strong direct-access university research opportunity for both high school and undergraduate students. The lab explicitly encourages student volunteers and provides a pathway for students to become involved with ongoing research projects.",
+    "summary": "The Chiel Lab studies the neural and biomechanical mechanisms underlying animal behavior and motor control using experimental and computational approaches. High school and undergraduate students are explicitly encouraged to volunteer. Interested students can contact Dr. Hillel Chiel with their research interests and a one-page résumé.",
+    "email": "",
+    "labUrl": "https://case.edu/artsci/biology/chiellab/join-lab",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 33,
+    "name": "Ryoko Oono — Oono Lab",
+    "title": "Direct Inquiry Research Opportunity",
+    "university": "University of California, Santa Barbara",
+    "state": "California, USA",
+    "department": "Ecology, Evolution, and Marine Biology",
+    "field": "Biology",
+    "tags": [
+      "ecology",
+      "evolution",
+      "fungal biology",
+      "mycology",
+      "plant-microbe interactions",
+      "microbiology",
+      "volunteer research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Volunteer"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "Rolling with no fixed deadline listed. Highly motivated students from outside UCSB, including high school students, may contact Dr. Ryoko Oono about available projects and volunteer opportunities. UCSB students receive priority.",
+    "resumeRating": 4,
+    "ratingNote": "An unusually accessible ecology and evolutionary biology opportunity because the lab explicitly welcomes inquiries from high school students and students outside UCSB. Opportunities are competitive and UCSB students receive priority, but small research projects may be available to motivated outside students.",
+    "summary": "The Oono Lab studies fungal biology, ecology, evolution, and interactions between fungi, plants, and other organisms. Highly motivated students from outside UC Santa Barbara, including high school students, may inquire about research projects and volunteer opportunities. Small summer projects may sometimes be available, although space is limited and UCSB students generally receive priority.",
+    "email": "",
+    "labUrl": "https://oono-lab.eemb.ucsb.edu/join",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 34,
+    "name": "Tatiana Segura — Segura Lab",
+    "title": "Direct Inquiry Research Opportunity",
+    "university": "Duke University",
+    "state": "North Carolina, USA",
+    "department": "Biomedical Engineering",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "biomedical engineering",
+      "biomaterials",
+      "regenerative medicine",
+      "tissue engineering",
+      "wet lab",
+      "coding",
+      "data analysis"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "Rolling based on mentor and project availability. High school students may inquire directly about mentorship, while non-Duke undergraduates who will be local during the summer may also contact the lab about possible projects.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional direct-inquiry opportunity at a major biomedical engineering research lab. The lab explicitly welcomes high school students, and previous students have participated in wet-lab experiments, coding, and data analysis under mentorship from graduate students and postdoctoral researchers.",
+    "summary": "The Segura Lab at Duke University develops biomaterials and regenerative medicine approaches for tissue repair and biomedical applications. The lab explicitly welcomes high school students interested in research mentorship. Previous high school projects have included wet-lab experiments, coding, and data analysis. Non-Duke undergraduates who will be local during the summer may also inquire about available projects.",
+    "email": "",
+    "labUrl": "https://seguralab.duke.edu/join-us/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 35,
+    "name": "Diehl Lab",
+    "title": "Direct Inquiry Research Opportunity",
+    "university": "Kansas State University",
+    "state": "Kansas, USA",
+    "department": "Psychological Sciences",
+    "field": "Psychology",
+    "tags": [
+      "behavioral neuroscience",
+      "psychology",
+      "neuroscience",
+      "behavior",
+      "laboratory research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant"
+    ],
+    "applicationType": "Cold Email",
+    "applicationWindow": "Rolling. High school students are encouraged to email the lab directly for information about available opportunities. Undergraduate applicants may submit a résumé or CV, unofficial transcript, and course schedule.",
+    "resumeRating": 4,
+    "ratingNote": "A strong behavioral neuroscience opportunity because the lab explicitly welcomes high school students rather than limiting research positions to enrolled university students. Undergraduate students also have a clearly defined pathway for applying to ongoing research projects.",
+    "summary": "The Diehl Lab at Kansas State University conducts behavioral neuroscience and psychology research. High school students are explicitly welcomed and may email the lab directly to ask about research involvement. Undergraduate students can also apply to participate in ongoing projects by submitting a résumé or CV, unofficial transcript, and course schedule.",
+    "email": "",
+    "labUrl": "https://www.diehllab.com/join-the-lab",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 36,
+    "name": "Andrew Leber — Cognitive Control Laboratory",
+    "title": "Direct Inquiry Research Opportunity",
+    "university": "The Ohio State University",
+    "state": "Ohio, USA",
+    "department": "Psychology",
+    "field": "Psychology",
+    "tags": [
+      "cognitive psychology",
+      "cognitive neuroscience",
+      "attention",
+      "cognitive control",
+      "visual perception",
+      "human behavior"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "Rolling. The laboratory frequently recruits undergraduate research assistants and high school students. Undergraduate applications are accepted continuously, with interviews conducted when positions become available.",
+    "resumeRating": 4,
+    "ratingNote": "A strong psychology and neuroscience opportunity with unusually explicit access for high school students. The lab recruits students on a rolling basis and provides exposure to active research on attention, distraction, visual processing, and cognitive control.",
+    "summary": "The Cognitive Control Laboratory at The Ohio State University studies how people control attention, respond to distraction, and adapt cognitive processes based on goals and experience. The lab frequently recruits both undergraduate research assistants and high school students. Interested students can contact the laboratory directly, while undergraduate applications are accepted continuously and interviews occur as positions become available.",
+    "email": "",
+    "labUrl": "https://leberatory.org/join/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
   }
+]
 ]
