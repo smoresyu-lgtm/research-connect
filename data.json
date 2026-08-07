@@ -1654,4 +1654,177 @@
     "applyUrl": "https://med.stanford.edu/psychiatry/special-initiatives/techx.html",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 57,
+    "name": "Explorations in Neuroscience Research Internship",
+    "title": "Paid Neuroscience Laboratory Research Internship",
+    "university": "The Ohio State University",
+    "state": "Ohio, USA",
+    "department": "Department of Neuroscience",
+    "field": "Neuroscience",
+    "tags": [
+      "neuroscience",
+      "neurodegeneration",
+      "neurological injury",
+      "brain research",
+      "laboratory research",
+      "data analysis",
+      "neuroimaging"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The 2026 application cycle is closed. Information for the 2027 program is expected to become available in January. Eligible rising high school juniors and seniors from across the United States may apply.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional high school neuroscience opportunity offering full-time immersion in an active research laboratory. Students contribute to ongoing neuroscience projects, learn research techniques, analyze data, and present their work through a final research poster. Previous research experience is not required.",
+    "summary": "Ohio State's Explorations in Neuroscience Research Internship provides rising high school juniors and seniors with an eight-week research experience in an active neuroscience laboratory. Students spend most of a 40-hour workweek contributing to research involving neuroscience and neurological disease or injury, learning laboratory and analytical techniques, working with research mentors, and presenting a final research poster.",
+    "email": "",
+    "labUrl": "https://medicine.osu.edu/departments/neuroscience/outreach-and-events/internship",
+    "applyUrl": "https://medicine.osu.edu/departments/neuroscience/outreach-and-events/internship",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 58,
+    "name": "Duke University Neuroscience Experience (DUNE)",
+    "title": "Paid Neuroscience Research Internship",
+    "university": "Duke University",
+    "state": "North Carolina, USA",
+    "department": "Duke Institute for Brain Sciences",
+    "field": "Neuroscience",
+    "tags": [
+      "neuroscience",
+      "brain science",
+      "laboratory research",
+      "research mentorship",
+      "biomedical research",
+      "neuroscience research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "DUNE operates during the summer and is limited to eligible high school sophomores and juniors attending participating public or charter schools in Durham, North Carolina. Students should review the official program page for the next application cycle and current eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An outstanding full-time neuroscience research experience where high school students are matched with Duke laboratories according to their interests. Participants conduct mentored research rather than simply observing scientists, and the program provides a stipend. Geographic eligibility is highly restricted.",
+    "summary": "The Duke University Neuroscience Experience is a paid summer research program for eligible Durham high school students. Participants are matched with Duke neuroscience laboratories based on their interests, develop and conduct research projects, and receive individualized mentorship from scientists. The program provides an intensive introduction to professional neuroscience research.",
+    "email": "",
+    "labUrl": "https://dibs.duke.edu/education/dune/",
+    "applyUrl": "https://dibs.duke.edu/education/dune/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 59,
+    "name": "UCLA BrainSPORT Summer High School Research Internship",
+    "title": "Clinical Neuroscience Research Internship",
+    "university": "University of California, Los Angeles",
+    "state": "California, USA",
+    "department": "UCLA Steve Tisch BrainSPORT Program",
+    "field": "Neuroscience",
+    "tags": [
+      "clinical neuroscience",
+      "concussion",
+      "traumatic brain injury",
+      "neuroimaging",
+      "cognitive assessment",
+      "sports medicine",
+      "clinical research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The internship is offered through the UCLA Steve Tisch BrainSPORT Program. Students should review the official internship page for current summer dates, eligibility requirements, and application deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "An excellent clinical neuroscience opportunity for students interested in neuroscience, neurology, sports medicine, or pre-med pathways. Interns gain exposure to active concussion and traumatic brain injury research while learning about research protocols, data management, cognitive assessment, neuroimaging, and other clinical research methods.",
+    "summary": "The UCLA BrainSPORT Summer High School Research Internship introduces students to clinical neuroscience research focused on concussion and traumatic brain injury. Interns work alongside UCLA scientists and clinicians, attend research meetings, learn research protocols and data management, and gain exposure to techniques such as neuroimaging, cognitive assessment, autonomic testing, and biological sample-based research. Participants also complete a final project.",
+    "email": "",
+    "labUrl": "https://www.uclahealth.org/departments/neurosurgery/brainsport/training/internship",
+    "applyUrl": "https://www.uclahealth.org/departments/neurosurgery/brainsport/training/internship",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 60,
+    "name": "Travis B. Lewis Scholarship",
+    "title": "Paid Experimental Neuroscience Research Program",
+    "university": "University of Nebraska Medical Center",
+    "state": "Nebraska, USA",
+    "department": "Pharmacology and Experimental Neuroscience",
+    "field": "Neuroscience",
+    "tags": [
+      "neurodegeneration",
+      "Alzheimer's disease",
+      "Parkinson's disease",
+      "ALS",
+      "neuroregeneration",
+      "experimental neuroscience",
+      "biomedical research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The summer research opportunity is available to eligible high school students age 16 or older. Research placements may last up to ten weeks. Students should review the UNMC program page for current application deadlines and requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional neuroscience opportunity for high school students interested in neurological disease or biomedical research. Students work alongside faculty and graduate researchers on active projects involving conditions such as Alzheimer's disease, Parkinson's disease, and ALS. Research contributions may potentially lead to authorship on resulting publications, although authorship is not guaranteed.",
+    "summary": "The Travis B. Lewis Scholarship provides high school students with an intensive research experience in the University of Nebraska Medical Center's Department of Pharmacology and Experimental Neuroscience. Students work alongside faculty and graduate researchers on projects involving neurodegeneration, neuroregeneration, Alzheimer's disease, Parkinson's disease, ALS, and related biomedical topics. Research placements may last up to ten weeks.",
+    "email": "",
+    "labUrl": "https://www.unmc.edu/pharmacology/education/summer-research.html",
+    "applyUrl": "https://www.unmc.edu/pharmacology/education/summer-research.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 61,
+    "name": "NEURO-RocHS",
+    "title": "Paid High School Neuroscience Research Program",
+    "university": "University of Rochester",
+    "state": "New York, USA",
+    "department": "Del Monte Institute for Neuroscience",
+    "field": "Neuroscience",
+    "tags": [
+      "neuroscience",
+      "brain research",
+      "biomedical engineering",
+      "laboratory research",
+      "research mentorship",
+      "healthcare technology"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The program is designed for eligible students in the Rochester City School District. Students should review the official NEURO-RocHS page for current summer dates, application deadlines, stipend information, and eligibility requirements.",
+    "resumeRating": 4,
+    "ratingNote": "A strong paid neuroscience opportunity that pairs high school students with research mentors for hands-on laboratory work. The program also incorporates biomedical engineering and technology-driven healthcare research opportunities, although eligibility is geographically restricted to Rochester City School District students.",
+    "summary": "NEURO-RocHS provides Rochester high school students with a six-week paid neuroscience research experience. Participants are paired with research mentors and conduct hands-on work in University of Rochester neuroscience laboratories. Through partnerships that include Rochester Institute of Technology, students may also gain exposure to biomedical engineering and technology-focused healthcare research.",
+    "email": "",
+    "labUrl": "https://www.urmc.rochester.edu/del-monte-neuroscience/about/neuroscience-commission/neurorochs",
+    "applyUrl": "https://www.urmc.rochester.edu/del-monte-neuroscience/about/neuroscience-commission/neurorochs",
+    "dateAdded": "2026-08-07"
+  }
 ]
