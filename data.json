@@ -4680,4 +4680,181 @@
     "applyUrl": "https://molbiosci.northwestern.edu/programs/biological-sciences-major/summer-outreach.html",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 141,
+    "name": "Pathology & Laboratory Medicine Summer Research Internship",
+    "title": "Biomedical Pathology Research Internship",
+    "university": "Brown University",
+    "state": "Rhode Island, USA",
+    "department": "Pathology and Laboratory Medicine",
+    "field": "Biomedical Science",
+    "tags": [
+      "pathology",
+      "cancer biology",
+      "toxicology",
+      "infectious disease",
+      "biomedical research",
+      "laboratory research",
+      "medical research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "The program serves eligible Rhode Island high school students, especially rising juniors and seniors from historically marginalized or economically disadvantaged backgrounds. The 2026 application deadline was May 22. Students should review Brown Pathology's current outreach information for future application cycles and eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "A strong Brown medical research opportunity because students are individually assigned to active research laboratories and work on specific scientific projects with researchers. Potential topics include cancer biology, infectious disease, toxicology, vaccine development, neurodegenerative disease, and developmental biology.",
+    "summary": "Brown University's Pathology and Laboratory Medicine Summer Research Internship places eligible Rhode Island high school students into active research laboratories for a five-week experience. Students work on specific biomedical research projects with scientists and may gain exposure to areas such as cancer biology, infectious disease, toxicology, vaccine development, neural and cardiac development, and neurodegenerative disease before presenting their work.",
+    "email": "",
+    "labUrl": "https://pathology.med.brown.edu/about/community",
+    "applyUrl": "https://pathology.med.brown.edu/about/community",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 142,
+    "name": "Ocean, Climate & Ecosystems (OCE) Data Science Research Internship",
+    "title": "Year-Long Ocean and Climate Data Science Research Internship",
+    "university": "Brown University",
+    "state": "Rhode Island, USA",
+    "department": "Di Lorenzo Research Group",
+    "field": "Environmental Science",
+    "tags": [
+      "oceanography",
+      "climate science",
+      "marine ecology",
+      "data science",
+      "Python",
+      "MATLAB",
+      "environmental research",
+      "scientific publication"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "Applications for the 2026–27 OCE internship cycle are closed. Brown indicates that the next application round is expected to open in Spring 2027. Students should review the Di Lorenzo Research Group's official internship page for updated eligibility requirements and dates.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional environmental research opportunity because students receive long-term mentorship and develop personalized research projects rather than completing a short canned exercise. Participants learn computational tools, analyze real ocean and climate data, and may work toward conference presentations or peer-reviewed publication.",
+    "summary": "The Ocean, Climate & Ecosystems Data Science Research Internship through Professor Emanuele Di Lorenzo's research group gives high school students a year-long mentored research experience. Participants attend in-person sessions at Brown, receive remote mentorship, learn tools such as Python and MATLAB, develop individual research projects, and analyze real oceanographic and climate data.",
+    "email": "",
+    "labUrl": "https://www.ocean.brown.edu/oce-internship",
+    "applyUrl": "https://www.ocean.brown.edu/oce-internship",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 143,
+    "name": "DEEPS CORES Research Internship",
+    "title": "Paid Earth and Planetary Science Research Internship",
+    "university": "Brown University",
+    "state": "Rhode Island, USA",
+    "department": "Department of Earth, Environmental and Planetary Sciences",
+    "field": "Environmental Science",
+    "tags": [
+      "earth science",
+      "climate science",
+      "oceanography",
+      "planetary science",
+      "paleoclimate",
+      "environmental research",
+      "faculty mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Partner School Program",
+    "applicationWindow": "Research internships are available to eligible CORES students, including students connected to Hope High School and participating Providence pathways. Opportunities may occur during the summer or academic year. Students should review Brown DEEPS for current eligibility, duration, compensation, and application information.",
+    "resumeRating": 5,
+    "ratingNote": "A highly niche paid research opportunity where eligible high school students work directly with Brown DEEPS faculty on active Earth, climate, ocean, or planetary science projects. Past interns have contributed to genuine research workflows involving deep-ocean samples and reconstruction of Earth's climate history.",
+    "summary": "Brown's DEEPS CORES initiative provides eligible Providence-area high school students with paid research internships in Earth, environmental, ocean, climate, and planetary science. Students can work with Brown faculty on active projects during the summer or academic year and contribute to real research tasks such as preparing and analyzing samples used to study Earth's past climate.",
+    "email": "",
+    "labUrl": "https://deeps.brown.edu/outreach/cores",
+    "applyUrl": "https://deeps.brown.edu/outreach/cores",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 144,
+    "name": "RI ACS Project SEED — Brown Chemistry",
+    "title": "Chemistry Faculty-Lab Research Placement",
+    "university": "Brown University",
+    "state": "Rhode Island, USA",
+    "department": "Department of Chemistry",
+    "field": "Chemistry",
+    "tags": [
+      "chemistry",
+      "chemical research",
+      "laboratory research",
+      "faculty research",
+      "ACS Project SEED",
+      "scientific mentorship",
+      "summer research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "Brown Chemistry participates in ACS Project SEED for eligible high school students from economically disadvantaged backgrounds. Brown faculty may host participating students for an eight-week summer research project. Students should review current ACS Project SEED and Brown Chemistry information for eligibility and application dates.",
+    "resumeRating": 5,
+    "ratingNote": "A strong chemistry research opportunity because eligible students can be placed directly into Brown faculty laboratories for an extended summer project. The program provides access to authentic university chemical research rather than classroom-only enrichment.",
+    "summary": "Brown University's Department of Chemistry participates in ACS Project SEED, which connects eligible high school students with summer research experiences in university laboratories. Brown faculty members may host students in their research groups for eight-week projects, giving participants direct exposure to chemical research, laboratory methods, and scientific mentorship.",
+    "email": "",
+    "labUrl": "https://chemistry.brown.edu/community/community-outreach",
+    "applyUrl": "https://chemistry.brown.edu/community/community-outreach",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 145,
+    "name": "PCTA Robotics Internship",
+    "title": "Year-Long Robotics and Computer Science Internship",
+    "university": "Brown University",
+    "state": "Rhode Island, USA",
+    "department": "Department of Computer Science",
+    "field": "Computer Science",
+    "tags": [
+      "robotics",
+      "computer science",
+      "engineering",
+      "drones",
+      "programming",
+      "autonomous systems",
+      "technical research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Partner School Program",
+    "applicationWindow": "The internship is available through Brown's partnership with Providence Career and Technical Academy and is designed for eligible pre-engineering students. Students should verify current participation requirements through PCTA and Brown Computer Science.",
+    "resumeRating": 4,
+    "ratingNote": "A highly specialized local pathway into Brown's robotics and computer science environment. Students receive sustained technical experience through a year-long internship and work with drones and robotics concepts using curriculum developed by Brown faculty.",
+    "summary": "Brown University's partnership with Providence Career and Technical Academy gives eligible pre-engineering students a year-long internship experience through Brown Computer Science. Students gain exposure to robotics laboratories and build, program, and fly drones using a curriculum developed by Brown robotics professor Stefanie Tellex and modeled after Brown's introductory robotics coursework.",
+    "email": "",
+    "labUrl": "https://www.brown.edu/news/2024-06-18/internships",
+    "applyUrl": "",
+    "dateAdded": "2026-08-07"
+  }
 ]
