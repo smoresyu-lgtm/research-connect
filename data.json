@@ -1484,4 +1484,174 @@
     "applyUrl": "https://utmsi.utexas.edu/flour-bluff-high-school-mentorship-opportunities-available/",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 52,
+    "name": "Markman Lab",
+    "title": "Developmental Psychology Research Opportunity",
+    "university": "Stanford University",
+    "state": "California, USA",
+    "department": "Psychology",
+    "field": "Psychology",
+    "tags": [
+      "developmental psychology",
+      "language development",
+      "cognition",
+      "child development",
+      "psycholinguistics",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "High school students interested in research with the lab are directed toward Stanford's RISE Summer Internship Program. Undergraduate research opportunities may also be available through the lab depending on current projects and mentor availability.",
+    "resumeRating": 5,
+    "ratingNote": "A strong developmental psychology opportunity because the lab provides a defined pathway for high school students to pursue research exposure through Stanford's RISE program. The lab's work on language learning and cognitive development is especially relevant for students interested in psychology, neuroscience, education, or child development.",
+    "summary": "The Markman Lab at Stanford University studies how children learn language, concepts, and categories during development. High school students interested in psychology research are directed toward Stanford's RISE Summer Internship Program, while undergraduate students may also have opportunities to participate in laboratory research depending on availability.",
+    "email": "",
+    "labUrl": "https://markmanlab.stanford.edu/joinus.html",
+    "applyUrl": "https://markmanlab.stanford.edu/joinus.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 53,
+    "name": "UChicago Data Science Institute Summer Lab — Psychology Projects",
+    "title": "Paid Psychology and Data Science Research Program",
+    "university": "University of Chicago",
+    "state": "Illinois, USA",
+    "department": "Data Science Institute",
+    "field": "Psychology",
+    "tags": [
+      "psychology",
+      "behavioral science",
+      "data science",
+      "research methods",
+      "programming",
+      "faculty mentorship"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The Summer Lab operates through an annual summer application cycle. High school eligibility is generally limited to students from the Chicago area. Students should review the official program page for current project areas, deadlines, and eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An excellent paid research opportunity that pairs students with faculty mentors for an extended summer project. Psychology has been represented among available research areas, and the combination of behavioral research and data science makes this especially valuable for students interested in quantitative psychology.",
+    "summary": "The University of Chicago Data Science Institute Summer Lab is an eight-week research program where students work with faculty mentors on active research projects. Psychology and behavioral science projects may be available alongside other data-driven fields. No prior research experience is necessarily required, although programming or quantitative experience can be helpful. High school participation is generally limited to eligible Chicago-area students.",
+    "email": "",
+    "labUrl": "https://datascience.uchicago.edu/education/summerlab/",
+    "applyUrl": "https://datascience.uchicago.edu/education/summerlab/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 54,
+    "name": "Fundamentals of Psychology: Theory & Research",
+    "title": "Experimental Psychology Research Course",
+    "university": "University of Chicago",
+    "state": "Illinois, USA",
+    "department": "Psychology",
+    "field": "Psychology",
+    "tags": [
+      "experimental psychology",
+      "cognition",
+      "behavior",
+      "research methods",
+      "data collection",
+      "human subjects"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Offered through the University of Chicago's summer programming. The 2026 session is closed, so students should review the official course page for future dates, availability, and application information.",
+    "resumeRating": 4,
+    "ratingNote": "A strong project-based psychology experience because students move beyond classroom learning and design and execute an experimental research project. It is more structured and course-based than a traditional research assistant position but still provides authentic exposure to psychological research methods.",
+    "summary": "Fundamentals of Psychology: Theory & Research introduces high school students to experimental psychology through hands-on research. Students develop a research question, design methodology, collect and analyze data, and complete a collaborative experimental project. Topics may include memory, perception, emotion, development, cognition, and psychological disorders.",
+    "email": "",
+    "labUrl": "https://summer.uchicago.edu/courses/fundamentals-of-psychology-theory-and-research/",
+    "applyUrl": "https://summer.uchicago.edu/courses/fundamentals-of-psychology-theory-and-research/",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 55,
+    "name": "Clinical Neuroscience Immersion Experience (CNI-X)",
+    "title": "Clinical Neuroscience and Psychology Immersion Program",
+    "university": "Stanford University School of Medicine",
+    "state": "California, USA",
+    "department": "Psychiatry and Behavioral Sciences",
+    "field": "Psychology",
+    "tags": [
+      "clinical neuroscience",
+      "psychology",
+      "psychiatry",
+      "mental health",
+      "behavioral science",
+      "capstone project"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "CNI-X is offered through Stanford Psychiatry for high school students. Application dates and session availability vary by year, so students should review the official program page for the next cycle.",
+    "resumeRating": 3,
+    "ratingNote": "A useful psychology and neuroscience enrichment experience with meaningful exposure to clinical and research topics. The program includes a collaborative capstone project, although it is more research-oriented enrichment than a traditional laboratory research assistant position.",
+    "summary": "The Clinical Neuroscience Immersion Experience is a Stanford Psychiatry program for high school students interested in psychology, neuroscience, psychiatry, and mental health. Students learn from researchers and clinicians and complete a collaborative capstone project that applies concepts explored during the program.",
+    "email": "",
+    "labUrl": "https://med.stanford.edu/psychiatry/education/highschool.html",
+    "applyUrl": "https://med.stanford.edu/psychiatry/education/highschool.html",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 56,
+    "name": "Tech-X",
+    "title": "Digital Mental Health and Behavioral Science Program",
+    "university": "Stanford University School of Medicine",
+    "state": "California, USA",
+    "department": "Psychiatry and Behavioral Sciences",
+    "field": "Psychology",
+    "tags": [
+      "digital mental health",
+      "psychology",
+      "behavioral science",
+      "artificial intelligence",
+      "social media",
+      "psychiatry",
+      "technology"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Tech-X operates through Stanford Psychiatry on a program-cycle basis. Students should review the official page for current eligibility requirements, session dates, and application deadlines.",
+    "resumeRating": 3,
+    "ratingNote": "A distinctive psychology opportunity focused on the intersection of mental health and emerging technology. Students gain exposure to research and clinical perspectives involving digital mental health, artificial intelligence, social media, and behavioral science, although the experience is more project-based than a traditional lab placement.",
+    "summary": "Tech-X is a Stanford Medicine program exploring how technology intersects with psychology, psychiatry, and mental health. High school students learn about topics such as digital mental health, artificial intelligence, social media, and behavioral science while gaining exposure to Stanford research and clinical work. Participants also complete an exploratory collaborative project.",
+    "email": "",
+    "labUrl": "https://med.stanford.edu/psychiatry/special-initiatives/techx.html",
+    "applyUrl": "https://med.stanford.edu/psychiatry/special-initiatives/techx.html",
+    "dateAdded": "2026-08-07"
+  }
 ]
