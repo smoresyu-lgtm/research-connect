@@ -2997,4 +2997,140 @@
     "applyUrl": "https://renaissance.stonybrookmedicine.edu/pharmacological_sciences/jseeliger_lab/contact",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 97,
+    "name": "High School Research Internship",
+    "title": "Economics Research Department Internship",
+    "university": "Federal Reserve Bank of Minneapolis",
+    "state": "Minnesota, USA",
+    "department": "Research Department",
+    "field": "Economics",
+    "tags": [
+      "economics",
+      "econometrics",
+      "economic research",
+      "data analysis",
+      "monetary economics",
+      "research mentorship",
+      "Federal Reserve"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship"
+    ],
+    "applicationType": "Structured Internship",
+    "applicationWindow": "The 2026 High School Research Internship posting has closed. The position was offered through the Federal Reserve Bank of Minneapolis Research Department. Students should monitor future Minneapolis Fed career postings to determine whether another high school research internship cycle becomes available.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional economics opportunity because the high school intern works within a Federal Reserve research department and receives supervision and mentorship from a research economist. The position provides exposure to professional economic research, technical skills, and the work of economists within the Federal Reserve System.",
+    "summary": "The Federal Reserve Bank of Minneapolis has offered a High School Research Internship within its Research Department for students interested in economics. The selected intern works with a research economist serving as a supervisor and mentor while developing economics research and technical skills. The 2026 posting has closed, so students should monitor the Minneapolis Fed for future cycles.",
+    "email": "",
+    "labUrl": "https://www.minneapolisfed.org/about-us/careers",
+    "applyUrl": "https://www.minneapolisfed.org/about-us/careers",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 98,
+    "name": "National High School Fed Challenge",
+    "title": "Applied Economics Research and Publication Challenge",
+    "university": "Federal Reserve System",
+    "state": "Nationwide, USA",
+    "department": "Federal Reserve Education",
+    "field": "Economics",
+    "tags": [
+      "economics",
+      "economic research",
+      "data analysis",
+      "applied economics",
+      "analytical writing",
+      "economic policy",
+      "publication"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The National High School Fed Challenge is open to eligible students in grades 9 through 12. The research theme and submission schedule can change each year, so students should review the Federal Reserve Board's official program page for the current theme, registration information, and deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "A strong nationwide economics research opportunity because students conduct original research, analyze evidence, and produce an academic-style submission around an annual economics theme. Outstanding submissions may be selected by Federal Reserve staff for publication in the Journal of Future Economists.",
+    "summary": "The National High School Fed Challenge is a Federal Reserve economics research competition for students in grades 9 through 12. Participants investigate an annual economics theme, conduct research, analyze economic evidence and data, and produce an academic submission. Outstanding student work may be selected for publication in the Federal Reserve's Journal of Future Economists.",
+    "email": "",
+    "labUrl": "https://www.federalreserve.gov/aboutthefed/educational-tools/national-high-school-fed-challenge.htm",
+    "applyUrl": "https://www.federalreserve.gov/aboutthefed/educational-tools/national-high-school-fed-challenge.htm",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 99,
+    "name": "Polk Presidential Scholars",
+    "title": "Faculty-Mentored Public Policy and Political Economy Research Fellowship",
+    "university": "Blackwell Research Institute",
+    "state": "USA",
+    "department": "Research and Policy Programs",
+    "field": "Economics",
+    "tags": [
+      "economic policy",
+      "public policy",
+      "political economy",
+      "social science",
+      "policy research",
+      "faculty mentorship",
+      "original research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Fellowship",
+    "applicationWindow": "Students interested in the Polk Presidential Scholars program should review the Blackwell Research Institute's official program page for current eligibility requirements, fellowship dates, application deadlines, and availability.",
+    "resumeRating": 4,
+    "ratingNote": "A strong social-science and economic-policy research opportunity because students work with university faculty to develop, conduct, and present original policy research. It is especially relevant for students interested in economics through political economy, governance, institutions, and public policy.",
+    "summary": "The Polk Presidential Scholars program provides high school students with faculty-mentored experience conducting original policy research. Scholars develop research questions, investigate issues involving policy, governance, institutions, and public life, and present their findings. The fellowship is particularly relevant to students interested in economic policy, political economy, and interdisciplinary social-science research.",
+    "email": "",
+    "labUrl": "https://www.bwnri.org/polk-presidential-scholars",
+    "applyUrl": "https://www.bwnri.org/polk-presidential-scholars",
+    "dateAdded": "2026-08-07"
+  },
+  {
+    "id": 100,
+    "name": "Economics Policy Academy",
+    "title": "Economic Policy Research Program",
+    "university": "Georgetown University",
+    "state": "District of Columbia, USA",
+    "department": "Summer Programs for High School Students",
+    "field": "Economics",
+    "tags": [
+      "economics",
+      "economic policy",
+      "development economics",
+      "behavioral economics",
+      "international trade",
+      "inequality",
+      "monetary policy",
+      "fiscal policy"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The 2026 Economics Policy Academy residential and commuter sessions are full. Students interested in future sessions should review Georgetown University's official summer program page for updated application dates, eligibility requirements, tuition, and availability.",
+    "resumeRating": 4,
+    "ratingNote": "A useful economics and policy research experience where students investigate economic-policy questions and develop a research-based poster. Topics span development economics, inequality, behavioral economics, international trade, fiscal and monetary policy, and foreign aid, although the academy is more structured than a traditional research assistant position.",
+    "summary": "Georgetown University's Economics Policy Academy introduces high school students to economic analysis and public policy. Students investigate topics including development economics, behavioral economics, inequality, international trade, fiscal and monetary policy, and foreign aid. Participants apply their learning to economic-policy questions and develop a research-based poster.",
+    "email": "",
+    "labUrl": "https://summer.georgetown.edu/programs/SHS08/economics-policy-academy/",
+    "applyUrl": "https://summer.georgetown.edu/programs/SHS08/economics-policy-academy/",
+    "dateAdded": "2026-08-07"
+  }
 ]
