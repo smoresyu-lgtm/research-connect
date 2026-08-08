@@ -5800,4 +5800,146 @@
     "applyUrl": "https://www.dbmi.columbia.edu/summer/",
     "dateAdded": "2026-08-08"
   }
+  ,
+  {
+    "id": 176,
+    "name": "Cell Biology Academy (CeBA)",
+    "title": "Paid Cell Biology Research Internship",
+    "university": "Duke University",
+    "state": "North Carolina, USA",
+    "department": "Department of Cell Biology",
+    "field": "Molecular Biology",
+    "tags": [
+      "cell biology",
+      "molecular biology",
+      "biomedical science",
+      "laboratory research",
+      "independent research",
+      "data analysis",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "CeBA serves eligible Research Triangle-area high school sophomores, juniors, and seniors who are at least 15 years old. Summer 2027 applications are expected to open in January 2027. Students should review Duke Cell Biology's official program information for updated eligibility requirements, deadlines, and compensation.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional Duke laboratory opportunity because students complete an independent research project under the mentorship of a graduate student or postdoctoral researcher while working full-time in a Cell Biology laboratory. Participants gain experience with hypothesis development, bench techniques, data analysis, and scientific presentation.",
+    "summary": "Duke University's Cell Biology Academy gives eligible high school students six weeks of intensive biomedical laboratory research. Participants work full-time in Duke Cell Biology laboratories and complete independent research projects under graduate-student or postdoctoral mentorship while developing skills in experimental design, laboratory techniques, data analysis, and scientific communication.",
+    "email": "",
+    "labUrl": "https://www.cellbio.duke.edu/education-and-training/cell-biology-academy-ceba",
+    "applyUrl": "https://www.cellbio.duke.edu/education-and-training/cell-biology-academy-ceba",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 177,
+    "name": "Duke Research in Engineering Program (DukeREP)",
+    "title": "Paid Biomedical Engineering Research Internship",
+    "university": "Duke University",
+    "state": "North Carolina, USA",
+    "department": "Pratt School of Engineering",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "biomedical engineering",
+      "engineering",
+      "medical technology",
+      "laboratory research",
+      "faculty research",
+      "research mentorship",
+      "experimental engineering"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "DukeREP serves eligible North Carolina rising high school juniors and seniors who are at least 16 years old, with priority given to Durham students. Students should review the official DukeREP program information for future application dates, eligibility requirements, participating laboratories, and stipend information.",
+    "resumeRating": 5,
+    "ratingNote": "A strong engineering research opportunity because students spend most of the summer embedded in active Duke Engineering laboratories and work one-on-one with PhD mentors. Projects are tailored to students' interests and skill levels rather than using a single standardized experiment.",
+    "summary": "The Duke Research in Engineering Program gives eligible North Carolina high school students seven weeks of intensive research experience in Duke Engineering laboratories. Participants work closely with PhD mentors on projects related to biomedical engineering, engineering, medical technology, and other technical fields while gaining hands-on research experience.",
+    "email": "",
+    "labUrl": "https://sites.duke.edu/dukerep/",
+    "applyUrl": "https://sites.duke.edu/dukerep/",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 178,
+    "name": "Summer Training in Academic Research (STAR)",
+    "title": "Clinical Research and Scientific Publication Program",
+    "university": "Duke University",
+    "state": "North Carolina, USA",
+    "department": "Duke Clinical Research Institute",
+    "field": "Biomedical Science",
+    "tags": [
+      "clinical research",
+      "biomedical science",
+      "medicine",
+      "data analysis",
+      "scientific writing",
+      "research methodology",
+      "scientific publication"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "STAR provides academic research training to eligible high school, undergraduate, and professional students. Students should review Duke's current STAR program information for application dates, eligibility requirements, project availability, and future program cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually strong clinical-research opportunity because participants develop real skills in research methodology, data analysis, and scientific writing. The program is designed so that students can make contributions substantial enough to qualify for co-authorship on peer-reviewed scientific work connected to their research team.",
+    "summary": "Duke's Summer Training in Academic Research program gives students hands-on experience with clinical and biomedical research methodology, data analysis, and scientific writing. Participants work with research teams on active projects and develop skills needed to contribute meaningfully to scientific studies, with the program emphasizing preparation for peer-reviewed publication.",
+    "email": "",
+    "labUrl": "https://experiences.duke.edu/opportunities/star-program/",
+    "applyUrl": "https://experiences.duke.edu/opportunities/star-program/",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 179,
+    "name": "Phase I Biomarker Laboratory Summer Program",
+    "title": "Biomarker and Clinical Research Summer Experience",
+    "university": "Duke University",
+    "state": "North Carolina, USA",
+    "department": "Phase I Biomarker Laboratory",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomarkers",
+      "clinical research",
+      "molecular medicine",
+      "pediatrics",
+      "biomedical research",
+      "laboratory research",
+      "medical research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Individual Lab Program",
+    "applicationWindow": "The Phase I Biomarker Laboratory has documented high school summer trainees through its own laboratory summer program in recent years. Students should review the lab's current information or contact the research group to determine whether future high school placements are available.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly niche individual-lab opportunity because Duke's Phase I Biomarker Laboratory has repeatedly hosted high school students through dedicated summer placements. The small laboratory setting can provide direct exposure to biomarkers, clinical research, molecular medicine, pediatrics, and biomedical investigation.",
+    "summary": "Duke University's Phase I Biomarker Laboratory has hosted high school researchers through its laboratory summer program and related mentorship pathways. Students gain exposure to active work involving biomarkers, clinical research, molecular medicine, pediatrics, and biomedical science within an individual Duke research group.",
+    "email": "",
+    "labUrl": "https://sites.duke.edu/nixonlab/people-2/high-school-student-trainees/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-08"
+  }
 ]
