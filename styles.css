@@ -411,3 +411,227 @@ a { color: var(--teal); }
 @media (prefers-reduced-motion: reduce) {
   .card, .tab-btn, .btn-primary { transition: none; }
 }
+
+/* ---------- Feedback toast ---------- */
+.rc-toast {
+  position: fixed;
+  bottom: 1.2rem;
+  right: 1.2rem;
+  max-width: 320px;
+  background: var(--card-bg);
+  border: 1.5px solid var(--ink);
+  border-radius: var(--radius);
+  box-shadow: 0 10px 30px rgba(31,42,36,0.22);
+  padding: 1.1rem 1.2rem 1rem;
+  z-index: 20;
+  animation: rc-toast-in 0.25s ease;
+}
+@keyframes rc-toast-in {
+  from { transform: translateY(12px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+.rc-toast-close {
+  position: absolute;
+  top: 0.5rem; right: 0.65rem;
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  line-height: 1;
+  cursor: pointer;
+  color: var(--ink-soft);
+}
+.rc-toast-title {
+  font-family: 'Fraunces', serif;
+  font-weight: 600;
+  font-size: 1.05rem;
+  margin: 0 0 0.4rem;
+  padding-right: 1.2rem;
+}
+.rc-toast-body {
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  margin: 0 0 0.8rem;
+}
+.rc-toast-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.rc-toast-option {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.82rem;
+  text-align: left;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 0.45rem 0.6rem;
+  cursor: pointer;
+  color: var(--ink);
+}
+.rc-toast-option:hover { border-color: var(--teal); color: var(--teal); }
+.rc-toast-option-other {
+  font-style: italic;
+  color: var(--ink-soft);
+  border-style: dashed;
+}
+.rc-toast-thanks {
+  font-family: 'Fraunces', serif;
+  font-size: 1rem;
+  margin: 0;
+  text-align: center;
+  padding: 0.4rem 0;
+}
+
+@media (max-width: 560px) {
+  .rc-toast { left: 1rem; right: 1rem; max-width: none; bottom: 1rem; }
+}
+
+/* ---------- Feedback follow-up toast ---------- */
+.feedback-toast {
+  position: fixed;
+  bottom: 1.2rem;
+  right: 1.2rem;
+  max-width: 300px;
+  background: var(--card-bg);
+  border: 1.5px solid var(--ink);
+  border-radius: var(--radius);
+  box-shadow: 0 10px 30px rgba(31,42,36,0.22);
+  padding: 1rem 1.1rem 0.9rem;
+  z-index: 20;
+  animation: toast-in 0.25s ease;
+}
+@keyframes toast-in {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.feedback-close {
+  position: absolute;
+  top: 0.5rem; right: 0.6rem;
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  line-height: 1;
+  cursor: pointer;
+  color: var(--ink-soft);
+}
+.feedback-eyebrow {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.68rem;
+  color: var(--accent-ink);
+  letter-spacing: 0.05em;
+  margin: 0;
+}
+.feedback-question {
+  font-size: 0.9rem;
+  margin: 0.4rem 0 0.7rem;
+}
+.feedback-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-bottom: 0.6rem;
+}
+.feedback-option-btn {
+  text-align: left;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 0.4rem 0.6rem;
+  font-size: 0.82rem;
+  cursor: pointer;
+  color: var(--ink);
+}
+.feedback-option-btn:hover { border-color: var(--teal); color: var(--teal); }
+.feedback-note {
+  font-size: 0.68rem;
+  color: var(--ink-soft);
+  margin: 0;
+}
+.feedback-thanks {
+  font-size: 0.9rem;
+  margin: 0;
+  padding: 0.4rem 0;
+}
+@media (max-width: 560px) {
+  .feedback-toast { left: 1rem; right: 1rem; max-width: none; bottom: 0.8rem; }
+}
+
+/* ---------- Feedback toast ---------- */
+.feedback-toast {
+  position: fixed;
+  bottom: 1.2rem;
+  right: 1.2rem;
+  left: auto;
+  max-width: 340px;
+  background: var(--card-bg);
+  border: 1.5px solid var(--ink);
+  border-radius: var(--radius);
+  box-shadow: 0 12px 32px rgba(31,42,36,0.22);
+  padding: 1.2rem 1.2rem 1.1rem;
+  z-index: 20;
+  animation: feedback-slide-in 0.25s ease;
+}
+@keyframes feedback-slide-in {
+  from { transform: translateY(12px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+.feedback-toast .feedback-close {
+  position: absolute;
+  top: 0.6rem;
+  right: 0.7rem;
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  line-height: 1;
+  cursor: pointer;
+  color: var(--ink-soft);
+}
+.feedback-eyebrow {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.68rem;
+  color: var(--accent-ink);
+  letter-spacing: 0.03em;
+  margin: 0 0 0.3rem;
+}
+.feedback-question {
+  font-family: 'Fraunces', serif;
+  font-size: 1.05rem;
+  margin: 0 0 0.6rem;
+  padding-right: 1rem;
+}
+.feedback-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  margin-bottom: 0.7rem;
+}
+.feedback-option-btn {
+  text-align: left;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.85rem;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 0.5rem 0.7rem;
+  cursor: pointer;
+  color: var(--ink);
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+.feedback-option-btn:hover {
+  border-color: var(--teal);
+  background: var(--teal-soft);
+}
+.feedback-note {
+  font-size: 0.75rem;
+  color: var(--ink-soft);
+  margin: 0;
+  line-height: 1.4;
+}
+
+@media (max-width: 560px) {
+  .feedback-toast {
+    right: 0.7rem;
+    left: 0.7rem;
+    max-width: none;
+  }
+}
