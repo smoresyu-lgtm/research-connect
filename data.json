@@ -5560,4 +5560,182 @@
     "applyUrl": "https://mrsec.umich.edu/education/",
     "dateAdded": "2026-08-07"
   }
+  ,
+  {
+    "id": 166,
+    "name": "Shen Lab",
+    "title": "Neuroscience Summer Research Internship",
+    "university": "Stanford University",
+    "state": "California, USA",
+    "department": "Neuroscience",
+    "field": "Neuroscience",
+    "tags": [
+      "neuroscience",
+      "neural development",
+      "cell biology",
+      "microscopy",
+      "confocal microscopy",
+      "laboratory research",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Shen Lab hosts a small number of summer students each year and accepts students from the high school through undergraduate level. Prospective interns are instructed to contact Professor Kang Shen well in advance because PI approval is required before internship paperwork can proceed. Summer 2026 placements are currently full.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional individual-lab Stanford opportunity because the lab explicitly accepts high school interns and gives students a direct PI-level inquiry route. Interns work closely with laboratory members on established neuroscience projects and can learn research methods, reliable data collection, microscopy, and confocal imaging.",
+    "summary": "The Shen Lab at Stanford studies neural development and cellular mechanisms within the nervous system. The laboratory hosts approximately four summer students each year and explicitly accepts students ranging from high school through undergraduate level. Interns work directly with lab members on established research projects while gaining experience with neuroscience techniques, data collection, and confocal microscopy.",
+    "email": "",
+    "labUrl": "https://shenlab.stanford.edu/joining-lab/highschool-and-summer-internships",
+    "applyUrl": "",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 167,
+    "name": "Stanford Pathology — Individual Faculty Lab Internships",
+    "title": "Faculty-Sponsored Pathology Research Internship",
+    "university": "Stanford University School of Medicine",
+    "state": "California, USA",
+    "department": "Department of Pathology",
+    "field": "Biomedical Science",
+    "tags": [
+      "pathology",
+      "cancer research",
+      "immunology",
+      "molecular biology",
+      "biomedical science",
+      "laboratory research",
+      "faculty sponsorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Volunteer"
+    ],
+    "applicationType": "Faculty Sponsorship",
+    "applicationWindow": "Stanford Pathology allows unpaid research internships for eligible high school students. Students are encouraged to identify and reach out to a Pathology laboratory whose research interests them. On-site laboratory interns must be at least 16 years old, and all placements require faculty sponsorship, supervision, and Stanford Medicine approval before beginning.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly valuable Research Connect pathway because Stanford Medicine explicitly confirms that high school students may contact individual Pathology laboratories about unpaid research internships. This provides an institutionally supported cold-email and faculty-sponsorship route rather than relying on speculative outreach.",
+    "summary": "Stanford Medicine's Department of Pathology provides a pathway for high school students to seek unpaid research internships in individual faculty laboratories. Students can identify a lab aligned with their interests and reach out regarding potential sponsorship. Internships may be virtual or on-site and can involve pathology, cancer biology, immunology, molecular biology, and other biomedical research areas.",
+    "email": "",
+    "labUrl": "https://med.stanford.edu/pathology/education-programs/high-school-students.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 168,
+    "name": "Hansen Experimental Physics Laboratory (HEPL)",
+    "title": "Physics and Astrophysics Research Opportunity",
+    "university": "Stanford University",
+    "state": "California, USA",
+    "department": "Hansen Experimental Physics Laboratory",
+    "field": "Physics",
+    "tags": [
+      "physics",
+      "astrophysics",
+      "applied physics",
+      "space science",
+      "solar physics",
+      "biomedical physics",
+      "laser research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "HEPL occasionally offers research positions or summer internships to high school students depending on current research and mentor availability. Interested high school students are instructed to contact the laboratory administration directly to inquire about possible openings.",
+    "resumeRating": 5,
+    "ratingNote": "A rare direct-access Stanford physics opportunity because HEPL explicitly states that high school research positions and summer internships may occasionally be available and provides a direct inquiry route. Research at HEPL spans fundamental physics, astrophysics, space science, solar physics, biomedical physics, GPS, lasers, and related engineering.",
+    "summary": "Stanford's Hansen Experimental Physics Laboratory conducts interdisciplinary research in physics and engineering, including astrophysics, cosmic microwave background studies, solar physics, fundamental interactions, GPS, lasers, biomedical physics, and space science. The laboratory notes that high school research positions or summer internships are occasionally available and invites students to inquire about current opportunities.",
+    "email": "",
+    "labUrl": "https://stanford.edu/group/hepl/research/student_research.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 169,
+    "name": "SHTEM",
+    "title": "Stanford STEM Research Internship",
+    "university": "Stanford University",
+    "state": "California, USA",
+    "department": "Stanford Compression Forum",
+    "field": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "engineering",
+      "computer science",
+      "human-centered technology",
+      "data science",
+      "image compression",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "SHTEM is an eight-week Stanford research internship for eligible current high school juniors and seniors who meet the program's citizenship or permanent-residency requirements. The 2026 application cycle is closed. Students should review the Stanford Compression Forum's official page for future application dates and eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "A strong Stanford engineering and AI research opportunity where high school students contribute to real research rather than completing a standard coding course. The program has a documented history of student ideas influencing research directions in areas such as image compression and human-centered technology.",
+    "summary": "SHTEM is an eight-week research internship through Stanford's Compression Forum for eligible high school juniors and seniors. Participants work on research involving engineering, artificial intelligence, computer science, data science, and human-centered technology while receiving mentorship from members of the Stanford research community.",
+    "email": "",
+    "labUrl": "https://compression.stanford.edu/outreach/shtem-summer-internships-high-schoolers",
+    "applyUrl": "https://compression.stanford.edu/outreach/shtem-summer-internships-high-schoolers",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 170,
+    "name": "Stanford Young Investigators",
+    "title": "Sustainability Research Group Placement",
+    "university": "Stanford University",
+    "state": "California, USA",
+    "department": "Stanford Doerr School of Sustainability",
+    "field": "Environmental Science",
+    "tags": [
+      "climate science",
+      "geology",
+      "energy",
+      "environmental engineering",
+      "sustainability",
+      "agriculture",
+      "social science"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "Stanford Young Investigators serves eligible Bay Area high school students who have completed at least one year of high school and live and attend school within the program's geographic radius. Applications for the next cycle are scheduled for February 1 through March 15, 2027.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional interdisciplinary research program because students work directly within Stanford research groups alongside scientists, engineers, graduate students, postdocs, and laboratory managers. Research tracks span geology, energy, environmental science and engineering, agriculture, and social science.",
+    "summary": "Stanford Young Investigators places eligible Bay Area high school students into research groups within the Doerr School of Sustainability. Students may contribute to projects involving batteries, wildfire detection, water chemistry, microbes, climate data, geology, sustainable agriculture, environmental engineering, and sustainability-focused social science while receiving direct mentorship from Stanford researchers.",
+    "email": "",
+    "labUrl": "https://sustainability.stanford.edu/admissions-education/k-12-outreach/young-investigators",
+    "applyUrl": "https://sustainability.stanford.edu/admissions-education/k-12-outreach/young-investigators",
+    "dateAdded": "2026-08-08"
+  }
 ]
