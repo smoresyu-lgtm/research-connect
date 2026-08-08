@@ -5624,4 +5624,180 @@
     "applyUrl": "https://sustainability.stanford.edu/admissions-education/k-12-outreach/young-investigators",
     "dateAdded": "2026-08-08"
   }
+  ,
+  {
+    "id": 171,
+    "name": "Science Research Mentoring Program (SRMP)",
+    "title": "Paid Year-Long Scientist-Mentored Research Program",
+    "university": "American Museum of Natural History",
+    "state": "New York, USA",
+    "department": "Education / Research Mentoring",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "biology",
+      "genetics",
+      "astrophysics",
+      "anthropology",
+      "earth science",
+      "data science",
+      "original research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "SRMP serves eligible New York City high school students and runs across the academic year. Applications for the Class of 2028 are expected in winter 2027. Students should review the official AMNH program page for updated eligibility requirements, deadlines, research areas, and compensation.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional year-long research opportunity because students conduct original projects with American Museum of Natural History scientists rather than completing predetermined classroom exercises. Research can span biology, genetics, astrophysics, anthropology, Earth science, and computational analysis, and students are paid for their participation.",
+    "summary": "The American Museum of Natural History Science Research Mentoring Program gives New York City high school students the opportunity to conduct original research over an academic year with AMNH scientists. Projects can involve laboratory work, DNA analysis, telescope data, Python or R, evolutionary biology, anthropology, astrophysics, Earth science, and other research fields.",
+    "email": "",
+    "labUrl": "https://www.amnh.org/learn-teach/teens/science-research-mentoring-program",
+    "applyUrl": "https://www.amnh.org/learn-teach/teens/science-research-mentoring-program",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 172,
+    "name": "Jumpstart",
+    "title": "Molecular Biology Training and Summer Research Program",
+    "university": "Rockefeller University",
+    "state": "New York, USA",
+    "department": "Science Outreach",
+    "field": "Molecular Biology",
+    "tags": [
+      "molecular biology",
+      "biomedical science",
+      "genetics",
+      "laboratory research",
+      "experimental biology",
+      "research training",
+      "scientific mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "Jumpstart serves eligible New York City high school juniors and seniors who are at least 16 years old. A small cohort completes spring laboratory and research training before transitioning into full-time summer research. Students should review Rockefeller University's official program page for current deadlines and eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "A highly selective and unusually substantial NYC research pathway. Students first build molecular biology and laboratory skills during the spring and then transition into intensive mentored summer research at Rockefeller, giving them stronger preparation and continuity than a short standalone internship.",
+    "summary": "Rockefeller University's Jumpstart program selects a small group of New York City high school students for sustained research training. Participants spend the spring building molecular-biology and research skills and then move into approximately 35 hours per week of mentored summer research through Rockefeller's Summer Science Research Program.",
+    "email": "",
+    "labUrl": "https://www.rockefeller.edu/outreach/lab-jumpstart/",
+    "applyUrl": "https://www.rockefeller.edu/outreach/lab-jumpstart/",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 173,
+    "name": "STEM Research Academy",
+    "title": "CUNY Faculty-Lab Research Academy",
+    "university": "City College of New York",
+    "state": "New York, USA",
+    "department": "College Now / STEM Research Academy",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "biology",
+      "chemistry",
+      "engineering",
+      "environmental science",
+      "faculty research",
+      "laboratory research",
+      "research presentation"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "The STEM Research Academy serves eligible New York City public high school 10th- and 11th-grade students. Students begin with a spring research course, and selected participants continue into a summer faculty-lab internship. Applicants should review CCNY's current program page for school eligibility, dates, and stipend information.",
+    "resumeRating": 5,
+    "ratingNote": "A strong CUNY research pathway because selected students are matched with faculty members based on research interests and spend several weeks working in real research laboratories. Participants develop their own projects and present their work at research symposia.",
+    "summary": "The City College of New York STEM Research Academy combines research preparation with a faculty-lab internship. Students first complete a free spring research course, after which selected participants are matched with CUNY or CCNY faculty mentors for a five-week summer research experience. Students work in research labs, complete projects, and present their findings.",
+    "email": "",
+    "labUrl": "https://www.ccny.cuny.edu/collegenow/stem-research-academy",
+    "applyUrl": "https://www.ccny.cuny.edu/collegenow/stem-research-academy",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 174,
+    "name": "EPIC High School Research Internship",
+    "title": "Psychology and Education Research Internship",
+    "university": "Teachers College, Columbia University",
+    "state": "New York, USA",
+    "department": "EPIC",
+    "field": "Psychology",
+    "tags": [
+      "psychology",
+      "education research",
+      "behavioral science",
+      "data analysis",
+      "literature review",
+      "data collection",
+      "social science"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Volunteer"
+    ],
+    "applicationType": "Direct Application",
+    "applicationWindow": "EPIC accepts high school students in grades 9 through 12 for academic-year research internships. Interested students apply directly by emailing EPIC with a resume or CV and a statement describing their research interests and fit. Internships are typically remote and involve approximately two to four hours of work per week.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly valuable social-science listing because students have a direct-email route into ongoing psychology and education research. Interns can assist with data collection, data analysis, literature review, and active research projects over an extended academic period.",
+    "summary": "The EPIC High School Research Internship at Teachers College, Columbia University gives students experience supporting ongoing psychology, education, and behavioral-science research. Interns may assist researchers with data collection, data analysis, academic literature, and other research tasks. Students apply directly by email with a resume or CV and statement of interest.",
+    "email": "",
+    "labUrl": "https://epic.tc.columbia.edu/high-school-internship/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 175,
+    "name": "DBMI Summer Research Program",
+    "title": "Biomedical Informatics and Health Data Science Research Program",
+    "university": "Columbia University",
+    "state": "New York, USA",
+    "department": "Department of Biomedical Informatics",
+    "field": "Computational Biology",
+    "tags": [
+      "biomedical informatics",
+      "health data science",
+      "artificial intelligence",
+      "computational biology",
+      "medical data",
+      "bioinformatics",
+      "computational research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The DBMI Summer Research Program accepts eligible rising high school seniors and recent high school graduates who are at least 17 years old. The 2026 program runs from June 29 through August 14, and participants must be able to remain in the New York City area for the full seven-week program.",
+    "resumeRating": 5,
+    "ratingNote": "An excellent computational and medical research opportunity because students gain hands-on experience in biomedical informatics and health data science at Columbia. The program is especially relevant for students interested in the intersection of medicine, artificial intelligence, computational biology, and data science.",
+    "summary": "Columbia University's Department of Biomedical Informatics Summer Research Program gives eligible high school students hands-on exposure to biomedical informatics and health data science. Participants work on research involving medical data, computational biology, artificial intelligence, and related methods while spending seven weeks immersed in Columbia's biomedical research environment.",
+    "email": "",
+    "labUrl": "https://www.dbmi.columbia.edu/summer/",
+    "applyUrl": "https://www.dbmi.columbia.edu/summer/",
+    "dateAdded": "2026-08-08"
+  }
 ]
