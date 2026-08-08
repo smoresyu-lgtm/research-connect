@@ -5942,4 +5942,181 @@
     "applyUrl": "",
     "dateAdded": "2026-08-08"
   }
+  ,
+  {
+    "id": 180,
+    "name": "Biophysics Research for Baltimore Teens (BRBT)",
+    "title": "Paid Biophysics and Molecular Biology Research Internship",
+    "university": "Johns Hopkins University",
+    "state": "Maryland, USA",
+    "department": "Krieger School of Arts and Sciences",
+    "field": "Biomedical Science",
+    "tags": [
+      "biophysics",
+      "molecular biology",
+      "protein engineering",
+      "microbiology",
+      "DNA engineering",
+      "data analysis",
+      "laboratory research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "BRBT serves eligible rising 10th-, 11th-, and 12th-grade students with a Baltimore-area focus. The 2026 program ran from July 7 through August 7 and is now closed. Students should review the official Johns Hopkins BRBT page for future application dates, eligibility requirements, compensation, and program details.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional Johns Hopkins research opportunity because students spend substantial time conducting hands-on science while receiving sustained mentorship in active research environments. Training includes microbiology, DNA and protein engineering, scientific writing, quantitative analysis, and bioethics.",
+    "summary": "Biophysics Research for Baltimore Teens is a paid Johns Hopkins research internship for high school students interested in biophysics and biomedical science. Participants spend approximately 25 hours per week engaged in hands-on research and receive training in microbiology, DNA and protein engineering, data analysis, scientific writing, mathematics, and bioethics.",
+    "email": "",
+    "labUrl": "https://sites.krieger.jhu.edu/brbt/application/",
+    "applyUrl": "https://sites.krieger.jhu.edu/brbt/application/",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 181,
+    "name": "Whiting Internships in Science and Engineering (WISE)",
+    "title": "Paid Johns Hopkins Engineering Research Internship",
+    "university": "Johns Hopkins University",
+    "state": "Maryland, USA",
+    "department": "Whiting School of Engineering",
+    "field": "Engineering",
+    "tags": [
+      "biomedical engineering",
+      "materials science",
+      "mechanical engineering",
+      "electrical engineering",
+      "computer engineering",
+      "laboratory research",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "WISE serves eligible Baltimore City public high school students and offers research experiences during the academic year and through an intensive summer session. Students should review Johns Hopkins Engineering's official WISE page for current eligibility requirements, application dates, compensation, and mentor availability.",
+    "resumeRating": 5,
+    "ratingNote": "A strong engineering research opportunity because students are matched with Johns Hopkins researchers and can work in laboratory, computational, or field settings. Research may span biomedical engineering, materials science, mechanical engineering, electrical engineering, and related technical fields.",
+    "summary": "Whiting Internships in Science and Engineering connects eligible Baltimore City public high school students with Johns Hopkins researchers for paid research experiences. Students may contribute to laboratory, computational, or field projects in engineering disciplines and conclude the experience by presenting their research and what they learned.",
+    "email": "",
+    "labUrl": "https://engineering.jhu.edu/outreach/ceo-programs/wise/",
+    "applyUrl": "https://engineering.jhu.edu/outreach/ceo-programs/wise/",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 182,
+    "name": "AEOP Summer High School Internship — HEMI",
+    "title": "Extreme Materials and Engineering Research Apprenticeship",
+    "university": "Johns Hopkins University",
+    "state": "Maryland, USA",
+    "department": "Hopkins Extreme Materials Institute",
+    "field": "Engineering",
+    "tags": [
+      "materials science",
+      "mechanical engineering",
+      "extreme materials",
+      "applied physics",
+      "engineering research",
+      "experimental science",
+      "scientist mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Research Apprenticeship",
+    "applicationWindow": "The AEOP Summer High School Internship through HEMI provides research apprenticeships to eligible high school students. Students should review the official Hopkins Extreme Materials Institute page for current application deadlines, eligibility requirements, mentor availability, and future summer cycles.",
+    "resumeRating": 5,
+    "ratingNote": "A high-quality engineering research apprenticeship because students complete hands-on projects under direct mentorship from scientists and engineers associated with the Hopkins Extreme Materials Institute. The experience is centered on authentic research rather than classroom-only engineering enrichment.",
+    "summary": "The AEOP Summer High School Internship through Johns Hopkins' Extreme Materials Institute gives high school students hands-on science and engineering research experience. Participants work under direct mentorship from scientists and engineers on projects involving materials science, mechanical engineering, applied physics, and the behavior of materials under extreme conditions.",
+    "email": "",
+    "labUrl": "https://hemi.jhu.edu/opportunities/aeop-high-school-internship-program/",
+    "applyUrl": "https://hemi.jhu.edu/opportunities/aeop-high-school-internship-program/",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 183,
+    "name": "Youth Participatory Action Research (YPAR) on Generative AI",
+    "title": "Paid Generative AI and Social Science Research Program",
+    "university": "Johns Hopkins University",
+    "state": "Maryland, USA",
+    "department": "Whiting School of Engineering",
+    "field": "Artificial Intelligence",
+    "tags": [
+      "generative AI",
+      "social science",
+      "technology policy",
+      "civic engagement",
+      "community research",
+      "participatory research",
+      "data analysis"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Internship",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "YPAR serves eligible Baltimore City public high school students in grades 10 through 12. The program runs for approximately 15 weeks and is paid. Students should review Johns Hopkins Engineering's current program page for application dates, eligibility requirements, compensation, and future cohorts.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly distinctive research experience because high school students investigate generative AI as a real social and community phenomenon rather than simply learning to use AI tools. Participants conduct participatory research alongside Johns Hopkins mentors on how different communities adopt, understand, or resist emerging technologies.",
+    "summary": "Johns Hopkins' Youth Participatory Action Research program engages Baltimore City high school students in paid research on generative artificial intelligence and its social effects. Participants investigate how AI technologies are experienced across different neighborhoods and generations while developing research, civic engagement, and analytical skills alongside Johns Hopkins mentors.",
+    "email": "",
+    "labUrl": "https://engineering.jhu.edu/outreach/ceo-programs/ypar/",
+    "applyUrl": "https://engineering.jhu.edu/outreach/ceo-programs/ypar/",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 184,
+    "name": "Basic Science Research Internship",
+    "title": "Mentored Biomedical Research Internship",
+    "university": "Johns Hopkins All Children's Hospital",
+    "state": "Florida, USA",
+    "department": "Institute for Fundamental Biomedical Research",
+    "field": "Biomedical Science",
+    "tags": [
+      "basic science",
+      "molecular biology",
+      "experimental biology",
+      "biomedical research",
+      "laboratory research",
+      "scientific publication",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Direct Research Internship",
+    "applicationWindow": "The Institute for Fundamental Biomedical Research offers hands-on mentored internships for eligible high school and undergraduate students in St. Petersburg, Florida. The Fall 2026 application deadline is August 10, 2026. Students should review the official program page for current deadlines, scheduling requirements, and future internship cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually strong individual research internship because students work directly alongside scientists on the design, execution, or analysis of ongoing biomedical studies. Students who make sufficiently substantial contributions may receive acknowledgement or co-authorship on resulting scientific publications.",
+    "summary": "The Basic Science Research Internship at Johns Hopkins All Children's Institute for Fundamental Biomedical Research gives high school and undergraduate students hands-on experience with ongoing biomedical studies. Interns work alongside scientists on experimental design, execution, or data analysis, and sufficiently involved students may be acknowledged or included as coauthors on scientific publications.",
+    "email": "",
+    "labUrl": "https://ifbr.jhmi.edu/student-internship-program",
+    "applyUrl": "https://ifbr.jhmi.edu/student-internship-program",
+    "dateAdded": "2026-08-08"
+  }
 ]
