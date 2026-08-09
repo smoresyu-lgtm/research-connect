@@ -6470,4 +6470,180 @@
     "applyUrl": "",
     "dateAdded": "2026-08-08"
   }
+  ,
+  {
+    "id": 195,
+    "name": "Sohn Research Lab",
+    "title": "Bioengineering Research Opportunity",
+    "university": "University of California, Berkeley",
+    "state": "California, USA",
+    "department": "Department of Bioengineering",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "bioengineering",
+      "microfluidics",
+      "extracellular vesicles",
+      "biosensors",
+      "biomedical devices",
+      "cell analysis",
+      "laboratory research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Mentorship"
+    ],
+    "applicationType": "Direct Inquiry / Availability Dependent",
+    "applicationWindow": "The Sohn Research Lab has documented high school participation, including a current high school intern working on research involving extracellular vesicles. The lab does not advertise a standing high school application process, so interested students should treat this as an availability-dependent research inquiry rather than a guaranteed placement.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly valuable individual-lab pathway because Professor Lydia Sohn's Berkeley Bioengineering laboratory has directly hosted a high school intern. The lab conducts research involving microfluidics, node-pore sensing, extracellular vesicles, biosensors, biomedical devices, and quantitative cell analysis.",
+    "summary": "The Sohn Research Lab at UC Berkeley develops bioengineering technologies for studying cells and biological particles, with research spanning microfluidics, extracellular vesicles, biosensors, biomedical devices, and quantitative cell analysis. The laboratory has documented high school intern participation, making direct inquiry potentially worthwhile when research capacity is available.",
+    "email": "",
+    "labUrl": "https://srl.berkeley.edu/people/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 196,
+    "name": "Berkeley Engineering Summer Machine-learning & AI Research Training (BeSMART)",
+    "title": "Machine Learning and AI Research Training Program",
+    "university": "University of California, Berkeley",
+    "state": "California, USA",
+    "department": "Industrial Engineering and Operations Research",
+    "field": "Computer Science",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "data science",
+      "operations research",
+      "algorithms",
+      "data analysis",
+      "research training"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "BeSMART launched in 2026 as a summer machine-learning and AI research training program for high school students. The inaugural residential session runs July 27 through August 7, 2026. Students should review UC Berkeley IEOR's current information for future program dates, eligibility requirements, tuition or financial information, and application deadlines.",
+    "resumeRating": 4,
+    "ratingNote": "A strong research-training opportunity for high school students interested in artificial intelligence and data science. Participants gain hands-on experience with machine learning, algorithms, data manipulation, validation methods, and research-oriented applications, although the short two-week format makes it less intensive than a full laboratory placement.",
+    "summary": "UC Berkeley's BeSMART program introduces high school students to machine learning, artificial intelligence, data science, and operations research through hands-on research training. Students develop skills in algorithms, data manipulation, analytical methods, and model validation while applying those tools to research-oriented problems.",
+    "email": "",
+    "labUrl": "https://ieor.berkeley.edu/uc-berkeley-ieor-launches-summer-machine-learning-and-ai-research-program-for-high-school-students/",
+    "applyUrl": "https://ieor.berkeley.edu/uc-berkeley-ieor-launches-summer-machine-learning-and-ai-research-program-for-high-school-students/",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 197,
+    "name": "Berkeley Lab Director's Apprenticeship Program (BLDAP)",
+    "title": "Project-Based STEM Research Apprenticeship",
+    "university": "Lawrence Berkeley National Laboratory",
+    "state": "California, USA",
+    "department": "Berkeley Lab STEM Education",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "STEM",
+      "computing",
+      "engineering",
+      "laboratory science",
+      "project-based research",
+      "scientific mentorship",
+      "research apprenticeship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Apprenticeship",
+    "applicationWindow": "BLDAP serves eligible high school students and is designed to expand access to STEM research and professional scientific networks. Students should review current Berkeley Lab program information for eligibility requirements, application dates, cohort availability, and future apprenticeship cycles.",
+    "resumeRating": 5,
+    "ratingNote": "A valuable project-based research apprenticeship that connects high school students with the scientific community at Lawrence Berkeley National Laboratory. Participants gain exposure to real-world STEM work, research activities, professional mentorship, and scientific career pathways.",
+    "summary": "The Berkeley Lab Director's Apprenticeship Program is a project-based STEM experience for high school students that connects participants with Lawrence Berkeley National Laboratory's scientific community. Students gain experience with research-oriented projects, professional STEM environments, mentorship, and scientific networks across computing, engineering, laboratory science, and related fields.",
+    "email": "",
+    "labUrl": "https://star.berkeley.edu/resources/berkeley-lab-directors-apprenticeship-program-bldap",
+    "applyUrl": "https://star.berkeley.edu/resources/berkeley-lab-directors-apprenticeship-program-bldap",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 198,
+    "name": "Segrè Internship",
+    "title": "Advanced Experimental Physics Internship",
+    "university": "University of California, Berkeley",
+    "state": "California, USA",
+    "department": "Advanced Physics Laboratory",
+    "field": "Physics",
+    "tags": [
+      "experimental physics",
+      "nanoscience",
+      "instrumentation",
+      "atomic force microscopy",
+      "gamma-ray spectroscopy",
+      "physics research",
+      "laboratory research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Eligibility Verification Required",
+    "applicationWindow": "The Segrè Internship provides students with hands-on work involving advanced experimental physics and laboratory instrumentation. Current public information does not clearly establish high school eligibility for every cycle, so prospective high school students should contact the program and verify eligibility before treating this as an available placement.",
+    "resumeRating": 4,
+    "ratingNote": "A highly specialized experimental-physics opportunity in which interns can contribute to the development, repair, and improvement of sophisticated laboratory experiments and instrumentation. Recent work has involved atomic force microscopy, electric-force microscopy, gamma-ray spectroscopy, and related experimental systems. High school eligibility should be confirmed before applying.",
+    "summary": "The Segrè Internship at UC Berkeley's Advanced Physics Laboratory gives student interns experience working with sophisticated experimental physics equipment and research-oriented laboratory projects. Intern work has included atomic force microscopy, electric-force microscopy, gamma-ray spectroscopy, equipment repair, and experimental instrumentation. High school students should verify current eligibility directly with the program.",
+    "email": "",
+    "labUrl": "https://experimentationlab.berkeley.edu/SegreInternship",
+    "applyUrl": "",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 199,
+    "name": "Sponsored High School Summer Research Internships",
+    "title": "Faculty-Sponsored UC Berkeley Research Internship Pathway",
+    "university": "University of California, Berkeley",
+    "state": "California, USA",
+    "department": "Faculty Research Laboratories",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "faculty research",
+      "laboratory research",
+      "STEM",
+      "biomedical science",
+      "engineering",
+      "faculty sponsorship",
+      "independent research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Faculty Sponsorship / Direct Inquiry",
+    "applicationWindow": "This is not a centralized high school application program. UC Berkeley procedures recognize qualifying summer research internships for high school students working under Berkeley principal investigators when supported by an eligible external domestic sponsor. Students would need to identify an appropriate faculty research group, secure PI participation, and satisfy applicable sponsorship and university requirements.",
+    "resumeRating": 5,
+    "ratingNote": "A valuable hidden pathway because UC Berkeley has an administrative mechanism that can support individual high school summer research placements under faculty principal investigators. Unlike a structured summer program, participation depends on securing a willing PI, appropriate external sponsorship, and university approval.",
+    "summary": "UC Berkeley's research administration provides a pathway through which externally sponsored high school students may conduct short-term summer research under participating Berkeley faculty principal investigators. There is no centralized application or guaranteed placement, so students must identify a suitable research group, obtain faculty support, and meet the applicable sponsorship and administrative requirements.",
+    "email": "",
+    "labUrl": "https://spo.berkeley.edu/procedures/usf.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-08"
+  }
 ]
