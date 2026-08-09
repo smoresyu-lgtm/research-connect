@@ -15,7 +15,7 @@ const FEEDBACK_CONFIG = {
   ENTRY_PROGRAM_NAME: "entry.216554960",  // "Which Research Connect opportunity did you pursue?"
   ENTRY_OUTCOME: "entry.37755728",        // "What has happened so far?"
 
-  DAYS_BEFORE_FOLLOWUP: 14,   // how long to wait before asking
+  DAYS_BEFORE_FOLLOWUP: 0,   // how long to wait before asking
   SNOOZE_DAYS: 3,             // if dismissed, wait this long before asking again
 };
 
