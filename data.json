@@ -6119,4 +6119,179 @@
     "applyUrl": "https://ifbr.jhmi.edu/student-internship-program",
     "dateAdded": "2026-08-08"
   }
+  ,
+  {
+    "id": 185,
+    "name": "Summer Research Connection (SRC)",
+    "title": "Caltech Laboratory Research Program",
+    "university": "California Institute of Technology",
+    "state": "California, USA",
+    "department": "Center for Teaching, Learning, and Outreach",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "biology",
+      "physics",
+      "astronomy",
+      "geoscience",
+      "engineering",
+      "laboratory research",
+      "scientific mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "The Summer Research Connection serves eligible Pasadena Unified School District high school students. Students are placed into Caltech research laboratories for a six-week summer experience. Caltech notes that spaces typically fill by early spring, so students should check the official program page for future application dates and eligibility information.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional Caltech research opportunity because students are placed directly into active research laboratories and work with research mentors on scientific projects. The program can span biology, physics, astronomy, geoscience, engineering, and other STEM areas.",
+    "summary": "Caltech's Summer Research Connection gives eligible Pasadena Unified School District high school students six weeks of hands-on research experience in Caltech laboratories. Students work in student-teacher teams under research mentors and contribute to scientific projects in fields such as biology, physics, astronomy, geoscience, engineering, and related STEM disciplines.",
+    "email": "",
+    "labUrl": "https://ctlo.caltech.edu/outreach/summerprograms/summer-research-connection",
+    "applyUrl": "https://ctlo.caltech.edu/outreach/summerprograms/summer-research-connection",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 186,
+    "name": "Stathopoulos Lab",
+    "title": "Developmental Biology and Genetics Research Opportunity",
+    "university": "California Institute of Technology",
+    "state": "California, USA",
+    "department": "Biology and Biological Engineering",
+    "field": "Molecular Biology",
+    "tags": [
+      "developmental biology",
+      "genetics",
+      "gene regulation",
+      "molecular biology",
+      "experimental biology",
+      "laboratory research",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Volunteer",
+      "Mentorship"
+    ],
+    "applicationType": "Open Inquiry",
+    "applicationWindow": "The Stathopoulos Lab explicitly welcomes high school and undergraduate students from local, national, and international schools for research and mentorship. Interested students should review the lab's current outreach information and inquire about available research opportunities and mentorship capacity.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly valuable professor-level Caltech opportunity because the individual laboratory explicitly welcomes high school students and documents previous high school interns. Students can gain direct hands-on experience in developmental biology, genetics, gene regulation, and molecular research.",
+    "summary": "The Stathopoulos Lab at Caltech conducts research in developmental biology, genetics, gene regulation, and molecular biology. The laboratory explicitly welcomes high school and undergraduate students from local, national, and international schools and mentors them in conducting research and gaining hands-on laboratory experience.",
+    "email": "",
+    "labUrl": "https://stathlab.caltech.edu/outreach",
+    "applyUrl": "",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 187,
+    "name": "Earthquake Fellows",
+    "title": "Seismology and Earth Science Research Fellowship",
+    "university": "California Institute of Technology",
+    "state": "California, USA",
+    "department": "Seismological Laboratory",
+    "field": "Environmental Science",
+    "tags": [
+      "seismology",
+      "geophysics",
+      "earth science",
+      "earthquakes",
+      "engineering",
+      "scientific research",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Fellowship",
+    "applicationWindow": "Earthquake Fellows serves eligible local Pasadena-area high school sophomores and juniors. The program provides summer research exposure through Caltech's Seismological Laboratory. Students should review the official Seismo Lab page for current dates, eligibility requirements, and future application cycles.",
+    "resumeRating": 5,
+    "ratingNote": "A highly specialized Caltech research opportunity where students work with and learn from earthquake scientists, researchers, engineers, and technical staff. The program provides rare high school access to professional seismology, geophysics, and earthquake research.",
+    "summary": "Caltech's Earthquake Fellows program gives eligible local high school students summer research experience through the Seismological Laboratory. Participants interact with leading scientists, engineers, researchers, and technicians while learning about earthquakes, geophysics, seismology, Earth science, and related engineering research.",
+    "email": "",
+    "labUrl": "https://seismolab.caltech.edu/about/outreach-and-internships/earthquake-fellows",
+    "applyUrl": "https://seismolab.caltech.edu/about/outreach-and-internships/earthquake-fellows",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 188,
+    "name": "Solar Energy Activity Lab (SEAL)",
+    "title": "Sustainable Energy Research and Mentorship Program",
+    "university": "California Institute of Technology",
+    "state": "California, USA",
+    "department": "Research and Mentorship Outreach",
+    "field": "Engineering",
+    "tags": [
+      "sustainable energy",
+      "chemistry",
+      "materials science",
+      "environmental engineering",
+      "synthetic biology",
+      "energy research",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Partner School Program",
+    "applicationWindow": "SEAL is a year-long research and mentorship program available through participating partner schools and programs. High school students work with Caltech graduate students and postdoctoral researchers on sustainable-energy research. Students should verify current partner-school eligibility and program availability through Caltech.",
+    "resumeRating": 5,
+    "ratingNote": "A strong sustained research opportunity because students work over an extended period with graduate and postdoctoral mentors on genuine sustainable-energy projects. Research can intersect with chemistry, materials science, environmental engineering, and synthetic biology.",
+    "summary": "Caltech's Solar Energy Activity Lab is a year-long research and mentorship program in which high school students from participating partner schools work with graduate students and postdoctoral researchers on sustainable-energy research. Student projects may involve chemistry, materials science, environmental engineering, synthetic biology, and other approaches to energy and environmental challenges.",
+    "email": "",
+    "labUrl": "https://ctlo.caltech.edu/outreach/caltechresources/outreach-programs",
+    "applyUrl": "https://ctlo.caltech.edu/outreach/caltechresources/outreach-programs",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 189,
+    "name": "NASA/IPAC Teacher Archive Research Program (NITARP)",
+    "title": "Year-Long NASA Astronomy Research Program",
+    "university": "California Institute of Technology / IPAC",
+    "state": "California, USA",
+    "department": "IPAC",
+    "field": "Astronomy",
+    "tags": [
+      "astronomy",
+      "astrophysics",
+      "NASA data",
+      "data science",
+      "space science",
+      "original research",
+      "scientific presentation"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Educator Team Program",
+    "applicationWindow": "High school students participate through selected educator-led NITARP teams. Teams conduct year-long astronomy research with professional astronomers using NASA and professional astronomical datasets. Students should work with eligible educators and review the official IPAC program information for future team-selection cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually substantial astronomy research experience because students participate in year-long original research using professional NASA datasets and collaborate with working astronomers. Teams can ultimately present their results at an American Astronomical Society meeting.",
+    "summary": "The NASA/IPAC Teacher Archive Research Program connects selected educators and their high school students with professional astronomers for year-long original research. Teams use professional NASA astronomy archives and datasets, collaborate with Caltech and NASA-affiliated scientists, analyze real astronomical data, and present their research findings to the broader scientific community.",
+    "email": "",
+    "labUrl": "https://www.ipac.caltech.edu/project/nitarp",
+    "applyUrl": "https://www.ipac.caltech.edu/project/nitarp",
+    "dateAdded": "2026-08-08"
+  }
 ]
