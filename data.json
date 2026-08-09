@@ -6646,4 +6646,179 @@
     "applyUrl": "",
     "dateAdded": "2026-08-08"
   }
+  ,
+  {
+    "id": 200,
+    "name": "BioSciences Summer Research Course (BIOS 110)",
+    "title": "BioSciences Faculty-Lab Summer Research Course",
+    "university": "Rice University",
+    "state": "Texas, USA",
+    "department": "Department of BioSciences",
+    "field": "Biology",
+    "tags": [
+      "biology",
+      "molecular biology",
+      "ecology",
+      "biochemistry",
+      "biosciences",
+      "laboratory research",
+      "faculty mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Summer Research",
+      "Research Project"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "BIOS 110 is designed for local high school rising juniors and seniors. Students spend seven weeks conducting full-time scientific research in Rice faculty laboratories while receiving formal research instruction. For 2026, the program runs June 15 through July 31. Applications require materials including a resume, statement of interest, transcript or report card, and science-teacher recommendation.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional high school research opportunity because students spend seven weeks conducting full-time scientific research inside Rice faculty laboratories under experienced research mentorship. Participants also receive formal research instruction and earn three Rice University credits.",
+    "summary": "Rice University's BioSciences Summer Research Course gives local high school rising juniors and seniors an intensive seven-week research experience inside Rice faculty laboratories. Students conduct scientific research under faculty supervision and experienced mentorship while gaining exposure to biology, molecular biology, ecology, biochemistry, and related biosciences.",
+    "email": "",
+    "labUrl": "https://biosciences.rice.edu/undergraduate-research",
+    "applyUrl": "https://biosciences.rice.edu/undergraduate-research",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 201,
+    "name": "AEOP REU: Rapidly Prototyping Two-Dimensional Materials with Acoustic Metamaterials",
+    "title": "Acoustic Metamaterials Research Internship",
+    "university": "Rice University",
+    "state": "Texas, USA",
+    "department": "Engineering and Applied Physics Research",
+    "field": "Physics",
+    "tags": [
+      "physics",
+      "materials science",
+      "mechanical engineering",
+      "acoustic metamaterials",
+      "simulation",
+      "fabrication",
+      "experimental physics"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "The research experience accepts eligible high school juniors and seniors who are U.S. citizens or permanent residents. The 2026 project reserves positions for two high school students alongside undergraduate researchers. Participants spend approximately ten weeks conducting research involving the design, simulation, fabrication, and experimental measurement of acoustic metamaterials.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually substantial high school physics and engineering opportunity because high school researchers participate alongside undergraduates in a ten-week university research project. Students contribute to the design, simulation, fabrication, and experimental characterization of acoustic metamaterials.",
+    "summary": "This Rice research experience gives selected high school juniors and seniors the opportunity to work on acoustic metamaterials alongside university researchers. Students investigate systems that can behave as analogues of quantum and electronic materials while gaining experience with computational modeling, engineering design, fabrication, and experimental measurement.",
+    "email": "",
+    "labUrl": "https://reu.rice.edu/research-experiences",
+    "applyUrl": "https://reu.rice.edu/research-experiences",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 202,
+    "name": "Houston Environmental Action Learning (HEAL)",
+    "title": "Environmental Participatory Action Research Program",
+    "university": "Rice University",
+    "state": "Texas, USA",
+    "department": "Rice Office of STEM Engagement",
+    "field": "Environmental Science",
+    "tags": [
+      "environmental science",
+      "climate",
+      "environmental justice",
+      "community research",
+      "participatory action research",
+      "sustainability",
+      "environmental research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Community-Based Research Program",
+    "applicationWindow": "HEAL is designed for eligible high school students in grades 9 and 10. The program engages students in environmental participatory action research focused on environmental challenges and community issues. Students should review Rice's current R-STEM information for upcoming cohorts, eligibility requirements, dates, and application procedures.",
+    "resumeRating": 4,
+    "ratingNote": "A distinctive environmental and community research opportunity because students participate in environmental participatory action research rather than only receiving classroom instruction. The program combines environmental science with community-focused investigation and environmental justice.",
+    "summary": "Houston Environmental Action Learning at Rice engages high school students in environmental participatory action research. Participants investigate environmental challenges while learning how research can be used to understand climate, sustainability, environmental justice, and community-level environmental issues.",
+    "email": "",
+    "labUrl": "https://research.rice.edu/rstem/programs/k-12-students-parents",
+    "applyUrl": "https://research.rice.edu/rstem/programs/k-12-students-parents",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 203,
+    "name": "RTG NASC High School Summer Internship",
+    "title": "Numerical Mathematics and Scientific Computing Internship",
+    "university": "Rice University",
+    "state": "Texas, USA",
+    "department": "Computational Applied Mathematics and Operations Research",
+    "field": "Mathematics",
+    "tags": [
+      "applied mathematics",
+      "scientific computing",
+      "numerical mathematics",
+      "Python",
+      "MATLAB",
+      "computational mathematics",
+      "programming"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Internship",
+    "applicationWindow": "The RTG NASC High School Summer Internship is a free program for eligible current 11th-grade students. The 2026 session runs August 3 through August 7 and introduces participants to numerical mathematics, scientific computing, programming, and computational approaches used by researchers. Students should check the official program page for future application cycles.",
+    "resumeRating": 4,
+    "ratingNote": "A strong computational opportunity for students interested in applied mathematics and scientific computing. Participants receive university-level exposure to numerical mathematics and programming through Python or MATLAB while learning computational techniques used in mathematical and scientific research.",
+    "summary": "Rice's RTG NASC High School Summer Internship introduces 11th-grade students to numerical mathematics and scientific computing. Participants combine mathematical instruction with computer-based work using tools such as Python and MATLAB while learning how computational methods are applied to scientific and mathematical problems.",
+    "email": "",
+    "labUrl": "https://rtg-nasc.rice.edu/news-and-events/hs-summer-internship",
+    "applyUrl": "https://rtg-nasc.rice.edu/news-and-events/hs-summer-internship",
+    "dateAdded": "2026-08-08"
+  },
+  {
+    "id": 204,
+    "name": "Rice Bio Academies",
+    "title": "BioTech, BioMed and BioEng Laboratory Academies",
+    "university": "Rice University",
+    "state": "Texas, USA",
+    "department": "Rice Office of STEM Engagement",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "biotechnology",
+      "biomedical science",
+      "bioengineering",
+      "genetics",
+      "biomaterials",
+      "DNA extraction",
+      "gel electrophoresis",
+      "laboratory science"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Workshop"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Rice Bio Academies offer hands-on laboratory experiences for high school students, with grade eligibility varying by academy. Programs include BioTech, BioMed, and BioEng experiences. For example, the 2026 BioTech academy serves students in grades 9 through 11. Students should review the current Rice R-STEM Bio Academies page for program-specific dates, eligibility, costs, and application information.",
+    "resumeRating": 3,
+    "ratingNote": "A useful hands-on laboratory experience, although it is more research exposure and scientific training than an independent research internship. Students can gain practical experience with techniques and concepts including DNA extraction, gel electrophoresis, genetics, biomaterials, biotechnology, and scientific imaging.",
+    "summary": "Rice Bio Academies provide high school students with hands-on university laboratory experiences through BioTech, BioMed, and BioEng programs. Depending on the academy, students explore biotechnology, biomedical science, bioengineering, genetics, biomaterials, DNA analysis, laboratory techniques, and scientific imaging.",
+    "email": "",
+    "labUrl": "https://research.rice.edu/rstem/bioacademies",
+    "applyUrl": "https://research.rice.edu/rstem/bioacademies",
+    "dateAdded": "2026-08-08"
+  }
 ]
