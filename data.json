@@ -6998,4 +6998,180 @@
     "applyUrl": "https://uwaterloo.ca/science/outreach/geox-summer-camp",
     "dateAdded": "2026-08-10"
   }
+  ,
+  {
+    "id": 210,
+    "name": "Student Advancement Research (StAR) Program",
+    "title": "Paid Biomedical Laboratory Research Program",
+    "university": "The Hospital for Sick Children (SickKids)",
+    "state": "Ontario, Canada",
+    "department": "SickKids Research Institute",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomedical science",
+      "genetics",
+      "cancer",
+      "neuroscience",
+      "pediatrics",
+      "laboratory research",
+      "medical research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "The StAR Program serves eligible Grade 11 and 12 students who are at least 16 years old and meet the program's current eligibility requirements. Participants are matched with SickKids research laboratories for six weeks. The 2026 program runs from July 6 through August 14. Students should review the official SickKids information for future application dates and eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional biomedical research opportunity because high school students are paired with active SickKids research laboratories, work directly with research staff, complete their own research projects, and present their findings at a research symposium.",
+    "summary": "The Student Advancement Research Program at SickKids gives eligible high school students a six-week research experience inside one of Canada's leading pediatric research institutions. Participants are matched with research laboratories, work with research staff on individual projects, and gain experience in fields that can include genetics, cancer, neuroscience, pediatrics, and biomedical science before presenting their findings.",
+    "email": "",
+    "labUrl": "https://www.sickkids.ca/en/learning/patient-family-education/kids-science/",
+    "applyUrl": "https://www.sickkids.ca/en/learning/patient-family-education/kids-science/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 211,
+    "name": "WISEST Summer Research Program",
+    "title": "Paid University STEM Research Placement",
+    "university": "University of Alberta",
+    "state": "Alberta, Canada",
+    "department": "Women in Scholarship, Engineering, Science and Technology",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "engineering",
+      "biology",
+      "chemistry",
+      "computing",
+      "physics",
+      "laboratory research",
+      "STEM research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "The WISEST Summer Research Program is designed for eligible students who have completed Grade 11 and are entering Grade 12. Participants spend six weeks working as student researchers in University of Alberta research environments. The 2026 program runs from July 2 through August 13. Students should review current WISEST information for future application deadlines and eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "A substantial university research experience because high school students spend six weeks working as student researchers within University of Alberta research environments. Placements can span engineering, biology, chemistry, computing, physics, and other STEM disciplines.",
+    "summary": "The University of Alberta's WISEST Summer Research Program places eligible Grade 11 students into university research environments for six weeks. Participants work as student researchers while gaining hands-on experience in disciplines such as engineering, biology, chemistry, computing, physics, and other STEM fields.",
+    "email": "",
+    "labUrl": "https://www.ualberta.ca/en/women-in-scholarship-engineering-science-technology/programs/summer-research-program/index.html",
+    "applyUrl": "https://www.ualberta.ca/en/women-in-scholarship-engineering-science-technology/programs/summer-research-program/index.html",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 212,
+    "name": "High School Youth Researcher Summer (HYRS)",
+    "title": "Paid Health Research Summer Program",
+    "university": "University of Calgary",
+    "state": "Alberta, Canada",
+    "department": "Alberta Innovates / University of Calgary Research",
+    "field": "Biomedical Science",
+    "tags": [
+      "health research",
+      "biomedical science",
+      "computational health",
+      "medicine",
+      "wet lab",
+      "data analysis",
+      "faculty mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "HYRS serves eligible Grade 11 students from Central Alberta who meet the program's current academic and regional requirements. Participants complete six weeks of full-time research under University of Calgary faculty mentorship. Placements may involve wet-laboratory or computational and dry-lab research. Students should review the current program information for application dates and eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "A strong faculty-mentored research experience because high school students contribute to active biomedical and health research for six weeks. Placements can include experimental laboratory research or computational and data-focused projects, and students present their work at a final research symposium.",
+    "summary": "The University of Calgary's High School Youth Researcher Summer program gives eligible Grade 11 students six weeks of faculty-mentored health research experience. Participants contribute to biomedical or health-related projects in wet-lab or computational research settings and conclude the program by presenting their research at a symposium.",
+    "email": "",
+    "labUrl": "https://research.ucalgary.ca/research-services/alberta-innovates-HYRS",
+    "applyUrl": "https://research.ucalgary.ca/research-services/alberta-innovates-HYRS",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 213,
+    "name": "Young Engineers and Scientists (YES!) Fellowship",
+    "title": "Particle Physics and Engineering Research Fellowship",
+    "university": "TRIUMF",
+    "state": "British Columbia, Canada",
+    "department": "TRIUMF Research Laboratory",
+    "field": "Physics",
+    "tags": [
+      "particle physics",
+      "nuclear physics",
+      "engineering",
+      "materials science",
+      "scientific computing",
+      "accelerator science",
+      "physics research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Fellowship",
+    "applicationWindow": "The YES! Fellowship is designed for eligible graduating British Columbia secondary-school students who will enter post-secondary education. Fellows spend approximately six weeks at TRIUMF experiencing an active research-laboratory environment. Students should review the current fellowship page for application deadlines, award amounts, travel support, housing support, and eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional physics and engineering opportunity because students spend six weeks inside TRIUMF, Canada's particle accelerator centre, gaining experience in a professional scientific research environment. The fellowship is particularly valuable for students interested in particle physics, nuclear physics, accelerator science, engineering, materials science, or scientific computing.",
+    "summary": "TRIUMF's Young Engineers and Scientists Fellowship gives graduating British Columbia secondary students an immersive six-week experience at Canada's particle accelerator centre. Fellows gain exposure to professional research in particle and nuclear physics, engineering, accelerator science, materials science, scientific computing, and related fields while working within a major national laboratory.",
+    "email": "",
+    "labUrl": "https://triumf.ca/people/awards-fellowships/yes-fellowship/",
+    "applyUrl": "https://triumf.ca/people/awards-fellowships/yes-fellowship/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 214,
+    "name": "Summer Psychology Research Initiative (SPRINT)",
+    "title": "High School Psychology Research Program",
+    "university": "University of Toronto",
+    "state": "Ontario, Canada",
+    "department": "Department of Psychology",
+    "field": "Psychology",
+    "tags": [
+      "psychology",
+      "cognitive science",
+      "behavioral research",
+      "experimental psychology",
+      "research methods",
+      "psychological science",
+      "social science"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "SPRINT is a free summer research initiative for eligible high school students studying in Ontario. The program introduces students to psychology while providing experience with psychological research and the university research environment. Students should review the University of Toronto Department of Psychology's current information for future dates and application requirements.",
+    "resumeRating": 4,
+    "ratingNote": "A valuable psychology-specific research opportunity because it allows Ontario high school students to gain research experience within the University of Toronto's psychology community. It also broadens research access beyond the biomedical and engineering opportunities that dominate many high school research databases.",
+    "summary": "The University of Toronto's Summer Psychology Research Initiative gives Ontario high school students an opportunity to explore psychology while gaining experience with psychological research. Participants are introduced to behavioral and experimental psychology, cognitive science, research methods, and the broader academic research environment.",
+    "email": "",
+    "labUrl": "https://www.psych.utoronto.ca/event-series/summer-psychology-research-initiative-sprint",
+    "applyUrl": "https://www.psych.utoronto.ca/event-series/summer-psychology-research-initiative-sprint",
+    "dateAdded": "2026-08-10"
+  }
 ]
