@@ -7526,4 +7526,183 @@
     "applyUrl": "",
     "dateAdded": "2026-08-10"
   }
+  ,
+  {
+    "id": 230,
+    "name": "MYHealth Research Training Program",
+    "title": "Youth Health Research Co-Researcher Program",
+    "university": "University of Michigan",
+    "state": "Michigan, USA",
+    "department": "Department of Family Medicine",
+    "field": "Public Health",
+    "tags": [
+      "adolescent health",
+      "public health",
+      "psychology",
+      "qualitative research",
+      "health data",
+      "MyVoice",
+      "data analysis",
+      "virtual research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Research Assistant"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "MYHealth serves high school students in Southeast Michigan and is conducted virtually. Students participate as youth co-researchers, working with University of Michigan researchers on adolescent-health questions and real MyVoice survey data. Participants learn research methods, qualitative analysis, interpretation, and scientific communication before presenting their findings. Students should check current U-M Family Medicine information for future recruitment cycles.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly strong social and health-science opportunity because high school students function as co-researchers and analyze real national youth-health data rather than simply attending research workshops. Participants develop research questions, conduct qualitative analysis, interpret findings, and present their work.",
+    "summary": "MYHealth is an NIH-funded University of Michigan research-training program in which Southeast Michigan high school students work as co-researchers on adolescent-health questions. Students use real MyVoice national survey data, conduct qualitative thematic analysis, interpret results, develop future research directions, and present their findings while receiving mentorship from U-M researchers.",
+    "email": "",
+    "labUrl": "https://medschool.umich.edu/department-news/metro-detroit-high-schoolers-train-researchers-u-ms-myhealth-program",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 231,
+    "name": "Summer Healthcare Experience in Oncology (SHE Oncology)",
+    "title": "High School Oncology Research Training Program",
+    "university": "University of Michigan",
+    "state": "Michigan, USA",
+    "department": "Rogel Cancer Center",
+    "field": "Biomedical Science",
+    "tags": [
+      "cancer biology",
+      "oncology",
+      "genetics",
+      "biomedical research",
+      "health disparities",
+      "Drosophila",
+      "cancer research",
+      "Michigan"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Summer Research",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "SHE Oncology is designed for eligible Michigan high school sophomores and juniors. The 2026 experience included an optional on-campus research bootcamp followed by two weeks of virtual programming. Students completing the program received a $500 stipend. Prospective applicants should check the Rogel Cancer Center's current K-12 program information for future application dates and eligibility requirements.",
+    "resumeRating": 4,
+    "ratingNote": "A strong cancer-focused research-training opportunity combining oncology mentorship, genetics activities, research exposure, and a student project. It is less intensive than a full-time faculty-lab placement but provides meaningful exposure to active cancer research and scientific methods.",
+    "summary": "SHE Oncology introduces Michigan high school students to cancer biology, genetics, biomedical research, and oncology through a combination of research activities, mentorship, patient case-study work, and hands-on genetics experiences. Participants receive at-home laboratory materials and learn about cancer research through the University of Michigan Rogel Cancer Center.",
+    "email": "",
+    "labUrl": "https://rogeltrainees.med.umich.edu/trainees/k-12/summer-healthcare-experience-in-oncology",
+    "applyUrl": "https://rogeltrainees.med.umich.edu/trainees/k-12/summer-healthcare-experience-in-oncology",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 232,
+    "name": "MYHealth Peer Leaders",
+    "title": "Advanced Youth Health Research and Peer Mentorship",
+    "university": "University of Michigan",
+    "state": "Michigan, USA",
+    "department": "Department of Family Medicine",
+    "field": "Public Health",
+    "tags": [
+      "health research",
+      "adolescent health",
+      "research mentorship",
+      "peer mentorship",
+      "data analysis",
+      "qualitative research",
+      "MyVoice",
+      "virtual research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Mentorship",
+      "Research Project",
+      "Research Assistant"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "This advanced pathway is available to returning students who have previously completed the MYHealth research-training experience. Selected alumni can continue for an additional year as peer leaders, gaining further research experience while helping mentor newer student research teams. Eligibility therefore requires prior participation in MYHealth.",
+    "resumeRating": 4,
+    "ratingNote": "A valuable long-term research pathway for returning MYHealth participants because students can extend their involvement into a second year while developing both research and scientific mentorship experience.",
+    "summary": "MYHealth alumni can continue their involvement with University of Michigan health research as peer leaders. Returning students gain additional research experience while mentoring newer participants as they develop and complete youth-health research projects, allowing some students to spend roughly two years progressing through research and mentorship.",
+    "email": "",
+    "labUrl": "https://medschool.umich.edu/department-news/metro-detroit-high-schoolers-train-researchers-u-ms-myhealth-program",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 233,
+    "name": "Health Sciences Pre-College Exposure Academy (SPEA)",
+    "title": "Biomedical and Health Sciences Summer Experience",
+    "university": "University of Michigan",
+    "state": "Michigan, USA",
+    "department": "Michigan Medicine",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomedical research",
+      "medicine",
+      "health sciences",
+      "health equity",
+      "medical research",
+      "pre-med",
+      "Michigan Medicine"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Summer Research",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "SPEA is available to eligible U.S. high school sophomores and juniors with at least a 3.0 GPA. The program includes professional-development programming and weekly full-day experiences at Michigan Medicine for students interested in medicine, biomedical research, health sciences, and health equity. Applicants should review the current Michigan Medicine K-12 Pathways page for application dates and requirements.",
+    "resumeRating": 3,
+    "ratingNote": "A useful introduction to biomedical research and Michigan Medicine, particularly for students exploring medicine and health equity. However, this should be viewed primarily as research and healthcare exposure rather than an independent faculty-lab research placement.",
+    "summary": "The Health Sciences Pre-College Exposure Academy introduces high school students to medicine, biomedical research, health sciences, and health equity through programming connected to Michigan Medicine. Participants attend professional-development sessions and full-day campus experiences while exploring research and healthcare careers.",
+    "email": "",
+    "labUrl": "https://medschool.umich.edu/programs-admissions/non-degree-programs/k-12-pathways-programs",
+    "applyUrl": "https://medschool.umich.edu/programs-admissions/non-degree-programs/k-12-pathways-programs",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 234,
+    "name": "Rogel Cancer Center K-12 Research Pathways / TrECC",
+    "title": "High School Cancer Research Pathways",
+    "university": "University of Michigan",
+    "state": "Michigan, USA",
+    "department": "Rogel Cancer Center",
+    "field": "Biomedical Science",
+    "tags": [
+      "cancer research",
+      "oncology",
+      "biomedical science",
+      "translational research",
+      "cancer biology",
+      "medical research",
+      "K-12 research",
+      "Michigan Medicine"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Mentorship",
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Eligibility and application timing vary by the individual K-12 research and training opportunities offered through the Rogel Cancer Center and its training infrastructure. Students should use the current Rogel trainee resources to identify programs appropriate for their grade level, location, and research interests.",
+    "resumeRating": 3,
+    "ratingNote": "Useful as a specialized access point for students seeking cancer and oncology research opportunities at the University of Michigan, although it functions more as a pathway to individual programs than as one standalone research internship.",
+    "summary": "The University of Michigan Rogel Cancer Center supports K-12 pathways that introduce high school students to cancer biology, oncology, biomedical science, and translational research. Opportunities vary by program and can include research training, mentorship, scientific projects, and exposure to the cancer-research environment at Michigan Medicine.",
+    "email": "",
+    "labUrl": "https://rogeltrainees.med.umich.edu/trainees/k-12/summer-healthcare-experience-in-oncology",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  }
 ]
