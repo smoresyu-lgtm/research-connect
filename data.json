@@ -8063,4 +8063,182 @@
     "applyUrl": "",
     "dateAdded": "2026-08-10"
   }
+  ,
+  {
+    "id": 245,
+    "name": "NextGen High School Internship Program",
+    "title": "Paid Human Genetics and Biomedical Research Internship",
+    "university": "Emory University",
+    "state": "Georgia, USA",
+    "department": "Department of Human Genetics",
+    "field": "Biomedical Science",
+    "tags": [
+      "human genetics",
+      "molecular biology",
+      "neuroscience",
+      "stem cells",
+      "biomedical science",
+      "genetic counseling",
+      "laboratory research",
+      "Atlanta"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "The NextGen High School Internship Program provides eligible high school students, with an Atlanta-area focus, with a paid summer experience through Emory's Department of Human Genetics. The program returned in 2026 after pausing in 2025. Participants receive hands-on exposure to genetics research, laboratory techniques, scientific careers, and genetic counseling. Students should review the current Human Genetics program page for future application dates and eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional biomedical research opportunity because high school students gain hands-on experience across Emory research environments while working with researchers in human genetics and related fields. Recent participants have explored techniques involving leukemia-cell mutations, fruit-fly genetics, and induced pluripotent stem cells.",
+    "summary": "Emory's NextGen High School Internship Program gives high school students a paid, hands-on introduction to human genetics and biomedical research. Participants work with Emory researchers, develop laboratory and scientific skills, explore areas such as molecular biology, neuroscience and stem-cell research, and learn about careers including genetic counseling.",
+    "email": "",
+    "labUrl": "https://med.emory.edu/departments/human-genetics/next-gen.html",
+    "applyUrl": "https://med.emory.edu/departments/human-genetics/next-gen.html",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 246,
+    "name": "Faculty-Sponsored Minor Research Laboratory Placement",
+    "title": "Individual Faculty-Sponsored Research Lab Pathway",
+    "university": "Emory University",
+    "state": "Georgia, USA",
+    "department": "Faculty Research Laboratories",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "faculty research",
+      "biology",
+      "chemistry",
+      "neuroscience",
+      "biomedical science",
+      "laboratory research",
+      "faculty sponsorship",
+      "Atlanta"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Faculty Sponsorship / Direct Inquiry",
+    "applicationWindow": "Emory has an administrative process for minors participating in university research laboratories. This is not a centralized high school internship program. A student must first have a willing Emory PI, supervisor, or laboratory contact who agrees to sponsor the research experience. The minor must then complete applicable university registration, safety training, and laboratory requirements before participating.",
+    "resumeRating": 5,
+    "ratingNote": "A valuable hidden pathway because Emory has an established administrative mechanism for minors to participate in university research laboratories when supported by a willing PI or lab supervisor. Placement is highly dependent on faculty interest, laboratory capacity, project suitability, and university approval.",
+    "summary": "High school students can potentially conduct research in individual Emory laboratories when a faculty PI or laboratory supervisor agrees to sponsor them. Emory maintains procedures for minors entering research laboratories, including registration and required safety training, creating an official pathway for individually arranged faculty-sponsored research experiences.",
+    "email": "",
+    "labUrl": "https://scholarblogs.emory.edu/ranews/2017/03/31/volunteers-and-minors-in-research-labs/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 247,
+    "name": "Summer Science Academy",
+    "title": "Biomedical Science and Research Exposure Program",
+    "university": "Emory University",
+    "state": "Georgia, USA",
+    "department": "School of Medicine",
+    "field": "Biomedical Science",
+    "tags": [
+      "biology",
+      "biotechnology",
+      "medical research",
+      "engineering",
+      "health science",
+      "laboratory science",
+      "medicine",
+      "Atlanta"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Mentorship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The Summer Science Academy is designed for incoming ninth- and tenth-grade students interested in science and medicine. The two-week experience includes hands-on laboratory and field activities connected to biotechnology, medical and scientific research, engineering, and health careers. The program is on hiatus for summer 2026 and is expected to return in summer 2027, so students should verify the next cycle before applying.",
+    "resumeRating": 3,
+    "ratingNote": "A useful opportunity for younger high school students to gain hands-on exposure to biomedical science and university research environments. It is primarily a research-exposure and science-enrichment experience rather than an independent faculty-lab research internship.",
+    "summary": "Emory School of Medicine's Summer Science Academy introduces younger high school students to biomedical science through hands-on laboratory and field experiences. Students explore biotechnology, medical research, engineering, health science, and related careers while gaining early exposure to the scientific research environment.",
+    "email": "",
+    "labUrl": "https://med.emory.edu/education/outreach-recruitment/summer-camps/index.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 248,
+    "name": "Foundations of Modern Biology II Laboratory",
+    "title": "College-Credit Authentic Biology Research Laboratory",
+    "university": "Emory University",
+    "state": "Georgia, USA",
+    "department": "Emory Summer College",
+    "field": "Biology",
+    "tags": [
+      "biology",
+      "experimental biology",
+      "scientific inquiry",
+      "research design",
+      "data analysis",
+      "laboratory research",
+      "college credit",
+      "Atlanta"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Eligible high school students who have completed their sophomore or junior year and meet applicable prerequisites may enroll through Emory Summer College. The laboratory is conducted on campus and requires students to be local to Atlanta during the session. Students design, implement, analyze, and present authentic research projects while earning Emory college credit. Unlike many Research Connect listings, this is tuition-based coursework rather than a free or paid internship.",
+    "resumeRating": 3,
+    "ratingNote": "A legitimate authentic-research experience because students design, conduct, analyze, and present their own experimental biology projects. However, it is a tuition-based college laboratory course rather than a competitive research internship or individual faculty-lab placement.",
+    "summary": "Foundations of Modern Biology II Laboratory allows eligible high school students enrolled through Emory Summer College to participate in authentic experimental biology research. Students design and implement research projects, analyze their results, present their findings, and earn Emory college credit through the laboratory course.",
+    "email": "",
+    "labUrl": "https://precollege.emory.edu/courses/credit/biol142l-lab-foundations-biology-2.html",
+    "applyUrl": "https://precollege.emory.edu/courses/credit/biol142l-lab-foundations-biology-2.html",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 249,
+    "name": "Emory Pre-Med Institute",
+    "title": "Research and Health Sciences Pre-Med Experience",
+    "university": "Emory University",
+    "state": "Georgia, USA",
+    "department": "Pre-College Program / School of Medicine",
+    "field": "Biomedical Science",
+    "tags": [
+      "medicine",
+      "biomedical science",
+      "health research",
+      "neuroscience",
+      "health science",
+      "pre-med",
+      "medical research",
+      "Atlanta"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Mentorship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The Emory Pre-Med Institute is designed for eligible rising high school juniors and seniors. The three-week program provides intensive exposure to medicine, biomedical science, health research, and healthcare careers with involvement from Emory School of Medicine faculty. The 2026 program reached capacity early. Students should review Emory's current Pre-College information for future sessions and application requirements.",
+    "resumeRating": 2,
+    "ratingNote": "A useful medical and biomedical-science exposure experience, but substantially less research-intensive than Emory's NextGen internship or an individual faculty-sponsored laboratory placement. It should be treated as research and healthcare exposure rather than independent research.",
+    "summary": "The Emory Pre-Med Institute is a three-week summer experience for rising juniors and seniors interested in medicine and biomedical science. Students explore clinical and research careers in health care through programming connected to Emory and its School of Medicine, making it primarily an introductory research and medical-science experience.",
+    "email": "",
+    "labUrl": "https://precollege.emory.edu/",
+    "applyUrl": "https://precollege.emory.edu/",
+    "dateAdded": "2026-08-10"
+  }
 ]
