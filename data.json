@@ -7174,4 +7174,180 @@
     "applyUrl": "https://www.psych.utoronto.ca/event-series/summer-psychology-research-initiative-sprint",
     "dateAdded": "2026-08-10"
   }
+  ,
+  {
+    "id": 220,
+    "name": "Vanderbilt Basic Sciences — Faculty-Sponsored High School Research Internships",
+    "title": "Faculty-Sponsored Biomedical Research Internship Pathway",
+    "university": "Vanderbilt University",
+    "state": "Tennessee, USA",
+    "department": "School of Medicine Basic Sciences",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomedical science",
+      "molecular biology",
+      "biochemistry",
+      "cell biology",
+      "neuroscience",
+      "faculty research",
+      "laboratory research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Faculty Sponsorship / Direct Inquiry",
+    "applicationWindow": "This is not a centralized high school application program. Vanderbilt Basic Sciences allows high school students to conduct research in faculty laboratories when a willing Vanderbilt faculty member agrees to sponsor the student. Participation depends on faculty interest, laboratory capacity, project suitability, university approval, and completion of required intern procedures.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional hidden research pathway because Vanderbilt explicitly maintains an administrative mechanism for faculty-sponsored high school research interns. Students who secure a willing PI may conduct genuine educational research inside an active Basic Sciences laboratory rather than participating only in outreach or shadowing.",
+    "summary": "Vanderbilt School of Medicine Basic Sciences allows high school students to conduct research in faculty laboratories through a faculty-sponsorship pathway. Students must identify a suitable Vanderbilt research group and secure a willing faculty sponsor, after which the university can process the student as a research intern. Potential fields include molecular biology, biochemistry, cell biology, neuroscience, and other biomedical sciences.",
+    "email": "",
+    "labUrl": "https://medschool.vanderbilt.edu/basic-sciences/resources/faculty/undergraduate-training-opportunities-and-procedures/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 221,
+    "name": "Zhou Lab",
+    "title": "Structural and Cellular Biology Research Internship Pathway",
+    "university": "Vanderbilt University",
+    "state": "Tennessee, USA",
+    "department": "School of Medicine",
+    "field": "Molecular Biology",
+    "tags": [
+      "structural biology",
+      "cell biology",
+      "cryo-electron tomography",
+      "microbiology",
+      "microscopy",
+      "laboratory research",
+      "biomedical research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Direct Inquiry / Availability Dependent",
+    "applicationWindow": "The Zhou Lab has documented recent high school summer-intern participation, including a 2026 student contributing to ongoing laboratory research. The lab does not advertise a standing high school application process, so prospective students should treat this as an availability-dependent inquiry rather than an openly recruiting program.",
+    "resumeRating": 5,
+    "ratingNote": "A strong individual-lab pathway because the Zhou Lab has recently hosted a high school summer intern who contributed to ongoing research. The laboratory works in advanced structural and cellular biology, including techniques such as cryo-electron tomography.",
+    "summary": "The Zhou Lab at Vanderbilt conducts structural and cellular biology research involving advanced imaging and microscopy approaches, including cryo-electron tomography. The laboratory has recently hosted a high school summer intern who contributed to ongoing research projects, making direct inquiry potentially worthwhile when space and mentorship are available.",
+    "email": "",
+    "labUrl": "https://lab.vanderbilt.edu/zhou-lab/lab-news/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 222,
+    "name": "Research Experience for High School Students (REHSS)",
+    "title": "Full-Time Vanderbilt Faculty-Mentored Research Internship",
+    "university": "Vanderbilt University",
+    "state": "Tennessee, USA",
+    "department": "Collaborative for STEM Education and Outreach",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "biology",
+      "chemistry",
+      "engineering",
+      "biomedical science",
+      "independent research",
+      "faculty mentorship",
+      "laboratory research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "REHSS serves eligible rising seniors participating in Vanderbilt's ISR program at Stratford STEM Magnet High School, John Overton High School, or Hillsboro High School. Students complete a six-week full-time research internship in a Vanderbilt or VUMC laboratory. Students should review current Vanderbilt CSEO information for future dates and participation requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptionally substantial high school research placement because students spend six weeks working full time in a Vanderbilt or VUMC research laboratory and complete an independent project under a Vanderbilt faculty mentor.",
+    "summary": "Vanderbilt's Research Experience for High School Students places eligible rising seniors into Vanderbilt or Vanderbilt University Medical Center research laboratories for six weeks of full-time research. Students conduct an independent project under faculty mentorship while gaining experience in fields that can include biology, chemistry, engineering, biomedical science, and other STEM disciplines.",
+    "email": "",
+    "labUrl": "https://www.vanderbilt.edu/cseo/programs/high-school-programs/research-experience-for-high-school-students-rehss/",
+    "applyUrl": "https://www.vanderbilt.edu/cseo/programs/high-school-programs/research-experience-for-high-school-students-rehss/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 223,
+    "name": "School for Science and Math at Vanderbilt — Summer Research III",
+    "title": "Six-Week Faculty-Mentored Research Placement",
+    "university": "Vanderbilt University",
+    "state": "Tennessee, USA",
+    "department": "School for Science and Math at Vanderbilt",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "biomedical science",
+      "engineering",
+      "natural sciences",
+      "faculty mentorship",
+      "independent research",
+      "research notebook",
+      "poster presentation"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "Summer Research III is available to eligible students enrolled in the School for Science and Math at Vanderbilt through Metropolitan Nashville Public Schools. Between junior and senior year, students complete a six-week full-time research internship with a Vanderbilt or VUMC faculty mentor. Access is limited to students participating in SSMV.",
+    "resumeRating": 5,
+    "ratingNote": "A highly substantial research experience because students conduct an individual research project for six weeks under a Vanderbilt or VUMC faculty mentor. Participants maintain a research notebook and present their findings in a poster format to the Vanderbilt research community.",
+    "summary": "Summer Research III is the capstone research experience for students in Vanderbilt's School for Science and Math. Participants complete a six-week full-time internship with a Vanderbilt or VUMC faculty mentor, conduct an individual research project, document their work in a research notebook, and present their results to the Vanderbilt community.",
+    "email": "",
+    "labUrl": "https://www.vanderbilt.edu/cseo-ssmv/prospective-students/curriculum-information/grade-12-summer-research-iii/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 224,
+    "name": "SHIRE — Summer High-School Internships in Research Experiences",
+    "title": "Paid Vanderbilt Research Apprenticeship",
+    "university": "Vanderbilt University",
+    "state": "Tennessee, USA",
+    "department": "Collaborative for STEM Education and Outreach",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "cancer biology",
+      "cell culture",
+      "sustainable engineering",
+      "environmental science",
+      "water quality",
+      "research mentorship",
+      "paid research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Apprenticeship",
+    "applicationWindow": "SHIRE serves eligible rising juniors and seniors participating in Vanderbilt's ISR program at Stratford STEM Magnet High School, John Overton High School, or Hillsboro High School. Students work with Vanderbilt researchers on active scientific questions. The 2026 program involved approximately 28 hours per week and is now closed. Students should review current CSEO information for future cycles.",
+    "resumeRating": 5,
+    "ratingNote": "A strong paid research pathway because students work directly with Vanderbilt scientists on genuine research questions rather than completing only classroom activities. Research areas have included cancer biology, cell culture, sustainable engineering, water quality, and other STEM topics.",
+    "summary": "SHIRE is a paid Vanderbilt research experience for eligible high school students participating in the university's ISR pathway. Students work with Vanderbilt scientists on active research questions in areas such as cancer biology, sustainable engineering, cell culture, environmental science, and water quality. Rising seniors may develop individual projects that continue into the fall.",
+    "email": "",
+    "labUrl": "https://www.vanderbilt.edu/cseo/programs/high-school-programs/shire/",
+    "applyUrl": "https://www.vanderbilt.edu/cseo/programs/high-school-programs/shire/",
+    "dateAdded": "2026-08-10"
+  }
 ]
