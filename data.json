@@ -7705,4 +7705,181 @@
     "applyUrl": "",
     "dateAdded": "2026-08-10"
   }
+  ,
+  {
+    "id": 235,
+    "name": "High School Research Internship",
+    "title": "Academic-Year Faculty-Lab Research Internship",
+    "university": "University of Notre Dame",
+    "state": "Indiana, USA",
+    "department": "Center for Broader Impacts",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "STEM",
+      "engineering",
+      "biology",
+      "chemistry",
+      "environmental science",
+      "faculty research",
+      "laboratory research",
+      "poster presentation"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "The High School Research Internship serves eligible local high school juniors and seniors through participating schools and community organizations. Students conduct research in a Notre Dame faculty laboratory approximately twice per week during the academic year while working closely with a graduate student or postdoctoral mentor. Participants complete a research project and present their work at a poster presentation.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptionally substantial academic-year research experience because students are embedded directly in Notre Dame faculty laboratories and work with graduate student or postdoctoral mentors. The program has placed dozens of high school students across numerous Notre Dame research labs.",
+    "summary": "Notre Dame's High School Research Internship places local juniors and seniors into university faculty laboratories for sustained academic-year research. Students work closely with graduate student or postdoctoral mentors, contribute to research projects across STEM disciplines, and conclude the experience by presenting their work in a research poster.",
+    "email": "",
+    "labUrl": "https://research.nd.edu/our-services/research-engagement/programs/high-school-research-internships/",
+    "applyUrl": "https://research.nd.edu/our-services/research-engagement/programs/high-school-research-internships/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 236,
+    "name": "CISTAR Young Scholars Program",
+    "title": "Paid Chemical Engineering Research Internship",
+    "university": "University of Notre Dame",
+    "state": "Indiana, USA",
+    "department": "CISTAR / College of Engineering",
+    "field": "Chemical Engineering",
+    "tags": [
+      "chemical engineering",
+      "chemistry",
+      "energy",
+      "catalysis",
+      "sustainable engineering",
+      "laboratory research",
+      "paid research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "The CISTAR Young Scholars Program is designed for eligible rising juniors, rising seniors, and graduating high school seniors who are U.S. citizens or permanent residents. Priority is given to students in the Notre Dame area. The 2026 program ran June 15 through July 24, with students conducting research approximately 30 hours per week in CISTAR-affiliated laboratories and receiving a $2,000 stipend. Students should check the current program page for future application cycles.",
+    "resumeRating": 5,
+    "ratingNote": "A highly substantial engineering research opportunity because high school students spend six weeks conducting full-time research inside CISTAR-affiliated Notre Dame laboratories. The combination of intensive laboratory work, faculty research, and a stipend makes this one of Notre Dame's strongest high school STEM opportunities.",
+    "summary": "The CISTAR Young Scholars Program gives high school students six weeks of intensive research experience in Notre Dame laboratories connected to chemical engineering, chemistry, catalysis, energy, and sustainable engineering. Participants work approximately 30 hours per week on active research and receive a stipend.",
+    "email": "",
+    "labUrl": "https://research.nd.edu/news-and-events/events/2026/04/16/application-deadline-cistar-young-scholar-program/",
+    "applyUrl": "https://research.nd.edu/news-and-events/events/2026/04/16/application-deadline-cistar-young-scholar-program/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 237,
+    "name": "Summer Research Experience for High School Students",
+    "title": "Chemistry and Biochemistry Faculty-Lab Research",
+    "university": "University of Notre Dame",
+    "state": "Indiana, USA",
+    "department": "Department of Chemistry and Biochemistry",
+    "field": "Chemistry",
+    "tags": [
+      "chemistry",
+      "biochemistry",
+      "molecular science",
+      "chemical biology",
+      "faculty research",
+      "laboratory research",
+      "summer research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Direct Inquiry / Availability Dependent",
+    "applicationWindow": "Notre Dame's Department of Chemistry and Biochemistry offers a Summer Research Experience in which high school students may perform research in faculty laboratories. Interested students are directed by the department to contact Professor Greg Hartland for information about available projects. Participation therefore depends on current project and mentorship availability.",
+    "resumeRating": 5,
+    "ratingNote": "An excellent department-level direct-inquiry pathway because Notre Dame explicitly invites interested high school students to ask about available research projects in Chemistry and Biochemistry faculty laboratories rather than relying on an unofficial cold-email strategy.",
+    "summary": "Notre Dame Chemistry and Biochemistry offers high school students opportunities to conduct summer research in university faculty laboratories. Projects can span chemistry, biochemistry, molecular science, and chemical biology, with interested students directed to inquire about currently available research projects.",
+    "email": "",
+    "labUrl": "https://chemistry.nd.edu/about/employment-opportunities/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 238,
+    "name": "Research Experience for High School Students — Environmental Engineering",
+    "title": "Doudrick Lab Environmental Engineering Research",
+    "university": "University of Notre Dame",
+    "state": "Indiana, USA",
+    "department": "Civil and Environmental Engineering and Earth Sciences",
+    "field": "Environmental Science",
+    "tags": [
+      "environmental engineering",
+      "PFAS",
+      "water treatment",
+      "environmental chemistry",
+      "contaminants",
+      "water research",
+      "Doudrick Lab"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Faculty Sponsorship / Direct Inquiry",
+    "applicationWindow": "Notre Dame's academic catalog lists CE 08999, Research Experience for High School Students, as an Environmental Engineering research experience associated with Professor Kyle Doudrick. Participation requires an appropriate research project and faculty approval rather than a standard centralized high school application.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually strong individual-professor pathway because Notre Dame formally recognizes a course specifically for high school students conducting Environmental Engineering research. The opportunity provides a route into research involving environmental contaminants, water treatment, and related environmental engineering questions.",
+    "summary": "Notre Dame formally lists a Research Experience for High School Students in Environmental Engineering associated with Professor Kyle Doudrick. Research in this area can involve environmental contaminants, PFAS, environmental chemistry, and water-treatment technologies, providing an unusually specific faculty-level pathway for high school research.",
+    "email": "",
+    "labUrl": "https://catalog.nd.edu/undergraduate/engineering/cvl-envmntl-engr-earth-sci/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 239,
+    "name": "Research Cures Cancer Corps (RC3) Summer Immersion",
+    "title": "High School Cancer Research Laboratory Experience",
+    "university": "University of Notre Dame",
+    "state": "Indiana, USA",
+    "department": "Harper Cancer Research Institute",
+    "field": "Biomedical Science",
+    "tags": [
+      "cancer biology",
+      "oncology",
+      "molecular biology",
+      "biomedical science",
+      "cancer research",
+      "laboratory research",
+      "Harper Cancer Research Institute"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "The RC3 Summer Immersion provides high school students with hands-on cancer research experience associated with the Harper Cancer Research Institute. Participants work alongside research mentors in affiliated laboratories on cancer research projects. Students should consult current Notre Dame and Harper Cancer Research Institute information for future program dates and application requirements.",
+    "resumeRating": 5,
+    "ratingNote": "A highly valuable biomedical research experience because high school participants work alongside research mentors on actual cancer research projects in laboratories affiliated with Notre Dame's Harper Cancer Research Institute.",
+    "summary": "The Research Cures Cancer Corps Summer Immersion introduces high school students to hands-on cancer research at Notre Dame. Participants work with mentors in Harper Cancer Research Institute-affiliated laboratories on projects involving cancer biology, molecular biology, biomedical science, and oncology.",
+    "email": "",
+    "labUrl": "https://catalog.nd.edu/undergraduate/courses/sc/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  }
 ]
