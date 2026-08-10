@@ -103,20 +103,7 @@ function render() {
     if (activeFilters.appType && appType !== activeFilters.appType) return false;
 
     if (searchTerm) {
-  const haystack = [
-    entry.name,
-    entry.title,
-    entry.university,
-    entry.department,
-    entry.field,
-    entry.state,
-    entry.city,
-    entry.summary,
-    ...(entry.tags || [])
-  ]
-    .filter(Boolean)
-    .join(" ")
-    .toLowerCase();
+  const haystack = JSON.stringify(entry).toLowerCase();
 
   if (!haystack.includes(searchTerm)) return false;
 }
