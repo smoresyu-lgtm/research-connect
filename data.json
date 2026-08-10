@@ -7882,4 +7882,185 @@
     "applyUrl": "",
     "dateAdded": "2026-08-10"
   }
+  ,
+  {
+    "id": 240,
+    "name": "Summer Focus — Young Scientist Program",
+    "title": "Paid Individual Laboratory Research Internship",
+    "university": "Washington University in St. Louis",
+    "state": "Missouri, USA",
+    "department": "Young Scientist Program",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomedical science",
+      "genetics",
+      "cancer biology",
+      "neuroscience",
+      "microbiology",
+      "ecology",
+      "engineering",
+      "chemistry",
+      "laboratory research",
+      "St. Louis"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "Summer Focus is designed for eligible Greater St. Louis-area high school juniors entering their senior year who reside in Missouri or Illinois. Students spend approximately eight weeks conducting full-time research in a Washington University laboratory under scientist mentorship. The 2026 program provided a $4,800 stipend. No previous research experience is expected. Students should check the Young Scientist Program website for future application dates.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional high school research experience because each participant completes an individualized project inside an active Washington University laboratory. Students work full-time with scientist mentors and conclude the experience by presenting their research at a symposium.",
+    "summary": "Summer Focus places Greater St. Louis-area high school students into Washington University research laboratories for approximately eight weeks of full-time mentored research. Students complete individualized projects in areas that can include genetics, cancer biology, neuroscience, microbiology, biomedical engineering, ecology, chemistry, and other STEM fields before presenting their work at a final symposium.",
+    "email": "",
+    "labUrl": "https://sites.wustl.edu/wustlysp/programs/summer-focus/",
+    "applyUrl": "https://sites.wustl.edu/wustlysp/programs/summer-focus/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 241,
+    "name": "CRISPr — Cancer Research Inspiring Future Scientists Program",
+    "title": "Paid Cancer Research Laboratory Internship",
+    "university": "Washington University in St. Louis",
+    "state": "Missouri, USA",
+    "department": "Siteman Cancer Center / Department of Biology",
+    "field": "Biomedical Science",
+    "tags": [
+      "cancer biology",
+      "oncology",
+      "molecular biology",
+      "biomedical science",
+      "cancer research",
+      "laboratory research",
+      "scientific communication",
+      "St. Louis"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "CRISPr serves eligible St. Louis-area high school students who are at least 16 years old and eligible to work in the United States. Participants spend approximately nine weeks conducting full-time cancer research with mentors in Washington University Medicine laboratories. The program has provided a $4,800 stipend. Information for the 2027 cycle is expected in December 2026.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptionally intensive cancer-research opportunity because high school students spend roughly 40 hours per week working in cancer research laboratories with scientist mentors. Participants also develop scientific reading and presentation skills and present their work at a research symposium.",
+    "summary": "The Cancer Research Inspiring Future Scientists Program places St. Louis-area high school students into cancer research laboratories at Washington University Medicine. Participants spend approximately nine weeks working with research mentors on cancer-related projects while developing scientific communication skills and presenting their findings at a final symposium.",
+    "email": "",
+    "labUrl": "https://sites.wustl.edu/cancerresearch/crispr-program-2/",
+    "applyUrl": "https://sites.wustl.edu/cancerresearch/crispr-program-2/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 242,
+    "name": "Blodgett Lab",
+    "title": "Microbiology and Bacterial Metabolism Research Opportunity",
+    "university": "Washington University in St. Louis",
+    "state": "Missouri, USA",
+    "department": "Department of Biology",
+    "field": "Microbiology",
+    "tags": [
+      "microbiology",
+      "bacterial metabolism",
+      "biochemistry",
+      "chemical biology",
+      "bacteria",
+      "laboratory research",
+      "faculty research",
+      "St. Louis"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Direct Inquiry / Availability Dependent",
+    "applicationWindow": "The Blodgett Lab has a documented history of hosting high school researchers, generally from schools in the St. Louis area. High school positions depend on laboratory funding and mentorship availability. The lab currently states that no high school positions are open, so students should verify current availability before reaching out and should not assume that a placement is available.",
+    "resumeRating": 5,
+    "ratingNote": "A strong individual faculty-lab pathway because the Blodgett Lab explicitly recognizes high school researchers and has hosted multiple students. Unlike a general summer program, students may gain experience directly within an active microbiology research group, although positions are highly availability dependent.",
+    "summary": "The Blodgett Lab at Washington University studies microbiology, bacterial metabolism, biochemistry, and related areas of chemical biology. The laboratory has previously hosted several high school researchers, particularly students from the St. Louis area. Opportunities depend on funding and mentor capacity, and the lab currently reports no open high school positions.",
+    "email": "",
+    "labUrl": "https://sites.wustl.edu/blodgettlab/join-us/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 243,
+    "name": "Center for Women's Infectious Disease Research — High School Research",
+    "title": "High School Infectious Disease Research Pathway",
+    "university": "Washington University in St. Louis",
+    "state": "Missouri, USA",
+    "department": "Center for Women's Infectious Disease Research",
+    "field": "Biomedical Science",
+    "tags": [
+      "infectious disease",
+      "microbiology",
+      "immunology",
+      "women's health",
+      "biomedical science",
+      "medical research",
+      "summer research",
+      "school-year research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The Center for Women's Infectious Disease Research maintains information specifically for high school students seeking research experiences and directs students toward Washington University pathways offering summer or school-year research projects. Availability and eligibility depend on the specific program or placement, so students should review the center's current high school research information before applying.",
+    "resumeRating": 4,
+    "ratingNote": "A useful specialized research-access pathway for high school students interested in infectious disease, microbiology, immunology, and women's health. It is best understood as an entry point to WashU high school research opportunities rather than a single guaranteed laboratory internship.",
+    "summary": "Washington University's Center for Women's Infectious Disease Research provides a pathway for high school students interested in infectious disease and biomedical research to identify summer and academic-year research opportunities. Students can explore research connected to microbiology, immunology, women's health, and related biomedical fields through WashU's broader high school research infrastructure.",
+    "email": "",
+    "labUrl": "https://cwidr.wustl.edu/training/high-school-students/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 244,
+    "name": "Young Scientist Program — Continuing Mentoring",
+    "title": "Multi-Year High School Scientist Mentorship",
+    "university": "Washington University in St. Louis",
+    "state": "Missouri, USA",
+    "department": "Young Scientist Program",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "STEM",
+      "biomedical science",
+      "scientific research",
+      "research preparation",
+      "graduate student mentorship",
+      "science mentorship",
+      "St. Louis"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Mentorship",
+      "Research Project"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Continuing Mentoring serves students in grades 9 through 12 at participating St. Louis schools, including Soldan International Studies High School and the Collegiate School of Medicine and Bioscience. Students are paired with Washington University graduate student mentors and meet throughout high school for science activities and individualized academic and professional development.",
+    "resumeRating": 3,
+    "ratingNote": "A useful long-term research-preparation pathway because students can develop sustained relationships with Washington University graduate scientist mentors throughout high school. It is less intensive than a direct laboratory internship such as Summer Focus or CRISPr, so it should be viewed primarily as scientific mentorship and research preparation.",
+    "summary": "The Young Scientist Program's Continuing Mentoring pathway pairs participating St. Louis high school students with Washington University graduate student scientists. Students meet regularly throughout high school for science activities, individualized mentorship, academic development, and preparation for future STEM and research opportunities.",
+    "email": "",
+    "labUrl": "https://sites.wustl.edu/wustlysp/programs/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  }
 ]
