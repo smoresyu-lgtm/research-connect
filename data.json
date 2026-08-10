@@ -7350,4 +7350,180 @@
     "applyUrl": "https://www.vanderbilt.edu/cseo/programs/high-school-programs/shire/",
     "dateAdded": "2026-08-10"
   }
+  ,
+  {
+    "id": 225,
+    "name": "Bugs as Materials Summer Internship",
+    "title": "Microbial Biomaterials Research Internship",
+    "university": "Carnegie Mellon University",
+    "state": "Pennsylvania, USA",
+    "department": "Niepa μBiointerface Lab / Chemical Engineering",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "chemical engineering",
+      "biomaterials",
+      "microbiology",
+      "materials science",
+      "biofilms",
+      "microbial growth",
+      "computational biomaterials"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "The Bugs as Materials Summer Internship is designed for eligible local high school students. Participants work alongside Carnegie Mellon researchers on projects involving microbial growth, biofilms, biomaterials, and related engineering research. The 2026 application required materials including a transcript, resume, Pennsylvania work permit, short responses, and a reference. Students should review the official program page for future cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional individual-lab research opportunity because high school students work directly in Carnegie Mellon Engineering research environments on active microbial and biomaterials projects. Prior participants have produced publication-quality data and contributed to scientific publications.",
+    "summary": "The Bugs as Materials Summer Internship in Carnegie Mellon's Niepa μBiointerface Lab gives local high school students hands-on research experience at the intersection of chemical engineering, microbiology, biomaterials, and materials science. Students work alongside university researchers on projects involving microbes, biofilms, and biologically derived materials.",
+    "email": "",
+    "labUrl": "https://www.cheme.engineering.cmu.edu/research-groups/niepa-bugs-as-materials.html",
+    "applyUrl": "https://www.cheme.engineering.cmu.edu/research-groups/niepa-bugs-as-materials.html",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 226,
+    "name": "Outreach for Internships in Science (OIS)",
+    "title": "High School Research Group Laboratory Internship",
+    "university": "Carnegie Mellon University",
+    "state": "Pennsylvania, USA",
+    "department": "Outreach for Internships in Science",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "biology",
+      "chemistry",
+      "physics",
+      "computational science",
+      "laboratory research",
+      "theoretical research",
+      "research symposium"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Lab Placement",
+    "applicationWindow": "OIS serves eligible Pittsburgh Public Schools high school students and focuses on expanding research access for students from groups historically underrepresented in science. Participants are placed into Carnegie Mellon scientific or theoretical laboratories as members of research groups and conclude the experience by presenting their research at a symposium. Students should review current program information for application dates and participating schools.",
+    "resumeRating": 5,
+    "ratingNote": "A substantial research placement because students are embedded directly into Carnegie Mellon scientific and theoretical laboratories as members of active research groups. The program concludes with formal research presentations to university faculty and guests.",
+    "summary": "Carnegie Mellon's Outreach for Internships in Science places eligible Pittsburgh Public Schools students into active university research groups. Participants may work in biology, chemistry, physics, computational science, or other STEM areas while gaining direct experience with professional research and presenting their work at a final symposium.",
+    "email": "",
+    "labUrl": "https://www.cmu.edu/ois/",
+    "applyUrl": "https://www.cmu.edu/ois/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 227,
+    "name": "Intelligent Control Lab",
+    "title": "Robotics and Reinforcement Learning Research Opportunity",
+    "university": "Carnegie Mellon University",
+    "state": "Pennsylvania, USA",
+    "department": "Robotics Institute",
+    "field": "Robotics",
+    "tags": [
+      "robotics",
+      "artificial intelligence",
+      "reinforcement learning",
+      "human-robot interaction",
+      "autonomous systems",
+      "3D assembly",
+      "machine learning"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Direct Inquiry / Availability Dependent",
+    "applicationWindow": "The Intelligent Control Lab has documented high school research participation, including work involving deep reinforcement learning and robotic assembly. The lab does not advertise a standing high school application process, so interested students should treat this as an availability-dependent inquiry rather than an openly recruiting internship.",
+    "resumeRating": 5,
+    "ratingNote": "A highly advanced professor-level research pathway because previous high school work in the lab has involved deep reinforcement learning, robotics, and 3D assembly. However, current high school availability is not guaranteed and depends on faculty and mentor capacity.",
+    "summary": "Carnegie Mellon's Intelligent Control Lab conducts robotics and artificial-intelligence research involving reinforcement learning, autonomous systems, human-robot interaction, and robotic planning. The lab has documented high school research participation on advanced projects such as deep reinforcement learning for 3D robotic assembly, making direct inquiry potentially worthwhile when mentorship capacity exists.",
+    "email": "",
+    "labUrl": "https://icontrol.ri.cmu.edu/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 228,
+    "name": "Wood Neuro Research Group",
+    "title": "Neuroimaging and Biomedical Engineering Research Opportunity",
+    "university": "Carnegie Mellon University",
+    "state": "Pennsylvania, USA",
+    "department": "Biomedical Engineering",
+    "field": "Neuroscience",
+    "tags": [
+      "neuroscience",
+      "biomedical engineering",
+      "neuroimaging",
+      "machine learning",
+      "brain research",
+      "medical imaging",
+      "computational neuroscience"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Direct Inquiry / Availability Dependent",
+    "applicationWindow": "The Wood Neuro Research Group has documented high school intern participation, including a student whose research poster was later accepted to a high school research section of a biomedical engineering conference. The lab does not advertise a standing high school application process, so prospective students should verify current availability directly with the research group.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly strong neuroscience and biomedical engineering pathway because previous high school researchers have contributed work substantial enough to present at a professional scientific conference. Current participation remains dependent on mentor availability and project capacity.",
+    "summary": "Professor Sossena Wood's Neuro Research Group at Carnegie Mellon studies brain health using neuroimaging, biomedical engineering, and computational methods. The group has previously hosted high school researchers whose work progressed to conference presentation, making direct inquiry potentially valuable when the laboratory has available mentorship.",
+    "email": "",
+    "labUrl": "https://www.cmu.edu/bme/woodneurolab/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 229,
+    "name": "Faculty-Developed High School Research Internships",
+    "title": "Individual Faculty-Sponsored Research Internship Pathway",
+    "university": "Carnegie Mellon University",
+    "state": "Pennsylvania, USA",
+    "department": "Leonard Gelfand Center / Faculty Research Labs",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "faculty research",
+      "robotics",
+      "artificial intelligence",
+      "engineering",
+      "science",
+      "social science",
+      "independent research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Mentorship"
+    ],
+    "applicationType": "Faculty Sponsorship / Direct Inquiry",
+    "applicationWindow": "Carnegie Mellon does not operate a university-wide high school research internship application process. However, the Leonard Gelfand Center notes that on rare occasions internships may be developed directly between individual faculty members and high school students. Interested students would need to identify an appropriate faculty member and secure their willingness to develop and supervise a suitable placement.",
+    "resumeRating": 4,
+    "ratingNote": "A valuable hidden pathway because Carnegie Mellon officially acknowledges that individual faculty members can occasionally develop research internships directly with high school students. These placements are rare and highly dependent on faculty interest, project fit, mentorship capacity, and university requirements.",
+    "summary": "Carnegie Mellon acknowledges that, although high school internships are generally uncommon, individual faculty members may occasionally develop research placements directly with high school students. Students interested in this pathway must identify a relevant professor or laboratory and secure faculty support, with opportunities potentially spanning AI, robotics, engineering, natural sciences, and social science.",
+    "email": "",
+    "labUrl": "https://www.cmu.edu/gelfand/education/k12-students/index.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  }
 ]
