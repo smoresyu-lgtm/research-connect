@@ -8241,4 +8241,188 @@
     "applyUrl": "https://precollege.emory.edu/",
     "dateAdded": "2026-08-10"
   }
+  ,
+  {
+    "id": 250,
+    "name": "Tong Lab",
+    "title": "High School Volunteer Research Internship",
+    "university": "Georgetown University",
+    "state": "Washington, DC, USA",
+    "department": "Department of Chemistry",
+    "field": "Chemistry",
+    "tags": [
+      "chemistry",
+      "environmental chemistry",
+      "analytical chemistry",
+      "environmental metrology",
+      "laboratory research",
+      "faculty research",
+      "volunteer research",
+      "Washington DC"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Direct Inquiry / Availability Dependent",
+    "applicationWindow": "The Tong Lab explicitly invites high school students interested in possible volunteer research internships to contact Dr. YuYe Tong directly. High school applicants are asked to provide a personal statement, CV, and two recommendation letters. Selected applicants may be invited for an on-site interview, and accepted minors must complete applicable parental-consent and university requirements. Opportunities depend on laboratory availability.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional individual-lab pathway because the Tong Lab explicitly provides a research-internship application route for high school students rather than requiring students to rely on unsolicited cold outreach. Successful students can gain direct experience within an active Georgetown chemistry research environment.",
+    "summary": "The Tong Lab at Georgetown University explicitly welcomes inquiries from high school students interested in volunteer research internships. Students can apply directly to Dr. YuYe Tong for opportunities involving analytical chemistry, environmental chemistry, environmental metrology, and related laboratory research.",
+    "email": "",
+    "labUrl": "https://tonglab.georgetown.edu/research-etc/research-opportunities",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 251,
+    "name": "Evidence for Justice Lab",
+    "title": "High School Research Assistant",
+    "university": "Georgetown University",
+    "state": "Washington, DC, USA",
+    "department": "Evidence for Justice Lab",
+    "field": "Social Sciences",
+    "tags": [
+      "criminal justice",
+      "public policy",
+      "sociology",
+      "data analysis",
+      "social science",
+      "justice reform",
+      "research assistant",
+      "Washington DC"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Direct Inquiry / Availability Dependent",
+    "applicationWindow": "The Evidence for Justice Lab explicitly accepts applications from high school, undergraduate, and graduate students interested in joining its research team. The lab provides a direct research-assistant application pathway and currently identifies Fall 2026 and Spring 2027 recruitment cycles. Applicants should review the current recruitment page for deadlines and cohort availability.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually strong high school social-science research opportunity because students can directly apply to join an active Georgetown research team. The lab's work provides exposure to evidence-based justice reform, social-science research, policy questions, and research methodology.",
+    "summary": "Georgetown's Evidence for Justice Lab explicitly allows high school students to apply to join its research team. Research assistants contribute to projects examining criminal justice and evidence-based justice reform, creating a rare university-level social-science research pathway for high school students.",
+    "email": "",
+    "labUrl": "https://evidenceforjustice.georgetown.edu/contact-us/",
+    "applyUrl": "https://evidenceforjustice.georgetown.edu/contact-us/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 252,
+    "name": "High School Summer Research Volunteer Program",
+    "title": "Full-Time Cancer Research Internship",
+    "university": "Georgetown University",
+    "state": "Washington, DC, USA",
+    "department": "Lombardi Comprehensive Cancer Center",
+    "field": "Biomedical Science",
+    "tags": [
+      "cancer biology",
+      "oncology",
+      "molecular biology",
+      "biomedical science",
+      "cancer research",
+      "laboratory research",
+      "independent research",
+      "Washington DC"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "The High School Summer Research Volunteer Program provides high school students with approximately eight weeks of full-time research at Georgetown's Lombardi Comprehensive Cancer Center. Students work about 40 hours per week under research-scientist mentorship and conduct independent research projects. The 2026 program ran June 22 through August 14, with applications closing March 31. Students should check the current Lombardi program page for future application cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptionally intensive biomedical research opportunity because participants spend roughly eight weeks working full-time on independent cancer research projects under scientist mentorship at a comprehensive cancer center.",
+    "summary": "Georgetown's Lombardi Comprehensive Cancer Center offers high school students an intensive summer research experience in cancer and biomedical science. Participants spend approximately eight weeks working full-time with research scientists while completing independent research projects in an active cancer-research environment.",
+    "email": "",
+    "labUrl": "https://lombardi.georgetown.edu/education/summer_volunteer/",
+    "applyUrl": "https://lombardi.georgetown.edu/education/summer_volunteer/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 253,
+    "name": "AI CoLab AI in Healthcare Internship",
+    "title": "Applied Artificial Intelligence and Healthcare Research Internship",
+    "university": "Georgetown University",
+    "state": "Washington, DC, USA",
+    "department": "AI CoLab / Georgetown University Medical Center / MedStar Health",
+    "field": "Computer Science",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "healthcare AI",
+      "bioinformatics",
+      "biostatistics",
+      "clinical informatics",
+      "data analysis",
+      "medical research",
+      "Washington DC"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "The AI CoLab summer internship explicitly includes high school students among eligible applicants. The in-person program lasts approximately nine to twelve weeks and involves applied AI and healthcare research using publicly available data. Interns can participate in research-question development, data analysis, interpretation, and dissemination while gaining exposure to machine learning, clinical informatics, bioinformatics, biostatistics, and research operations. Students should verify current application dates and eligibility before applying.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly strong interdisciplinary opportunity because high school students can participate in actual AI and healthcare research rather than simply completing an introductory coding course. The combination of data analysis, research development, and scientific dissemination makes this highly relevant for students interested in AI, medicine, or computational research.",
+    "summary": "Georgetown and MedStar's AI CoLab offers high school students an applied summer research internship at the intersection of artificial intelligence and healthcare. Interns work with data and contribute to stages of the research process while exploring machine learning, bioinformatics, biostatistics, clinical informatics, and medical research.",
+    "email": "",
+    "labUrl": "https://aicolab.georgetown.edu/internship/",
+    "applyUrl": "https://aicolab.georgetown.edu/internship/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 254,
+    "name": "Gateway Exploration Program",
+    "title": "High School Medical Department Internship and Mentorship",
+    "university": "Georgetown University",
+    "state": "Washington, DC, USA",
+    "department": "Georgetown University School of Medicine",
+    "field": "Biomedical Science",
+    "tags": [
+      "medicine",
+      "health science",
+      "health disparities",
+      "clinical science",
+      "medical careers",
+      "mentorship",
+      "shadowing",
+      "Washington DC",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The Gateway Exploration Program serves eligible rising high school sophomores, juniors, and seniors through participating school systems. Historically focused on DC Public Schools, the program expanded in 2026 to include scholars from Prince William County Public Schools in Virginia. Students are matched with Georgetown medical departments and participate in mentorship, shadowing, professional-development activities, and programming related to health disparities. Students should verify current participating school systems and eligibility for future cycles.",
+    "resumeRating": 3,
+    "ratingNote": "A meaningful Georgetown medical experience involving department placement, mentorship, and exposure to healthcare and health disparities. However, it is primarily a clinical and medical-exposure opportunity rather than an independent research internship, making it less research-intensive than Georgetown's Lombardi, Tong Lab, or AI CoLab opportunities.",
+    "summary": "Georgetown School of Medicine's Gateway Exploration Program introduces eligible high school students to medicine and health science through medical-department placements, mentorship, shadowing, professional development, and health-disparities programming. It provides valuable medical exposure, although it is not primarily an independent research program.",
+    "email": "",
+    "labUrl": "https://meded.georgetown.edu/diversityequityandinclusion/high-school-summer-internships/gep/",
+    "applyUrl": "https://meded.georgetown.edu/diversityequityandinclusion/high-school-summer-internships/gep/",
+    "dateAdded": "2026-08-10"
+  }
 ]
