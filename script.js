@@ -8,7 +8,13 @@
 // ---------------------------------------------------------------
 
 let allEntries = [];
-let activeFilters = { field: null, level: null, type: null, appType: null };
+let activeFilters = {
+  field: null,
+  level: null,
+  type: null,
+  appType: null,
+  rating: null
+};
 let searchTerm = "";
 let currentModalEntry = null;
 
@@ -22,6 +28,7 @@ const fieldFilterEl = document.getElementById("field-filters");
 const levelFilterEl = document.getElementById("level-filters");
 const typeFilterEl = document.getElementById("type-filters");
 const appTypeFilterEl = document.getElementById("apptype-filters");
+const ratingFilterEl = document.getElementById("rating-filters");
 
 init();
 
@@ -39,6 +46,7 @@ async function init() {
   buildFilterTabs("level", levelFilterEl, uniqueValues(allEntries, e => e.levels));
   buildFilterTabs("type", typeFilterEl, uniqueValues(allEntries, e => e.opportunityTypes));
   buildFilterTabs("appType", appTypeFilterEl, uniqueValues(allEntries, e => [e.applicationType || "Direct Outreach"]));
+  buildRatingTabs(ratingFilterEl);
 
   searchInput.addEventListener("input", (e) => {
     searchTerm = e.target.value.trim().toLowerCase();
@@ -46,7 +54,13 @@ async function init() {
   });
 
   clearBtn.addEventListener("click", () => {
-    activeFilters = { field: null, level: null, type: null, appType: null };
+    activeFilters = {
+  field: null,
+  level: null,
+  type: null,
+  appType: null,
+  rating: null
+};
     searchTerm = "";
     searchInput.value = "";
     document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
@@ -93,6 +107,34 @@ function buildFilterTabs(key, container, values) {
     container.appendChild(btn);
   });
 }
+function buildRatingTabs(container) {
+  const options = [
+    { label: "5★", value: 5 },
+    { label: "4★+", value: 4 },
+    { label: "3★+", value: 3 }
+  ];
+
+  options.forEach(option => {
+    const btn = document.createElement("button");
+    btn.className = "tab-btn";
+    btn.type = "button";
+    btn.textContent = option.label;
+
+    btn.addEventListener("click", () => {
+      const isActive = activeFilters.rating === option.value;
+
+      activeFilters.rating = isActive ? null : option.value;
+
+      container.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
+
+      if (!isActive) btn.classList.add("active");
+
+      render();
+    });
+
+    container.appendChild(btn);
+  });
+}
 
 function render() {
   const filtered = allEntries.filter(entry => {
@@ -101,6 +143,7 @@ function render() {
     if (activeFilters.level && !entry.levels.includes(activeFilters.level)) return false;
     if (activeFilters.type && !entry.opportunityTypes.includes(activeFilters.type)) return false;
     if (activeFilters.appType && appType !== activeFilters.appType) return false;
+    if (activeFilters.rating && (entry.resumeRating || 0) < activeFilters.rating) return false;
 
     if (searchTerm) {
   const haystack = JSON.stringify(entry).toLowerCase();
@@ -110,7 +153,13 @@ function render() {
     return true;
   });
 
-  const anyFilterActive = activeFilters.field || activeFilters.level || activeFilters.type || activeFilters.appType || searchTerm;
+  const anyFilterActive =
+  activeFilters.field ||
+  activeFilters.level ||
+  activeFilters.type ||
+  activeFilters.appType ||
+  activeFilters.rating ||
+  searchTerm;
   clearBtn.hidden = !anyFilterActive;
 
   resultCountEl.textContent = `${filtered.length} ${filtered.length === 1 ? "entry" : "entries"}`;
