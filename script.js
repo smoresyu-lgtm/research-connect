@@ -103,12 +103,23 @@ function render() {
     if (activeFilters.appType && appType !== activeFilters.appType) return false;
 
     if (searchTerm) {
-      const haystack = [
-        entry.name, entry.university, entry.department, entry.field,
-        entry.summary, ...(entry.tags || [])
-      ].join(" ").toLowerCase();
-      if (!haystack.includes(searchTerm)) return false;
-    }
+  const haystack = [
+    entry.name,
+    entry.title,
+    entry.university,
+    entry.department,
+    entry.field,
+    entry.state,
+    entry.city,
+    entry.summary,
+    ...(entry.tags || [])
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+
+  if (!haystack.includes(searchTerm)) return false;
+}
     return true;
   });
 
