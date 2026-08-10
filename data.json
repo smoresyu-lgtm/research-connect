@@ -6821,4 +6821,181 @@
     "applyUrl": "https://research.rice.edu/rstem/bioacademies",
     "dateAdded": "2026-08-08"
   }
+  ,
+  {
+    "id": 205,
+    "name": "seed2STEM",
+    "title": "Paid Multidisciplinary Research Internship",
+    "university": "University of British Columbia / ICORD",
+    "state": "British Columbia, Canada",
+    "department": "UBC / ICORD Research Network",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "biomedical science",
+      "psychology",
+      "biology",
+      "engineering",
+      "wet lab",
+      "data analysis",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "seed2STEM serves eligible Indigenous high school students in Grades 9 through 12 through Metro Vancouver and Kelowna-area pathways. The 2026 program runs from July 6 through August 14 for approximately 20 hours per week. Students should review the official program information for future application dates, regional eligibility, and participating research sites.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional Canadian high school research opportunity because students are placed into active research groups across dozens of departments and affiliated research sites. Host researchers develop genuine six-week projects that can involve laboratory work, data analysis, literature research, knowledge translation, and other forms of STEM research.",
+    "summary": "seed2STEM provides eligible Indigenous high school students with paid six-week research internships across UBC Vancouver, UBC Okanagan, affiliated health-research sites, and other participating institutions. Students work with research mentors on real projects in fields including biomedical science, psychology, biology, engineering, and other STEM disciplines before presenting their work at a research showcase.",
+    "email": "",
+    "labUrl": "https://zoology.ubc.ca/event/2026/02/seed2stem-information-session",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 206,
+    "name": "Peter D. Paré Scholarship",
+    "title": "Heart and Lung Research Summer Internship",
+    "university": "University of British Columbia",
+    "state": "British Columbia, Canada",
+    "department": "Centre for Heart Lung Innovation",
+    "field": "Biomedical Science",
+    "tags": [
+      "cardiovascular research",
+      "respiratory science",
+      "biomedical science",
+      "laboratory medicine",
+      "medical research",
+      "research mentorship",
+      "summer research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "The Peter D. Paré Scholarship is available to eligible high school students age 16 or older in Grades 11 or 12 who first complete the Centre for Heart Lung Innovation's High School Student Science Week. Selected students may then participate in an eight-week summer research internship. Students should verify current application dates and scholarship availability with HLI.",
+    "resumeRating": 5,
+    "ratingNote": "A strong biomedical research pathway because students can progress from hands-on laboratory exposure into an extended eight-week research internship at a major heart and lung research centre. The program provides sustained mentorship and experience with professional biomedical research.",
+    "summary": "The Peter D. Paré Scholarship at UBC's Centre for Heart Lung Innovation gives eligible high school students the opportunity to continue from the centre's Science Week into an eight-week summer research internship. Participants gain experience in cardiovascular, respiratory, biomedical, and laboratory-medicine research while working within an active academic research environment.",
+    "email": "",
+    "labUrl": "https://www.hli.ubc.ca/education/",
+    "applyUrl": "https://www.hli.ubc.ca/education/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 207,
+    "name": "Biomedical Engineering Research Trainee",
+    "title": "Faculty-Lab Biomedical Engineering Research Opportunity",
+    "university": "McGill University",
+    "state": "Quebec, Canada",
+    "department": "Biomedical Engineering",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "biomedical engineering",
+      "bioengineering",
+      "medical technology",
+      "biomaterials",
+      "laboratory research",
+      "faculty mentorship",
+      "engineering research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Mentorship"
+    ],
+    "applicationType": "Direct PI Inquiry",
+    "applicationWindow": "McGill Biomedical Engineering notes that local high school students may exceptionally be accepted as research trainees. Prospective students are instructed to contact individual faculty members directly to inquire about potential research opportunities. Participation depends on faculty interest, project availability, eligibility, and departmental approval.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually valuable Canadian professor-level pathway because McGill explicitly acknowledges that high school students can sometimes participate as research trainees and directly tells prospective students to contact individual faculty members about laboratory opportunities.",
+    "summary": "McGill University's Department of Biomedical Engineering provides a research-trainee pathway through which local high school students may exceptionally join faculty laboratories. Interested students can identify faculty whose research matches their interests and contact them directly about opportunities in biomedical engineering, bioengineering, medical technology, biomaterials, and related research areas.",
+    "email": "",
+    "labUrl": "https://www.mcgill.ca/bme/studies/research-opportunities",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 208,
+    "name": "Andrade Lab High School Research",
+    "title": "Animal Behavior and Ecology High School Lab Placement",
+    "university": "University of Toronto Scarborough",
+    "state": "Ontario, Canada",
+    "department": "Biological Sciences",
+    "field": "Biology",
+    "tags": [
+      "animal behavior",
+      "evolution",
+      "ecology",
+      "arachnology",
+      "black widow spiders",
+      "laboratory research",
+      "independent research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "School-Based Placement",
+    "applicationWindow": "The Andrade Lab has previously hosted Grade 11 and 12 high school students through local school co-op placements. Students have assisted with laboratory research and, in some cases, undertaken more independent responsibilities. Current availability is not guaranteed, so interested students should verify whether the co-op pathway is active before pursuing a placement.",
+    "resumeRating": 4,
+    "ratingNote": "A strong individual-lab pathway with documented high school participation in animal-behavior and ecology research. Some motivated high school students have progressed beyond basic laboratory assistance into greater responsibility or independent research, though current availability should be confirmed.",
+    "summary": "Professor Maydianne Andrade's laboratory at the University of Toronto Scarborough studies animal behavior, evolution, ecology, and arachnology, including research involving black widow spiders. The lab has hosted Grade 11 and 12 high school co-op students who assist with laboratory work, and some experienced students have taken on more advanced or independent research responsibilities.",
+    "email": "",
+    "labUrl": "https://www.utoronto.ca/news/u-t-scarborough-lab-brings-high-school-students-research-opportunities",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 209,
+    "name": "GeoX",
+    "title": "Earth and Environmental Science Field Research Experience",
+    "university": "University of Waterloo",
+    "state": "Ontario, Canada",
+    "department": "Earth and Environmental Sciences",
+    "field": "Environmental Science",
+    "tags": [
+      "earth science",
+      "environmental science",
+      "geochemistry",
+      "hydrology",
+      "geophysics",
+      "field sampling",
+      "laboratory analysis"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Research",
+      "Workshop"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "GeoX is designed for high school students entering Grades 11 and 12. The 2026 program runs from August 9 through August 15 and combines field and laboratory activities. Students should review the University of Waterloo's current program page for future dates, fees, application deadlines, and eligibility requirements.",
+    "resumeRating": 3,
+    "ratingNote": "A useful hands-on Earth and environmental science experience, although it is more research exposure than an independent research placement. Students gain experience with field mapping, environmental sampling, laboratory testing, geological interpretation, and professional scientific instruments.",
+    "summary": "GeoX at the University of Waterloo gives high school students a one-week immersive experience in Earth and environmental science. Participants conduct field mapping and sampling, test soil and water, study geological structures and fossils, visit university research laboratories, and use professional tools related to geochemistry, hydrology, geophysics, and environmental research.",
+    "email": "",
+    "labUrl": "https://uwaterloo.ca/science/outreach/geox-summer-camp",
+    "applyUrl": "https://uwaterloo.ca/science/outreach/geox-summer-camp",
+    "dateAdded": "2026-08-10"
+  }
 ]
