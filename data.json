@@ -8787,4 +8787,196 @@
     "applyUrl": "",
     "dateAdded": "2026-08-10"
   }
+  ,
+  {
+    "id": 265,
+    "name": "Young Researchers Program (YRP)",
+    "title": "High School STEM Research Program",
+    "university": "University of Southern California",
+    "state": "California, USA",
+    "department": "USC Dornsife College of Letters, Arts and Sciences",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "biology",
+      "chemistry",
+      "physics",
+      "engineering",
+      "STEM",
+      "laboratory research",
+      "scientific research",
+      "research mentorship",
+      "Los Angeles",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The 2026 Young Researchers Program application cycle is closed and acceptances have been sent. The next application cycle is expected in early 2027. Participants should be rising high school seniors and must be able to commit at least 15 hours per week to their research project during the six-week program.",
+    "resumeRating": 5,
+    "ratingNote": "A strong university-level research experience because students spend six weeks working on scientific projects with USC research mentors and conclude by presenting their work at a research poster symposium.",
+    "summary": "USC Dornsife's Young Researchers Program gives rising high school seniors the opportunity to conduct university-level STEM research with USC mentors. Students spend at least 15 hours per week on their research projects while also participating in seminars, field trips, and scientific-development activities before presenting their work at a final poster symposium.",
+    "email": "",
+    "labUrl": "https://dornsife.usc.edu/youngresearchersprogram/",
+    "applyUrl": "https://dornsife.usc.edu/youngresearchersprogram/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 266,
+    "name": "SHINE",
+    "title": "USC Viterbi High School Engineering Research Program",
+    "university": "University of Southern California",
+    "state": "California, USA",
+    "department": "Viterbi School of Engineering",
+    "field": "Engineering",
+    "tags": [
+      "engineering",
+      "artificial intelligence",
+      "AI",
+      "robotics",
+      "biomedical engineering",
+      "computer science",
+      "materials science",
+      "machine learning",
+      "laboratory research",
+      "computational research",
+      "Los Angeles",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "SHINE is a seven-week summer research experience for high school students through USC Viterbi. Students are placed with USC faculty research teams and participate in laboratory or computational research. Students should verify the current application dates and eligibility requirements on the official SHINE program page.",
+    "resumeRating": 5,
+    "ratingNote": "One of USC's strongest high school engineering opportunities because participants join faculty research teams and contribute to hands-on laboratory or computational research on real engineering problems.",
+    "summary": "SHINE gives high school students seven weeks of hands-on research experience with USC Viterbi faculty teams. Research can span artificial intelligence, robotics, biomedical engineering, computer science, materials science, environmental engineering, and other engineering fields, with students contributing to laboratory or computational projects.",
+    "email": "",
+    "labUrl": "https://viterbik12.usc.edu/shine/",
+    "applyUrl": "https://viterbik12.usc.edu/shine/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 267,
+    "name": "Wang Lab",
+    "title": "2D Materials and Nanotechnology Research through SHINE",
+    "university": "University of Southern California",
+    "state": "California, USA",
+    "department": "Ming Hsieh Department of Electrical and Computer Engineering",
+    "field": "Electrical Engineering",
+    "tags": [
+      "electrical engineering",
+      "nanotechnology",
+      "2D materials",
+      "materials science",
+      "electronics",
+      "laboratory research",
+      "engineering research",
+      "SHINE",
+      "Los Angeles",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "High school participation in Professor Han Wang's research group occurs through USC Viterbi's SHINE program rather than through a separate Wang Lab high school application. The lab states that it participates in SHINE each summer and has hosted high school students conducting research on 2D materials.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually specific faculty-lab pathway for high school students, with documented participation in advanced nanotechnology and 2D-materials research. Admission is through the competitive SHINE program.",
+    "summary": "Professor Han Wang's USC research group participates in the SHINE program and hosts high school researchers working on advanced electrical engineering and materials-science projects. Previous high school participants have conducted laboratory research involving two-dimensional materials and produced research posters documenting their work.",
+    "email": "",
+    "labUrl": "https://hanw.usc.edu/outreach/",
+    "applyUrl": "https://viterbik12.usc.edu/shine/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 268,
+    "name": "Bridge Undergraduate Science Program Junior (BUGS Jr.)",
+    "title": "High School Interdisciplinary Biomedical Research Program",
+    "university": "University of Southern California",
+    "state": "California, USA",
+    "department": "Bridge Institute",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomedical science",
+      "structural biology",
+      "biochemistry",
+      "computational biology",
+      "molecular science",
+      "biology",
+      "interdisciplinary research",
+      "Bridge Institute",
+      "Los Angeles",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Research Exposure"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "USC identifies BUGS Jr. through the Bridge Institute as a research opportunity for high school students. Students interested in participating should verify the current program schedule, eligibility requirements, and application process through USC and the Bridge Institute.",
+    "resumeRating": 4,
+    "ratingNote": "A distinctive interdisciplinary science opportunity connected to USC's Bridge Institute, particularly useful for students interested in combining biology, chemistry, computation, and medicine.",
+    "summary": "BUGS Jr. is a high school research pathway associated with USC's Bridge Institute and its interdisciplinary approach to understanding the human body. The program exposes students to research spanning structural biology, biochemistry, computational biology, biomedical science, and related molecular sciences.",
+    "email": "",
+    "labUrl": "https://bridge.usc.edu/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 269,
+    "name": "Music and the Brain Summer Research Program",
+    "title": "High School Neuroscience and Music Cognition Research Program",
+    "university": "University of Southern California",
+    "state": "California, USA",
+    "department": "Brain and Creativity Institute",
+    "field": "Neuroscience",
+    "tags": [
+      "neuroscience",
+      "psychology",
+      "music cognition",
+      "brain science",
+      "cognitive science",
+      "music",
+      "scientific data",
+      "laboratory research",
+      "Los Angeles",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The 2026 Music and the Brain Summer Research Program ran July 8-10 for students in grades 10-12. The program accepted up to 80 students and cost $500, with financial assistance available. Students should check the Brain and Creativity Institute for information about future program cycles.",
+    "resumeRating": 3,
+    "ratingNote": "A distinctive neuroscience and psychology research-exposure opportunity involving scientific data collection and interaction with USC researchers, although it is much shorter and less independent than a full research internship.",
+    "summary": "USC's Music and the Brain Summer Research Program introduces high school students to neuroscience, psychology, and music cognition. Participants explore how music affects the brain through guided research activities, laboratory experiences, interaction with USC researchers, and hands-on scientific data collection.",
+    "email": "",
+    "labUrl": "https://dornsife.usc.edu/cmbs/education-and-training/summer-research-program/",
+    "applyUrl": "https://dornsife.usc.edu/cmbs/education-and-training/summer-research-program/",
+    "dateAdded": "2026-08-10"
+  }
 ]
