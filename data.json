@@ -10141,4 +10141,207 @@
     "applyUrl": "https://www.icts.res.in/outreach/prism",
     "dateAdded": "2026-08-11"
   }
+  ,
+  {
+    "id": 300,
+    "name": "High School Research Internship — Young Talents / Yingcai Plan",
+    "title": "University and Research Institute Mentored Research Program",
+    "university": "Guangzhou Education Bureau / Partner Universities and CAS Research Institutes",
+    "state": "Guangdong, China",
+    "department": "Young Talents / Yingcai Plan",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "biology",
+      "biomedicine",
+      "energy",
+      "marine science",
+      "earth science",
+      "engineering",
+      "scientific research",
+      "faculty mentorship",
+      "Chinese Academy of Sciences",
+      "CAS",
+      "Guangzhou",
+      "Guangdong",
+      "China"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "School-Based Placement",
+    "applicationWindow": "The 2026 Guangzhou Young Talents / Yingcai program selected secondary-school students in Guangzhou through participating schools and program selection. Students completed five concentrated days of research activities during winter and 12 days during summer. Placements involved universities and Chinese Academy of Sciences research institutes. Students should verify current eligibility, participating schools, and future selection procedures through Guangzhou education authorities.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional secondary-school research pathway because selected students conduct sustained scientific research and project-based inquiry under mentors at major universities and Chinese Academy of Sciences research institutes.",
+    "summary": "Guangzhou's Young Talents / Yingcai program places selected secondary-school students into research environments at universities and Chinese Academy of Sciences institutes. Participants conduct scientific-research practice and project-based inquiry under research mentors in areas including biology, biomedicine, energy, marine science, Earth science, and engineering.",
+    "email": "",
+    "labUrl": "https://jyj.gz.gov.cn/yw/jyyw/content/post_10696670.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 301,
+    "name": "National Outstanding High School Student Summer Camp",
+    "title": "Interdisciplinary University Research and Project Summer Camp",
+    "university": "The Chinese University of Hong Kong, Shenzhen",
+    "state": "Guangdong, China",
+    "department": "Undergraduate Admissions / Summer Camp",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "artificial intelligence",
+      "AI",
+      "data science",
+      "life science",
+      "engineering",
+      "economics",
+      "social science",
+      "interdisciplinary research",
+      "experimental practice",
+      "team projects",
+      "Shenzhen",
+      "Guangdong",
+      "China"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Research Project",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The 2026 National Outstanding High School Student Summer Camp is designed for outstanding high school students from participating Chinese schools and selected overseas high schools. Students participate in frontier academic lectures, research-topic seminars, experimental activities, and team projects. Applicants should verify current eligibility, nomination or application procedures, and future program dates through CUHK-Shenzhen.",
+    "resumeRating": 3,
+    "ratingNote": "A legitimate university research and project immersion covering multiple academic fields, although students participate primarily in guided projects, seminars, and experimental activities rather than a sustained independent faculty-lab internship.",
+    "summary": "The Chinese University of Hong Kong, Shenzhen's National Outstanding High School Student Summer Camp introduces high school students to interdisciplinary university research through frontier lectures, research seminars, experimental practice, and team projects. Topics span artificial intelligence, data science, life sciences, engineering, economics, and social sciences.",
+    "email": "",
+    "labUrl": "https://join-camp.cuhk.edu.cn/frontend/web/index.php",
+    "applyUrl": "https://join-camp.cuhk.edu.cn/frontend/web/index.php",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 302,
+    "name": "Scientific Spirit & Academic Exploration Summer Camp",
+    "title": "High School Research Project and Laboratory Immersion",
+    "university": "Central South University",
+    "state": "Hunan, China",
+    "department": "Central South University",
+    "field": "Engineering",
+    "tags": [
+      "physics",
+      "mathematics",
+      "materials science",
+      "metallurgy",
+      "transportation engineering",
+      "engineering",
+      "laboratory research",
+      "research projects",
+      "scientific writing",
+      "research presentation",
+      "Changsha",
+      "Hunan",
+      "China"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The 2026 Scientific Spirit & Academic Exploration Summer Camp is designed for high school students nationwide, including eligible students preparing to enter high school. The five-day program incorporates advanced experiments, research-project challenges, faculty mentorship, and research communication. Students should verify current application dates, eligibility requirements, and future sessions through Central South University.",
+    "resumeRating": 4,
+    "ratingNote": "A strong short-term research immersion because students go beyond laboratory tours and participate in advanced experiments and mentored research-project challenges while gaining experience with research writing and presentation.",
+    "summary": "Central South University's Scientific Spirit & Academic Exploration Summer Camp gives high school students hands-on experience with university research platforms and advanced experiments. Under mentor guidance, participants work through research-project challenges and gain experience developing, writing, and defending research-oriented projects in science and engineering.",
+    "email": "",
+    "labUrl": "https://clj.csu.edu.cn/info/1053/7613.htm",
+    "applyUrl": "https://clj.csu.edu.cn/info/1053/7613.htm",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 303,
+    "name": "Life Exploration High School Science Camp",
+    "title": "High School Life Science Laboratory Program",
+    "university": "Central South University",
+    "state": "Hunan, China",
+    "department": "School of Life Sciences",
+    "field": "Biomedical Science",
+    "tags": [
+      "genetics",
+      "molecular medicine",
+      "neuroscience",
+      "gene editing",
+      "cell therapy",
+      "biology",
+      "artificial intelligence",
+      "AI",
+      "laboratory experiments",
+      "life science",
+      "Changsha",
+      "Hunan",
+      "China"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The Life Exploration High School Science Camp is designed for eligible high school students in Grades 10 through 12. The 2026 program includes university-level life-science experiments and exposure to genetics, molecular medicine, neuroscience, gene editing, cell therapy, and applications of artificial intelligence in biology. Students should verify future dates and application requirements with Central South University's School of Life Sciences.",
+    "resumeRating": 3,
+    "ratingNote": "A legitimate hands-on life-science research exposure program where secondary students conduct university-level biological experiments and interact with researchers, but it should not be treated as an independent research internship.",
+    "summary": "Central South University's Life Exploration High School Science Camp introduces secondary students to modern life-science research through university-level experiments and interaction with researchers. Students explore genetics, molecular medicine, neuroscience, gene editing, cell therapy, and the intersection of artificial intelligence and biology.",
+    "email": "",
+    "labUrl": "https://life.csu.edu.cn/info/1033/3200.htm",
+    "applyUrl": "https://life.csu.edu.cn/info/1033/3200.htm",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 304,
+    "name": "Health China · Young Science Innovators Camp",
+    "title": "High School Public Health and Biomedical Science Camp",
+    "university": "Xiamen University",
+    "state": "Fujian, China",
+    "department": "School of Public Health",
+    "field": "Public Health",
+    "tags": [
+      "public health",
+      "medicine",
+      "biology",
+      "vaccines",
+      "psychology",
+      "biomedical science",
+      "laboratory research",
+      "experimental science",
+      "health science",
+      "Xiamen",
+      "Fujian",
+      "China"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The 2026 Health China · Young Science Innovators Camp is open to eligible students from Grade 7 through Grade 12 nationwide. The program includes exposure to research laboratories, biomedical experiments, vaccine-development science, and interaction with university scientists and engineers. Two 2026 sessions were scheduled for July 21–25 and August 10–14. Students should verify future dates and eligibility directly with Xiamen University.",
+    "resumeRating": 3,
+    "ratingNote": "A legitimate biomedical and public-health research exposure experience with access to university research environments and experimental activities. It is best classified as research exposure rather than an independent laboratory internship.",
+    "summary": "Xiamen University's School of Public Health offers secondary students an immersive introduction to biomedical and public-health research. Participants explore research laboratories, experimental science, vaccine development, medicine, biology, psychology, and related health-science fields while interacting with university scientists and engineers.",
+    "email": "",
+    "labUrl": "https://sph.xmu.edu.cn/info/1301/72755.htm",
+    "applyUrl": "https://sph.xmu.edu.cn/info/1301/72755.htm",
+    "dateAdded": "2026-08-11"
+  }
 ]
