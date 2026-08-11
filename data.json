@@ -9365,4 +9365,201 @@
     "applyUrl": "https://www.cpet.ufl.edu/students/summer-programs/florida-youth-institute/",
     "dateAdded": "2026-08-10"
   }
+  ,
+  {
+    "id": 280,
+    "name": "NASA SEES High School Summer Intern Program",
+    "title": "NASA Earth and Space Science Research Internship",
+    "university": "University of Texas at Austin",
+    "state": "Texas, USA",
+    "department": "Center for Space Research",
+    "field": "Earth Science",
+    "tags": [
+      "NASA",
+      "earth science",
+      "aerospace",
+      "remote sensing",
+      "data science",
+      "engineering",
+      "space science",
+      "scientific data analysis",
+      "field research",
+      "Austin",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The 2026 program was open to current high school sophomores and juniors who were U.S. citizens and at least 16 years old by July 5, 2026. The on-site internship ran July 5-18, followed by a research symposium July 20-21, with additional virtual research projects offered during June and July. Students should check the official SEES website for the next application cycle.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional high school research experience combining UT Austin mentorship with authentic NASA-related research, scientific data analysis, visualization, field investigations, and a final research symposium.",
+    "summary": "NASA SEES gives high school students the opportunity to work with NASA and aerospace experts on authentic Earth and space science research through UT Austin's Center for Space Research. Projects can involve remote sensing, engineering, scientific data analysis, visualization, and field investigations, with students ultimately presenting their research.",
+    "email": "",
+    "labUrl": "https://csr.utexas.edu/education-outreach/high-school-internships/sees/",
+    "applyUrl": "https://csr.utexas.edu/education-outreach/high-school-internships/sees/eligibility/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 281,
+    "name": "Science and Engineering Apprentice Program",
+    "title": "Applied Research Laboratory R&D Apprenticeship",
+    "university": "University of Texas at Austin",
+    "state": "Texas, USA",
+    "department": "Applied Research Laboratories",
+    "field": "Engineering",
+    "tags": [
+      "engineering",
+      "computer science",
+      "physics",
+      "mathematics",
+      "applied research",
+      "research and development",
+      "R&D",
+      "laboratory research",
+      "technical writing",
+      "Austin",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Research Assistant"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The Science and Engineering Apprentice Program is intended for students during the summer between high school and college, with preference given to students planning to attend UT Austin. Participants complete a summer research-and-development project at Applied Research Laboratories and produce a technical report and research presentation. Students should verify current application dates and eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "A highly substantial research experience because participants work in a professional laboratory R&D environment, complete an individual summer project, write a formal technical report, and present their research.",
+    "summary": "The Science and Engineering Apprentice Program gives graduating high school students experience in the research-and-development environment of UT Austin's Applied Research Laboratories. Apprentices work on summer-long projects involving engineering, computing, physics, mathematics, or related applied research and conclude by producing a technical report and research presentation.",
+    "email": "",
+    "labUrl": "https://www.arlut.utexas.edu/",
+    "applyUrl": "https://www.arlut.utexas.edu/se.shtml",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 282,
+    "name": "High School Research Initiative (HRI)",
+    "title": "UTeach and Freshman Research Initiative High School Research Program",
+    "university": "University of Texas at Austin",
+    "state": "Texas, USA",
+    "department": "UTeach / Freshman Research Initiative",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "biomedical science",
+      "health science",
+      "chemistry",
+      "infectious disease",
+      "experimental science",
+      "STEM",
+      "experimental design",
+      "data analysis",
+      "scientific research",
+      "rural students",
+      "Austin",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Research Exposure"
+    ],
+    "applicationType": "School-Based Placement",
+    "applicationWindow": "Participation occurs through Texas high schools partnering with the High School Research Initiative, with particular emphasis on expanding research access for rural students. Participating classes collaborate with UT Austin Freshman Research Initiative laboratories on research modules lasting approximately one to five weeks.",
+    "resumeRating": 4,
+    "ratingNote": "A legitimate student-driven research experience connected directly to UT Austin research laboratories. Students develop research questions, conduct experiments, analyze data, and communicate their findings, although participation depends on attending a partner school.",
+    "summary": "The High School Research Initiative connects participating Texas high school classrooms with UT Austin Freshman Research Initiative laboratories. Students engage in authentic research by developing scientific questions, designing experiments, collecting and analyzing data, writing technical reports, and presenting findings to UT mentors or research faculty.",
+    "email": "",
+    "labUrl": "https://uteach.utexas.edu/hri",
+    "applyUrl": "https://uteach.utexas.edu/hri",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 283,
+    "name": "Hofmann Lab / Crockett High School Research Internship Program",
+    "title": "Year-Long High School Laboratory Research Internship",
+    "university": "University of Texas at Austin",
+    "state": "Texas, USA",
+    "department": "Hofmann Laboratory / Department of Integrative Biology",
+    "field": "Biology",
+    "tags": [
+      "biology",
+      "neuroscience",
+      "animal behavior",
+      "evolution",
+      "experimental biology",
+      "integrative biology",
+      "laboratory research",
+      "independent research",
+      "Crockett High School",
+      "Austin",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "School-Based Placement",
+    "applicationWindow": "Participation occurs through the research internship partnership involving Crockett High School and UT Austin laboratories. Students are matched with STEM laboratories based on their research interests and spend two half-days each week during the academic year working toward long-term research projects while receiving school credit.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually substantial high school research experience because students spend an entire academic year embedded in UT Austin STEM laboratories and work toward long-term original research projects under university mentorship.",
+    "summary": "The Hofmann Lab has documented a year-long High School Research Internship Program with Crockett High School that connects students with UT Austin STEM laboratories. Students are matched according to their scientific interests and spend two half-days each week conducting long-term research while receiving academic credit through their school.",
+    "email": "",
+    "labUrl": "https://sites.utexas.edu/evoneuro/public-engagement/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 284,
+    "name": "Research & Statistics Camp",
+    "title": "Independent Research and Statistics Summer Program",
+    "university": "University of Texas at Austin",
+    "state": "Texas, USA",
+    "department": "UTeach Outreach",
+    "field": "Data Science",
+    "tags": [
+      "statistics",
+      "research methods",
+      "data analysis",
+      "scientific inquiry",
+      "technical writing",
+      "independent research",
+      "STEM",
+      "research exposure",
+      "younger students",
+      "Austin",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The program is designed for students who have completed 8th or 9th grade by the start of the summer session. Participants spend five weeks developing an independent inquiry while studying research methods, statistics, and technical writing. Students should check UTeach Outreach for current application dates and program details.",
+    "resumeRating": 3,
+    "ratingNote": "A valuable research-development opportunity for younger students because participants undertake an independent inquiry while learning statistics, research methodology, and technical writing, although it is not equivalent to a faculty-lab internship.",
+    "summary": "UT Austin's Research & Statistics Camp gives younger high school students five weeks to develop an independent research inquiry while receiving instruction in research methods, statistics, and technical writing. Students receive support from instructors, UT student interns, faculty, and staff while participating in research-focused activities and laboratory visits.",
+    "email": "",
+    "labUrl": "https://outreach.uteach.utexas.edu/research-statistics-camp",
+    "applyUrl": "https://outreach.uteach.utexas.edu/research-statistics-camp",
+    "dateAdded": "2026-08-10"
+  }
 ]
