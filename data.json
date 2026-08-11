@@ -9756,4 +9756,195 @@
     "applyUrl": "https://fcelter.fiu.edu/outreach/research-experiences/secondary_students/",
     "dateAdded": "2026-08-11"
   }
+  ,
+  {
+    "id": 290,
+    "name": "Research Science Initiative (RSI) India",
+    "title": "Six-Week High School STEM Research Program",
+    "university": "Indian Institute of Science",
+    "state": "Karnataka, India",
+    "department": "Indian Institute of Science",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "biology",
+      "chemistry",
+      "physics",
+      "mathematics",
+      "engineering",
+      "STEM research",
+      "scientific research",
+      "Class XI",
+      "Class XII",
+      "Bengaluru",
+      "Karnataka",
+      "India"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "RSI India is designed specifically for eligible Indian high school students in Classes XI and XII. The program is a six-week intensive summer STEM research experience hosted through the Indian Institute of Science. Students should check the official IISc information for current application dates, eligibility requirements, and future program cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional Indian high school research opportunity because students participate in an intensive six-week STEM research program at one of India's leading research institutions.",
+    "summary": "Research Science Initiative India is a six-week intensive STEM research program at the Indian Institute of Science for Indian students in Classes XI and XII. Participants gain experience with advanced scientific research across disciplines such as biology, chemistry, physics, mathematics, and engineering.",
+    "email": "",
+    "labUrl": "https://odaa.iisc.ac.in/ongoing-initiatives/",
+    "applyUrl": "https://odaa.iisc.ac.in/ongoing-initiatives/",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 291,
+    "name": "SHINE",
+    "title": "High School Biomedical Research Exposure Initiative",
+    "university": "Indian Council of Medical Research",
+    "state": "India",
+    "department": "Indian Council of Medical Research",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomedical science",
+      "medicine",
+      "public health",
+      "health research",
+      "laboratory research",
+      "medical science",
+      "Class 11",
+      "Class 12",
+      "India"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "ICMR's SHINE initiative has provided Class 11 and 12 students with exposure to biomedical and health research laboratories. Exact eligibility, participating sites, and recruitment procedures may vary by cycle, so students should verify the current program structure through official ICMR channels before applying.",
+    "resumeRating": 4,
+    "ratingNote": "A valuable biomedical research-exposure opportunity because secondary students gain direct exposure to laboratory and health research through India's national medical-research system. It should be viewed as research exposure unless the current cycle explicitly provides an independent research placement.",
+    "summary": "SHINE is an Indian Council of Medical Research initiative that introduces Class 11 and 12 students to biomedical and health research. Participants gain exposure to laboratory science, medicine, public health, and research environments connected to India's national medical-research infrastructure.",
+    "email": "",
+    "labUrl": "https://www.icmr.gov.in/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 292,
+    "name": "YSP Innovators in Science & Tech",
+    "title": "High School Science and Technology Research Immersion",
+    "university": "Ashoka University",
+    "state": "Haryana, India",
+    "department": "Young Scholars Programme",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "biology",
+      "physics",
+      "chemistry",
+      "technology",
+      "interdisciplinary STEM",
+      "scientific research",
+      "research exposure",
+      "Grades 9-12",
+      "Sonipat",
+      "Haryana",
+      "India"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The program is open to eligible students in Grades 9 through 12, including students from India and abroad, with recent Grade 12 graduates also potentially eligible. The 2026 program is a 10-day residential experience. The listed 2026 fee is ₹85,000 plus GST. Students should verify current dates, fees, and eligibility for future cycles.",
+    "resumeRating": 3,
+    "ratingNote": "A legitimate university-level science and technology immersion that introduces high school students to current research and advanced STEM topics. It is substantially shorter and less research-intensive than a faculty-lab internship or six-week research program.",
+    "summary": "Ashoka University's YSP Innovators in Science & Tech gives high school students a 10-day residential immersion in contemporary science and technology. Participants explore areas including biology, physics, chemistry, technology, and interdisciplinary STEM while gaining exposure to university-level research and scientific thinking.",
+    "email": "",
+    "labUrl": "https://www.ashoka.edu.in/academic-programme/young-scholars-programme-innovators-in-science-and-tech/",
+    "applyUrl": "https://www.ashoka.edu.in/academic-programme/young-scholars-programme-innovators-in-science-and-tech/",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 293,
+    "name": "YTS+",
+    "title": "Young Technology Scholars Plus",
+    "university": "Plaksha University",
+    "state": "Punjab, India",
+    "department": "Young Technology Scholars",
+    "field": "Engineering",
+    "tags": [
+      "engineering",
+      "biology",
+      "mathematics",
+      "physics",
+      "technology",
+      "innovation",
+      "project-based learning",
+      "research exposure",
+      "Classes 9-12",
+      "Mohali",
+      "Punjab",
+      "India"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "YTS+ is designed for eligible students in Classes 9 through 12 across academic streams. The program runs for approximately two weeks and combines interdisciplinary learning with specialized tracks and project-based work. Students should check Plaksha University's current program page for application dates, fees, and eligibility requirements.",
+    "resumeRating": 3,
+    "ratingNote": "A useful interdisciplinary STEM and technology experience, particularly for younger high school students, but it is primarily project-based research exposure rather than a university faculty-lab internship.",
+    "summary": "Plaksha University's YTS+ program gives students in Classes 9 through 12 a two-week interdisciplinary experience combining engineering, mathematics, biology, physics, technology, and innovation. Students progress from shared foundational learning into specialized tracks and project-based work.",
+    "email": "",
+    "labUrl": "https://plaksha.edu.in/hs/young-technology-scholars",
+    "applyUrl": "https://plaksha.edu.in/hs/young-technology-scholars",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 294,
+    "name": "YSP Tech, Data & Computer Science",
+    "title": "High School Computing and Data Science Immersion",
+    "university": "Ashoka University",
+    "state": "Haryana, India",
+    "department": "Young Scholars Programme",
+    "field": "Computer Science",
+    "tags": [
+      "computer science",
+      "data science",
+      "technology",
+      "computing",
+      "emerging technology",
+      "research exposure",
+      "Grades 9-12",
+      "Sonipat",
+      "Haryana",
+      "India"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The program is open to eligible students in Grades 9 through 12, including students in India and internationally, with recent Grade 12 graduates also potentially eligible. The 2026 program is a 10-day residential experience and the listed fee is ₹85,000 plus GST. Students should verify future application dates, fees, and eligibility directly with Ashoka University.",
+    "resumeRating": 3,
+    "ratingNote": "A legitimate university-level computing and data-science immersion offering exposure to emerging technologies and academic research topics. It should be viewed as academic and research exposure rather than an independent computer-science research internship.",
+    "summary": "Ashoka University's YSP Tech, Data & Computer Science program introduces high school students to computing, data science, and emerging technologies through a 10-day residential university experience. Participants explore contemporary technical topics and gain exposure to university-level approaches to computer science and data-driven research.",
+    "email": "",
+    "labUrl": "https://www.ashoka.edu.in/academic-programme/young-scholars-programme-tech-data-computer-science/",
+    "applyUrl": "https://www.ashoka.edu.in/academic-programme/young-scholars-programme-tech-data-computer-science/",
+    "dateAdded": "2026-08-11"
+  }
 ]
