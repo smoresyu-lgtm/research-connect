@@ -10836,4 +10836,123 @@
     "applyUrl": "https://www.bryanteconsummerprogram.com/",
     "dateAdded": "2026-08-11"
   }
+  ,
+  {
+    "id": 318,
+    "name": "High School Summer Research Internship — Weldon School of Biomedical Engineering",
+    "title": "High School Biomedical Engineering Laboratory Research Internship",
+    "university": "Purdue University",
+    "state": "Indiana, USA",
+    "department": "Weldon School of Biomedical Engineering",
+    "field": "Bioengineering",
+    "tags": [
+      "biomedical engineering",
+      "bioengineering",
+      "medical technology",
+      "biomedical research",
+      "laboratory research",
+      "engineering",
+      "faculty research",
+      "research mentorship",
+      "West Lafayette",
+      "Tippecanoe County",
+      "Indiana"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The program is designed for eligible local Tippecanoe County high school students. Participants are competitively selected and matched with Purdue Biomedical Engineering laboratories and research mentors. The 2026 cohort spent approximately eight weeks conducting research for about 35 hours per week. Students should verify future application dates, geographic eligibility, and program requirements through Purdue's Weldon School of Biomedical Engineering.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional biomedical engineering research experience because students spend approximately eight weeks embedded in Purdue BME laboratories and contribute to ongoing research alongside faculty, graduate students, and undergraduate researchers.",
+    "summary": "Purdue's Weldon School of Biomedical Engineering offers local high school students an intensive summer research internship in active biomedical engineering laboratories. Students are matched with research mentors and spend approximately eight weeks contributing to ongoing projects involving biomedical engineering, medical technology, and related research.",
+    "email": "",
+    "labUrl": "https://engineering.purdue.edu/BME/",
+    "applyUrl": "https://engineering.purdue.edu/BME/",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 319,
+    "name": "BME High School Internship Program",
+    "title": "Paid Biomedical Engineering Research Internship",
+    "university": "University of Minnesota",
+    "state": "Minnesota, USA",
+    "department": "Department of Biomedical Engineering",
+    "field": "Bioengineering",
+    "tags": [
+      "biomedical engineering",
+      "bioengineering",
+      "medical devices",
+      "biological engineering",
+      "experimental research",
+      "laboratory research",
+      "graduate student mentorship",
+      "scientific writing",
+      "research poster",
+      "Minneapolis",
+      "Minnesota"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The BME High School Internship Program is designed for eligible students entering their senior year of high school. Participants spend approximately six weeks conducting hands-on biomedical engineering research under graduate-student mentorship while also receiving scientific-writing and communication training. The program provides a stipend and transportation support. There was no Summer 2026 cohort, but the department directs students to check back for Summer 2027 information.",
+    "resumeRating": 5,
+    "ratingNote": "A strong paid biomedical engineering internship because students conduct six weeks of hands-on research under university mentorship and conclude their experience by presenting a research poster.",
+    "summary": "The University of Minnesota Biomedical Engineering High School Internship Program gives students six weeks of hands-on research experience with graduate-student mentors. Participants explore biomedical engineering research, visit BME laboratories, develop scientific communication skills, and present their work through a final research poster session.",
+    "email": "",
+    "labUrl": "https://cse.umn.edu/bme/bme-high-school-internship-program",
+    "applyUrl": "https://cse.umn.edu/bme/bme-high-school-internship-program",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 320,
+    "name": "Facciotti Lab",
+    "title": "High School Bioengineering Research Internship",
+    "university": "University of California, Davis",
+    "state": "California, USA",
+    "department": "Department of Biomedical Engineering",
+    "field": "Bioengineering",
+    "tags": [
+      "bioengineering",
+      "biomedical engineering",
+      "synthetic biology",
+      "quantitative biology",
+      "biological systems",
+      "computational biology",
+      "experimental biology",
+      "faculty research",
+      "laboratory research",
+      "Davis",
+      "California"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Mentorship"
+    ],
+    "applicationType": "Direct Inquiry / Availability Dependent",
+    "applicationWindow": "The Facciotti Lab explicitly provides mentored internship opportunities for high school and undergraduate students. Participation depends on current project and mentor availability, so interested students should review the lab's education and research information and inquire about currently available opportunities.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly valuable individual-lab pathway because the UC Davis Biomedical Engineering research group explicitly offers mentored internship opportunities to high school students rather than merely documenting a historical high school participant.",
+    "summary": "The Facciotti Lab at UC Davis works at the intersection of bioengineering, biological systems, synthetic biology, quantitative biology, and computational and experimental approaches. The laboratory explicitly offers mentored internship opportunities to high school students, providing a rare direct pathway into an active university bioengineering research group.",
+    "email": "",
+    "labUrl": "https://facciotti.bme.ucdavis.edu/education/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-11"
+  }
 ]
