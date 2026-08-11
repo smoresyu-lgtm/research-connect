@@ -42,27 +42,6 @@
     "dateAdded": "2026-08-05"
   },
   {
-    "id": 9,
-    "name": "Duke Cell Biology Academy (CeBA)",
-    "title": "Structured Summer Research Program",
-    "university": "Duke University",
-    "state": "North Carolina, USA",
-    "department": "Cell Biology",
-    "field": "Biology",
-    "tags": ["cell biology", "bench research", "mentorship"],
-    "levels": ["High School"],
-    "opportunityTypes": ["Research Assistant"],
-    "applicationType": "Structured Program",
-    "applicationWindow": "2026 deadline was March 20; program ran June 22 – July 31, 2026. Applications for 2027 typically open in January.",
-    "resumeRating": 4,
-    "ratingNote": "Paid ($2,400) independent research project with a real Duke mentor, ending in a poster session — but limited to students who can commute daily to campus (Research Triangle area).",
-    "summary": "Six-week paid research internship pairing high school juniors/seniors with a Duke Cell Biology graduate student or postdoc mentor on an independent project, ending in a poster session. Students must arrange their own transportation to Duke's campus every day — no housing or transportation is provided.",
-    "email": "",
-    "labUrl": "",
-    "applyUrl": "https://www.cellbio.duke.edu/education-and-training/cell-biology-academy-ceba",
-    "dateAdded": "2026-08-05"
-  },
-  {
     "id": 10,
     "name": "Scripps Research REACH Summer Internship",
     "title": "Structured Summer Research Program",
@@ -81,27 +60,6 @@
     "email": "",
     "labUrl": "",
     "applyUrl": "https://education.scripps.edu/k-12-outreach/ca-outreach/hs-internships",
-    "dateAdded": "2026-08-05"
-  },
-  {
-    "id": 11,
-    "name": "Rutgers Waksman Student Scholars Program (WSSP)",
-    "title": "Teacher-Mediated Year-Long Research Program",
-    "university": "Rutgers University",
-    "state": "New Jersey, USA",
-    "department": "Molecular Biology & Bioinformatics",
-    "field": "Biology",
-    "tags": ["molecular biology", "bioinformatics", "year-long"],
-    "levels": ["High School"],
-    "opportunityTypes": ["Research Assistant"],
-    "applicationType": "Structured Program",
-    "applicationWindow": "Works differently from the others: a student's own science teacher applies to attend a summer Institute (deadline is typically around March 1), then runs the year-long project with students at school.",
-    "resumeRating": 3,
-    "ratingNote": "Genuine, publication-quality molecular biology/bioinformatics research — but a student can only take part if a teacher at their own school signs up first, so it's not something you can apply for individually.",
-    "summary": "A year-long program where a science teacher attends a Rutgers summer Institute, then leads a real molecular biology and bioinformatics research project with students at their own high school during the academic year. You'll need a science teacher at your school willing to get involved — this isn't an individual application.",
-    "email": "",
-    "labUrl": "",
-    "applyUrl": "https://wssp.rutgers.edu/",
     "dateAdded": "2026-08-05"
   },
   {
@@ -1099,40 +1057,6 @@
     "dateAdded": "2026-08-07"
   },
   {
-    "id": 45,
-    "name": "Research Immersion in Materials Science & Engineering (RIMSE)",
-    "title": "Materials Science Research Immersion",
-    "university": "University of California San Diego",
-    "state": "California, USA",
-    "department": "Materials Research Science and Engineering Center",
-    "field": "Engineering",
-    "tags": [
-      "materials science",
-      "materials engineering",
-      "nanotechnology",
-      "engineering research",
-      "laboratory research",
-      "research mentorship"
-    ],
-    "levels": [
-      "High School",
-      "Undergraduate"
-    ],
-    "opportunityTypes": [
-      "Research Assistant",
-      "Summer Research"
-    ],
-    "applicationType": "Structured Program",
-    "applicationWindow": "Participation and application timing vary by RIMSE program cycle. Interested students should review the UC San Diego MRSEC RIMSE page for current opportunities, eligibility requirements, and application information.",
-    "resumeRating": 4,
-    "ratingNote": "A strong engineering research opportunity that introduces students to authentic materials science research environments. The program is notable for bringing together participants at multiple educational levels, including high school students, undergraduates, graduate students, postdoctoral researchers, and other researchers.",
-    "summary": "Research Immersion in Materials Science & Engineering is an NSF-supported initiative through UC San Diego's Materials Research Science and Engineering Center. Participants gain experience with materials science and engineering research while working in research environments that can include high school students, undergraduates, graduate students, postdoctoral researchers, visiting scholars, and professional researchers.",
-    "email": "",
-    "labUrl": "https://mrsec.ucsd.edu/rimse/",
-    "applyUrl": "https://mrsec.ucsd.edu/rimse/",
-    "dateAdded": "2026-08-07"
-  },
-  {
     "id": 46,
     "name": "SLAAM Engineering Summer Academy",
     "title": "Structured Summer Engineering Research Program",
@@ -1782,39 +1706,6 @@
     "dateAdded": "2026-08-07"
   },
   {
-    "id": 65,
-    "name": "BeSMART",
-    "title": "Machine Learning and AI Research Training Program",
-    "university": "University of California, Berkeley",
-    "state": "California, USA",
-    "department": "Industrial Engineering and Operations Research",
-    "field": "Artificial Intelligence",
-    "tags": [
-      "artificial intelligence",
-      "machine learning",
-      "data science",
-      "algorithms",
-      "data analysis",
-      "research methods"
-    ],
-    "levels": [
-      "High School"
-    ],
-    "opportunityTypes": [
-      "Research Project",
-      "Summer Research"
-    ],
-    "applicationType": "Structured Program",
-    "applicationWindow": "The program launched for summer 2026. Students interested in future sessions should check the UC Berkeley Engineering program page for updated application dates, eligibility requirements, and program details.",
-    "resumeRating": 4,
-    "ratingNote": "A strong AI research-training opportunity for high school students at a major engineering university. The program provides hands-on experience with machine-learning algorithms, data manipulation, validation, and data-driven research, although it is more structured and instructional than a traditional laboratory research assistant position.",
-    "summary": "BeSMART is a UC Berkeley Engineering summer program introducing high school students to machine learning, artificial intelligence, and data-driven research. Participants work with algorithms, data manipulation, validation methods, and other foundations of modern AI while gaining experience with research-oriented problem solving.",
-    "email": "",
-    "labUrl": "https://ieor.berkeley.edu/uc-berkeley-ieor-launches-summer-machine-learning-and-ai-research-program-for-high-school-students/",
-    "applyUrl": "https://ieor.berkeley.edu/uc-berkeley-ieor-launches-summer-machine-learning-and-ai-research-program-for-high-school-students/",
-    "dateAdded": "2026-08-07"
-  },
-  {
     "id": 66,
     "name": "UCSD Advanced Research Experience (ARE)",
     "title": "Artificial Intelligence and Multidisciplinary Research Program",
@@ -1983,41 +1874,6 @@
     "applyUrl": "https://cmap.rochester.edu/education-outreach/high-school/",
     "dateAdded": "2026-08-07"
   },
-  {
-    "id": 71,
-    "name": "STEM Enhancement in Earth Science (SEES)",
-    "title": "NASA-Connected Space Science Research Internship",
-    "university": "The University of Texas at Austin",
-    "state": "Texas, USA",
-    "department": "Center for Space Research",
-    "field": "Astronomy",
-    "tags": [
-      "astronomy",
-      "planetary science",
-      "space science",
-      "remote sensing",
-      "NASA",
-      "aerospace",
-      "space geodesy"
-    ],
-    "levels": [
-      "High School"
-    ],
-    "opportunityTypes": [
-      "Research Assistant",
-      "Internship",
-      "Summer Research"
-    ],
-    "applicationType": "Structured Program",
-    "applicationWindow": "SEES serves eligible high school students in grades 10 and 11. Future program continuation and expansion depend on available funding, so students should verify the current status and application cycle on the official UT Austin Center for Space Research page.",
-    "resumeRating": 5,
-    "ratingNote": "An exceptional space-science research opportunity connecting high school students with NASA, university, and industry experts. Participants work with mission data and research topics spanning astronomy, planetary science, aerospace, remote sensing, microgravity, and space geodesy.",
-    "summary": "STEM Enhancement in Earth Science is a nationally competitive research internship hosted by UT Austin's Center for Space Research. High school students collaborate with NASA, university, and industry researchers and work with real scientific mission data. Research areas may include astronomy, planetary science, remote sensing, aerospace, microgravity, and space geodesy.",
-    "email": "",
-    "labUrl": "https://csr.utexas.edu/education-outreach/high-school-internships/sees/",
-    "applyUrl": "https://csr.utexas.edu/education-outreach/high-school-internships/sees/",
-    "dateAdded": "2026-08-07"
-  }
   ,
   {
     "id": 72,
@@ -2919,39 +2775,6 @@
     "dateAdded": "2026-08-07"
   },
   {
-    "id": 98,
-    "name": "National High School Fed Challenge",
-    "title": "Applied Economics Research and Publication Challenge",
-    "university": "Federal Reserve System",
-    "state": "Nationwide, USA",
-    "department": "Federal Reserve Education",
-    "field": "Economics",
-    "tags": [
-      "economics",
-      "economic research",
-      "data analysis",
-      "applied economics",
-      "analytical writing",
-      "economic policy",
-      "publication"
-    ],
-    "levels": [
-      "High School"
-    ],
-    "opportunityTypes": [
-      "Research Project"
-    ],
-    "applicationType": "Structured Program",
-    "applicationWindow": "The National High School Fed Challenge is open to eligible students in grades 9 through 12. The research theme and submission schedule can change each year, so students should review the Federal Reserve Board's official program page for the current theme, registration information, and deadlines.",
-    "resumeRating": 5,
-    "ratingNote": "A strong nationwide economics research opportunity because students conduct original research, analyze evidence, and produce an academic-style submission around an annual economics theme. Outstanding submissions may be selected by Federal Reserve staff for publication in the Journal of Future Economists.",
-    "summary": "The National High School Fed Challenge is a Federal Reserve economics research competition for students in grades 9 through 12. Participants investigate an annual economics theme, conduct research, analyze economic evidence and data, and produce an academic submission. Outstanding student work may be selected for publication in the Federal Reserve's Journal of Future Economists.",
-    "email": "",
-    "labUrl": "https://www.federalreserve.gov/aboutthefed/educational-tools/national-high-school-fed-challenge.htm",
-    "applyUrl": "https://www.federalreserve.gov/aboutthefed/educational-tools/national-high-school-fed-challenge.htm",
-    "dateAdded": "2026-08-07"
-  },
-  {
     "id": 99,
     "name": "Polk Presidential Scholars",
     "title": "Faculty-Mentored Public Policy and Political Economy Research Fellowship",
@@ -2986,41 +2809,6 @@
     "dateAdded": "2026-08-07"
   },
   {
-    "id": 100,
-    "name": "Economics Policy Academy",
-    "title": "Economic Policy Research Program",
-    "university": "Georgetown University",
-    "state": "District of Columbia, USA",
-    "department": "Summer Programs for High School Students",
-    "field": "Economics",
-    "tags": [
-      "economics",
-      "economic policy",
-      "development economics",
-      "behavioral economics",
-      "international trade",
-      "inequality",
-      "monetary policy",
-      "fiscal policy"
-    ],
-    "levels": [
-      "High School"
-    ],
-    "opportunityTypes": [
-      "Research Project"
-    ],
-    "applicationType": "Structured Program",
-    "applicationWindow": "The 2026 Economics Policy Academy residential and commuter sessions are full. Students interested in future sessions should review Georgetown University's official summer program page for updated application dates, eligibility requirements, tuition, and availability.",
-    "resumeRating": 4,
-    "ratingNote": "A useful economics and policy research experience where students investigate economic-policy questions and develop a research-based poster. Topics span development economics, inequality, behavioral economics, international trade, fiscal and monetary policy, and foreign aid, although the academy is more structured than a traditional research assistant position.",
-    "summary": "Georgetown University's Economics Policy Academy introduces high school students to economic analysis and public policy. Students investigate topics including development economics, behavioral economics, inequality, international trade, fiscal and monetary policy, and foreign aid. Participants apply their learning to economic-policy questions and develop a research-based poster.",
-    "email": "",
-    "labUrl": "https://summer.georgetown.edu/programs/SHS08/economics-policy-academy/",
-    "applyUrl": "https://summer.georgetown.edu/programs/SHS08/economics-policy-academy/",
-    "dateAdded": "2026-08-07"
-  }
-  ,
-  {
     "id": 97,
     "name": "Hematian Research Group",
     "title": "Direct Chemistry Research Opportunity",
@@ -3052,42 +2840,6 @@
     "summary": "The Hematian Research Group at UNC Greensboro conducts research involving inorganic chemistry, electrochemistry, biochemistry, and related chemical processes. The group explicitly provides research opportunities for students beginning at the high school level. Interested high school students are instructed to email the lab directly describing their chemistry background, future goals, and interest in joining the research team.",
     "email": "",
     "labUrl": "https://chem.uncg.edu/hematian/join-us/",
-    "applyUrl": "",
-    "dateAdded": "2026-08-07"
-  },
-  {
-    "id": 98,
-    "name": "Tong Lab",
-    "title": "Analytical and Environmental Chemistry Volunteer Research Internship",
-    "university": "Georgetown University",
-    "state": "District of Columbia, USA",
-    "department": "Chemistry",
-    "field": "Chemistry",
-    "tags": [
-      "analytical chemistry",
-      "environmental chemistry",
-      "chemical measurement",
-      "laboratory research",
-      "instrumentation",
-      "volunteer research",
-      "environmental analysis"
-    ],
-    "levels": [
-      "High School",
-      "Undergraduate"
-    ],
-    "opportunityTypes": [
-      "Research Assistant",
-      "Internship",
-      "Volunteer"
-    ],
-    "applicationType": "Direct Application",
-    "applicationWindow": "High school students interested in possible volunteer research internships are instructed to contact Dr. Tong directly. Applicants may be asked to submit a personal statement, CV, and two recommendation letters, with an on-site interview for students under consideration. Opportunities depend on current laboratory availability.",
-    "resumeRating": 5,
-    "ratingNote": "A particularly strong individual-lab opportunity because Georgetown explicitly provides high school students with a direct route to apply for volunteer research internships. The application process is substantial and can lead to hands-on experience in analytical and environmental chemistry research.",
-    "summary": "The Tong Lab at Georgetown University conducts analytical and environmental chemistry research involving chemical measurement and laboratory instrumentation. High school students interested in volunteer research internships may contact Dr. Tong directly. Applicants can be asked to provide a personal statement, CV, and recommendation letters and may complete an interview before being accepted into the lab.",
-    "email": "",
-    "labUrl": "https://tonglab.georgetown.edu/research-etc/research-opportunities",
     "applyUrl": "",
     "dateAdded": "2026-08-07"
   },
@@ -10502,46 +10254,6 @@
     "applyUrl": "https://admissions.eitech.edu.cn/2026/0104/c21a3928/page.htm",
     "dateAdded": "2026-08-11"
   },
-  {
-    "id": 309,
-    "name": "Biomedical Laboratory Exploration",
-    "title": "Specialized Secondary Student Biomedical Experimental Training",
-    "university": "Zhejiang University",
-    "state": "Zhejiang, China",
-    "department": "School of Medicine / Biomedical Technology Platform",
-    "field": "Biomedical Science",
-    "tags": [
-      "biomedical imaging",
-      "flow cytometry",
-      "experimental biology",
-      "neuroscience",
-      "immunology",
-      "protein measurement",
-      "zebrafish",
-      "cell biology",
-      "laboratory training",
-      "research exposure",
-      "Hangzhou",
-      "Zhejiang",
-      "China"
-    ],
-    "levels": [
-      "High School"
-    ],
-    "opportunityTypes": [
-      "Research Exposure"
-    ],
-    "applicationType": "Structured Research Program",
-    "applicationWindow": "This biomedical laboratory experience is associated with Zhejiang University School of Medicine's secondary-student life-science programming. Students receive exposure to specialized biomedical experiments and research instrumentation. Because this activity may be part of the broader Life Science Exploration Camp rather than a separately recruited program, students should verify whether it is independently enrollable before applying.",
-    "resumeRating": 3,
-    "ratingNote": "Provides unusually specialized biomedical laboratory exposure involving research instrumentation and experimental techniques. However, its status as a separately enrollable opportunity should be verified because it may overlap with Zhejiang University's broader Life Science Exploration Camp.",
-    "summary": "Zhejiang University School of Medicine provides secondary students with specialized biomedical laboratory exposure involving techniques such as flow cytometry, protein measurement, cell preparation, zebrafish microinjection, and biological imaging. This experience may operate as part of the broader Life Science Exploration Camp rather than as a fully separate program.",
-    "email": "",
-    "labUrl": "https://www.cfzsm.zju.edu.cn/news/view?id=1338",
-    "applyUrl": "",
-    "dateAdded": "2026-08-11"
-  }
-  ,
   {
     "id": 310,
     "name": "UVA Advance — Principles of Microeconomics",
