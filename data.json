@@ -10541,4 +10541,114 @@
     "applyUrl": "",
     "dateAdded": "2026-08-11"
   }
+  ,
+  {
+    "id": 310,
+    "name": "UVA Advance — Principles of Microeconomics",
+    "title": "College-Credit High School Economics Program",
+    "university": "University of Virginia",
+    "state": "Virginia, USA",
+    "department": "UVA Advance / Summer Session",
+    "field": "Economics",
+    "tags": [
+      "economics",
+      "microeconomics",
+      "markets",
+      "public policy",
+      "consumer behavior",
+      "competition",
+      "monopoly",
+      "college credit",
+      "Charlottesville",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "UVA Advance is open to eligible rising high school juniors and seniors, generally ages 15-18, with a minimum 3.5 GPA. The 2026 catalog includes ECON 2010: Principles of Microeconomics. Advance students take two undergraduate courses for six total UVA credits. Students should verify current course availability, tuition, dates, and eligibility through UVA Summer Session.",
+    "resumeRating": 3,
+    "ratingNote": "A legitimate university-level economics opportunity that allows high school students to complete actual undergraduate coursework and earn UVA credit. It is academic economics exposure rather than an independent economics research experience.",
+    "summary": "UVA Advance allows qualified high school students to enroll in undergraduate courses at the University of Virginia. The 2026 catalog includes Principles of Microeconomics, covering markets, supply and demand, consumer behavior, firms, competition, monopoly, and income distribution while students earn UVA college credit.",
+    "email": "",
+    "labUrl": "https://summer.virginia.edu/uva-advance-course-catalog",
+    "applyUrl": "https://summer.virginia.edu/uva-advance-course-catalog",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 311,
+    "name": "Virginia Economics Challenge",
+    "title": "Statewide High School Economics Competition",
+    "university": "Virginia Commonwealth University",
+    "state": "Virginia, USA",
+    "department": "Virginia Council on Economic Education / VCU School of Business",
+    "field": "Economics",
+    "tags": [
+      "economics",
+      "microeconomics",
+      "macroeconomics",
+      "current events",
+      "economic analysis",
+      "competition",
+      "VCU",
+      "Richmond",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Competition"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The Virginia Economics Challenge is open to Virginia high school students participating in teams of three or four. Students may compete even if they have not taken a formal economics course. Regional winners can advance to the state competition held through the Virginia Council on Economic Education and VCU School of Business. Students should verify current competition dates and registration procedures.",
+    "resumeRating": 3,
+    "ratingNote": "A legitimate statewide economics opportunity testing students' understanding of microeconomics, macroeconomics, and current economic events. It is a competition rather than a research internship, but provides meaningful academic economics experience.",
+    "summary": "The Virginia Economics Challenge gives high school students the opportunity to compete in teams on questions involving microeconomics, macroeconomics, and current economic events. Top regional teams advance to the state competition through the Virginia Council on Economic Education and VCU School of Business.",
+    "email": "",
+    "labUrl": "https://vcee.org/programs/virginia-economics-virginia-personal-finance-challenges/",
+    "applyUrl": "https://vcee.org/programs/virginia-economics-virginia-personal-finance-challenges/",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 312,
+    "name": "Virginia Stock Market Game",
+    "title": "Applied Economics and Financial Markets Competition",
+    "university": "Virginia Council on Economic Education",
+    "state": "Virginia, USA",
+    "department": "Virginia Council on Economic Education",
+    "field": "Economics",
+    "tags": [
+      "economics",
+      "finance",
+      "markets",
+      "investing",
+      "economic decision-making",
+      "portfolio management",
+      "financial literacy",
+      "competition",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Competition"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The Virginia Stock Market Game is open to participating Virginia students in grades 4 through 12. Student teams manage a simulated $100,000 investment portfolio using real market conditions. Participation schedules and registration procedures vary by session, so students should check the Virginia Council on Economic Education for current dates.",
+    "resumeRating": 2,
+    "ratingNote": "A useful applied economics and financial-markets project that develops decision-making and investment-analysis skills, but it is significantly less research-intensive than university research or faculty-mentored economics work.",
+    "summary": "The Virginia Stock Market Game gives student teams a simulated $100,000 portfolio to manage using real market conditions. Participants make investment decisions, analyze market information, and apply economics and finance concepts while competing against other Virginia student teams.",
+    "email": "",
+    "labUrl": "https://vcee.org/programs/the-stock-market-game/",
+    "applyUrl": "https://vcee.org/programs/the-stock-market-game/",
+    "dateAdded": "2026-08-11"
+  }
 ]
