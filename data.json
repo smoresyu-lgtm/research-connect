@@ -9170,4 +9170,199 @@
     "applyUrl": "https://iem.ucsd.edu/programs/opals/index.html",
     "dateAdded": "2026-08-10"
   }
+  ,
+  {
+    "id": 275,
+    "name": "Student Science Training Program (SSTP)",
+    "title": "High School Faculty-Lab Research Program",
+    "university": "University of Florida",
+    "state": "Florida, USA",
+    "department": "Center for Precollegiate Education and Training",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "biology",
+      "medicine",
+      "engineering",
+      "computer science",
+      "chemistry",
+      "STEM",
+      "laboratory research",
+      "faculty research",
+      "scientific research",
+      "Gainesville",
+      "Florida"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The 2026 Student Science Training Program ran June 7-July 25. The seven-week residential program is designed for rising 12th graders, with students from outside Florida also eligible for a limited number of positions. Students should check the official SSTP page for the next application cycle.",
+    "resumeRating": 5,
+    "ratingNote": "One of the University of Florida's strongest high school research opportunities because students spend seven weeks working with a UF faculty research scientist and research team on ongoing university research.",
+    "summary": "The Student Science Training Program is a seven-week residential research experience for rising high school seniors. Participants are placed with University of Florida faculty research scientists and research teams, where they contribute to ongoing research across areas such as biology, medicine, chemistry, engineering, and computer science.",
+    "email": "",
+    "labUrl": "https://www.cpet.ufl.edu/students/summer-programs/student-science-training-program/",
+    "applyUrl": "https://www.cpet.ufl.edu/students/summer-programs/student-science-training-program/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 276,
+    "name": "Kenan Fellows High School Summer Internship",
+    "title": "High School Biomedical Research Internship",
+    "university": "University of Florida",
+    "state": "Florida, USA",
+    "department": "The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomedical science",
+      "drug discovery",
+      "chemistry",
+      "cancer research",
+      "biotechnology",
+      "molecular biology",
+      "laboratory research",
+      "experimental design",
+      "Palm Beach County",
+      "Martin County",
+      "Jupiter",
+      "Florida"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The Kenan Fellows program is available to eligible high school students from Palm Beach and Martin counties. Participants spend eight weeks working approximately 40 hours per week in a Wertheim UF Scripps research laboratory and receive a $4,480 stipend. Students should check the official program page for the next application cycle and current eligibility requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional paid biomedical research experience involving eight weeks of full-time laboratory work, experimental design, bench research, data analysis, and direct mentorship from scientists at a major biomedical research institute.",
+    "summary": "The Kenan Fellows High School Summer Internship places Palm Beach and Martin County students in biomedical research laboratories at the Wertheim UF Scripps Institute. Students spend eight weeks conducting full-time research under scientific mentorship while learning research planning, experimental design, laboratory techniques, and data analysis.",
+    "email": "",
+    "labUrl": "https://wertheim.scripps.ufl.edu/education/kenan-fellows-high-school-summer-internships/",
+    "applyUrl": "https://wertheim.scripps.ufl.edu/education/kenan-fellows-high-school-summer-internships/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 277,
+    "name": "Research Immersion in Science & Engineering (RISE)",
+    "title": "High School Science and Engineering Research Immersion",
+    "university": "University of Florida",
+    "state": "Florida, USA",
+    "department": "Center for Precollegiate Education and Training",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "engineering",
+      "technology",
+      "biology",
+      "chemistry",
+      "physical science",
+      "STEM",
+      "laboratory experiments",
+      "research exposure",
+      "rising sophomores",
+      "Gainesville",
+      "Florida"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "RISE is designed for rising 10th-grade students. The 2026 program offered a one-week research immersion involving laboratory activities, case studies, research-focused experiences, and interaction with University of Florida researchers. A limited number of spaces may be available to students from outside Florida.",
+    "resumeRating": 3,
+    "ratingNote": "A useful early high school research experience because rising sophomores can gain laboratory and research exposure at UF. It is an immersion program rather than an independent faculty-lab research internship.",
+    "summary": "Research Immersion in Science & Engineering introduces rising high school sophomores to scientific and engineering research at the University of Florida. Students participate in laboratory experiments, hands-on research activities, case studies, research-focused field experiences, and discussions with faculty and graduate researchers.",
+    "email": "",
+    "labUrl": "https://www.cpet.ufl.edu/students/summer-programs/research-immersion-in-science--engineering-/",
+    "applyUrl": "https://www.cpet.ufl.edu/students/summer-programs/research-immersion-in-science--engineering-/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 278,
+    "name": "Research Explorations (REx)",
+    "title": "Advanced High School Research Program",
+    "university": "University of Florida",
+    "state": "Florida, USA",
+    "department": "Center for Precollegiate Education and Training",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomedical science",
+      "environmental science",
+      "toxicology",
+      "molecular biology",
+      "ecology",
+      "CRISPR",
+      "DNA",
+      "protein science",
+      "gel electrophoresis",
+      "laboratory research",
+      "Gainesville",
+      "Florida"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Research Explorations is designed for rising 11th- and 12th-grade students and offers advanced research experiences in biomedical science or environmental science and toxicology. Students from outside Florida may apply for a limited number of spaces. Need-based scholarships may be available to qualifying Florida students.",
+    "resumeRating": 4,
+    "ratingNote": "A strong research-training experience involving advanced laboratory techniques and interaction with UF researchers. It provides more substantial scientific training than a typical pre-college enrichment program, although it is not an independent faculty-lab internship.",
+    "summary": "Research Explorations is a two-week University of Florida program offering advanced research experiences in biomedical science and environmental science and toxicology. Biomedical participants explore techniques such as DNA science, protein science, CRISPR, and gel electrophoresis, while environmental students investigate topics including pollution, aquatic health, epidemiology, invasive species, and conservation.",
+    "email": "",
+    "labUrl": "https://www.cpet.ufl.edu/students/summer-programs/research-explorations/",
+    "applyUrl": "https://www.cpet.ufl.edu/students/summer-programs/research-explorations/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 279,
+    "name": "Florida Youth Institute (FYI)",
+    "title": "Agricultural and Life Sciences Research Program",
+    "university": "University of Florida",
+    "state": "Florida, USA",
+    "department": "College of Agricultural and Life Sciences",
+    "field": "Environmental Science",
+    "tags": [
+      "agriculture",
+      "agricultural science",
+      "life sciences",
+      "biological engineering",
+      "food security",
+      "natural resources",
+      "environmental science",
+      "global challenges",
+      "research exposure",
+      "Gainesville",
+      "Florida"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The 2026 Florida Youth Institute offered two sessions, June 28-July 3 and July 5-10, for rising 11th- and 12th-grade students. U.S. students may apply, although availability for students outside Florida is limited. Students should check the official program page for the next application cycle.",
+    "resumeRating": 3,
+    "ratingNote": "A useful agriculture and life-sciences research exposure program that gives students experience investigating real food-security and natural-resource challenges, although it is not equivalent to an independent laboratory internship.",
+    "summary": "The Florida Youth Institute introduces high school students to agriculture, life sciences, biological engineering, food security, and natural resources through the University of Florida College of Agricultural and Life Sciences. Students explore laboratories and research environments, investigate major global agricultural challenges, and develop research-based recommendations that they present to experts.",
+    "email": "",
+    "labUrl": "https://www.cpet.ufl.edu/students/summer-programs/florida-youth-institute/",
+    "applyUrl": "https://www.cpet.ufl.edu/students/summer-programs/florida-youth-institute/",
+    "dateAdded": "2026-08-10"
+  }
 ]
