@@ -9947,4 +9947,198 @@
     "applyUrl": "https://www.ashoka.edu.in/academic-programme/young-scholars-programme-tech-data-computer-science/",
     "dateAdded": "2026-08-11"
   }
+  ,
+  {
+    "id": 295,
+    "name": "RISE — Research Internship for School Students",
+    "title": "Paid Faculty-Mentored School Research Internship",
+    "university": "Indian Institute of Technology Kharagpur",
+    "state": "West Bengal, India",
+    "department": "IIT Kharagpur",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "artificial intelligence",
+      "AI",
+      "physics",
+      "biology",
+      "engineering",
+      "STEM research",
+      "faculty mentorship",
+      "independent research",
+      "residential research",
+      "Kharagpur",
+      "West Bengal",
+      "India"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "RISE is designed for eligible school students who have completed Class X or XI and are selected through a nationwide competitive process. The 2026 program runs for six full-time residential weeks, with students working on real, open-ended research problems under IIT Kharagpur faculty mentorship. Participants receive a ₹5,000 stipend, housing, and meals. Students should verify current dates and application requirements for future cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional school-level research opportunity because students spend six weeks conducting real, open-ended research under IIT faculty mentorship and complete a formal research project, report, and presentation.",
+    "summary": "IIT Kharagpur's RISE program gives selected school students a six-week residential research internship focused on authentic, open-ended scientific and engineering problems. Students work under faculty mentorship, conduct experiments or other research, prepare a final report, and present their findings, with exceptional projects potentially progressing toward competitions or intellectual-property development.",
+    "email": "",
+    "labUrl": "https://kriti.iitkgp.ac.in/programs/rise",
+    "applyUrl": "https://kriti.iitkgp.ac.in/programs/rise",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 296,
+    "name": "INSPIRE Internship Science Camps",
+    "title": "Government-Funded Scientific Research Exposure Program",
+    "university": "Department of Science and Technology, Government of India",
+    "state": "India",
+    "department": "INSPIRE — Innovation in Science Pursuit for Inspired Research",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "physics",
+      "chemistry",
+      "biology",
+      "earth science",
+      "mathematics",
+      "scientific research",
+      "R&D",
+      "research exposure",
+      "Class XI",
+      "Government of India",
+      "India"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "INSPIRE Internship Science Camps are designed for eligible high-performing Class X board students who continue into science in Class XI and meet current academic thresholds. Camps are hosted by participating universities, colleges, and research institutions across India. Students should verify current eligibility thresholds, participating institutions, and camp schedules through official Department of Science and Technology information.",
+    "resumeRating": 4,
+    "ratingNote": "A prestigious national research-exposure initiative that connects talented secondary students with scientists, research institutions, scientific experiments, and R&D environments. It is exposure-focused rather than an independent faculty research internship.",
+    "summary": "The Government of India's INSPIRE Internship initiative exposes high-performing school students to modern scientific research and research-and-development environments. Participating camps are hosted by universities and research institutions and include interaction with leading scientists, scientific inquiry, experiments, and exploration of fields including physics, chemistry, biology, Earth science, and mathematics.",
+    "email": "",
+    "labUrl": "https://dst.gov.in/inspire-scheme-innovation-science-pursuit-inspired-research",
+    "applyUrl": "https://dst.gov.in/inspire-scheme-innovation-science-pursuit-inspired-research",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 297,
+    "name": "Research Readiness Program (RRP)",
+    "title": "IIT-Mentored Research Project Program",
+    "university": "Indian Institute of Technology Jammu",
+    "state": "Jammu and Kashmir, India",
+    "department": "IIT Jammu Summer School",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "research methods",
+      "artificial intelligence",
+      "AI",
+      "data analysis",
+      "science",
+      "social science",
+      "technology",
+      "research questions",
+      "project-based research",
+      "Jammu",
+      "India"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Exposure",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The Research Readiness Program is designed for students in Classes 8 through 12. The 2026 program runs for approximately six days and includes IIT-mentored research activities, project resources, accommodation, and meals. The listed 2026 fee is ₹11,799. Students should verify current dates, pricing, and eligibility for future sessions.",
+    "resumeRating": 3,
+    "ratingNote": "A legitimate research-preparation program where school students learn how to formulate research questions, collect and analyze information, draw conclusions, and present findings. It is substantially shorter and less intensive than a faculty-lab internship.",
+    "summary": "IIT Jammu's Research Readiness Program introduces school students to the research process through project-based learning and mentorship. Participants learn how to formulate research questions, collect information, analyze data, interpret results, and communicate their findings while receiving support and research resources from IIT mentors.",
+    "email": "",
+    "labUrl": "https://summerschool.iitjammu.ac.in/school-programs/school-offline-rrp/",
+    "applyUrl": "https://summerschool.iitjammu.ac.in/school-programs/school-offline-rrp/",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 298,
+    "name": "Frontiers of Science",
+    "title": "School Student Research Institute Science Exposure Program",
+    "university": "Tata Institute of Fundamental Research",
+    "state": "Maharashtra, India",
+    "department": "TIFR Outreach",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "physics",
+      "biology",
+      "chemistry",
+      "mathematics",
+      "basic science",
+      "research laboratories",
+      "scientific research",
+      "research exposure",
+      "Classes IX-X",
+      "Mumbai",
+      "Maharashtra",
+      "India"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure"
+    ],
+    "applicationType": "School-Based Placement",
+    "applicationWindow": "Frontiers of Science is designed for Class IX and X students participating through eligible schools. Schools apply to participate and may send groups of students to TIFR. The program provides exposure to modern scientific research through lectures, demonstrations, and visits to research laboratories. Students should verify the current schedule and participating-school application process.",
+    "resumeRating": 2,
+    "ratingNote": "A legitimate opportunity for younger students to experience a major Indian research institute and observe modern scientific research, but it is a short research-exposure program rather than an internship or independent project.",
+    "summary": "TIFR's Frontiers of Science introduces Class IX and X students to contemporary scientific research through lectures, demonstrations, and research-laboratory visits. Participating students explore areas such as physics, biology, chemistry, and mathematics while gaining firsthand exposure to the environment of a major fundamental-research institute.",
+    "email": "",
+    "labUrl": "https://main.tifr.res.in/~outreach/fos/index.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 299,
+    "name": "PRISM — Promise in Science and Mathematics",
+    "title": "Hands-On Science and Mathematics Research Exposure",
+    "university": "International Centre for Theoretical Sciences, TIFR",
+    "state": "Karnataka, India",
+    "department": "ICTS Outreach",
+    "field": "Physics",
+    "tags": [
+      "physics",
+      "mathematics",
+      "experimental science",
+      "theoretical science",
+      "science experiments",
+      "mathematics experiments",
+      "research exposure",
+      "school students",
+      "Bengaluru",
+      "Karnataka",
+      "India"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "PRISM offers science and mathematics workshops for school students, with eligibility varying by the individual workshop. The program remained active in 2026, including hands-on experimental workshops. Students should check ICTS for upcoming PRISM workshops, grade eligibility, application procedures, and schedules.",
+    "resumeRating": 2,
+    "ratingNote": "A legitimate hands-on scientific experience through a major theoretical-science research institute, although it is designed primarily for scientific exposure and experimentation rather than independent research.",
+    "summary": "ICTS-TIFR's Promise in Science and Mathematics program gives school students hands-on experience with scientific and mathematical ideas through experiments and research-oriented workshops. Topics vary by session and can include areas of physics, mathematics, experimental science, and theoretical science.",
+    "email": "",
+    "labUrl": "https://www.icts.res.in/outreach/prism",
+    "applyUrl": "https://www.icts.res.in/outreach/prism",
+    "dateAdded": "2026-08-11"
+  }
 ]
