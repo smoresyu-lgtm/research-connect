@@ -8425,4 +8425,185 @@
     "applyUrl": "https://meded.georgetown.edu/diversityequityandinclusion/high-school-summer-internships/gep/",
     "dateAdded": "2026-08-10"
   }
+  ,
+  {
+    "id": 255,
+    "name": "Linnstaedt Lab",
+    "title": "Neuroscience and Chronic Pain Research Opportunity",
+    "university": "University of North Carolina at Chapel Hill",
+    "state": "North Carolina, USA",
+    "department": "School of Medicine / Department of Anesthesiology",
+    "field": "Neuroscience",
+    "tags": [
+      "neuroscience",
+      "genetics",
+      "chronic pain",
+      "computational biology",
+      "molecular biology",
+      "trauma research",
+      "biomedical research",
+      "North Carolina"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Direct Inquiry / Availability Dependent",
+    "applicationWindow": "The Linnstaedt Lab has documented prior high school research participation, including a high school research assistant mentored over multiple years. The lab does not advertise a standing high school application process, so prospective students should treat this as an availability-dependent inquiry and verify current mentorship capacity before reaching out.",
+    "resumeRating": 5,
+    "ratingNote": "A strong individual-lab pathway because the Linnstaedt Lab has documented sustained high school research participation in an active biomedical research environment. Current opportunities are not guaranteed and depend on faculty, mentor, and project availability.",
+    "summary": "The Linnstaedt Lab at UNC School of Medicine studies molecular and genetic mechanisms involved in trauma, chronic pain, and related neurological outcomes. The group has previously hosted a high school research assistant, making direct inquiry potentially worthwhile for students interested in neuroscience, genetics, molecular biology, and computational approaches to biomedical research.",
+    "email": "",
+    "labUrl": "https://www.med.unc.edu/anesthesiology/research/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 256,
+    "name": "Griffith Lab",
+    "title": "Computational Medicine and Cardiovascular Modeling Research Opportunity",
+    "university": "University of North Carolina at Chapel Hill",
+    "state": "North Carolina, USA",
+    "department": "Department of Mathematics / Computational Medicine",
+    "field": "Computational Biology",
+    "tags": [
+      "computational biology",
+      "applied mathematics",
+      "cardiovascular modeling",
+      "scientific computing",
+      "biomedical modeling",
+      "mathematical biology",
+      "simulation",
+      "North Carolina"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Direct Inquiry / Availability Dependent",
+    "applicationWindow": "Professor Boyce Griffith has previously mentored a high school student in summer research, providing evidence that high school participation has occurred in the research group. There is no standing high school application page, so any current placement would depend on faculty interest, project suitability, and mentorship availability.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually advanced computational research pathway because the group works at the intersection of applied mathematics, scientific computing, computational biology, and cardiovascular modeling. Prior high school mentorship is documented, although current openings are unconfirmed.",
+    "summary": "The Griffith research group at UNC works on computational and experimental modeling of cardiovascular systems using applied mathematics and scientific computing. Professor Boyce Griffith has previously mentored a high school researcher, making this a potential direct-inquiry pathway for students interested in mathematical biology, simulation, and computational medicine.",
+    "email": "",
+    "labUrl": "https://griffith.web.unc.edu/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 257,
+    "name": "UNC Faculty-Sponsored Unpaid Research Internship Pathway",
+    "title": "Individual Faculty-Sponsored High School Research Internship",
+    "university": "University of North Carolina at Chapel Hill",
+    "state": "North Carolina, USA",
+    "department": "Faculty Research Laboratories",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "faculty research",
+      "STEM",
+      "social science",
+      "biomedical research",
+      "research internship",
+      "faculty sponsorship",
+      "independent research",
+      "North Carolina"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Faculty Sponsorship / Direct Inquiry",
+    "applicationWindow": "UNC administrative materials recognize high school students as potential unpaid interns participating in experiential learning under university supervision. This is not a centralized high school research program. Students would need to identify an appropriate UNC faculty member or supervisor willing to support an individually arranged placement, subject to university requirements and approvals.",
+    "resumeRating": 5,
+    "ratingNote": "A valuable hidden pathway because UNC has an administrative framework that can support supervised high school internships. It provides institutional evidence that individually arranged research placements may be possible when a student secures an appropriate faculty sponsor.",
+    "summary": "UNC-Chapel Hill has an administrative pathway that can support high school students participating in supervised unpaid internships, including research-oriented experiences arranged with faculty or university supervisors. Students must independently identify a suitable mentor and secure sponsorship, making this a direct-inquiry pathway rather than a centralized application program.",
+    "email": "",
+    "labUrl": "",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 258,
+    "name": "Redinbo Lab",
+    "title": "Chemistry, Structural Biology and Microbiome Research Opportunity",
+    "university": "University of North Carolina at Chapel Hill",
+    "state": "North Carolina, USA",
+    "department": "Department of Chemistry / Biochemistry",
+    "field": "Chemistry",
+    "tags": [
+      "chemistry",
+      "biochemistry",
+      "structural biology",
+      "chemical biology",
+      "microbiome",
+      "molecular research",
+      "laboratory research",
+      "North Carolina"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Direct Inquiry / Availability Dependent",
+    "applicationWindow": "Professor Matthew Redinbo has documented prior mentorship of high school students, including summer research participation in his group. The available evidence is historical rather than a current recruitment announcement, so interested students should verify whether the lab currently has suitable projects and mentorship capacity before reaching out.",
+    "resumeRating": 5,
+    "ratingNote": "A strong individual chemistry and biochemistry lab pathway because the research group has previously hosted high school students in summer research. Current participation is not guaranteed and should be treated as availability dependent.",
+    "summary": "The Redinbo Lab at UNC conducts research spanning chemistry, biochemistry, structural biology, chemical biology, and the microbiome. Professor Matthew Redinbo has previously mentored high school researchers, making the lab a possible direct-inquiry option when suitable projects and mentor availability exist.",
+    "email": "",
+    "labUrl": "https://chem.unc.edu/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 259,
+    "name": "UNC Chemistry High School Research Mentorship Pathway",
+    "title": "Faculty-Supervised High School Chemistry Research",
+    "university": "University of North Carolina at Chapel Hill",
+    "state": "North Carolina, USA",
+    "department": "Department of Chemistry",
+    "field": "Chemistry",
+    "tags": [
+      "chemistry",
+      "analytical chemistry",
+      "materials science",
+      "experimental science",
+      "laboratory research",
+      "faculty mentorship",
+      "independent research",
+      "North Carolina"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Faculty-Supervised Placement",
+    "applicationWindow": "UNC Chemistry has documented faculty mentorship of local high school students who developed and carried out research projects using university equipment, chemicals, and scientific guidance. The evidence is historical rather than a current centralized application program, so participation should be considered faculty- and availability-dependent.",
+    "resumeRating": 4,
+    "ratingNote": "A meaningful chemistry research pathway because high school students have previously developed and carried out their own projects with UNC faculty support and access to university research resources. Current opportunities depend on faculty willingness and project availability.",
+    "summary": "UNC Chemistry has previously supported local high school students in faculty-supervised research projects involving experimental design, laboratory work, scientific discussion, and access to university equipment and materials. This pathway is best treated as an individual faculty-contact opportunity rather than a currently open structured program.",
+    "email": "",
+    "labUrl": "https://chem.unc.edu/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  }
 ]
