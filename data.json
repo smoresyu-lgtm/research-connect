@@ -8979,4 +8979,195 @@
     "applyUrl": "https://dornsife.usc.edu/cmbs/education-and-training/summer-research-program/",
     "dateAdded": "2026-08-10"
   }
+  ,
+  {
+    "id": 270,
+    "name": "Komor Lab",
+    "title": "High School Genome Editing Research Internship",
+    "university": "University of California, San Diego",
+    "state": "California, USA",
+    "department": "Department of Chemistry and Biochemistry",
+    "field": "Molecular Biology",
+    "tags": [
+      "genome editing",
+      "CRISPR",
+      "chemical biology",
+      "molecular biology",
+      "genetics",
+      "biochemistry",
+      "laboratory research",
+      "biomedical research",
+      "San Diego",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Assistant",
+      "Research Project"
+    ],
+    "applicationType": "Direct Lab Application",
+    "applicationWindow": "The Komor Lab explicitly provides a dedicated application pathway for high school students seeking research internships. Interested students should use the high school internship application linked on the lab's Join page and verify current availability before applying.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional individual-lab opportunity because the Komor Lab directly invites high school internship applications rather than merely documenting past high school researchers. The lab conducts advanced genome-editing and chemical-biology research.",
+    "summary": "The Komor Lab at UC San Diego develops and studies genome-editing technologies at the intersection of chemistry, biology, and genetics. High school students have a dedicated internship application pathway, making this a rare opportunity to directly seek research experience in an individual university laboratory working on CRISPR and related genome-engineering technologies.",
+    "email": "",
+    "labUrl": "https://komorlab.ucsd.edu/",
+    "applyUrl": "https://komorlab.ucsd.edu/join.html",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 271,
+    "name": "Cardiovascular Institute Summer Research Program",
+    "title": "High School Cardiovascular Research Internship",
+    "university": "University of California, San Diego",
+    "state": "California, USA",
+    "department": "Cardiovascular Institute",
+    "field": "Biomedical Science",
+    "tags": [
+      "cardiovascular science",
+      "cardiology",
+      "clinical research",
+      "medicine",
+      "cardiomyopathy",
+      "biomedical science",
+      "medical research",
+      "clinical shadowing",
+      "San Diego",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The 2026 application deadline was March 31. Rising high school juniors and seniors age 16 or older are eligible for the eight-week summer program. High school participants receive a $2,500 stipend. Students should check the Cardiovascular Institute website for the next application cycle.",
+    "resumeRating": 5,
+    "ratingNote": "A highly substantial paid biomedical research experience combining eight weeks of research, mentorship from UC San Diego clinician-scientists, research training, lectures, and exposure to clinical medicine.",
+    "summary": "UC San Diego's Cardiovascular Institute Summer Research Program provides rising high school juniors and seniors with an eight-week research experience in cardiovascular science. Participants receive mentorship from clinician-scientists, research training, lectures, clinical exposure, and a $2,500 stipend.",
+    "email": "",
+    "labUrl": "https://cardiology.ucsd.edu/research/summer-research-program/index.html",
+    "applyUrl": "https://cardiology.ucsd.edu/research/summer-research-program/index.html",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 272,
+    "name": "Research Immersion in Materials Science and Engineering (RIMSE)",
+    "title": "High School Materials Science Research Program",
+    "university": "University of California, San Diego",
+    "state": "California, USA",
+    "department": "Materials Research Science and Engineering Center",
+    "field": "Materials Science",
+    "tags": [
+      "materials science",
+      "materials engineering",
+      "chemistry",
+      "nanotechnology",
+      "physics",
+      "engineering",
+      "independent research",
+      "faculty mentorship",
+      "San Diego",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Faculty Sponsorship / Direct Inquiry",
+    "applicationWindow": "Local high school students interested in RIMSE must contact an eligible UC San Diego MRSEC faculty researcher before applying, establish mutual research interests, secure a mentor, and develop a proposed Discovery research project. The 2026 high school application deadline was March 15. MRSEC funding is not available for high school participants.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually strong pathway because students proactively connect with a UC San Diego faculty researcher and develop an independent materials-science research project under mentorship over approximately eight to ten weeks.",
+    "summary": "RIMSE allows a select number of local high school students to conduct materials-science and engineering research with UC San Diego MRSEC faculty. Students first identify and contact a potential faculty mentor, establish shared research interests, and formulate an independent Discovery project before applying to the program.",
+    "email": "",
+    "labUrl": "https://mrsec.ucsd.edu/rimse/",
+    "applyUrl": "https://mrsec.ucsd.edu/rimse/",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 273,
+    "name": "BE-SHIP",
+    "title": "Bioengineering Scholar High School Internship Project",
+    "university": "University of California, San Diego",
+    "state": "California, USA",
+    "department": "Bioengineering Research Scholars",
+    "field": "Bioengineering",
+    "tags": [
+      "bioengineering",
+      "bioimaging",
+      "tissue engineering",
+      "biomechanics",
+      "biomedical research",
+      "laboratory research",
+      "independent research",
+      "scientific presentation",
+      "San Diego",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Students progress through required Bioengineering Research Scholars preparation before undertaking BE-SHIP research. The pathway allows advanced students to develop an individual bioengineering research project in collaboration with a university laboratory and may lead to an on-site summer internship. Fall 2026 BERP-A is listed for grades 9-12 with a September 18 application deadline.",
+    "resumeRating": 5,
+    "ratingNote": "A substantial research pathway because students can independently propose, execute, analyze, and present a bioengineering project in collaboration with a university research laboratory, with advanced work potentially developing toward abstracts, science fairs, or manuscripts.",
+    "summary": "BE-SHIP gives prepared high school students the opportunity to develop and carry out individual bioengineering research projects in collaboration with university laboratories. Projects may involve areas such as bioimaging, tissue engineering, biomechanics, and biomedical engineering, with students progressing through experimental work, analysis, and scientific presentation.",
+    "email": "",
+    "labUrl": "https://researchscholars.ucsd.edu/currentprograms/bioengineering/beship-courses-drawer.html",
+    "applyUrl": "https://researchscholars.ucsd.edu/currentprograms/bioengineering/beship-courses-drawer.html",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 274,
+    "name": "OPALS High School Internship",
+    "title": "Engineering in Medicine Research Internship",
+    "university": "University of California, San Diego",
+    "state": "California, USA",
+    "department": "Institute of Engineering in Medicine",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "biomedical engineering",
+      "artificial intelligence",
+      "AI",
+      "medicine",
+      "data science",
+      "medical technology",
+      "scientific data",
+      "engineering research",
+      "San Diego",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Applications for the Spring 2027 OPALS High School Internship are scheduled to open September 27, 2026. Students should verify the final application deadline and eligibility requirements through UC San Diego's Institute of Engineering in Medicine.",
+    "resumeRating": 5,
+    "ratingNote": "A strong interdisciplinary research internship combining engineering, medicine, artificial intelligence, and data science. Students contribute to research activities and conclude their experience with a scientific presentation or poster.",
+    "summary": "The OPALS High School Internship at UC San Diego's Institute of Engineering in Medicine places students alongside researchers, graduate students, and industry collaborators working on interdisciplinary projects involving engineering, medicine, AI, and data science. Students work with scientific data, evaluate experimental results, contribute to ongoing research efforts, and finish with a research presentation or poster.",
+    "email": "",
+    "labUrl": "https://iem.ucsd.edu/programs/opals/index.html",
+    "applyUrl": "https://iem.ucsd.edu/programs/opals/index.html",
+    "dateAdded": "2026-08-10"
+  }
 ]
