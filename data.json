@@ -10651,4 +10651,189 @@
     "applyUrl": "https://vcee.org/programs/the-stock-market-game/",
     "dateAdded": "2026-08-11"
   }
+  ,
+  {
+    "id": 313,
+    "name": "National High School Fed Challenge",
+    "title": "High School Economics Research and Publication Competition",
+    "university": "Federal Reserve Board",
+    "state": "United States",
+    "department": "Federal Reserve Education",
+    "field": "Economics",
+    "tags": [
+      "economics",
+      "macroeconomics",
+      "monetary policy",
+      "economic research",
+      "data analysis",
+      "research paper",
+      "economic policy",
+      "Federal Reserve",
+      "publication",
+      "national competition"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Competition"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The National High School Fed Challenge is open to students in grades 9–12 participating in teams of three to eight students with an adult advisor. Teams conduct economics research around the Federal Reserve's annual competition theme and submit a research paper supported by economic evidence and data. Selected papers may be published in the Federal Reserve's Journal of Future Economists. Students should verify current themes, deadlines, and submission requirements for each competition cycle.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional high school economics opportunity because students conduct substantive economic research, analyze evidence and data, and produce a formal research paper. Selected work may also be published in the Federal Reserve's Journal of Future Economists.",
+    "summary": "The National High School Fed Challenge gives students the opportunity to conduct academic economics research on an annual theme selected by the Federal Reserve. Teams analyze economic evidence and data and produce a formal research paper, with selected submissions eligible for publication in the Journal of Future Economists.",
+    "email": "",
+    "labUrl": "https://www.federalreserve.gov/aboutthefed/educational-tools/national-high-school-fed-challenge.htm",
+    "applyUrl": "https://www.federalreserve.gov/aboutthefed/educational-tools/national-high-school-fed-challenge.htm",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 314,
+    "name": "UCLA Precollege Summer Focus — Principles of Economics",
+    "title": "College-Credit High School Economics and Data Analysis Program",
+    "university": "University of California, Los Angeles",
+    "state": "California, USA",
+    "department": "Department of Economics",
+    "field": "Economics",
+    "tags": [
+      "economics",
+      "microeconomics",
+      "macroeconomics",
+      "economic policy",
+      "data analysis",
+      "economic analysis",
+      "college credit",
+      "precollege",
+      "Los Angeles",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "UCLA's Precollege Summer Economics programming is designed for qualified high school students and includes university-level economics coursework for UCLA credit. Students study foundations of economic analysis while developing skills related to economic policy and data analysis. Applicants should verify current GPA, age, tuition, course availability, and application requirements through UCLA Economics.",
+    "resumeRating": 3,
+    "ratingNote": "A rigorous university-level economics experience where high school students develop economic analysis and data skills while earning UCLA credit. It is academic and research exposure rather than independent economics research.",
+    "summary": "UCLA's Precollege Summer Economics program allows qualified high school students to study university-level economics and earn UCLA credit. Students develop foundations in economic analysis while exploring microeconomics, macroeconomics, economic policy, and the use of data in understanding economic questions.",
+    "email": "",
+    "labUrl": "https://economics.ucla.edu/summer/precollege/overview",
+    "applyUrl": "https://economics.ucla.edu/summer/precollege/overview",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 315,
+    "name": "Introduction to Chicago Economics — Macroeconomic Analysis",
+    "title": "Data-Driven High School Economics Program",
+    "university": "University of Chicago",
+    "state": "International / Hong Kong",
+    "department": "University of Chicago Hong Kong",
+    "field": "Economics",
+    "tags": [
+      "economics",
+      "macroeconomics",
+      "economic data",
+      "monetary policy",
+      "fiscal policy",
+      "international trade",
+      "GDP",
+      "inflation",
+      "economic analysis",
+      "Hong Kong"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Introduction to Chicago Economics is designed for eligible rising high school seniors. The Macroeconomic Analysis curriculum teaches students to develop economic theories about real-world events and evaluate them using economic data such as GDP, inflation, industrial production, and financial-market measures. Students should verify current program dates, tuition, location, and application requirements through the University of Chicago.",
+    "resumeRating": 3,
+    "ratingNote": "A rigorous economics program emphasizing empirical reasoning and the use of real economic data. Students learn methods resembling economic research, although the experience is structured academic study rather than independent research.",
+    "summary": "The University of Chicago's Macroeconomic Analysis program introduces high school students to economics as an empirical social science. Students develop explanations for real-world economic events and evaluate them using macroeconomic data while studying monetary policy, fiscal policy, international trade, GDP, inflation, and other major economic indicators.",
+    "email": "",
+    "labUrl": "https://uchicago.hk/programs/econ2026",
+    "applyUrl": "https://uchicago.hk/programs/econ2026",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 316,
+    "name": "Economics Policy Academy",
+    "title": "High School Economics and Public Policy Program",
+    "university": "Georgetown University",
+    "state": "Washington, DC, USA",
+    "department": "Georgetown University Summer Programs",
+    "field": "Economics",
+    "tags": [
+      "economics",
+      "public policy",
+      "behavioral economics",
+      "development economics",
+      "international trade",
+      "inequality",
+      "poverty",
+      "monetary policy",
+      "fiscal policy",
+      "Washington DC"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Georgetown's Economics Policy Academy is a three-week high school summer program examining microeconomics and major economic-policy issues including poverty, inequality, development economics, behavioral economics, fiscal and monetary policy, international trade, foreign aid, and conflict. The 2026 listed tuition is $7,085 for commuters and $9,085 for residential students including meals. Students should verify current dates, tuition, and application requirements.",
+    "resumeRating": 3,
+    "ratingNote": "A substantial economics and public-policy academic experience where students apply economic concepts to real-world policy issues. It provides economics exposure and analytical experience rather than independent research.",
+    "summary": "Georgetown University's Economics Policy Academy gives high school students an intensive introduction to economic theory and its application to major policy questions. Topics include microeconomics, poverty and inequality, development economics, behavioral economics, fiscal and monetary policy, international trade, foreign aid, and the economics of conflict.",
+    "email": "",
+    "labUrl": "https://summer.georgetown.edu/programs/SHS08/economics-policy-academy/",
+    "applyUrl": "https://summer.georgetown.edu/programs/SHS08/economics-policy-academy/",
+    "dateAdded": "2026-08-11"
+  },
+  {
+    "id": 317,
+    "name": "Precollege Summer Economics Program",
+    "title": "High School Economics and Quantitative Policy Analysis Program",
+    "university": "Bryant University",
+    "state": "Rhode Island, USA",
+    "department": "Department of Economics",
+    "field": "Economics",
+    "tags": [
+      "economics",
+      "social issues",
+      "public policy",
+      "data analysis",
+      "quantitative analysis",
+      "economic policy",
+      "economic research",
+      "Smithfield",
+      "Rhode Island"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Bryant University's Precollege Summer Economics Program is designed for high school students interested in economics and policy analysis. The 2026 program runs August 3–7 and focuses on the Economics of Social Issues. Students develop economics and data-analysis skills while examining current policy questions with Bryant economics faculty. The listed program cost is $600. Students should verify future dates, costs, and application requirements.",
+    "resumeRating": 3,
+    "ratingNote": "A focused economics program that develops economic reasoning and data-analysis skills through examination of real social and policy issues. It is research and academic exposure rather than an independent research internship.",
+    "summary": "Bryant University's Precollege Summer Economics Program introduces high school students to economics through the analysis of contemporary social and policy issues. Participants develop economics and data-analysis skills while working with Bryant economics faculty and applying quantitative reasoning to real-world questions.",
+    "email": "",
+    "labUrl": "https://www.bryanteconsummerprogram.com/",
+    "applyUrl": "https://www.bryanteconsummerprogram.com/",
+    "dateAdded": "2026-08-11"
+  }
 ]
