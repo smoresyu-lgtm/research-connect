@@ -8606,4 +8606,185 @@
     "applyUrl": "",
     "dateAdded": "2026-08-10"
   }
+  ,
+  {
+    "id": 260,
+    "name": "Jomaa Lab",
+    "title": "Cell Biology and Structural Biology Research Opportunity",
+    "university": "University of Virginia",
+    "state": "Virginia, USA",
+    "department": "School of Medicine / Department of Molecular Physiology and Biological Physics",
+    "field": "Cell Biology",
+    "tags": [
+      "cell biology",
+      "molecular biology",
+      "structural biology",
+      "mitochondria",
+      "protein targeting",
+      "biomedical research",
+      "laboratory research",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Direct Inquiry / Availability Dependent",
+    "applicationWindow": "The Jomaa Lab has documented Grade 10 high school interns in both 2024 and 2025. The lab does not advertise a standing high school application process, so prospective students should treat this as an availability-dependent opportunity and verify current mentorship capacity before reaching out.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional individual-lab pathway because the Jomaa Lab has hosted high school interns in consecutive recent years. Students may gain exposure to advanced cell and structural biology research, although current positions are not guaranteed.",
+    "summary": "The Jomaa Lab at the University of Virginia School of Medicine studies cellular mechanisms involved in protein targeting to the endoplasmic reticulum and mitochondria, as well as cellular dormancy in health and disease. The lab has hosted Grade 10 high school interns in both 2024 and 2025, providing unusually recent evidence that high school participation is possible.",
+    "email": "",
+    "labUrl": "https://med.virginia.edu/jomaa-lab/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 261,
+    "name": "Summer Opportunities in Academic Research (SOAR)",
+    "title": "High School Biomedical Research Program",
+    "university": "University of Virginia",
+    "state": "Virginia, USA",
+    "department": "School of Medicine / iTHRIV",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomedical science",
+      "medicine",
+      "cancer research",
+      "neuroscience",
+      "data science",
+      "translational research",
+      "laboratory research",
+      "Charlottesville",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "SOAR has operated as an eight-week research experience for Charlottesville-area high school students, pairing participants with UVA research mentors and providing exposure to biomedical laboratory research. Current-cycle availability should be verified because the latest detailed UVA program documentation is historical rather than a confirmed 2026 application announcement.",
+    "resumeRating": 5,
+    "ratingNote": "A substantial structured biomedical research experience involving direct mentorship and exposure to active UVA research laboratories. Current program availability should be confirmed before applying.",
+    "summary": "Summer Opportunities in Academic Research introduces Charlottesville-area high school students to biomedical and translational research at UVA. Participants are paired with research mentors and gain direct experience with university research, including laboratory-based projects in areas such as cancer and biomedical science.",
+    "email": "",
+    "labUrl": "",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 262,
+    "name": "Charlottesville City of Promise × UVA Chemical Engineering Research Experience",
+    "title": "High School Chemical Engineering Research Experience",
+    "university": "University of Virginia",
+    "state": "Virginia, USA",
+    "department": "Department of Chemical Engineering",
+    "field": "Chemical Engineering",
+    "tags": [
+      "chemical engineering",
+      "materials science",
+      "engineering",
+      "laboratory research",
+      "community research",
+      "graduate mentorship",
+      "Charlottesville",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Community-Based Research Program",
+    "applicationWindow": "This partnership has provided local Charlottesville high school students with a four-week research experience in UVA Chemical Engineering laboratories through City of Promise. The documented cohort received $1,000 stipends. Because the available official documentation describes an earlier cohort, students should verify whether the partnership is currently offering placements.",
+    "resumeRating": 5,
+    "ratingNote": "A strong community-based university research experience involving active UVA laboratories, graduate-student mentorship, and compensated participation. Current availability depends on continuation of the City of Promise partnership.",
+    "summary": "Through a partnership between Charlottesville City of Promise and UVA Chemical Engineering, local high school students have spent four weeks working in university laboratories on active research with graduate-student mentors and faculty support. The documented program provided students with $1,000 stipends for their participation.",
+    "email": "",
+    "labUrl": "https://engineering.virginia.edu/departments/chemical-engineering",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 263,
+    "name": "Link Lab — Charlottesville High School Mentorship Program",
+    "title": "Engineering Research and Project Mentorship Program",
+    "university": "University of Virginia",
+    "state": "Virginia, USA",
+    "department": "Link Lab / School of Engineering and Applied Science",
+    "field": "Engineering",
+    "tags": [
+      "engineering",
+      "robotics",
+      "cyber-physical systems",
+      "technology",
+      "project design",
+      "engineering mentorship",
+      "Charlottesville High School",
+      "Charlottesville",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Mentorship",
+      "Research Project"
+    ],
+    "applicationType": "School-Based Placement",
+    "applicationWindow": "Participation is through the Charlottesville High School Engineering program rather than a general public application. During the 2025-26 program, Link Lab mentors worked with CHS students on semester-long engineering projects and provided technical guidance, project-management support, and exposure to UVA Engineering research spaces.",
+    "resumeRating": 4,
+    "ratingNote": "A meaningful long-term engineering mentorship experience with UVA researchers and access to the university's engineering environment. It is more project- and design-focused than an independent faculty research internship.",
+    "summary": "The UVA Link Lab partners with Charlottesville High School to mentor students through semester-long engineering projects. Students receive technical and project-development guidance from UVA mentors while gaining exposure to engineering laboratories, research spaces, robotics, cyber-physical systems, and university-level engineering work.",
+    "email": "",
+    "labUrl": "https://engineering.virginia.edu/labs-groups/link-lab",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  },
+  {
+    "id": 264,
+    "name": "Emerging Engineers",
+    "title": "UVA Engineering High School Summer Program",
+    "university": "University of Virginia",
+    "state": "Virginia, USA",
+    "department": "School of Engineering and Applied Science",
+    "field": "Engineering",
+    "tags": [
+      "engineering",
+      "biomedical engineering",
+      "materials science",
+      "STEM",
+      "laboratory exposure",
+      "engineering research",
+      "Charlottesville",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The 2026 Emerging Engineers program runs July 27-31 and is open to rising students in grades 9-12. The program is free and includes hands-on engineering activities, laboratory exposure, interaction with UVA researchers, and specialized tracks including Biomedical Engineering and Materials Science & Engineering.",
+    "resumeRating": 3,
+    "ratingNote": "A useful free introduction to university engineering and research environments, particularly for younger high school students. It provides hands-on activities and research exposure but is not equivalent to an independent laboratory research internship.",
+    "summary": "Emerging Engineers is a free UVA summer program for rising high school students interested in engineering. Participants complete hands-on activities, interact with UVA researchers, visit university research environments, and explore specialized areas including biomedical engineering and materials science and engineering.",
+    "email": "",
+    "labUrl": "https://engineering.virginia.edu/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-10"
+  }
 ]
