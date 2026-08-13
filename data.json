@@ -11204,4 +11204,193 @@
     "applyUrl": "",
     "dateAdded": "2026-08-13"
   }
+  ,
+  {
+    "id": 335,
+    "name": "Virtual Math Research Circle (VMRC)",
+    "title": "Remote High School Mathematics Research Program",
+    "university": "Louisiana State University",
+    "state": "Louisiana, USA",
+    "department": "Department of Mathematics",
+    "field": "Mathematics",
+    "tags": [
+      "mathematics",
+      "pure mathematics",
+      "combinatorics",
+      "graph theory",
+      "mathematical modeling",
+      "proof writing",
+      "LaTeX",
+      "remote research",
+      "research mentorship",
+      "Louisiana"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Remote Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "LSU's Virtual Math Research Circle serves high school students in grades 9–12 and offers remote mathematics research experiences during multiple cycles, including spring, summer, and fall. Students work in small teams with university mentors to formulate conjectures, develop proofs, write mathematics using LaTeX, and present their findings. Summer 2026 tuition was listed at $1,200 per session. Students should verify current project topics, dates, tuition, and application requirements for future cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional mathematics opportunity because students participate in authentic research rather than standard coursework, developing conjectures and proofs and working toward potentially publishable mathematical results.",
+    "summary": "Louisiana State University's Virtual Math Research Circle connects high school students with university mentors for authentic mathematics research. Small teams investigate open-ended problems in areas such as combinatorics, graph theory, pure mathematics, and mathematical modeling while developing proofs, writing in LaTeX, and presenting their results in research-style talks.",
+    "email": "",
+    "labUrl": "https://www.math.lsu.edu/mathcircle/2026-summer",
+    "applyUrl": "https://www.math.lsu.edu/mathcircle/2026-summer",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 336,
+    "name": "PReMa — Program for Research in Mathematics",
+    "title": "Faculty-Mentored High School Mathematics Research Program",
+    "university": "Texas A&M University",
+    "state": "Texas, USA",
+    "department": "Department of Mathematics",
+    "field": "Mathematics",
+    "tags": [
+      "mathematics",
+      "pure mathematics",
+      "applied mathematics",
+      "mathematical research",
+      "faculty mentorship",
+      "proofs",
+      "independent research",
+      "research project",
+      "College Station",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "PReMa is designed for talented high school students interested in conducting mathematics research. Participants complete individual or group research projects under academic mentors associated with the Texas A&M Department of Mathematics and experience multiple stages of the mathematical research process. Students should verify current application dates, eligibility requirements, mentor availability, and program format before applying.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly strong mathematics opportunity because students conduct genuine individual or group research under academic mentorship rather than simply taking advanced mathematics courses.",
+    "summary": "Texas A&M University's Program for Research in Mathematics gives high school students the opportunity to investigate mathematical questions under the guidance of academic mentors. Students complete individual or collaborative research projects in pure or applied mathematics and gain experience with the process of developing, investigating, and communicating mathematical ideas.",
+    "email": "",
+    "labUrl": "https://sites.google.com/tamu.edu/suprema/home",
+    "applyUrl": "https://sites.google.com/tamu.edu/suprema/home",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 337,
+    "name": "Math Mentorship",
+    "title": "High School Mathematics Research Mentorship Program",
+    "university": "University of Toronto",
+    "state": "Ontario, Canada",
+    "department": "Department of Mathematics",
+    "field": "Mathematics",
+    "tags": [
+      "mathematics",
+      "pure mathematics",
+      "applied mathematics",
+      "mathematical research",
+      "faculty mentorship",
+      "graduate student mentorship",
+      "research presentation",
+      "international",
+      "Toronto",
+      "Canada"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The University of Toronto Math Mentorship program competitively selects high school students for mathematics research projects conducted with graduate students, postdoctoral researchers, and faculty. The 2026 program ran from January through May and cost C$325 plus tax. Students work on projects aligned with their mathematical interests and present their results at the end of the program. Strong projects may produce novel results or perspectives and may be selected for additional presentation opportunities. Students should verify current dates, fees, and eligibility for future cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional mathematics research opportunity because students work directly with graduate students, postdoctoral researchers, and faculty on projects capable of producing novel mathematical results or perspectives.",
+    "summary": "The University of Toronto's Math Mentorship program pairs high school students with mathematicians to complete sustained research projects in pure or applied mathematics. Participants work with graduate students, postdocs, and faculty, develop mathematical results, and present their projects at the conclusion of the mentorship.",
+    "email": "",
+    "labUrl": "https://www.mathematics.utoronto.ca/outreach/current-programs/grades-1-12-programs/math-mentorship",
+    "applyUrl": "https://www.mathematics.utoronto.ca/outreach/current-programs/grades-1-12-programs/math-mentorship",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 338,
+    "name": "High School Mathematics Research Enrichment Program",
+    "title": "High School Mathematics Research and Modeling Program",
+    "university": "New York Institute of Technology",
+    "state": "New York, USA",
+    "department": "Department of Mathematics",
+    "field": "Mathematics",
+    "tags": [
+      "mathematics",
+      "mathematical modeling",
+      "applied mathematics",
+      "research methods",
+      "proofs",
+      "problem solving",
+      "mathematics research",
+      "Long Island",
+      "New York City",
+      "New York"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Research Exposure"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "New York Tech's High School Mathematics Research Enrichment Program is designed for eligible students entering grades 10–12 from Long Island and New York City-area high schools. Applicants are expected to have completed precalculus or a more advanced mathematics course. The 2026 application included a personal statement, transcript, and teacher recommendation. Enrollment is limited to support personalized mentorship. Students should verify current dates and eligibility before applying.",
+    "resumeRating": 4,
+    "ratingNote": "A strong mathematics-specific enrichment and research experience with limited enrollment and personalized mentorship. It provides substantially more research focus than a typical pre-college mathematics course.",
+    "summary": "New York Institute of Technology's High School Mathematics Research Enrichment Program gives advanced high school students experience with mathematical research, modeling, and research methods. Participants work in a small cohort with individualized support while developing mathematical problem-solving and research skills.",
+    "email": "",
+    "labUrl": "https://www.nyit.edu/academics/arts-and-sciences/mathematics/high-school-mathematics-research-enrichment-program/",
+    "applyUrl": "https://www.nyit.edu/academics/arts-and-sciences/mathematics/high-school-mathematics-research-enrichment-program/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 339,
+    "name": "Young Scholars Program in Discrete Mathematics",
+    "title": "High School Discrete Mathematics Intensive",
+    "university": "Rutgers University",
+    "state": "New Jersey, USA",
+    "department": "Department of Mathematics",
+    "field": "Mathematics",
+    "tags": [
+      "mathematics",
+      "discrete mathematics",
+      "combinatorics",
+      "graph theory",
+      "algorithms",
+      "mathematical problem solving",
+      "proofs",
+      "research preparation",
+      "New Brunswick",
+      "New Jersey"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Rutgers University's Young Scholars Program in Discrete Mathematics serves mathematically talented high school students through an intensive summer program. The 2026 session ran from July 6 through July 31. Students study advanced topics in discrete mathematics, solve challenging problems, and interact with professional mathematicians. The experience is more focused on advanced mathematical training and research preparation than on completing an original independent research project.",
+    "resumeRating": 4,
+    "ratingNote": "A rigorous mathematics program offering substantial exposure to discrete mathematics, combinatorics, graph theory, algorithms, and mathematical problem solving. It is best classified as research preparation rather than original research.",
+    "summary": "Rutgers University's Young Scholars Program in Discrete Mathematics introduces talented high school students to advanced mathematical ideas and research-style problem solving. Participants study topics including combinatorics, graph theory, algorithms, and discrete mathematics while working on challenging problems and interacting with university mathematicians.",
+    "email": "",
+    "labUrl": "https://math.rutgers.edu/academics/outreach-activities/2259-rutgers-young-scholars-program-in-discrete-mathematics-2",
+    "applyUrl": "https://math.rutgers.edu/academics/outreach-activities/2259-rutgers-young-scholars-program-in-discrete-mathematics-2",
+    "dateAdded": "2026-08-13"
+  }
 ]
