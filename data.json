@@ -10819,4 +10819,195 @@
     "applyUrl": "",
     "dateAdded": "2026-08-13"
   }
+  ,
+  {
+    "id": 325,
+    "name": "Summer Research Training Fellowship",
+    "title": "Paid High School Microbiology Research Fellowship",
+    "university": "University of Kentucky",
+    "state": "Kentucky, USA",
+    "department": "Microbiology, Immunology and Molecular Genetics",
+    "field": "Microbiology",
+    "tags": [
+      "microbiology",
+      "immunology",
+      "molecular genetics",
+      "infectious disease",
+      "laboratory research",
+      "summer research",
+      "faculty mentorship",
+      "paid research",
+      "Lexington",
+      "Kentucky"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The University of Kentucky's Department of Microbiology, Immunology and Molecular Genetics offers an eight-week summer research fellowship for high school students with a strong interest in science. Selected students work approximately 20-25 hours per week in research laboratories under mentorship from graduate students, postdoctoral researchers, or research scientists. The program has provided a $2,500 stipend. Students should verify current application dates, eligibility requirements, and stipend information for future cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional microbiology research opportunity because high school students spend eight weeks conducting substantial laboratory research with university research mentors while receiving a stipend.",
+    "summary": "The University of Kentucky High School Summer Research Training Fellowship places students in active microbiology, immunology, molecular genetics, and infectious-disease research laboratories. Participants conduct mentored research for approximately 20-25 hours per week over eight weeks and may have opportunities to continue their projects after the summer.",
+    "email": "",
+    "labUrl": "https://medicine.uky.edu/departments/microbiology/high-school-summer-fellowship",
+    "applyUrl": "https://medicine.uky.edu/departments/microbiology/high-school-summer-fellowship",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 326,
+    "name": "Morita Lab — Research Intensives",
+    "title": "High School Mycobacterial Research Intensive",
+    "university": "University of Massachusetts Amherst",
+    "state": "Massachusetts, USA",
+    "department": "Morita Lab / Biochemistry and Molecular Biology",
+    "field": "Microbiology",
+    "tags": [
+      "microbiology",
+      "mycobacteria",
+      "antibiotic resistance",
+      "biochemistry",
+      "genetics",
+      "cell envelope",
+      "bacterial biology",
+      "laboratory research",
+      "Amherst",
+      "Massachusetts"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The 2026 Morita Lab Research Intensive is designed for rising high school juniors and seniors. Students spend six weeks working full-time in a professional university research environment while studying how mycobacteria build their cell envelopes and survive antibiotic treatment. The 2026 listed cost is $7,247 for commuters and $12,813 for residential participants. Students should verify future dates, tuition, financial-aid options, and eligibility through UMass Amherst.",
+    "resumeRating": 4,
+    "ratingNote": "A highly research-intensive microbiology experience involving six weeks of work in an active university laboratory. The substantial program cost reduces accessibility compared with paid or free research internships.",
+    "summary": "UMass Amherst's Morita Lab Research Intensive gives high school students hands-on experience investigating mycobacterial biology and antibiotic resistance. Students work alongside university researchers while studying bacterial cell-envelope construction, survival mechanisms, biochemistry, genetics, and related microbiological questions.",
+    "email": "",
+    "labUrl": "https://www.umass.edu/uww/pre-college/research-intensives/morita-lab-biochemistry",
+    "applyUrl": "https://www.umass.edu/uww/pre-college/research-intensives/morita-lab-biochemistry",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 327,
+    "name": "iCLEM — Introductory College Level Experience in Microbiology",
+    "title": "Paid High School Microbiology Research Internship",
+    "university": "Lawrence Berkeley National Laboratory / Joint BioEnergy Institute",
+    "state": "California, USA",
+    "department": "Joint BioEnergy Institute / Berkeley Lab",
+    "field": "Microbiology",
+    "tags": [
+      "microbiology",
+      "biotechnology",
+      "biofuels",
+      "molecular biology",
+      "synthetic biology",
+      "laboratory research",
+      "biological engineering",
+      "paid internship",
+      "Bay Area",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "iCLEM is a paid summer research program for eligible Bay Area high school students and is designed especially to expand access to biotechnology and microbiology research for students who may have limited access to STEM opportunities. Participants receive intensive laboratory and classroom training and conduct research in advanced scientific environments. Students should verify current geographic eligibility, application dates, compensation, and program requirements for each cycle.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional dedicated microbiology internship that combines paid laboratory research, intensive technical training, and exposure to advanced biotechnology and synthetic-biology research at a national laboratory.",
+    "summary": "The Introductory College Level Experience in Microbiology gives Bay Area high school students paid research experience in microbiology, biotechnology, molecular biology, synthetic biology, and bioenergy. Participants receive laboratory training and work in advanced research environments associated with Lawrence Berkeley National Laboratory and the Joint BioEnergy Institute.",
+    "email": "",
+    "labUrl": "https://jobs.lbl.gov/jobs/iclem-student-intern-5573",
+    "applyUrl": "https://jobs.lbl.gov/jobs/iclem-student-intern-5573",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 328,
+    "name": "Biotechnology Research Fellowship",
+    "title": "High School Biotechnology and Computational Microbiology Fellowship",
+    "university": "Caldwell University",
+    "state": "New Jersey, USA",
+    "department": "Department of Natural Sciences",
+    "field": "Microbiology",
+    "tags": [
+      "computational microbiology",
+      "microbiology",
+      "molecular biology",
+      "biotechnology",
+      "cancer biology",
+      "bioinformatics",
+      "laboratory research",
+      "scientific research",
+      "Caldwell",
+      "New Jersey"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Caldwell University's Biotechnology Research Fellowship is a three-week high school research experience offering scientific training and hands-on research in areas that include computational microbiology, molecular biology, biotechnology, and cancer biology. Students should verify current eligibility, New Jersey residency or geographic preferences, program dates, tuition or funding information, and application requirements through Caldwell University.",
+    "resumeRating": 4,
+    "ratingNote": "A strong short-term biotechnology research experience with an unusually useful computational microbiology component, although its three-week duration makes it less intensive than longer laboratory internships.",
+    "summary": "Caldwell University's Biotechnology Research Fellowship gives high school students hands-on experience with biotechnology and scientific research. Available research areas include computational microbiology, molecular biology, biotechnology, and cancer biology, providing students with exposure to both laboratory and computational approaches.",
+    "email": "",
+    "labUrl": "https://www.caldwell.edu/academics/academic-departments/department-of-natural-sciences/biotechnology-research-fellowship-program-2026/",
+    "applyUrl": "https://www.caldwell.edu/academics/academic-departments/department-of-natural-sciences/biotechnology-research-fellowship-program-2026/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 329,
+    "name": "Maryland Microbiome Project",
+    "title": "High School Microbiome and Genomics Research Project",
+    "university": "University of Maryland School of Medicine",
+    "state": "Maryland, USA",
+    "department": "Institute for Genome Sciences",
+    "field": "Microbiology",
+    "tags": [
+      "microbiome",
+      "microbiology",
+      "microbial ecology",
+      "genomics",
+      "bioinformatics",
+      "environmental microbiology",
+      "16S sequencing",
+      "bacterial communities",
+      "Baltimore",
+      "Maryland"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Research Exposure"
+    ],
+    "applicationType": "School-Based Placement",
+    "applicationWindow": "The Maryland Microbiome Project engages high school students through participating schools and educational partnerships. Students collect environmental microbiome samples, which are processed using 16S amplicon sequencing, and then work with bacterial-community and genomic data. Access depends on participating schools, partner programs, and current outreach cycles rather than a general nationwide individual application.",
+    "resumeRating": 4,
+    "ratingNote": "A distinctive microbiology research experience because students participate in environmental sampling and analysis of real microbial-community sequencing data rather than only attending lectures or demonstrations.",
+    "summary": "The Maryland Microbiome Project introduces high school students to microbiome science, microbial ecology, genomics, and bioinformatics. Students collect environmental samples, examine bacterial communities using 16S sequencing data, and gain experience interpreting real microbiome datasets through partnerships associated with the University of Maryland Institute for Genome Sciences.",
+    "email": "",
+    "labUrl": "https://www.igs.umaryland.edu/education/outreach.php",
+    "applyUrl": "",
+    "dateAdded": "2026-08-13"
+  }
 ]
