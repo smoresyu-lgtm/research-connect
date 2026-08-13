@@ -10666,4 +10666,157 @@
     "applyUrl": "",
     "dateAdded": "2026-08-11"
   }
+  ,
+  {
+    "id": 321,
+    "name": "Louis Calder Center — High School Research Students",
+    "title": "Direct Faculty-Mentored High School Research Opportunity",
+    "university": "Fordham University",
+    "state": "New York, USA",
+    "department": "Louis Calder Center",
+    "field": "Environmental Science",
+    "tags": [
+      "ecology",
+      "environmental science",
+      "biology",
+      "conservation",
+      "field research",
+      "laboratory research",
+      "faculty mentorship",
+      "direct inquiry",
+      "Armonk",
+      "Westchester County",
+      "New York"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "High school students working in conjunction with an approved science-research program at their school may seek placement in a particular Louis Calder Center laboratory by contacting an appropriate Calder faculty member. Participation depends on faculty approval, mentor availability, project fit, and current Fordham requirements. Students should verify present availability directly with the Calder Center before planning around a placement.",
+    "resumeRating": 5,
+    "ratingNote": "An unusually strong direct-access research pathway because Fordham explicitly allows qualified high school students to seek placement in individual Calder Center laboratories under faculty or researcher mentorship.",
+    "summary": "Fordham University's Louis Calder Center provides a pathway for qualified high school students to conduct ecological and environmental research in individual university laboratories. Students identify a relevant Calder faculty member and inquire about joining a research group, with approved participants working under faculty or designated researcher supervision.",
+    "email": "",
+    "labUrl": "https://www.fordham.edu/academics/departments/biological-sciences/facilities/louis-calder-center/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 322,
+    "name": "STEP × Calder Center Summer Research Pathway",
+    "title": "High School Mentored Summer Research Pathway",
+    "university": "Fordham University",
+    "state": "New York, USA",
+    "department": "Science and Technology Entry Program / Louis Calder Center",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "biology",
+      "chemistry",
+      "psychology",
+      "ecology",
+      "environmental science",
+      "summer research",
+      "faculty mentorship",
+      "research symposium",
+      "Bronx",
+      "New York"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Summer Research",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Fordham STEP has historically selected participating high school students for mentored summer research with Fordham faculty, including projects connected to the Louis Calder Center and departments such as biology, chemistry, and psychology. Fordham's STEP program remains active, but students should verify whether a summer research placement component is being offered during the current cycle before applying.",
+    "resumeRating": 4,
+    "ratingNote": "A strong research pathway for Fordham STEP participants because previous students have completed mentored summer research and presented their work at Fordham research events. Availability of the research-placement component may vary by year.",
+    "summary": "Fordham's Science and Technology Entry Program has connected eligible high school students with university faculty for mentored summer research. Previous students have worked in fields including biology, chemistry, psychology, ecology, and environmental science and have presented their work through research symposia associated with Fordham and the Calder Center.",
+    "email": "",
+    "labUrl": "https://www.fordham.edu/academics/academic-resources/step/",
+    "applyUrl": "https://www.fordham.edu/academics/academic-resources/step/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 323,
+    "name": "Youth Participatory Action Research (YPAR)",
+    "title": "High School Community-Based Psychology Research",
+    "university": "Fordham University",
+    "state": "New York, USA",
+    "department": "Psychology / 3D Lab",
+    "field": "Psychology",
+    "tags": [
+      "psychology",
+      "youth development",
+      "sociology",
+      "public health",
+      "qualitative research",
+      "participatory action research",
+      "community research",
+      "social science",
+      "Bronx",
+      "New York"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "School-Based Placement",
+    "applicationWindow": "Fordham psychology researchers have conducted Youth Participatory Action Research projects with Bronx high school students through participating schools and community partnerships. Student access depends on the specific partnership, school, research project, and current recruitment cycle rather than a university-wide open application.",
+    "resumeRating": 4,
+    "ratingNote": "A distinctive social-science research opportunity because high school students participate as contributors to the research process rather than only serving as research subjects or attending lectures.",
+    "summary": "Fordham's Youth Participatory Action Research work engages local high school students as partners in psychology and community-based research. Students can help identify research questions, develop proposals, gather and interpret information, and investigate issues affecting youth and their communities alongside Fordham researchers.",
+    "email": "",
+    "labUrl": "https://www.fordham.edu/fordham-stories/campus-and-city-life/only-at-fordham-teen-focused-psychology-research/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 324,
+    "name": "Demystifying Language Project",
+    "title": "High School Linguistic Anthropology Research Project",
+    "university": "Fordham University",
+    "state": "New York, USA",
+    "department": "New York Center for Public Anthropology",
+    "field": "Social Sciences",
+    "tags": [
+      "anthropology",
+      "linguistics",
+      "sociology",
+      "education",
+      "ethnography",
+      "linguistic anthropology",
+      "language research",
+      "qualitative research",
+      "New York City",
+      "New York"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Assistant",
+      "Mentorship"
+    ],
+    "applicationType": "Availability Dependent",
+    "applicationWindow": "Fordham's Demystifying Language Project has involved high school students through participating schools and project-based internship or research opportunities. Students have worked with Fordham researchers and undergraduates on linguistic-anthropology and ethnographic projects. A standing open high school application is not currently advertised, so students should verify whether new school partnerships or student opportunities are available.",
+    "resumeRating": 4,
+    "ratingNote": "A highly unusual humanities and social-science research experience because high school students engage with linguistic anthropology, ethnographic investigation, and scholarly communication alongside university researchers.",
+    "summary": "The Demystifying Language Project at Fordham's New York Center for Public Anthropology introduces high school students to linguistic anthropology and ethnographic research. Participants have worked with university researchers and undergraduates to investigate language in schools, homes, and communities and to translate academic scholarship for broader audiences.",
+    "email": "",
+    "labUrl": "https://www.fordham.edu/academics/centers-and-institutes/new-york-center-for-public-anthropology/research-projects/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-13"
+  }
 ]
