@@ -11393,4 +11393,196 @@
     "applyUrl": "https://math.rutgers.edu/academics/outreach-activities/2259-rutgers-young-scholars-program-in-discrete-mathematics-2",
     "dateAdded": "2026-08-13"
   }
+  ,
+  {
+    "id": 340,
+    "name": "High School Summer Internship — USC Center for the Political Future",
+    "title": "Remote Legislative Policy Research Internship",
+    "university": "University of Southern California",
+    "state": "California, USA",
+    "department": "Center for the Political Future / Jesse M. Unruh Institute of Politics",
+    "field": "Political Science",
+    "tags": [
+      "political science",
+      "public policy",
+      "legislative research",
+      "environmental policy",
+      "policy analysis",
+      "government",
+      "legislation",
+      "policy memo",
+      "remote research",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Remote Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "USC's Center for the Political Future offers a remote summer internship for current high school students. Graduating seniors are excluded, and applicants must meet current academic eligibility requirements, including a 3.5 GPA requirement for the documented cycle. Interns complete substantial legislative research projects, including a policy memo and an analysis of the legislative process surrounding a real local, state, or federal bill involving environmental policy or sustainability. Students should verify current dates, eligibility, themes, and application requirements for future cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional political science opportunity because students conduct substantive legislative research and produce professional policy-analysis deliverables rather than simply attending lectures or taking a politics course.",
+    "summary": "The USC Center for the Political Future High School Summer Internship gives students remote experience with legislative and public-policy research. Participants investigate real legislation, analyze political and legislative dynamics, interpret evidence and data, develop policy recommendations, and produce both a legislative policy memo and legislative-process analysis.",
+    "email": "",
+    "labUrl": "https://dornsife.usc.edu/center-for-political-future/jesse-m-unruh-institute-of-politics/high-school-summer-internship-program/",
+    "applyUrl": "https://dornsife.usc.edu/center-for-political-future/jesse-m-unruh-institute-of-politics/high-school-summer-internship-program/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 341,
+    "name": "Data & Policy Summer Scholar Program",
+    "title": "Virtual Data Analytics and Public Policy Research Program",
+    "university": "University of Chicago",
+    "state": "Illinois, USA",
+    "department": "Harris School of Public Policy",
+    "field": "Political Science",
+    "tags": [
+      "political science",
+      "public policy",
+      "data analytics",
+      "R programming",
+      "quantitative social science",
+      "policy research",
+      "data science",
+      "policy analysis",
+      "remote research",
+      "Chicago",
+      "Illinois"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Exposure",
+      "Remote Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The University of Chicago Harris Data & Policy Summer Scholar Program is a seven-week virtual experience combining public policy with quantitative data analysis. The program is beginner-friendly and teaches students R programming and analytical methods before they complete a capstone project addressing a real policy issue using data. The 2026 program ran July 6 through August 21 and listed tuition of $4,500, with partial scholarships available. Students should verify current eligibility, tuition, scholarship availability, and application dates for future cycles.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly strong quantitative public-policy experience because students learn R and data analysis and then apply those skills to an evidence-based capstone project addressing a real policy problem.",
+    "summary": "The University of Chicago Harris Data & Policy Summer Scholar Program introduces students to quantitative public-policy research through R programming and data analytics. Participants analyze real datasets, investigate policy questions, work with faculty, and complete an immersive capstone project producing evidence-based policy recommendations and professional deliverables.",
+    "email": "",
+    "labUrl": "https://info.harris.uchicago.edu/summer-scholar-program",
+    "applyUrl": "https://info.harris.uchicago.edu/summer-scholar-program",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 342,
+    "name": "Engaged Citizenship: YSS Program in Politics",
+    "title": "Advanced High School Political Science and Democracy Program",
+    "university": "Yale University",
+    "state": "Connecticut, USA",
+    "department": "Yale Summer Session",
+    "field": "Political Science",
+    "tags": [
+      "political science",
+      "democracy",
+      "government",
+      "civic policy",
+      "global politics",
+      "citizenship",
+      "political institutions",
+      "political analysis",
+      "New Haven",
+      "Connecticut"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Yale Summer Session's Engaged Citizenship politics program is a five-week academic experience open to advanced high school students and college students. Participants take two Yale courses and examine politics, democracy, civic responsibility, contemporary political issues, historical debates, and global perspectives while interacting with faculty and guest speakers and participating in field experiences and discussions. This should be considered political-science academic and research exposure rather than an independent research internship.",
+    "resumeRating": 4,
+    "ratingNote": "A rigorous university political-science experience providing advanced exposure to democracy, government, civic responsibility, and global politics, although it is primarily academic rather than an independent faculty research placement.",
+    "summary": "Yale's Engaged Citizenship YSS Program in Politics gives advanced high school students an intensive introduction to political science through Yale coursework, faculty engagement, guest speakers, discussions, and field experiences. Students examine democracy, government, civic responsibility, political debates, contemporary issues, and global political perspectives.",
+    "email": "",
+    "labUrl": "https://summer.yale.edu/academics/yss-politics-program",
+    "applyUrl": "https://summer.yale.edu/academics/yss-politics-program",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 343,
+    "name": "Quest for Community",
+    "title": "Free Residential Political Science and Civic Life Program",
+    "university": "University of Texas at Arlington",
+    "state": "Texas, USA",
+    "department": "Quest for Community",
+    "field": "Political Science",
+    "tags": [
+      "political science",
+      "government",
+      "political philosophy",
+      "civic life",
+      "justice",
+      "community",
+      "democracy",
+      "public affairs",
+      "Arlington",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "UT Arlington's Quest for Community is a free residential summer program for eligible rising high school juniors and seniors from Arlington ISD, with first-generation and underserved students especially encouraged to participate. The program covers housing, meals, tuition, books, and field trips. Students explore political science, government, political philosophy, justice, community, literature, and civic life through college-level reading, writing, discussion, faculty interaction, and community engagement. The 2026 program ran July 13 through July 31.",
+    "resumeRating": 4,
+    "ratingNote": "A strong and highly accessible political-science enrichment opportunity because the program is fully funded and exposes students to university-level political thought, government, justice, civic life, and analytical writing.",
+    "summary": "UT Arlington's Quest for Community is a free residential political-science and civic-education program for eligible high school students. Participants explore government, political philosophy, justice, community, literature, and civic life through university-level reading and writing, discussions with professors and community leaders, and field experiences.",
+    "email": "",
+    "labUrl": "https://questforcommunity.uta.edu/",
+    "applyUrl": "https://questforcommunity.uta.edu/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 344,
+    "name": "Student Voting, Civil Rights & the Practice of Democracy",
+    "title": "Online Voting Rights and Democracy Program",
+    "university": "Bard College",
+    "state": "New York, USA",
+    "department": "Voting Rights & Democracy Project",
+    "field": "Political Science",
+    "tags": [
+      "political science",
+      "voting rights",
+      "civil rights",
+      "democracy",
+      "constitutional politics",
+      "youth voting",
+      "political analysis",
+      "law",
+      "online program",
+      "New York"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Research Project",
+      "Remote Research"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Bard College's Student Voting, Civil Rights & the Practice of Democracy program is a synchronous online summer course open to advanced high school and college students nationwide. Participants study voting rights and democratic institutions through political and legal case studies, including issues involving the 26th Amendment and youth voting rights. The program provides three transferable undergraduate credits and Voting Rights & Democracy training. Students should verify current dates, tuition, eligibility, and registration information for future cycles.",
+    "resumeRating": 4,
+    "ratingNote": "A strong political-science and constitutional-policy experience focused on voting rights, civil rights, democracy, and legal-political analysis. It is more academic and policy-analysis oriented than an independent research internship.",
+    "summary": "Bard College's Student Voting, Civil Rights & the Practice of Democracy program gives advanced high school and college students an online introduction to voting-rights research, constitutional politics, civil rights, and democratic institutions. Students analyze legal and political case studies while completing college-level work and earning three transferable undergraduate credits.",
+    "email": "",
+    "labUrl": "https://www.bard.edu/news/national-summer-course-training-15-partner-organizations-students-voting-rights-democracy-2026-04-16",
+    "applyUrl": "https://www.bard.edu/news/national-summer-course-training-15-partner-organizations-students-voting-rights-democracy-2026-04-16",
+    "dateAdded": "2026-08-13"
+  }
 ]
