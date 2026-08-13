@@ -11775,4 +11775,195 @@
     "applyUrl": "https://www.cdc.gov/museum/education/online-learning/index.htm",
     "dateAdded": "2026-08-13"
   }
+  ,
+  {
+    "id": 350,
+    "name": "Chemical Engineering & Materials Science High School Summer Research Program",
+    "title": "Faculty and PhD-Mentored High School Chemical Engineering Research Program",
+    "university": "Stevens Institute of Technology",
+    "state": "New Jersey, USA",
+    "department": "Department of Chemical Engineering and Materials Science",
+    "field": "Chemical Engineering",
+    "tags": [
+      "chemical engineering",
+      "materials science",
+      "laboratory research",
+      "energy",
+      "biomaterials",
+      "faculty mentorship",
+      "PhD mentorship",
+      "summer research",
+      "Hoboken",
+      "New Jersey"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Stevens Institute of Technology's Chemical Engineering and Materials Science High School Summer Research Program has provided selected high school sophomores and juniors with direct research experience alongside faculty members and PhD candidates. The inaugural cohort included ten high school students conducting substantive work in university laboratories. Participation has primarily served students from the New York City and New Jersey area through participating schools and outreach pathways. Students should verify current eligibility, partner-school access, application dates, and available research projects for future cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional chemical engineering opportunity because selected high school students work directly with faculty and PhD researchers in university laboratories rather than participating only in classroom-based engineering enrichment.",
+    "summary": "Stevens Institute of Technology's Chemical Engineering and Materials Science High School Summer Research Program gives selected students hands-on experience in university research laboratories. Participants work with faculty and doctoral researchers on projects related to chemical engineering, materials science, energy, biomaterials, and related areas.",
+    "email": "",
+    "labUrl": "https://www.stevens.edu/news/chemical-engineering-high-school-summer-program",
+    "applyUrl": "https://www.stevens.edu/news/chemical-engineering-high-school-summer-program",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 351,
+    "name": "Djire Lab High School Summer Research Internship",
+    "title": "High School Electrochemistry and Sustainable Energy Research Internship",
+    "university": "Texas A&M University",
+    "state": "Texas, USA",
+    "department": "Djire Lab / Chemical Engineering",
+    "field": "Chemical Engineering",
+    "tags": [
+      "chemical engineering",
+      "MXenes",
+      "electrochemistry",
+      "sustainable energy",
+      "catalysis",
+      "materials science",
+      "ammonia production",
+      "laboratory research",
+      "College Station",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Direct Inquiry / Availability Dependent",
+    "applicationWindow": "The Djire Lab at Texas A&M has documented high school research participation, including a 2026 rising-junior intern working on MXene synthesis and electrochemical ammonia-production research. The lab does not advertise a standing open high school application process, so prospective students should treat this as an availability-dependent direct-inquiry pathway. Any future placement would depend on faculty interest, project fit, mentor capacity, and current university requirements.",
+    "resumeRating": 5,
+    "ratingNote": "A highly valuable individual-lab pathway because recent high school participation is directly documented in an active Texas A&M chemical engineering research group working on advanced energy and electrochemistry problems.",
+    "summary": "The Djire Lab at Texas A&M conducts chemical engineering research in electrochemistry, MXenes, catalysis, sustainable energy, and materials science. The group has recently hosted a high school research intern working on MXene synthesis and electrochemical ammonia production, making direct inquiry potentially worthwhile when mentorship capacity is available.",
+    "email": "",
+    "labUrl": "https://djire-lab.engr.tamu.edu/summer-program/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 352,
+    "name": "Liu Research Group High School Internship",
+    "title": "High School Chemical and Biomolecular Engineering Research Internship",
+    "university": "University of Delaware",
+    "state": "Delaware, USA",
+    "department": "Department of Chemical and Biomolecular Engineering / Liu Research Group",
+    "field": "Chemical Engineering",
+    "tags": [
+      "chemical engineering",
+      "catalysis",
+      "materials synthesis",
+      "energy",
+      "water",
+      "environmental engineering",
+      "materials science",
+      "laboratory research",
+      "Newark",
+      "Delaware"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Mentorship"
+    ],
+    "applicationType": "Availability Dependent",
+    "applicationWindow": "The Liu Research Group at the University of Delaware explicitly reports hosting high school interns to expose K–12 students to scientific discovery in chemical engineering and materials science. The group has documented eight high school interns from six different high schools. Placements have historically been arranged through local schools or partner organizations and depend on current research and mentorship capacity rather than a guaranteed open application.",
+    "resumeRating": 5,
+    "ratingNote": "A strong individual chemical-engineering laboratory pathway because the group has repeatedly hosted high school interns in active research involving catalysis, materials, energy, water, and environmental applications.",
+    "summary": "The Liu Research Group at the University of Delaware conducts chemical and biomolecular engineering research involving catalysis, materials synthesis, energy technologies, water, and environmental applications. The group has hosted multiple high school interns, giving students exposure to genuine scientific research in chemical engineering and materials science.",
+    "email": "",
+    "labUrl": "https://sites.udel.edu/liud/outreach/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 353,
+    "name": "After-School STEM Lab Internship",
+    "title": "High School Molecular and Chemical Engineering Laboratory Internship",
+    "university": "University of Chicago",
+    "state": "Illinois, USA",
+    "department": "Pritzker School of Molecular Engineering",
+    "field": "Chemical Engineering",
+    "tags": [
+      "molecular engineering",
+      "chemical engineering",
+      "materials science",
+      "chemistry",
+      "energy",
+      "laboratory research",
+      "engineering research",
+      "After School Matters",
+      "Chicago",
+      "Illinois"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Exposure"
+    ],
+    "applicationType": "School-Based Placement",
+    "applicationWindow": "The University of Chicago Pritzker School of Molecular Engineering partners with After School Matters to provide Chicago Public Schools students with an after-school STEM laboratory internship. Participants enter an authentic university research environment and gain direct exposure to how scientists and engineers conduct collaborative research. Access is limited to students eligible through the After School Matters partnership and current Chicago-area programming.",
+    "resumeRating": 5,
+    "ratingNote": "A strong authentic laboratory experience because students work inside a university engineering research environment rather than participating only in demonstrations or classroom activities. It is especially relevant to chemical engineering through its overlap with molecular engineering, materials, chemistry, and energy research.",
+    "summary": "The After-School STEM Lab Internship at UChicago's Pritzker School of Molecular Engineering gives eligible Chicago high school students experience inside an active university research environment. Participants gain exposure to molecular engineering, chemical engineering, materials science, chemistry, energy research, and collaborative laboratory work.",
+    "email": "",
+    "labUrl": "https://pme.uchicago.edu/academics/stem-education-community-outreach/k-12-student-programs/after-school-stem-lab-internship",
+    "applyUrl": "https://pme.uchicago.edu/academics/stem-education-community-outreach/k-12-student-programs/after-school-stem-lab-internship",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 354,
+    "name": "McNeese Summer Engineering Research Academy — Chemical Engineering: Clean Water & Energy",
+    "title": "High School Chemical Engineering Research and Project Academy",
+    "university": "McNeese State University",
+    "state": "Louisiana, USA",
+    "department": "Institute for Industry–Education Collaboration",
+    "field": "Chemical Engineering",
+    "tags": [
+      "chemical engineering",
+      "water treatment",
+      "energy",
+      "environmental engineering",
+      "engineering research",
+      "laboratory equipment",
+      "project research",
+      "clean water",
+      "Lake Charles",
+      "Louisiana"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Research Project",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "McNeese State University's Summer Engineering Research Academy is open to students entering grades 9–12. The program includes hands-on engineering research and project activities using university equipment under faculty instruction, with a dedicated Chemical Engineering: Clean Water & Energy component. The 2026 two-week academy cost $800, while individual one-week participation cost $500. Students should verify current dates, program tracks, tuition, and registration information for future cycles.",
+    "resumeRating": 4,
+    "ratingNote": "A solid chemical engineering research-exposure program that gives students hands-on experience with university equipment and projects involving clean water, energy, and environmental engineering, though it is less intensive than an individual faculty-lab internship.",
+    "summary": "McNeese State University's Summer Engineering Research Academy gives high school students hands-on exposure to university engineering research and project work. Its Chemical Engineering: Clean Water & Energy component focuses on water treatment, energy systems, environmental engineering, and applied chemical-engineering concepts.",
+    "email": "",
+    "labUrl": "https://www.mcneese.edu/iiec/mcneese-engineering-academy/",
+    "applyUrl": "https://www.mcneese.edu/iiec/mcneese-engineering-academy/",
+    "dateAdded": "2026-08-13"
+  }
 ]
