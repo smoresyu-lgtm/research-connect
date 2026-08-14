@@ -15484,4 +15484,213 @@
     "applyUrl": "https://www.unr.edu/nevada-inbre/student-programs/microbiome",
     "dateAdded": "2026-08-14"
   }
+  ,
+  {
+    "id": 450,
+    "name": "George A. Jeffries NanoExplorers",
+    "title": "High School Nanotechnology Research Program",
+    "university": "University of Texas at Dallas",
+    "state": "Texas, USA",
+    "department": "Alan G. MacDiarmid NanoTech Institute",
+    "field": "Materials Science",
+    "tags": [
+      "materials science",
+      "nanotechnology",
+      "chemistry",
+      "physics",
+      "engineering",
+      "nanomaterials",
+      "laboratory research",
+      "original research",
+      "faculty mentorship",
+      "scientific publication",
+      "scientific presentation",
+      "Richardson",
+      "Dallas",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The University of Texas at Dallas George A. Jeffries NanoExplorers program gives high school students the opportunity to conduct original research through the Alan G. MacDiarmid NanoTech Institute. Students are integrated into laboratory research and, as much as possible, are treated like other members of the research laboratory, with projects connected to the mentor's active research program. Past NanoExplorers have presented their research internationally and have even coauthored scientific publications. The program is competitive and focuses on areas including nanotechnology, materials science, chemistry, physics, and engineering. Applicants should verify current eligibility requirements, program dates, available research projects, costs or funding, and application deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional high school research opportunity because students conduct original nanotechnology research connected to active university laboratory projects, with past participants reaching the level of conference presentations and scientific coauthorship.",
+    "summary": "UT Dallas NanoExplorers gives high school students the opportunity to conduct original nanotechnology and materials research as members of university research laboratories. Projects connect directly to mentors' active research programs, and past students have presented internationally and coauthored publications.",
+    "email": "",
+    "labUrl": "https://nanotech.utdallas.edu/for-students/nanoexplorers/",
+    "applyUrl": "https://nanotech.utdallas.edu/for-students/nanoexplorers/",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 451,
+    "name": "NASA SEES High School Summer Intern Program",
+    "title": "NASA-Supported Earth and Space Science Research Internship",
+    "university": "University of Texas at Austin",
+    "state": "Texas, USA",
+    "department": "Center for Space Research",
+    "field": "Earth Science",
+    "tags": [
+      "earth science",
+      "aerospace",
+      "remote sensing",
+      "climate science",
+      "data science",
+      "engineering",
+      "NASA",
+      "space science",
+      "data analysis",
+      "data visualization",
+      "field research",
+      "scientific presentation",
+      "Austin",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "The NASA STEM Enhancement in Earth Science (SEES) High School Summer Intern Program is hosted by the University of Texas at Austin Center for Space Research and gives current high school sophomores and juniors the opportunity to conduct authentic research with NASA and aerospace subject-matter experts. Applicants must generally be at least 16 years old and U.S. citizens. Research can involve Earth science, remote sensing, climate, aerospace, engineering, data analysis, visualization, and field investigations. Both on-site and virtual research projects are offered, and teams present their work at the SEES Science Symposium. For 2026, the on-site research experience ran July 5 through July 18, while virtual research continued through July. Housing, meals, and local transportation were provided for scholarship students, with limited travel scholarship support potentially available. Applicants should verify current eligibility, project options, dates, financial support, and deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional high school research internship because students conduct authentic NASA-supported research with scientists and aerospace experts and formally present their findings through the SEES Science Symposium.",
+    "summary": "NASA SEES at UT Austin gives high school students the opportunity to conduct authentic Earth, space, aerospace, engineering, and data-driven research alongside NASA and university experts through on-site and virtual research teams.",
+    "email": "",
+    "labUrl": "https://csr.utexas.edu/education-outreach/high-school-internships/sees/",
+    "applyUrl": "https://csr.utexas.edu/education-outreach/high-school-internships/sees/",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 452,
+    "name": "Mohan Lab High School Summer Internship",
+    "title": "High School Biomedical Engineering Research Internship",
+    "university": "University of Houston",
+    "state": "Texas, USA",
+    "department": "Mohan Lab / Biomedical Engineering",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "biomedical engineering",
+      "biomedical science",
+      "computer science",
+      "medical technology",
+      "engineering",
+      "laboratory research",
+      "faculty lab",
+      "research mentorship",
+      "summer research",
+      "direct lab research",
+      "Houston",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Individual Faculty Lab Internship",
+    "applicationWindow": "The University of Houston's Mohan Lab offers a competitive summer research internship specifically for high school students with strong academic backgrounds and interests in biomedical engineering, biomedical science, computer science, and related areas. Unlike a general pre-college program, students apply directly to an individual university research laboratory. The application includes materials such as a personal statement and recommendations. For the 2026 cycle, applications were accepted from February 1 through March 26. The internship does not provide funding, and students who do not live in the Houston area are responsible for arranging their own housing and related expenses. Applicants should verify current research areas, eligibility requirements, program dates, application materials, and deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional Research Connect-style opportunity because high school students apply directly to an active university biomedical engineering research laboratory rather than participating in a general pre-college course or camp.",
+    "summary": "The University of Houston Mohan Lab offers high school students a direct faculty-lab summer research pathway in biomedical engineering, biomedical science, computer science, and medical technology.",
+    "email": "",
+    "labUrl": "https://mohanlab.bme.uh.edu/open-positions/high-school-students/",
+    "applyUrl": "https://mohanlab.bme.uh.edu/open-positions/high-school-students/",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 453,
+    "name": "NDRB Pre-Freshman Research Experience",
+    "title": "Pre-Freshman Biomedical Laboratory Research Experience",
+    "university": "University of Texas at San Antonio",
+    "state": "Texas, USA",
+    "department": "NDRB / College of Sciences",
+    "field": "Biomedical Science",
+    "tags": [
+      "biology",
+      "biochemistry",
+      "chemistry",
+      "microbiology",
+      "immunology",
+      "neuroscience",
+      "biomedical science",
+      "laboratory research",
+      "faculty mentorship",
+      "research seminars",
+      "professional development",
+      "San Antonio",
+      "Texas"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Summer Research"
+    ],
+    "applicationType": "Pre-Freshman Research Program",
+    "applicationWindow": "The University of Texas at San Antonio NDRB Pre-Freshman Research Experience gives San Antonio-area graduating high school seniors entering UTSA as science majors or pre-majors an eight-week mentored laboratory research experience. Participants work with a direct research mentor or principal investigator and participate in weekly research seminars and professional-development workshops. Only 10 positions were available for the 2026 program, making the experience highly selective. Because participants must be graduating seniors entering UTSA, this program functions as a bridge from high school into undergraduate scientific research rather than as a general high school internship. Applicants should verify current UTSA admission requirements, eligible majors, program dates, available laboratories, and application deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional bridge into undergraduate research because incoming UTSA students spend eight weeks working directly with research mentors and principal investigators in university science laboratories.",
+    "summary": "UTSA's NDRB Pre-Freshman Research Experience gives graduating San Antonio-area high school seniors entering UTSA an eight-week mentored laboratory research experience in fields including biology, chemistry, microbiology, immunology, biochemistry, and neuroscience.",
+    "email": "",
+    "labUrl": "https://sciences.utsa.edu/ndrb/research/npre.html",
+    "applyUrl": "https://sciences.utsa.edu/ndrb/research/npre.html",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 454,
+    "name": "Clark Scholars Program",
+    "title": "Intensive Faculty-Mentored High School Research Program",
+    "university": "Texas Tech University",
+    "state": "Texas, USA",
+    "department": "Anson L. Clark Scholars Program",
+    "field": "Multidisciplinary",
+    "tags": [
+      "STEM",
+      "engineering",
+      "biology",
+      "chemistry",
+      "computer science",
+      "humanities",
+      "social science",
+      "multidisciplinary research",
+      "faculty mentorship",
+      "independent research",
+      "research report",
+      "summer research",
+      "Lubbock",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Texas Tech University's Clark Scholars Program is an intensive seven-week research experience for rising high school seniors and recent graduates. Participants must generally be at least 17 years old and U.S. citizens or permanent residents. Only 12 students are selected to conduct research with Texas Tech faculty across a wide range of disciplines, potentially including engineering, biology, chemistry, computer science, humanities, and social science. There are no participation fees, and room, board, and meals are provided. Students who successfully complete their research report receive a $750 stipend. The 2026 program ran from June 21 through August 6. Applicants should verify current eligibility requirements, available research areas, dates, financial support, and application deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional multidisciplinary high school research program because only a small cohort is selected for seven weeks of intensive faculty-mentored research, with program costs covered and a stipend available upon successful completion.",
+    "summary": "Texas Tech's Clark Scholars Program selects a small cohort of high school students for seven weeks of intensive faculty-mentored research across STEM, engineering, humanities, and social-science disciplines, with room, board, meals, and program costs covered.",
+    "email": "",
+    "labUrl": "https://www.depts.ttu.edu/clarkscholars/ProgramDetails.php",
+    "applyUrl": "https://www.depts.ttu.edu/clarkscholars/ProgramDetails.php",
+    "dateAdded": "2026-08-14"
+  }
 ]
