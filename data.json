@@ -13523,4 +13523,384 @@
     "applyUrl": "https://manhattan.edu/academics/engineering/high-school-programs",
     "dateAdded": "2026-08-13"
   }
+  ,
+  {
+    "id": 395,
+    "name": "Inclusive Interaction Lab High School Internship",
+    "title": "Free High School Computer Science Research Internship",
+    "university": "University of California, Merced",
+    "state": "California, USA",
+    "department": "Inclusive Interaction Lab / Computer Science and Engineering",
+    "field": "Computer Science",
+    "tags": [
+      "computer science",
+      "software engineering",
+      "human-computer interaction",
+      "interactive systems",
+      "software development",
+      "research methods",
+      "faculty mentorship",
+      "virtual research",
+      "Merced",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "UC Merced's Inclusive Interaction Lab offers a free 12-week high school research internship under Professor Ahmed Arif. The program typically mentors a small cohort of students each year and focuses on responsible research practices, software development, human-computer interaction, and the design of real-world interactive systems. The internship is now primarily virtual, although accessibility may still favor Northern California students depending on the cycle. Students should verify current eligibility, dates, application deadlines, and participation format.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional individual-lab computer science opportunity because high school students work directly under faculty mentorship on real software and human-computer interaction research rather than completing only instructional coding activities.",
+    "summary": "The Inclusive Interaction Lab at UC Merced gives high school students extended research experience in computer science, software engineering, human-computer interaction, and interactive systems. Interns learn responsible research practices while building and evaluating real-world software systems under university mentorship.",
+    "email": "",
+    "labUrl": "https://www.ucmerced.edu/news/2026/high-school-students-invited-apply-free-computer-science-internship",
+    "applyUrl": "https://www.ucmerced.edu/news/2026/high-school-students-invited-apply-free-computer-science-internship",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 396,
+    "name": "Computer Science High School Internship",
+    "title": "Paid High School Computer Science and Generative AI Internship",
+    "university": "North Carolina State University",
+    "state": "North Carolina, USA",
+    "department": "CEREAL Lab",
+    "field": "Computer Science",
+    "tags": [
+      "computer science",
+      "software engineering",
+      "generative AI",
+      "computing education",
+      "game development",
+      "simulation development",
+      "programming",
+      "interactive narratives",
+      "Raleigh",
+      "North Carolina"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "NC State's CEREAL Lab operates a paid high school computer science internship combining advanced programming and generative-AI training with practical research and development work. Interns may beta-test computer-science curriculum, develop games, simulations, and interactive narratives, and collaborate with university researchers and educators. The 2026 program ran from June 15 through July 10. Students should verify future eligibility, compensation, dates, and application deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "A strong paid university computing internship because students contribute to practical software, simulation, generative-AI, and computing-education projects while working alongside researchers and educators.",
+    "summary": "NC State's CEREAL Lab Computer Science High School Internship gives students practical experience with programming, generative artificial intelligence, software engineering, games, simulations, interactive narratives, and computing-education research while working within a university laboratory.",
+    "email": "",
+    "labUrl": "https://cereal.wordpress.ncsu.edu/projects/computer-science-high-school-internship-program/",
+    "applyUrl": "https://cereal.wordpress.ncsu.edu/projects/computer-science-high-school-internship-program/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 397,
+    "name": "DSI Summer Lab",
+    "title": "Paid High School Computer Science and Data Science Research Internship",
+    "university": "University of Chicago",
+    "state": "Illinois, USA",
+    "department": "Data Science Institute",
+    "field": "Computer Science",
+    "tags": [
+      "computer science",
+      "data science",
+      "machine learning",
+      "scientific computing",
+      "interdisciplinary research",
+      "data analysis",
+      "faculty mentorship",
+      "paid research",
+      "Chicago",
+      "Illinois"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The University of Chicago Data Science Institute Summer Lab is an eight-week paid research program serving eligible Chicago-area high school students and undergraduates. Participants are paired with research mentors and work on projects spanning computer science, data science, machine learning, biomedical research, materials science, climate, social science, public policy, and other data-driven fields. Prior research experience is not required. The 2026 program ran from June 15 through August 7. Students should verify future dates, eligibility, compensation, and application requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional computer science and data science opportunity because students receive paid, sustained research placements with university mentors and can contribute to interdisciplinary computational research without requiring prior research experience.",
+    "summary": "UChicago's DSI Summer Lab places high school and undergraduate students with research mentors for eight weeks of paid interdisciplinary research. Computing-focused projects can involve computer science, machine learning, data science, scientific computing, and quantitative methods applied across many academic fields.",
+    "email": "",
+    "labUrl": "https://datascience.uchicago.edu/education/summerlab/",
+    "applyUrl": "https://datascience.uchicago.edu/education/summerlab/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 398,
+    "name": "High School Internship — Center for Cybersecurity and Trusted Foundations",
+    "title": "High School Cybersecurity Research Internship",
+    "university": "Arizona State University",
+    "state": "Arizona, USA",
+    "department": "Center for Cybersecurity and Trusted Foundations",
+    "field": "Computer Science",
+    "tags": [
+      "computer science",
+      "cybersecurity",
+      "systems",
+      "program analysis",
+      "trusted computing",
+      "software security",
+      "security research",
+      "Phoenix",
+      "Arizona"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "Arizona State University's Center for Cybersecurity and Trusted Foundations has operated a high school research internship for Phoenix-area students with strong programming or technical interests. The program provides exposure to academic cybersecurity research, systems, program analysis, trusted computing, and related technologies within a university research laboratory. The program was paused during 2026 while being redesigned, and ASU states that it is expected to return in Summer 2027. Students should monitor the official page for updated eligibility, dates, and application information.",
+    "resumeRating": 5,
+    "ratingNote": "A highly valuable computer science opportunity when active because students conduct academic cybersecurity research inside a dedicated university security laboratory rather than participating in a basic cybersecurity camp.",
+    "summary": "ASU's Center for Cybersecurity and Trusted Foundations High School Internship gives eligible students exposure to university research in cybersecurity, systems, program analysis, software security, and trusted computing. The program is currently being redesigned for a planned Summer 2027 return.",
+    "email": "",
+    "labUrl": "https://sefcom.asu.edu/internship",
+    "applyUrl": "https://sefcom.asu.edu/internship",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 399,
+    "name": "High School Summer STEM Research — Computing Placement",
+    "title": "High School Computer Science Research Experience",
+    "university": "University of Illinois Urbana-Champaign",
+    "state": "Illinois, USA",
+    "department": "Grainger College of Engineering / Siebel School of Computing and Data Science",
+    "field": "Computer Science",
+    "tags": [
+      "computer science",
+      "computing",
+      "data science",
+      "engineering",
+      "research methods",
+      "faculty research",
+      "summer research",
+      "Urbana-Champaign",
+      "Illinois"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "UIUC's Grainger College of Engineering High School Summer STEM Research program provides eligible rising high school juniors and seniors with approximately six weeks of authentic university research. The Siebel School of Computing and Data Science identifies the program as a pathway for high school students seeking summer research, with computing-related placements dependent on available projects and mentors. Because the broader program spans multiple STEM areas, students specifically seeking computer science should verify available computing placements, eligibility, dates, and application requirements for each cycle.",
+    "resumeRating": 5,
+    "ratingNote": "A strong computer science research pathway when matched with a computing project because students participate in an authentic six-week university research experience at a major computer science and engineering institution.",
+    "summary": "UIUC's High School Summer STEM Research program can provide rising juniors and seniors with faculty-mentored computing research through Grainger Engineering and the Siebel School of Computing and Data Science. Available projects vary by year and may involve computer science, data science, engineering, or related computational research.",
+    "email": "",
+    "labUrl": "https://siebelschool.illinois.edu/research/summer-research",
+    "applyUrl": "https://siebelschool.illinois.edu/research/summer-research",
+    "dateAdded": "2026-08-13"
+  }
+  ,
+  {
+    "id": 400,
+    "name": "See the Sea: CC Scholars",
+    "title": "Semester-Long High School Marine Science Research Mentorship",
+    "university": "The University of Texas at Austin",
+    "state": "Texas, USA",
+    "department": "Marine Science Institute",
+    "field": "Marine Science",
+    "tags": [
+      "marine science",
+      "marine ecology",
+      "oceanography",
+      "coastal science",
+      "independent research",
+      "research mentorship",
+      "scientific writing",
+      "field research",
+      "Port Aransas",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Academic-Year Research"
+    ],
+    "applicationType": "School Partnership",
+    "applicationWindow": "The See the Sea: CC Scholars pathway connects advanced Flour Bluff High School seniors with researchers at UT Austin's Marine Science Institute for a semester-long marine science research experience. Each student is paired one-on-one with a graduate researcher, postdoctoral researcher, research associate, or scientist who helps design an independent project, trains the student in relevant scientific techniques, and guides research and scientific writing. Students participate on-site at the Marine Science Institute twice each week while also completing remote coursework. Access is currently tied to the Corpus Christi-area school partnership, so students should verify future participating schools, eligibility, and program dates.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional marine science opportunity because students spend an entire semester conducting an independent project with one-on-one mentorship from active university researchers rather than participating only in short-term enrichment.",
+    "summary": "UT Austin's See the Sea: CC Scholars program gives eligible high school seniors sustained marine science research experience at the Marine Science Institute. Students work individually with university researchers on projects involving marine ecology, oceanography, coastal science, field methods, scientific analysis, and research writing.",
+    "email": "",
+    "labUrl": "https://utmsi.utexas.edu/flour-bluff-high-school-mentorship-opportunities-available/",
+    "applyUrl": "https://utmsi.utexas.edu/flour-bluff-high-school-mentorship-opportunities-available/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 401,
+    "name": "Ocean STEM Research Mentorship Program",
+    "title": "High School Ocean Science and Blue Economy Research Mentorship",
+    "university": "AltaSea at the Port of Los Angeles",
+    "state": "California, USA",
+    "department": "Education and Workforce Development",
+    "field": "Marine Science",
+    "tags": [
+      "marine science",
+      "regenerative aquaculture",
+      "marine energy",
+      "ocean exploration",
+      "blue economy",
+      "ocean technology",
+      "research mentorship",
+      "Los Angeles",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Research Exposure"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "AltaSea's Ocean STEM Research Mentorship Program gives high school students hands-on exposure to ocean research and blue-economy technologies. The 2026 program involves approximately five weeks of participation at around ten hours per week, with students exploring areas such as regenerative aquaculture, marine energy, and marine exploration before showcasing their work at the end of the mentorship. Participation is primarily designed for Los Angeles-area students. Applicants should verify future dates, eligibility, project areas, and application requirements.",
+    "resumeRating": 5,
+    "ratingNote": "A strong and distinctive marine research opportunity because it combines ocean science with emerging blue-economy fields such as regenerative aquaculture, marine energy, and ocean exploration.",
+    "summary": "AltaSea's Ocean STEM Research Mentorship Program introduces high school students to applied marine research through regenerative aquaculture, marine energy, ocean exploration, and blue-economy innovation. Participants complete hands-on work under mentorship and present their projects at the conclusion of the program.",
+    "email": "",
+    "labUrl": "https://altasea.org/education/",
+    "applyUrl": "https://altasea.org/education/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 402,
+    "name": "Junior SeaKeepers Program",
+    "title": "Free Year-Long High School Oceanographic Research Program",
+    "university": "International SeaKeepers Society",
+    "state": "Florida, USA",
+    "department": "Junior SeaKeepers",
+    "field": "Marine Science",
+    "tags": [
+      "marine science",
+      "oceanography",
+      "marine conservation",
+      "marine biology",
+      "field research",
+      "scientific communication",
+      "ocean research",
+      "South Florida",
+      "Florida"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Academic-Year Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The Junior SeaKeepers Program serves eligible students in grades 9–12 from Broward County, Miami-Dade County, and the Upper Florida Keys. The free year-long program gives students hands-on experience in oceanographic research and marine conservation while working with marine science professionals. Participants develop field-research, scientific communication, and marine-science skills over an extended period. Applications for the 2026–27 program are currently open. Students should verify current deadlines, geographic eligibility, meeting requirements, and program expectations.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly valuable marine science pathway because students receive a full academic year of oceanographic and conservation research experience at no program cost.",
+    "summary": "The Junior SeaKeepers Program provides South Florida high school students with year-long experience in oceanography, marine biology, marine conservation, field research, and scientific communication. Participants work alongside marine-science experts and develop practical research skills through sustained involvement.",
+    "email": "",
+    "labUrl": "https://www.seakeepers.org/junior-seakeepers-program/",
+    "applyUrl": "https://www.seakeepers.org/junior-seakeepers-program/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 403,
+    "name": "SoundWaters Research Intensive (SRI)",
+    "title": "Independent Marine Field and Laboratory Research Program",
+    "university": "SoundWaters",
+    "state": "Connecticut, USA",
+    "department": "SoundWaters Research Intensive",
+    "field": "Marine Science",
+    "tags": [
+      "marine science",
+      "water quality",
+      "marine ecology",
+      "biodiversity",
+      "animal populations",
+      "human impacts",
+      "research vessel",
+      "field research",
+      "laboratory research",
+      "Long Island Sound",
+      "Connecticut"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research",
+      "Academic-Year Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "SoundWaters Research Intensive serves students entering grade 10 through the first year of college and offers both summer and semester formats. Participants formulate hypotheses, conduct water-quality and animal-population studies, use professional scientific equipment, work aboard a research vessel, analyze Long Island Sound ecosystems, and present their research findings to a live audience. The semester program is especially small, with approximately 12 students working twice each week in field and laboratory settings. Summer 2026 tuition was $1,000, with full and partial scholarships available. Students should verify future costs, dates, scholarships, and eligibility.",
+    "resumeRating": 4,
+    "ratingNote": "A strong independent marine research experience because students complete the full research process from hypothesis development and field sampling through analysis and final presentation using professional equipment and a research vessel.",
+    "summary": "SoundWaters Research Intensive gives students hands-on marine science experience in Long Island Sound through field and laboratory research. Participants investigate water quality, biodiversity, animal populations, ecosystem health, and human impacts while working aboard a research vessel and presenting a final research project.",
+    "email": "",
+    "labUrl": "https://soundwaters.org/sri/",
+    "applyUrl": "https://soundwaters.org/sri/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 404,
+    "name": "SHORE Academy",
+    "title": "High School Marine Bioscience Hands-On Research Experience",
+    "university": "University of Florida",
+    "state": "Florida, USA",
+    "department": "Whitney Laboratory for Marine Bioscience",
+    "field": "Marine Science",
+    "tags": [
+      "marine biology",
+      "marine bioscience",
+      "estuarine science",
+      "laboratory research",
+      "scientific research",
+      "marine ecology",
+      "biological research",
+      "St. Augustine",
+      "Florida"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Research Project",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The University of Florida Whitney Laboratory's SHORE Academy, or Science and Hands On Research Experience, serves students entering grades 10–12 who have completed high school biology, environmental science, or marine science. The program provides hands-on exposure to marine bioscience research at a dedicated university marine laboratory. The 2026 cohort was limited to approximately 12 students, and the one-week program cost $400. Students should verify future dates, tuition, prerequisite coursework, and application requirements.",
+    "resumeRating": 4,
+    "ratingNote": "A strong short-term marine bioscience experience because students gain hands-on exposure to scientific research inside a dedicated University of Florida marine laboratory, although its one-week duration makes it less intensive than longer internships.",
+    "summary": "SHORE Academy at the University of Florida Whitney Laboratory introduces high school students to marine bioscience and estuarine research through hands-on scientific activities in an active university marine laboratory environment.",
+    "email": "",
+    "labUrl": "https://www.whitney.ufl.edu/education/summer-camps-2026/",
+    "applyUrl": "https://www.whitney.ufl.edu/education/summer-camps-2026/",
+    "dateAdded": "2026-08-13"
+  }
 ]
