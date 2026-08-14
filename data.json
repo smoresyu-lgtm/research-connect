@@ -11966,4 +11966,195 @@
     "applyUrl": "https://www.mcneese.edu/iiec/mcneese-engineering-academy/",
     "dateAdded": "2026-08-13"
   }
+  ,
+  {
+    "id": 355,
+    "name": "Data4All High School Bridge Workshop",
+    "title": "Paid High School Data Science Research Program",
+    "university": "University of Chicago",
+    "state": "Illinois, USA",
+    "department": "Data Science Institute",
+    "field": "Data Science",
+    "tags": [
+      "data science",
+      "artificial intelligence",
+      "Python",
+      "data visualization",
+      "data analysis",
+      "research methods",
+      "inquiry-driven research",
+      "programming",
+      "Chicago",
+      "Illinois"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Research Exposure"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Data4All is designed for eligible Chicago high school sophomores, juniors, and seniors who have completed Algebra I. Students learn Python, data analysis, visualization, and the data-science research process before conducting inquiry-driven projects in small groups and presenting their findings. The Fall 2026 session runs on Saturdays from October 3 through November 21, and students who successfully complete the program receive a stipend. Applicants should verify current eligibility, dates, and application requirements for future sessions.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly strong and accessible data science opportunity because students move beyond coding instruction into inquiry-driven research, data analysis, and presentation while receiving a stipend.",
+    "summary": "The University of Chicago Data Science Institute's Data4All program introduces high school students to the full data-science research lifecycle. Participants learn Python, data analysis, and visualization before working in small groups to investigate data-driven questions, conduct research, and present their findings.",
+    "email": "",
+    "labUrl": "https://datascience.uchicago.edu/outreach/data4all/apply/",
+    "applyUrl": "https://datascience.uchicago.edu/outreach/data4all/apply/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 356,
+    "name": "UCSF AI4ALL",
+    "title": "High School Health Data Science and AI Research Internship",
+    "university": "University of California, San Francisco",
+    "state": "California, USA",
+    "department": "UCSF AI4ALL",
+    "field": "Data Science",
+    "tags": [
+      "data science",
+      "artificial intelligence",
+      "biomedical informatics",
+      "computational biology",
+      "public health",
+      "health data science",
+      "machine learning",
+      "faculty research",
+      "San Francisco",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "UCSF AI4ALL is a ten-week summer research internship for eligible SFUSD high school students. Participants work with UCSF faculty on biomedical and health-related research projects that use data, computation, artificial intelligence, and related quantitative methods. The 2026 application cycle is closed, so students should review UCSF AI4ALL for future eligibility requirements, deadlines, and program dates.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional data science research opportunity because students work directly with UCSF faculty on meaningful biomedical and health research using real computational and data-driven methods.",
+    "summary": "UCSF AI4ALL gives eligible high school students ten weeks of faculty-mentored computational research experience. Students apply data science, artificial intelligence, biomedical informatics, and computational biology methods to real health and biomedical research questions alongside UCSF researchers.",
+    "email": "",
+    "labUrl": "https://ai4all.ucsf.edu/",
+    "applyUrl": "https://ai4all.ucsf.edu/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 357,
+    "name": "Experiences in Research",
+    "title": "High School Data Science and Scientific Computing Research Internship",
+    "university": "Lawrence Berkeley National Laboratory",
+    "state": "California, USA",
+    "department": "K-12 STEM Education",
+    "field": "Data Science",
+    "tags": [
+      "data science",
+      "coding",
+      "scientific computing",
+      "experimental data",
+      "STEM research",
+      "programming",
+      "data analysis",
+      "national laboratory",
+      "Bay Area",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Lawrence Berkeley National Laboratory's Experiences in Research program serves eligible Bay Area high school students through a six-week summer internship. Available mentor projects can include data science with or without coding, coding-dependent research, scientific computing, experimental research, and data collection. The 2026 internship ran June 15 through July 24. Students should verify current geographic eligibility, available projects, dates, and application requirements for future cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional research internship because students can be matched with national-laboratory projects explicitly involving data science, coding, scientific computing, and experimental data analysis.",
+    "summary": "Berkeley Lab's Experiences in Research program connects eligible high school students with scientists and mentors for six weeks of authentic research. Data-science placements can involve coding, computational analysis, scientific datasets, experimental data collection, and other data-driven research within a national laboratory environment.",
+    "email": "",
+    "labUrl": "https://k12education.lbl.gov/programs/high-school/experiences-in-research",
+    "applyUrl": "https://k12education.lbl.gov/programs/high-school/experiences-in-research",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 358,
+    "name": "Data Scientists in Training (DST)",
+    "title": "High School Data Science Research and Project Program",
+    "university": "Rice University",
+    "state": "Texas, USA",
+    "department": "Data Scientists in Training",
+    "field": "Data Science",
+    "tags": [
+      "data science",
+      "statistics",
+      "computer science",
+      "data analysis",
+      "programming",
+      "coding",
+      "research project",
+      "quantitative research",
+      "Houston",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Rice University's NSF-funded Data Scientists in Training program serves eligible high school students in grades 10–11 who are at least 16 years old. The two-week program introduces students to core methods from statistics and computer science and places them into supervised teams that code and develop their own data-analysis projects. Students should verify current dates, eligibility, application requirements, and funding information for future cycles.",
+    "resumeRating": 4,
+    "ratingNote": "A strong dedicated data-science experience because students combine statistics, computing, coding, and team-based data-analysis projects, although the shorter two-week format makes it less intensive than a full research internship.",
+    "summary": "Rice University's Data Scientists in Training program introduces high school students to the foundations of modern data science through statistics, computer science, programming, and data analysis. Students work in supervised teams to code, investigate datasets, and develop their own data-analysis projects.",
+    "email": "",
+    "labUrl": "https://datascience.ericchi.com/",
+    "applyUrl": "https://datascience.ericchi.com/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 359,
+    "name": "Academy for Data Science Research",
+    "title": "High School Data Science and Machine Learning Research Academy",
+    "university": "The University of Texas at Austin",
+    "state": "Texas, USA",
+    "department": "Department of Computer Science",
+    "field": "Data Science",
+    "tags": [
+      "data science",
+      "machine learning",
+      "astronomy data",
+      "data analysis",
+      "scientific computing",
+      "scientific method",
+      "research methods",
+      "programming",
+      "Austin",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "UT Austin's Academy for Data Science Research is designed for students entering grades 10–12. Participants learn data analysis, machine learning, and scientific computing while applying the scientific method to professional astronomical datasets. The 2026 academy ran July 27 through August 7 and cost $1,400. Students should verify future dates, tuition, eligibility requirements, and application information through UT Austin Computer Science.",
+    "resumeRating": 4,
+    "ratingNote": "A strong research-oriented data science academy because students use professional scientific datasets and apply machine learning and analytical methods to real astronomy data rather than relying only on classroom exercises.",
+    "summary": "UT Austin's Academy for Data Science Research teaches high school students how data scientists use programming, machine learning, analysis, and the scientific method to make discoveries. Students work with professional astronomical data and develop experience with real scientific datasets and computational research methods.",
+    "email": "",
+    "labUrl": "https://www.cs.utexas.edu/engage/k-12-outreach/academies/data-science-research",
+    "applyUrl": "https://www.cs.utexas.edu/engage/k-12-outreach/academies/data-science-research",
+    "dateAdded": "2026-08-13"
+  }
 ]
