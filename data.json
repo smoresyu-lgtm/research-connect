@@ -13903,4 +13903,592 @@
     "applyUrl": "https://www.whitney.ufl.edu/education/summer-camps-2026/",
     "dateAdded": "2026-08-13"
   }
+  ,
+  {
+    "id": 405,
+    "name": "Research Mentorship Program (RMP)",
+    "title": "Individual Multidisciplinary University Research Mentorship",
+    "university": "University of California, Santa Barbara",
+    "state": "California, USA",
+    "department": "UCSB Summer Sessions",
+    "field": "Multidisciplinary",
+    "tags": [
+      "multidisciplinary",
+      "STEM",
+      "humanities",
+      "social sciences",
+      "engineering",
+      "education",
+      "computational research",
+      "field research",
+      "theoretical research",
+      "faculty mentorship",
+      "Santa Barbara",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "UC Santa Barbara's Research Mentorship Program is a competitive six-week research experience for high-achieving high school students from around the world. Students are matched with graduate students, postdoctoral researchers, or faculty mentors and select from projects spanning STEM, humanities, social sciences, education, engineering, and other disciplines. Projects include genuine hands-on research and may use laboratory, field, computational, theoretical, archival, or primary-source methods. Participants meet regularly with mentors and conclude by presenting at the RMP Research Symposium. The 2026 program ran from June 15 through July 31. Students should verify future dates, tuition, eligibility, and application deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional multidisciplinary research opportunity because students conduct genuine university research with individual mentorship across an unusually broad range of disciplines and research methodologies.",
+    "summary": "UCSB's Research Mentorship Program pairs high school students with university researchers for six weeks of intensive research spanning STEM, engineering, humanities, social sciences, education, computational work, field research, and other disciplines. Students complete a mentored project and present their work at a research symposium.",
+    "email": "",
+    "labUrl": "https://summer.ucsb.edu/programs/research-mentorship-program/overview",
+    "applyUrl": "https://summer.ucsb.edu/programs/research-mentorship-program/overview",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 406,
+    "name": "STEM Research Academy",
+    "title": "High School Multidisciplinary Faculty-Mentored Research Academy",
+    "university": "Southern Illinois University",
+    "state": "Illinois, USA",
+    "department": "STEM Education Research Center",
+    "field": "Multidisciplinary",
+    "tags": [
+      "multidisciplinary",
+      "physics",
+      "biology",
+      "computing",
+      "environmental science",
+      "agriculture",
+      "media arts",
+      "social science",
+      "independent research",
+      "faculty mentorship",
+      "Carbondale",
+      "Illinois"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Southern Illinois University's STEM Research Academy gives high school students approximately four weeks of authentic research experience alongside university faculty and staff. Students can select from available projects spanning multiple disciplines, with past and current topics including solar flares, Mississippi River wetlands, algae, wildlife, computing, social science, and U.S. Supreme Court research. Students may also propose their own research idea, with SIU helping identify an appropriate faculty mentor when possible. Research topics and mentor availability vary by year, so applicants should verify current projects, eligibility, dates, costs, and application requirements.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly strong multidisciplinary opportunity because students can work on authentic faculty research across very different fields and may even propose an original research idea for potential faculty matching.",
+    "summary": "SIU's STEM Research Academy connects high school students with faculty and staff for authentic multidisciplinary research. Projects can span physical science, biology, computing, environmental science, agriculture, social science, media arts, and other areas, with students also able to propose their own research interests.",
+    "email": "",
+    "labUrl": "https://stemedresearch.siu.edu/camps/stem-research-academy.php",
+    "applyUrl": "https://stemedresearch.siu.edu/camps/stem-research-academy.php",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 407,
+    "name": "Advanced Research Experience (ARE)",
+    "title": "High School Multidisciplinary Research Experience",
+    "university": "University of California, San Diego",
+    "state": "California, USA",
+    "department": "San Diego Supercomputer Center / StudentTech",
+    "field": "Multidisciplinary",
+    "tags": [
+      "multidisciplinary",
+      "computer science",
+      "artificial intelligence",
+      "machine learning",
+      "neuroscience",
+      "biomedical science",
+      "engineering",
+      "data science",
+      "computational research",
+      "San Diego",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Exposure",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "UC San Diego's Advanced Research Experience is a five-week multidisciplinary research program for high school students. The experience exposes participants to multiple research disciplines rather than limiting students to a single subject. The 2026 program begins with artificial intelligence and machine learning through UC San Diego Computer Science and Engineering and continues into additional research areas, including neuroscience and other university-led research domains. Students learn how methods and technologies from different disciplines can be applied to scientific research. Applicants should verify future research tracks, dates, tuition, eligibility, and application deadlines.",
+    "resumeRating": 4,
+    "ratingNote": "A strong multidisciplinary research experience because students engage with several university research disciplines and learn how computational and scientific methods connect across fields, although it is less individualized than a dedicated faculty-lab placement.",
+    "summary": "UC San Diego's Advanced Research Experience introduces high school students to research across several disciplines, including artificial intelligence, machine learning, computer science, neuroscience, biomedical science, engineering, and data science. Its rotating structure emphasizes connections between research methods across different fields.",
+    "email": "",
+    "labUrl": "https://education.sdsc.edu/studenttech/ucsd-advanced-research-experience/",
+    "applyUrl": "https://education.sdsc.edu/studenttech/ucsd-advanced-research-experience/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 408,
+    "name": "High School Research Academy (HSRA)",
+    "title": "High School Multidisciplinary University Laboratory Research Program",
+    "university": "The University of Texas at Austin",
+    "state": "Texas, USA",
+    "department": "College of Natural Sciences / Freshman Research Initiative",
+    "field": "Multidisciplinary",
+    "tags": [
+      "multidisciplinary",
+      "biology",
+      "chemistry",
+      "biochemistry",
+      "physics",
+      "genomics",
+      "neuroscience",
+      "environmental science",
+      "data analytics",
+      "computational biology",
+      "materials science",
+      "laboratory research",
+      "Austin",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "UT Austin's High School Research Academy provides students age 15 and older with approximately five weeks of research experience in active College of Natural Sciences laboratories. Rising sophomores, juniors, and seniors may participate, with Texas residents prioritized. Students spend approximately 15–25 hours each week with their research group and may work in areas including biochemistry, biology, chemistry, computational biology and chemistry, environmental science, genomics, materials science, molecular biology, physics, and related disciplines. Participants learn research techniques, interact with university researchers, and present a research poster at the HSRA Research Symposium. Students should verify current eligibility, costs, research areas, dates, and application deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional multidisciplinary STEM opportunity because high school students join active UT Austin research laboratories, spend substantial time with research groups, and present their work through a formal research poster.",
+    "summary": "UT Austin's High School Research Academy places high school students into active university laboratories for intensive research across biology, chemistry, physics, genomics, environmental science, computational science, materials science, and other STEM disciplines. Students work with research groups and conclude by presenting at a research symposium.",
+    "email": "",
+    "labUrl": "https://fri.cns.utexas.edu/community-outreach/summer-high-school-research-academy",
+    "applyUrl": "https://fri.cns.utexas.edu/community-outreach/summer-high-school-research-academy",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 409,
+    "name": "KEYS Research Internship",
+    "title": "Seven-Week Interdisciplinary High School Research Internship",
+    "university": "University of Arizona",
+    "state": "Arizona, USA",
+    "department": "BIO5 Institute",
+    "field": "Multidisciplinary",
+    "tags": [
+      "multidisciplinary",
+      "bioscience",
+      "data science",
+      "biomedical engineering",
+      "environmental science",
+      "computational research",
+      "interdisciplinary STEM",
+      "laboratory research",
+      "faculty mentorship",
+      "Tucson",
+      "Arizona"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "The University of Arizona BIO5 Institute's KEYS Research Internship is a seven-week immersive research experience for eligible Arizona high school students. Participants begin with training in bioscience and data-science techniques before being matched with University of Arizona researchers whose projects span multiple scientific and engineering disciplines. Students conduct real-world research with mentorship from faculty, university students, and laboratory personnel. The next announced cohort runs from June 7 through July 23, 2027. Students should verify 2027 eligibility, application deadlines, research areas, and participation requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional interdisciplinary research internship because students receive technical training before joining real University of Arizona research projects with sustained mentorship from faculty and laboratory researchers.",
+    "summary": "The University of Arizona's KEYS Research Internship gives high school students seven weeks of interdisciplinary research experience spanning bioscience, data science, biomedical engineering, environmental science, computational research, and related STEM fields. Students receive technical training before joining a university research team.",
+    "email": "",
+    "labUrl": "https://keys.arizona.edu/about",
+    "applyUrl": "https://keys.arizona.edu/about",
+    "dateAdded": "2026-08-13"
+  }
+  ,
+  {
+    "id": 410,
+    "name": "Student Science Training Program (SSTP)",
+    "title": "Seven-Week Faculty-Mentored High School Research Program",
+    "university": "University of Florida",
+    "state": "Florida, USA",
+    "department": "Center for Precollegiate Education and Training",
+    "field": "Multidisciplinary",
+    "tags": [
+      "biology",
+      "medicine",
+      "chemistry",
+      "physics",
+      "mathematics",
+      "computer science",
+      "engineering",
+      "multidisciplinary STEM",
+      "laboratory research",
+      "faculty mentorship",
+      "Gainesville",
+      "Florida"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The University of Florida Student Science Training Program is a competitive seven-week research experience for rising high school seniors. Students are paired with a UF faculty research scientist and research team and participate in the faculty member's ongoing research rather than completing only a predetermined classroom project. Research opportunities can span biology, medicine, chemistry, physics, mathematics, computer science, engineering, and other STEM disciplines. The 2026 program ran from June 7 through July 25. Florida students may also have opportunities to earn dual-enrollment credit. Students should verify future dates, tuition, eligibility, research areas, and application deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional research opportunity because high school students spend seven weeks embedded with University of Florida faculty research teams and contribute to ongoing scientific research across a wide range of STEM disciplines.",
+    "summary": "The University of Florida Student Science Training Program places rising high school seniors with UF faculty scientists and research teams for seven weeks of intensive research. Projects can span biological, physical, computational, mathematical, medical, and engineering fields.",
+    "email": "",
+    "labUrl": "https://www.cpet.ufl.edu/students/summer-programs/student-science-training-program/",
+    "applyUrl": "https://www.cpet.ufl.edu/students/summer-programs/student-science-training-program/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 411,
+    "name": "Kenan Fellows High School Summer Internship",
+    "title": "Eight-Week Biomedical Research Internship for High School Students",
+    "university": "University of Florida",
+    "state": "Florida, USA",
+    "department": "Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomedical science",
+      "molecular biology",
+      "neuroscience",
+      "drug discovery",
+      "experimental biology",
+      "laboratory research",
+      "data analysis",
+      "scientific communication",
+      "Jupiter",
+      "Florida"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "The Kenan Fellows High School Summer Internship at the Herbert Wertheim UF Scripps Institute is a highly selective eight-week, full-time biomedical research experience for eligible high school students from Martin and Palm Beach Counties. The 2026 cohort included 14 students selected from more than 250 applicants. Fellows work in active biomedical research laboratories alongside faculty, postdoctoral researchers, graduate students, and other scientists while developing skills in experimental design, advanced research techniques, data analysis, and scientific communication. Students contribute to ongoing research projects and conclude the experience with a research symposium. Applicants should verify future eligibility, dates, application deadlines, and program requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional biomedical research internship because students spend eight weeks full-time inside active UF Scripps laboratories, contribute to ongoing research, and work closely with professional scientists before presenting at a research symposium.",
+    "summary": "The Kenan Fellows program places selected South Florida high school students into active biomedical research laboratories at the Wertheim UF Scripps Institute. Fellows spend eight weeks working with scientists on research involving molecular biology, neuroscience, drug discovery, experimental biology, and related biomedical fields.",
+    "email": "",
+    "labUrl": "https://wertheim.scripps.ufl.edu/2026/07/06/top-local-high-school-students-selected-for-the-wertheim-uf-scripps-institutes-kenan-fellows-program/",
+    "applyUrl": "https://wertheim.scripps.ufl.edu/2026/07/06/top-local-high-school-students-selected-for-the-wertheim-uf-scripps-institutes-kenan-fellows-program/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 412,
+    "name": "Research Experience for Secondary Students (RESSt)",
+    "title": "High School Everglades Environmental Research Experience",
+    "university": "Florida International University",
+    "state": "Florida, USA",
+    "department": "Florida Coastal Everglades Long Term Ecological Research Program",
+    "field": "Environmental Science",
+    "tags": [
+      "ecology",
+      "Everglades",
+      "environmental science",
+      "mangroves",
+      "hydrology",
+      "climate science",
+      "field biology",
+      "coastal ecology",
+      "field research",
+      "Miami",
+      "Florida"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Researcher Coordination",
+    "applicationWindow": "Florida International University's Florida Coastal Everglades LTER Research Experience for Secondary Students connects high school students with scientists conducting active Everglades research. Students may work approximately 5–20 hours per week with researchers on environmental projects involving ecology, hydrology, mangroves, climate, coastal systems, and field biology. Participants can develop research projects, present posters at scientific meetings, and enter their work in science fairs. The official program page documents active 2026 secondary-student research involving salinity, water levels, and red mangrove establishment. Participation is coordinated through Florida Coastal Everglades researchers, so interested students should review the current program page for mentor availability and participation procedures.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional environmental research pathway because secondary students work directly with active Everglades scientists for sustained weekly research and may present their findings at scientific meetings.",
+    "summary": "The Florida Coastal Everglades LTER RESSt program gives high school students sustained experience working with scientists on real Everglades research. Projects can involve ecology, mangroves, hydrology, climate, environmental monitoring, and field biology, with opportunities for scientific posters and presentations.",
+    "email": "",
+    "labUrl": "https://fcelter.fiu.edu/outreach/research-experiences/secondary_students/",
+    "applyUrl": "https://fcelter.fiu.edu/outreach/research-experiences/secondary_students/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 413,
+    "name": "Summer Research Internship",
+    "title": "High School and Undergraduate Faculty-Mentored Summer Research Internship",
+    "university": "Florida International University",
+    "state": "Florida, USA",
+    "department": "College of Arts, Sciences & Education",
+    "field": "Multidisciplinary",
+    "tags": [
+      "biology",
+      "chemistry",
+      "environmental science",
+      "psychology",
+      "STEM",
+      "faculty mentorship",
+      "laboratory research",
+      "summer research",
+      "Miami",
+      "Florida"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "Florida International University's Summer Research Internship is open to eligible high school and undergraduate students. Accepted students are matched with an FIU faculty research mentor, complete university research-safety training, enroll in an internship course, and participate in the summer research curriculum. High school participants enroll at FIU as non-degree-seeking students if accepted. Research areas vary by available faculty mentors and can include biology, chemistry, environmental science, psychology, and other STEM disciplines. The 2026 program ran from June 12 through August 7, and FIU states that Summer 2027 applications will open in January 2027. Students should verify current mentor availability, eligibility, costs, dates, and application requirements.",
+    "resumeRating": 5,
+    "ratingNote": "A strong university research internship because high school students are formally matched with FIU faculty mentors and participate in sustained research alongside university-level research training.",
+    "summary": "FIU's Summer Research Internship matches eligible high school and undergraduate students with faculty research mentors for an extended summer experience. Available projects vary by mentor and can span biology, chemistry, environmental science, psychology, and other scientific disciplines.",
+    "email": "",
+    "labUrl": "https://case.fiu.edu/opportunities/internships-jobs/summer-research-internship/",
+    "applyUrl": "https://case.fiu.edu/opportunities/internships-jobs/summer-research-internship/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 414,
+    "name": "Young Scholars Program (YSP)",
+    "title": "Free Six-Week High School STEM Research and University Program",
+    "university": "Florida State University",
+    "state": "Florida, USA",
+    "department": "Office of STEM Teaching Activities",
+    "field": "Multidisciplinary",
+    "tags": [
+      "mathematics",
+      "biology",
+      "chemistry",
+      "physics",
+      "computer science",
+      "engineering",
+      "multidisciplinary STEM",
+      "science research",
+      "Tallahassee",
+      "Florida"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Exposure",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Florida State University's Young Scholars Program is a free six-week residential science and mathematics experience primarily for Florida students who have completed grade 11, although exceptional students who have completed grade 10 may occasionally qualify. Applicants need at least a 3.0 unweighted GPA and must meet additional mathematics and standardized-testing requirements, including preparation through precalculus. The program provides advanced STEM coursework, research experiences, and university-level scientific engagement across mathematics, biology, chemistry, physics, computer science, engineering, and related areas. The 2026 program ran from June 7 through July 18. Students should verify future eligibility, testing requirements, dates, and application deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "A strong and highly accessible Florida STEM opportunity because the six-week residential program is free and combines advanced university-level science and mathematics with research experiences across multiple disciplines.",
+    "summary": "Florida State University's Young Scholars Program gives academically strong Florida high school students six weeks of intensive STEM study and research experience. Students explore mathematics, biology, chemistry, physics, computer science, engineering, and related scientific fields in a university environment.",
+    "email": "",
+    "labUrl": "https://ysp.osta.fsu.edu/",
+    "applyUrl": "https://ysp.osta.fsu.edu/",
+    "dateAdded": "2026-08-13"
+  }
+  ,
+  {
+    "id": 415,
+    "name": "Jefferson Lab/VIMS Summer Residential Governor's School",
+    "title": "Four-Week Professional Scientist-Mentored Research Experience",
+    "university": "William & Mary / Jefferson Lab / Virginia Institute of Marine Science",
+    "state": "Virginia, USA",
+    "department": "Center for Gifted Education",
+    "field": "Multidisciplinary",
+    "tags": [
+      "physics",
+      "engineering",
+      "aeronautics",
+      "marine science",
+      "oceanography",
+      "environmental science",
+      "laboratory research",
+      "scientist mentorship",
+      "research team",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The Jefferson Lab/VIMS Summer Residential Governor's School is a four-week research experience for high-achieving Virginia high school students, with selection beginning through the student's local school division. Participants are individually assigned to research mentors at either Jefferson Lab or the Virginia Institute of Marine Science and join existing research teams. Students work one-on-one or in small groups with professional scientists and graduate researchers in areas including physics, engineering, aeronautics, marine science, oceanography, and environmental science. Engineering students give a final research presentation, while VIMS participants produce and present a research document. The program has operated since 1993. Students should verify current nomination procedures, eligibility, dates, and application requirements through their school division.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional research experience because high school students join existing professional research teams and receive direct mentorship from scientists and graduate researchers at Jefferson Lab or the Virginia Institute of Marine Science.",
+    "summary": "The Jefferson Lab/VIMS Summer Residential Governor's School gives Virginia high school students four weeks of intensive research alongside professional scientists. Students join active teams in physics, engineering, aeronautics, marine science, oceanography, environmental science, and related fields and conclude with formal research presentations or documents.",
+    "email": "",
+    "labUrl": "https://education.wm.edu/centers/cfge/precollegiate/gov-school/",
+    "applyUrl": "https://education.wm.edu/centers/cfge/precollegiate/gov-school/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 416,
+    "name": "Medical Science Internship Program (MSIP)",
+    "title": "Six-Week High School Medical Research Internship",
+    "university": "Virginia Commonwealth University",
+    "state": "Virginia, USA",
+    "department": "VCU School of Medicine",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomedical science",
+      "medicine",
+      "molecular biology",
+      "laboratory science",
+      "medical research",
+      "experimental research",
+      "faculty mentorship",
+      "research poster",
+      "Richmond",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "Virginia Commonwealth University's Medical Science Internship Program is a competitive six-week research experience for high school students. Participants work inside VCU research laboratories under research mentors and conduct projects provided by their assigned laboratories. Mentorship may involve principal investigators as well as M.D./Ph.D. students, graduate students, and other researchers. Students develop research skills during their laboratory placement and conclude by creating both a research slideshow and poster presentation based on their summer work. The 2026 program ran from June 15 through July 24. Applicants should verify current eligibility requirements, research placements, dates, and application deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional biomedical research internship because students spend six weeks conducting an assigned project inside an active VCU research laboratory and formally present their results through both a slideshow and research poster.",
+    "summary": "VCU's Medical Science Internship Program places high school students into university research laboratories for six weeks of mentored biomedical and medical research. Students conduct laboratory projects with research mentors and conclude by presenting their work through a research poster and slideshow.",
+    "email": "",
+    "labUrl": "https://medschool.vcu.edu/admissions/summer/",
+    "applyUrl": "https://medschool.vcu.edu/admissions/summer/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 417,
+    "name": "Project SEED",
+    "title": "Eight-Week High School Chemistry Research Internship",
+    "university": "Virginia Commonwealth University",
+    "state": "Virginia, USA",
+    "department": "Department of Chemistry / American Chemical Society Project SEED",
+    "field": "Chemistry",
+    "tags": [
+      "chemistry",
+      "biochemistry",
+      "materials",
+      "experimental science",
+      "laboratory research",
+      "faculty mentorship",
+      "research poster",
+      "American Chemical Society",
+      "Richmond",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "VCU's Department of Chemistry participates in the American Chemical Society Project SEED program, providing eligible Richmond-area high school students with approximately eight weeks of university laboratory research. Students conduct summer research projects in the laboratories of VCU chemistry professors and receive hands-on experience in scientific research, laboratory techniques, and college preparation. VCU documented an active 2026 cohort of four Richmond-area high school students conducting summer research projects. Participants conclude by presenting their results at VCU's ACS Project SEED High School Research Poster Session. ACS Project SEED eligibility requirements apply, and students should verify current application procedures, financial eligibility requirements, dates, and available research placements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional chemistry research opportunity because high school students spend eight weeks conducting genuine research in VCU faculty laboratories and formally present their results at a university research poster session.",
+    "summary": "VCU's ACS Project SEED pathway gives eligible Richmond-area high school students eight weeks of hands-on chemistry research in university faculty laboratories. Students work on research projects in chemistry and related fields and present their findings at a final research poster session.",
+    "email": "",
+    "labUrl": "https://chemistry.vcu.edu/news/newsroom/chemistry-news/thank-you-for-donations-to-project-seed.html",
+    "applyUrl": "https://chemistry.vcu.edu/news/newsroom/chemistry-news/thank-you-for-donations-to-project-seed.html",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 418,
+    "name": "High School Research Opportunities",
+    "title": "Flexible High School Computational Research Opportunities",
+    "university": "University of Virginia",
+    "state": "Virginia, USA",
+    "department": "Biocomplexity Institute",
+    "field": "Data Science",
+    "tags": [
+      "data science",
+      "computational science",
+      "systems science",
+      "epidemiology",
+      "modeling",
+      "global challenges",
+      "computational modeling",
+      "research mentorship",
+      "direct inquiry",
+      "Charlottesville",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Direct Inquiry"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The University of Virginia Biocomplexity Institute offers shorter-term and flexible research experiences for high school students depending on researcher and project availability. Interested high school students are directed to contact the institute for more information. Research experiences can expose students to real-world computational science with mentorship from Biocomplexity Institute researchers, with potential areas including data science, computational modeling, systems science, epidemiology, and research addressing complex global challenges. Opportunities vary according to current research needs and mentor availability, so students should contact the institute and verify whether appropriate high school research placements are currently available.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly valuable Research Connect listing because the Biocomplexity Institute explicitly provides flexible high school research opportunities based on researcher availability, creating a direct pathway into real-world computational research outside a traditional summer-program structure.",
+    "summary": "UVA's Biocomplexity Institute offers flexible high school research experiences based on researcher and project availability. Students can gain mentorship and exposure to real computational research involving data science, systems science, modeling, epidemiology, and complex global challenges.",
+    "email": "",
+    "labUrl": "https://biocomplexity.virginia.edu/student-opportunities",
+    "applyUrl": "https://biocomplexity.virginia.edu/student-opportunities",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 419,
+    "name": "High School Summer Research Program",
+    "title": "High School Kidney and Biomedical Research Summer Program",
+    "university": "University of Virginia",
+    "state": "Virginia, USA",
+    "department": "Division of Nephrology / Department of Medicine",
+    "field": "Biomedical Science",
+    "tags": [
+      "nephrology",
+      "kidney research",
+      "biomedical science",
+      "medicine",
+      "physiology",
+      "laboratory research",
+      "medical research",
+      "summer research",
+      "Charlottesville",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Exposure",
+      "Summer Research"
+    ],
+    "applicationType": "Department Research Program",
+    "applicationWindow": "The University of Virginia Division of Nephrology in the Department of Medicine offers a summer research program for high school students interested in careers in science and medicine. The program provides a pathway for students to gain exposure to university biomedical and kidney-related research within UVA's academic medical environment. Publicly available program information is limited, so students should contact or review the Division of Nephrology's current research-training information before applying to confirm the structure of high school research placements, current eligibility requirements, dates, mentor availability, and application procedures.",
+    "resumeRating": 4,
+    "ratingNote": "A valuable department-level biomedical research pathway because UVA's Division of Nephrology explicitly offers summer research opportunities for high school students, although public information about the exact structure and availability of placements is more limited than for larger formal internship programs.",
+    "summary": "UVA's Division of Nephrology offers a summer research pathway for high school students interested in science and medicine. The opportunity provides exposure to biomedical, kidney, physiology, and medical research within the UVA School of Medicine.",
+    "email": "",
+    "labUrl": "https://med.virginia.edu/nephrology/research-training/ignite-kuh/",
+    "applyUrl": "https://med.virginia.edu/nephrology/research-training/ignite-kuh/",
+    "dateAdded": "2026-08-13"
+  }
 ]
