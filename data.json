@@ -15080,4 +15080,408 @@
     "applyUrl": "https://www.une.edu/pre-college-experience",
     "dateAdded": "2026-08-14"
   }
+  ,
+  {
+    "id": 435,
+    "name": "STAR Lab",
+    "title": "Academic-Year Authentic High School Research Mentorship",
+    "university": "University of Arizona",
+    "state": "Arizona, USA",
+    "department": "Molecular and Cellular Biology",
+    "field": "Multidisciplinary",
+    "tags": [
+      "biology",
+      "chemistry",
+      "engineering",
+      "data science",
+      "computational research",
+      "STEM",
+      "independent research",
+      "faculty mentorship",
+      "laboratory research",
+      "research paper",
+      "scientific presentation",
+      "Tucson",
+      "Arizona"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Academic Year Research"
+    ],
+    "applicationType": "Structured Research Mentorship",
+    "applicationWindow": "The University of Arizona's STAR Lab matches Arizona high school students with graduate students, postdoctoral researchers, professors, and other STEM professionals to conduct authentic research projects. Students work with their mentors to develop feasible research questions and carry their projects through a research proposal, research paper, and final presentation. Depending on the project, research may take place in STAR Lab, within a mentor's University of Arizona laboratory, or remotely for computational work. Students generally meet with mentors at least weekly from approximately late September through early March. For the 2026-27 cycle, students must be at least 16 by the program start, require a teacher nomination, and applications are due August 31, 2026. Applicants should verify current eligibility requirements, dates, and deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional academic-year research opportunity because students conduct authentic mentored research over several months and complete substantial deliverables including a research proposal, paper, and presentation.",
+    "summary": "The University of Arizona's STAR Lab gives Arizona high school students an academic-year authentic research experience with university and STEM mentors. Students develop a research question, conduct their project in a laboratory or computational setting, and produce a research proposal, paper, and presentation.",
+    "email": "",
+    "labUrl": "https://mcb.arizona.edu/outreach/star-lab",
+    "applyUrl": "https://mcb.arizona.edu/outreach/star-lab",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 436,
+    "name": "Cultural and Academic Research Experience (CARE)",
+    "title": "Paid High School STEMM Research Experience",
+    "university": "Northern Arizona University",
+    "state": "Arizona, USA",
+    "department": "Center for Materials Interfaces in Research and Applications (¡MIRA!)",
+    "field": "Biomedical Science",
+    "tags": [
+      "chemistry",
+      "biology",
+      "biomedical science",
+      "healthcare",
+      "STEMM",
+      "laboratory research",
+      "hands-on research",
+      "research mentorship",
+      "paid research",
+      "summer research",
+      "Flagstaff",
+      "Arizona"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Northern Arizona University's Cultural and Academic Research Experience through ¡MIRA! provides high school students with hands-on research and mentorship in chemistry, biology, healthcare, and related STEMM disciplines. Both Arizona and non-Arizona students may apply, with the program particularly focused on expanding participation in STEMM across the Southwest. The 2026 in-person program ran from May 31 through July 25, accepted a cohort of up to 20 students, and participants could receive a stipend of up to $4,500. Applicants should verify current research areas, eligibility requirements, stipend amounts, program dates, housing arrangements, and application deadlines for future cycles.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional summer research program because high school students receive sustained hands-on research experience and mentorship over approximately eight weeks, with financial support available and eligibility extending beyond Arizona residents.",
+    "summary": "NAU's CARE program gives high school students an approximately eight-week mentored research experience in chemistry, biology, biomedical science, healthcare, and related STEMM fields. The program accepts both Arizona and non-Arizona students and can provide participants with substantial stipend support.",
+    "email": "",
+    "labUrl": "https://mira.nau.edu/care/",
+    "applyUrl": "https://mira.nau.edu/care/",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 437,
+    "name": "Steps 2 STEM Summer Research Internship",
+    "title": "University Laboratory Research Internship and College Credit Program",
+    "university": "University of Arizona",
+    "state": "Arizona, USA",
+    "department": "Southwest Environmental Health Sciences Center",
+    "field": "Biomedical Science",
+    "tags": [
+      "biotechnology",
+      "biomedical science",
+      "environmental health",
+      "laboratory science",
+      "STEM",
+      "university research",
+      "research mentorship",
+      "college credit",
+      "laboratory safety",
+      "scientific presentation",
+      "Tucson",
+      "Arizona"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "School Partnership Research Internship",
+    "applicationWindow": "The University of Arizona's Steps 2 STEM Summer Research Internship provides eligible Pima County JTED Biotechnology or Health Care Foundations students with four weeks of university research experience. Participants must generally be at least 16 years old. After initial science-literacy training, students spend most of the program working with STEM professionals in research laboratories across the University of Arizona. Participants also earn three transferable college credits, complete Bloodborne Pathogens and Laboratory and Chemical Safety certifications, and present their work at the Steps 2 STEM Research Exhibit. The 2026 program ran from May 26 through June 26. Applicants should verify current JTED eligibility, dates, credit information, and application requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional opportunity for eligible students because participants spend most of the program working directly in University of Arizona research laboratories while also earning transferable college credit and professional laboratory-safety certifications.",
+    "summary": "Steps 2 STEM places eligible Pima County high school students into University of Arizona research laboratories for a four-week summer internship. Students work with STEM professionals, earn three transferable college credits, complete laboratory safety certifications, and present their research experience.",
+    "email": "",
+    "labUrl": "https://swehsc.pharmacy.arizona.edu/outreach/youth-activities/steps2stem_overview",
+    "applyUrl": "https://swehsc.pharmacy.arizona.edu/outreach/youth-activities/steps2stem_overview",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 438,
+    "name": "SAVE Lab High School Research",
+    "title": "Direct-Inquiry Robotics and Automation Research Pathway",
+    "university": "Arizona State University",
+    "state": "Arizona, USA",
+    "department": "Safety, Automation, Visualization, and Education Lab",
+    "field": "Robotics",
+    "tags": [
+      "robotics",
+      "automation",
+      "artificial intelligence",
+      "construction engineering",
+      "computer vision",
+      "smart sensing",
+      "safety",
+      "engineering",
+      "applied research",
+      "direct inquiry",
+      "Arizona"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Direct Inquiry"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "Arizona State University's Safety, Automation, Visualization, and Education Lab periodically welcomes motivated high school students interested in construction safety, automation, robotics, and related technologies. High school opportunities can include mentored research or applied projects and exposure to the lab's active work involving automation, artificial intelligence, computer vision, smart sensing, robotics, and construction engineering. This is not a guaranteed standing internship program, and opportunities depend on current projects and mentor availability. Interested students should review the SAVE Lab's current research and opportunities page and inquire professionally regarding potential high school research or project placements.",
+    "resumeRating": 5,
+    "ratingNote": "A highly valuable direct-inquiry pathway when a placement is available because the SAVE Lab explicitly identifies opportunities for high school students to participate in mentored research or applied projects connected to active university robotics and automation research.",
+    "summary": "ASU's SAVE Lab periodically offers high school students opportunities to participate in mentored research or applied projects involving robotics, automation, artificial intelligence, computer vision, smart sensing, safety, and construction engineering. Placements are availability dependent.",
+    "email": "",
+    "labUrl": "https://labs.engineering.asu.edu/save/opportunities/",
+    "applyUrl": "https://labs.engineering.asu.edu/save/opportunities/",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 439,
+    "name": "SARSEF Research Programs",
+    "title": "Arizona Student Independent Research and Science Fair Pathway",
+    "university": "SARSEF / University of Arizona Research Mentorship Ecosystem",
+    "state": "Arizona, USA",
+    "department": "Student Research and Science Fair Programs",
+    "field": "Multidisciplinary",
+    "tags": [
+      "STEM",
+      "engineering",
+      "environmental science",
+      "biomedical science",
+      "data science",
+      "independent research",
+      "science fair",
+      "research mentorship",
+      "scientific presentation",
+      "Arizona"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Research Exposure"
+    ],
+    "applicationType": "Independent Research Pathway",
+    "applicationWindow": "SARSEF provides Arizona students with pathways for developing, conducting, and presenting independent STEM research through science-fair and research-support programs. The broader Arizona research mentorship ecosystem, including University of Arizona programs such as STAR Lab, can support students in developing projects that may later be presented through SARSEF and other regional or state research competitions. Specific eligibility, mentorship, research support, timelines, and competition requirements vary by program. This listing should be treated as a mentored independent-research and science-fair pathway rather than a university laboratory internship. Students should review current SARSEF opportunities and requirements before participating.",
+    "resumeRating": 4,
+    "ratingNote": "A useful independent research pathway for Arizona students because it supports the development and presentation of student-led STEM research, although it is not equivalent to a dedicated university laboratory internship or faculty research placement.",
+    "summary": "SARSEF supports Arizona students developing and presenting independent STEM research through research-development and science-fair pathways. It can complement university mentorship opportunities by giving students a structured venue for advancing and communicating their projects.",
+    "email": "",
+    "labUrl": "https://mcb.arizona.edu/outreach/star-lab",
+    "applyUrl": "https://mcb.arizona.edu/outreach/star-lab",
+    "dateAdded": "2026-08-14"
+  }
+  ,
+  {
+    "id": 440,
+    "name": "CBESS Student Researcher Program",
+    "title": "Community Health Research and Mentorship Program",
+    "university": "University of Nevada, Reno",
+    "state": "Nevada, USA",
+    "department": "Raggio Center for Advancement in STEM Education",
+    "field": "Public Health",
+    "tags": [
+      "public health",
+      "community health",
+      "healthcare",
+      "social science",
+      "STEM",
+      "health disparities",
+      "community research",
+      "student-led research",
+      "research mentorship",
+      "internship",
+      "bilingual students",
+      "Reno",
+      "Nevada"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship",
+      "Internship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The University of Nevada, Reno's CBESS Student Researcher Program selects up to 30 bilingual Northern Nevada high school juniors for a research and mentorship experience centered on community health. Students learn hypothesis-driven research methods and complete a student-led research project investigating a community health issue. Participants also receive STEM and healthcare instruction, visit research facilities, and continue into near-peer mentoring during their senior year. The pathway also includes an outreach internship connected to students' summer research. Applicants should verify current bilingual, geographic, grade-level, application, and program requirements before applying.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional high school research pathway because students conduct a substantive community-health research project and continue into longer-term mentorship and internship experiences rather than completing only a short summer program.",
+    "summary": "UNR's CBESS Student Researcher Program gives bilingual Northern Nevada high school juniors the opportunity to investigate community health issues through student-led research. Participants learn research methods and continue into senior-year mentorship and an outreach internship connected to their research.",
+    "email": "",
+    "labUrl": "https://www.unr.edu/raggio-center/educational-research/community-of-bilingual-english-spanish-speakers/student-researchers",
+    "applyUrl": "https://www.unr.edu/raggio-center/educational-research/community-of-bilingual-english-spanish-speakers/student-researchers",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 441,
+    "name": "DRI Research Immersion Internship",
+    "title": "Paid Semester-Long Professional Research Internship",
+    "university": "Desert Research Institute",
+    "state": "Nevada, USA",
+    "department": "Research Immersion Internship Program",
+    "field": "Earth Science",
+    "tags": [
+      "earth science",
+      "seismology",
+      "wildfire",
+      "GIS",
+      "meteorology",
+      "hydrology",
+      "data science",
+      "Python",
+      "geospatial science",
+      "science communication",
+      "environmental science",
+      "paid research",
+      "Nevada"
+    ],
+    "levels": [
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Structured Research Internship",
+    "applicationWindow": "The Desert Research Institute's Research Immersion Internship places Nevada state and community college students on professional research teams working alongside DRI scientists. Students must have completed high school, and the program particularly serves first- and second-year college students. Spring 2026 projects included analyzing Southern Nevada seismo-acoustic data, using Python and GIS to model Nevada wildfires, studying hydrology and fire science, and analyzing winter-weather data. Most Spring 2026 projects ran from January 20 through May 8 at approximately eight hours per week, and internships were paid. DRI reports creating dozens of semester-long research internships through the program since 2021. Applicants should verify current projects, compensation, institutional eligibility, dates, and application requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional early-undergraduate research opportunity because students join professional DRI research teams, receive compensation, and work on highly specific real-world scientific research problems over an entire semester.",
+    "summary": "DRI's Research Immersion Internship places Nevada college students on professional research teams studying topics such as seismology, wildfire modeling, GIS, hydrology, meteorology, and environmental science. Internships are paid and generally run for an academic semester.",
+    "email": "",
+    "labUrl": "https://www.dri.edu/immersion/",
+    "applyUrl": "https://www.dri.edu/immersion/",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 442,
+    "name": "Nevada INBRE Undergraduate Research Opportunities Program",
+    "title": "Paid Summer Independent Biomedical Research Program",
+    "university": "University of Nevada, Reno / Nevada INBRE",
+    "state": "Nevada, USA",
+    "department": "Nevada INBRE",
+    "field": "Biomedical Science",
+    "tags": [
+      "biomedical science",
+      "biology",
+      "molecular biology",
+      "biotechnology",
+      "health science",
+      "laboratory research",
+      "independent research",
+      "research ethics",
+      "scientific poster",
+      "faculty mentorship",
+      "paid research",
+      "summer research",
+      "Nevada"
+    ],
+    "levels": [
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Nevada INBRE's Undergraduate Research Opportunities Program provides eligible continuing junior and senior undergraduates with an intensive 10-week full-time summer laboratory research experience. Students complete an independent research project under research mentorship while participating in seminars covering research ethics and professional development. The program concludes with a research poster symposium. For 2026, the program ran June 1 through August 7 and provided an award of up to $7,200, with an additional $1,000 available to the research mentor for laboratory supplies. Eligible participants generally attend participating Nevada institutions, although some students from western IDeA states may also qualify, and a minimum 3.0 GPA applies. Applicants should verify current institutional eligibility, GPA requirements, funding, research placements, and deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional undergraduate research program because participants spend 10 weeks full-time completing an independent biomedical research project and receive substantial financial support while developing professional scientific skills.",
+    "summary": "Nevada INBRE UROP gives eligible undergraduates a paid 10-week full-time biomedical research experience in which they complete an independent laboratory project, participate in research and professional-development seminars, and present a scientific poster.",
+    "email": "",
+    "labUrl": "https://www.unr.edu/nevada-inbre/student-programs/urop",
+    "applyUrl": "https://www.unr.edu/nevada-inbre/student-programs/urop",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 443,
+    "name": "Pack Research Experience Program (PREP)",
+    "title": "Paid Early Undergraduate Faculty Research Assistantship",
+    "university": "University of Nevada, Reno",
+    "state": "Nevada, USA",
+    "department": "Office of Undergraduate Research",
+    "field": "Multidisciplinary",
+    "tags": [
+      "STEM",
+      "public health",
+      "psychology",
+      "political science",
+      "agriculture",
+      "engineering",
+      "humanities",
+      "multidisciplinary research",
+      "faculty research",
+      "research assistant",
+      "paid research",
+      "undergraduate research",
+      "Reno",
+      "Nevada"
+    ],
+    "levels": [
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Academic Year Research"
+    ],
+    "applicationType": "Faculty Research Placement",
+    "applicationWindow": "The University of Nevada, Reno's Pack Research Experience Program helps freshmen and sophomores begin participating in faculty research and creative projects early in college. Students are paid hourly to work with faculty researchers on specific projects across a wide range of disciplines. Fall 2026 projects included concussion diagnostics, greener mining, insect physiology, human trafficking in Nevada, public health, aphantasia and face recognition, cactus-pear bioenergy, attitudes toward generative AI, political violence, and other topics. Research areas and available faculty projects change by cycle. Applicants should review the current PREP project list and verify eligibility, compensation, application dates, and individual project requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional early-undergraduate research pathway because freshmen and sophomores can join specific faculty research projects across an unusually broad range of disciplines while receiving hourly compensation.",
+    "summary": "UNR's PREP program gives freshmen and sophomores paid opportunities to join faculty research and creative projects across STEM, social science, public health, engineering, agriculture, humanities, and other disciplines.",
+    "email": "",
+    "labUrl": "https://www.unr.edu/undergradresearch/opportunities",
+    "applyUrl": "https://www.unr.edu/undergradresearch/opportunities",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 444,
+    "name": "Nevada INBRE Microbiome Undergraduate Boot Camp",
+    "title": "Human Microbiome Biomedical Data Research Experience",
+    "university": "University of Nevada, Reno / Nevada INBRE",
+    "state": "Nevada, USA",
+    "department": "Nevada INBRE",
+    "field": "Computational Biology",
+    "tags": [
+      "microbiome",
+      "microbiology",
+      "biomedical data science",
+      "bioinformatics",
+      "human health",
+      "data analysis",
+      "computational biology",
+      "gut microbiome",
+      "biomedical research",
+      "research training",
+      "Nevada"
+    ],
+    "levels": [
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Exposure",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Nevada INBRE's Microbiome Undergraduate Boot Camp is a guided research experience introducing undergraduate students to biomedical data science through an active human gut microbiome study. Participants move through core stages of a real research project while developing skills in microbiome science, bioinformatics, biomedical data analysis, and interpretation. The program is shorter than a traditional research internship and lasts approximately one week, making it best classified as an intensive guided research experience rather than a long-term laboratory placement. The 2026 application cycle was active through Nevada INBRE. Applicants should verify current eligibility, program dates, application requirements, research content, and availability for future cycles.",
+    "resumeRating": 4,
+    "ratingNote": "A strong specialized research experience because students work with data from an active human microbiome study and learn the stages of biomedical data research, although its one-week duration makes it less intensive than a semester or summer research internship.",
+    "summary": "Nevada INBRE's Microbiome Undergraduate Boot Camp gives students a guided introduction to real biomedical data research using an active human gut microbiome study, with emphasis on microbiome science, bioinformatics, and data analysis.",
+    "email": "",
+    "labUrl": "https://www.unr.edu/nevada-inbre/student-programs/microbiome",
+    "applyUrl": "https://www.unr.edu/nevada-inbre/student-programs/microbiome",
+    "dateAdded": "2026-08-14"
+  }
 ]
