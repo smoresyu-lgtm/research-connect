@@ -12157,4 +12157,202 @@
     "applyUrl": "https://www.cs.utexas.edu/engage/k-12-outreach/academies/data-science-research",
     "dateAdded": "2026-08-13"
   }
+  ,
+  {
+    "id": 360,
+    "name": "Paul Edwin Potter Internship",
+    "title": "Paid High School Geoscience Research Internship",
+    "university": "University of Kentucky / Kentucky Geological Survey",
+    "state": "Kentucky, USA",
+    "department": "Kentucky Geological Survey",
+    "field": "Earth Science",
+    "tags": [
+      "earth science",
+      "geology",
+      "hydrology",
+      "geochemistry",
+      "GIS",
+      "geophysics",
+      "natural hazards",
+      "watershed modeling",
+      "flood research",
+      "landslides",
+      "Lexington",
+      "Kentucky"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate",
+      "Graduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The Kentucky Geological Survey's Paul Edwin Potter Internship is a ten-week paid summer research program open to qualified high school, undergraduate, and master's students. Participants work approximately 40 hours per week and develop individual geoscience research projects with mentors. The 2026 program paid $15.75 per hour and included projects involving watershed and flood modeling, stream monitoring, geochemistry, floodplain research, landslide surveying, soils, hydrology, GIS, and geophysics. Students should verify future project offerings, pay rates, eligibility requirements, and application dates.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional Earth science opportunity because high school students can complete ten weeks of full-time paid geoscience research while developing an individual project and presenting their results through a poster and research talk.",
+    "summary": "The Paul Edwin Potter Internship at the Kentucky Geological Survey gives students substantial hands-on experience with geoscience research. Participants may work on geology, hydrology, geochemistry, GIS, geophysics, natural hazards, flood modeling, landslides, soils, and related Earth-system questions while completing an individual mentored research project.",
+    "email": "",
+    "labUrl": "https://kygs.uky.edu/intern/2026",
+    "applyUrl": "https://kygs.uky.edu/intern/2026",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 361,
+    "name": "High School Internship Program (HIP)",
+    "title": "Paid High School Geographical Sciences Research Internship",
+    "university": "University of Maryland",
+    "state": "Maryland, USA",
+    "department": "Department of Geographical Sciences",
+    "field": "Earth Science",
+    "tags": [
+      "earth science",
+      "climate change",
+      "GIS",
+      "remote sensing",
+      "geospatial science",
+      "environmental science",
+      "data analysis",
+      "faculty mentorship",
+      "remote research",
+      "Maryland"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Remote Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The University of Maryland Department of Geographical Sciences High School Internship Program serves eligible DMV-region high school students who are authorized to work in the United States. Students are paired with faculty mentors based on shared research interests and complete a college-level geographical-sciences research project. The 2026 program involved approximately ten hours per week for six weeks, provided a $900 stipend, and concluded with a research poster presentation. Selected students may also have opportunities to continue during the academic year.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional geospatial and Earth science research opportunity because students complete faculty-mentored projects involving real geographical-sciences research and formally present their results while receiving a stipend.",
+    "summary": "UMD's High School Internship Program connects students with faculty researchers in geographical sciences for mentored projects involving climate change, GIS, remote sensing, geospatial analysis, environmental science, and related Earth-system topics. Participants conduct research remotely and present their findings through an academic-style poster.",
+    "email": "",
+    "labUrl": "https://geog.umd.edu/high-school-hub/high-school-internship-program-hip",
+    "applyUrl": "https://geog.umd.edu/high-school-hub/high-school-internship-program-hip",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 362,
+    "name": "Experiential Learning for the Future Critical Minerals Workforce",
+    "title": "Paid High School Critical Minerals and Geoscience Research Program",
+    "university": "University of Houston",
+    "state": "Texas, USA",
+    "department": "ExLENT Minerals",
+    "field": "Earth Science",
+    "tags": [
+      "earth science",
+      "geoscience",
+      "critical minerals",
+      "mineral exploration",
+      "economic geology",
+      "sustainability",
+      "materials science",
+      "artificial intelligence",
+      "laboratory research",
+      "Houston",
+      "Texas"
+    ],
+    "levels": [
+      "High School",
+      "Community College"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research",
+      "Research Exposure"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The University of Houston's NSF-funded Experiential Learning for the Future Critical Minerals Workforce program serves high school and community college students through a four-week summer experience. Students participate in laboratory work, field activities, mentorship, and technical training related to critical-mineral exploration and processing, geoscience, sustainability, materials science, and artificial intelligence. The 2026 program had no registration fee and provided participants with a stipend exceeding $1,000. Students should verify future dates, eligibility, and stipend information.",
+    "resumeRating": 5,
+    "ratingNote": "A distinctive and highly relevant Earth science experience because students work in the specialized field of critical minerals and economic geology while receiving hands-on laboratory, field, and interdisciplinary research training.",
+    "summary": "The University of Houston ExLENT Minerals program introduces students to critical-mineral exploration, processing, geoscience, sustainability, materials science, and artificial intelligence. Participants complete hands-on laboratory and field activities while learning how geoscience supports the future minerals and energy workforce.",
+    "email": "",
+    "labUrl": "https://exlentminerals.egr.uh.edu/",
+    "applyUrl": "https://exlentminerals.egr.uh.edu/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 363,
+    "name": "Geoscience Research Experience (GEO-REx)",
+    "title": "High School Field and Laboratory Geoscience Research Program",
+    "university": "Oklahoma State University",
+    "state": "Oklahoma, USA",
+    "department": "Boone Pickens School of Geology",
+    "field": "Earth Science",
+    "tags": [
+      "earth science",
+      "geology",
+      "geophysics",
+      "environmental geoscience",
+      "geochemistry",
+      "field geology",
+      "laboratory research",
+      "near-surface geophysics",
+      "Stillwater",
+      "Oklahoma"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Oklahoma State University's Geoscience Research Experience is a short intensive program for high school students interested in geology and geoscience research. The 2026 program ran July 7 through July 10 and combined fieldwork, laboratory experiments, geochemical analysis, near-surface geophysics, collaborative research projects, and a final research presentation. A $50 refundable deposit was required, while lodging, meals, and field-trip transportation were included.",
+    "resumeRating": 4,
+    "ratingNote": "A strong short-term geoscience experience because students conduct genuine field and laboratory activities under geology faculty guidance and present research findings, although the four-day duration makes it less intensive than a full summer internship.",
+    "summary": "Oklahoma State University's GEO-REx gives high school students hands-on exposure to geology, geophysics, environmental geoscience, geochemistry, and field research. Participants work with university faculty on research activities involving field observations, laboratory experiments, geochemical methods, and near-surface geophysical techniques.",
+    "email": "",
+    "labUrl": "https://cas.okstate.edu/geology/about_us/events/geo_rex",
+    "applyUrl": "https://cas.okstate.edu/geology/about_us/events/geo_rex",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 364,
+    "name": "UM-SHINE",
+    "title": "High School Solar, Heliospheric and Planetary Data Research Internship",
+    "university": "University of Michigan",
+    "state": "Michigan, USA",
+    "department": "Climate and Space Sciences and Engineering",
+    "field": "Earth Science",
+    "tags": [
+      "earth science",
+      "space science",
+      "solar physics",
+      "planetary science",
+      "plasma science",
+      "scientific data analysis",
+      "Python",
+      "spacecraft data",
+      "heliophysics",
+      "Ann Arbor",
+      "Michigan"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "UM-SHINE is an eight-week in-person research program for high school students who have completed Algebra II and at least one science course. Participants work with University of Michigan faculty and graduate researchers and use Python to analyze real spacecraft observations involving solar, heliospheric, and planetary science. Research may use data from missions such as ACE, Solar Orbiter, Parker Solar Probe, Mariner 10, MESSENGER, and BepiColombo. The program is free and typically requires approximately 10–20 hours of participation per week.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional computational Earth and space science opportunity because students conduct genuine research using real spacecraft observations while working directly with faculty and graduate researchers.",
+    "summary": "UM-SHINE at the University of Michigan gives high school students sustained research experience in solar physics, heliophysics, planetary science, plasma science, and scientific data analysis. Students use Python and real spacecraft datasets to investigate questions involving the Sun, solar wind, planetary environments, and space physics.",
+    "email": "",
+    "labUrl": "https://clasp.engin.umich.edu/2026/03/24/um-shine-university-of-michigan-hosts-solar-and-heliospheric-initiative-for-new-explorers/",
+    "applyUrl": "https://clasp.engin.umich.edu/2026/03/24/um-shine-university-of-michigan-hosts-solar-and-heliospheric-initiative-for-new-explorers/",
+    "dateAdded": "2026-08-13"
+  }
 ]
