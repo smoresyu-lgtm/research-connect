@@ -13137,4 +13137,390 @@
     "applyUrl": "https://www.aub.edu/fas/physics/Pages/srep.aspx",
     "dateAdded": "2026-08-13"
   }
+  ,
+  {
+    "id": 385,
+    "name": "ExLAI — Experiential Learning AI Training Program",
+    "title": "High School Trustworthy AI Research and Training Program",
+    "university": "University of Cincinnati",
+    "state": "Ohio, USA",
+    "department": "Department of Computer Science",
+    "field": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "trustworthy AI",
+      "AI safety",
+      "machine learning",
+      "fairness",
+      "interpretability",
+      "privacy",
+      "robustness",
+      "responsible AI",
+      "Cincinnati",
+      "Ohio"
+    ],
+    "levels": [
+      "High School",
+      "Community College"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Exposure",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The University of Cincinnati ExLAI program serves eligible current high school and community-college students who meet current citizenship or permanent-residency requirements. The program focuses on Trustworthy Artificial Intelligence, including robustness, privacy, fairness, interpretability, alignment, and related areas. The 2026 in-person program ran from June 1 through July 24. Students should verify future eligibility, application dates, compensation or funding information, and program requirements.",
+    "resumeRating": 5,
+    "ratingNote": "A particularly distinctive AI opportunity because it focuses on the emerging field of trustworthy and responsible artificial intelligence rather than only basic machine-learning applications.",
+    "summary": "The University of Cincinnati's ExLAI program introduces high school and community-college students to research and technical work in Trustworthy Artificial Intelligence. Participants explore machine learning, AI safety, robustness, privacy, interpretability, fairness, alignment, and other issues involved in developing reliable AI systems.",
+    "email": "",
+    "labUrl": "https://www.ceas.uc.edu/academics/departments/computer-science/exlai-training.html",
+    "applyUrl": "https://www.ceas.uc.edu/academics/departments/computer-science/exlai-training.html",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 386,
+    "name": "AI-EDGE Institute Summer Research Program",
+    "title": "High School AI, Machine Learning and Edge Computing Research Program",
+    "university": "The Ohio State University",
+    "state": "Ohio, USA",
+    "department": "AI-EDGE Institute / Electrical and Computer Engineering",
+    "field": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "edge computing",
+      "networking",
+      "distributed intelligence",
+      "data science",
+      "computer engineering",
+      "NSF AI Institute",
+      "remote research",
+      "Ohio"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research",
+      "Remote Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The NSF-funded AI-EDGE Institute Summer Research Program includes a remote pathway for high school students. Participants receive structured instruction in artificial intelligence, machine learning, networking, edge computing, and distributed intelligence while completing guided technical projects. The 2026 program lasted approximately eight weeks. Students should verify future dates, eligibility requirements, project topics, and application information through Ohio State and the AI-EDGE Institute.",
+    "resumeRating": 4,
+    "ratingNote": "A strong AI research and project experience connected to an NSF-funded Artificial Intelligence Institute. The high school pathway is more structured and instructional than an independent research-assistant placement but provides substantial technical exposure.",
+    "summary": "Ohio State's AI-EDGE Institute Summer Research Program introduces high school students to artificial intelligence, machine learning, networking, edge computing, and distributed intelligence. Students participate remotely in technical instruction and guided projects connected to research areas explored by an NSF-funded AI Institute.",
+    "email": "",
+    "labUrl": "https://ece.osu.edu/events/2026/06/ai-edge-institute-summer-research-program",
+    "applyUrl": "https://ece.osu.edu/events/2026/06/ai-edge-institute-summer-research-program",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 387,
+    "name": "AI & Medical Informatics for Emerging Research Scholars",
+    "title": "High School Artificial Intelligence and Medical Informatics Research Program",
+    "university": "George Mason University",
+    "state": "Virginia, USA",
+    "department": "Center for Biomedical Science and Policy",
+    "field": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "medical informatics",
+      "machine learning",
+      "biomedical data",
+      "health AI",
+      "data analytics",
+      "research paper",
+      "research conference",
+      "Fairfax",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "George Mason University's AI and Medical Informatics for Emerging Research Scholars program serves a limited cohort of high-achieving high school students. Participants investigate questions at the intersection of artificial intelligence, biomedical science, medical informatics, machine learning, and data analytics. Students develop original research findings, complete a final research paper, and formally present their work at a student AI and medical informatics conference. Applicants should verify future dates, eligibility, costs or funding, and application requirements.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional AI research program because participants work toward original findings and concrete scholarly outputs, including a final research paper and formal academic conference presentation.",
+    "summary": "George Mason University's AI and Medical Informatics program gives high school students experience conducting research at the intersection of artificial intelligence and healthcare. Participants investigate biomedical datasets and medical-informatics problems, develop original findings, write a research paper, and present their work to university and industry experts.",
+    "email": "",
+    "labUrl": "https://cbsp.schar.gmu.edu/research-internship-summer-2026/",
+    "applyUrl": "https://cbsp.schar.gmu.edu/research-internship-summer-2026/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 388,
+    "name": "Stanford AI4ALL",
+    "title": "High School Artificial Intelligence Research Program",
+    "university": "Stanford University",
+    "state": "California, USA",
+    "department": "Stanford Institute for Human-Centered Artificial Intelligence / Stanford Pre-Collegiate Studies",
+    "field": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "computer vision",
+      "robotics",
+      "medical AI",
+      "AI alignment",
+      "natural language processing",
+      "human-centered AI",
+      "research project",
+      "Stanford",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "Stanford AI4ALL is a high school artificial-intelligence program hosted by Stanford's Institute for Human-Centered Artificial Intelligence and Stanford Pre-Collegiate Studies. The 2026 program includes both online and residential experiences. Students explore areas including computer vision, robotics, medical AI, AI alignment, and natural language processing while completing hands-on AI research projects under graduate-level mentorship. Students should verify current eligibility, application dates, format, costs, and financial-aid information for future cycles.",
+    "resumeRating": 5,
+    "ratingNote": "A strong university AI research experience because students complete mentored hands-on research projects across multiple advanced AI fields while learning directly within Stanford's human-centered AI ecosystem.",
+    "summary": "Stanford AI4ALL introduces high school students to advanced artificial intelligence through research projects, mentorship, and technical instruction. Students can explore computer vision, robotics, medical AI, AI alignment, natural language processing, and the broader societal implications of intelligent systems.",
+    "email": "",
+    "labUrl": "https://spcs.stanford.edu/programs/stanford-ai4all",
+    "applyUrl": "https://spcs.stanford.edu/programs/stanford-ai4all",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 389,
+    "name": "Summer Innovation Intensives",
+    "title": "High School Artificial Intelligence and Data Science Innovation Program",
+    "university": "Cornell Tech",
+    "state": "New York, USA",
+    "department": "Cornell Tech",
+    "field": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "data science",
+      "ethical coding",
+      "technology innovation",
+      "product development",
+      "entrepreneurship",
+      "responsible AI",
+      "computing",
+      "New York City",
+      "New York"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Research Project",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Cornell Tech launched its Summer Innovation Intensives for 2026 for students who are at least 15 years old and have completed sophomore year of high school by the program start date. The three-week program runs July 13 through July 30, 2026 on Cornell Tech's Roosevelt Island campus and focuses on artificial intelligence, ethical coding, data science, entrepreneurial thinking, and technology innovation. The 2026 application period is closed. Students should verify future dates, tuition, financial-aid availability, and eligibility requirements.",
+    "resumeRating": 4,
+    "ratingNote": "A strong AI and technology experience at Cornell Tech combining artificial intelligence, data science, ethical computing, and applied innovation, although it is more project and innovation focused than an independent faculty research internship.",
+    "summary": "Cornell Tech's Summer Innovation Intensives give high school students an immersive introduction to artificial intelligence, data science, ethical coding, entrepreneurship, and technology development. Participants build technical and innovation skills while exploring how modern AI systems can be applied responsibly to real-world problems.",
+    "email": "",
+    "labUrl": "https://tech.cornell.edu/programs/summer-innovation-intensives/",
+    "applyUrl": "https://tech.cornell.edu/programs/summer-innovation-intensives/",
+    "dateAdded": "2026-08-13"
+  }
+  ,
+  {
+    "id": 390,
+    "name": "CHIP Semiconductor Engineering Internship",
+    "title": "High School Semiconductor and Nanofabrication Engineering Internship",
+    "university": "University of California, Santa Barbara",
+    "state": "California, USA",
+    "department": "Nanofabrication Facility / Electrical and Computer Engineering",
+    "field": "Electrical Engineering",
+    "tags": [
+      "electrical engineering",
+      "semiconductors",
+      "microelectronics",
+      "chip packaging",
+      "nanofabrication",
+      "cleanroom",
+      "pressure sensors",
+      "hardware engineering",
+      "Santa Barbara",
+      "California"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project",
+      "Engineering Project"
+    ],
+    "applicationType": "School Partnership",
+    "applicationWindow": "The CHIP Semiconductor Engineering Internship is a 2026 school-based collaboration involving UC Santa Barbara's Nanofabrication Facility, Carpinteria High School's Advanced Engineering Program, and semiconductor company PseudolithIC. Participating students work alongside engineers and researchers on semiconductor-packaging challenges, including designing and machining functional packages for pressure-sensor chips fabricated in UCSB cleanrooms. Access is restricted to eligible students participating through the Carpinteria High School partnership. Students should verify future program continuation, eligibility, and project details.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional electrical-engineering opportunity because high school students work directly on real semiconductor hardware and packaging challenges connected to chips fabricated in a university nanofabrication cleanroom.",
+    "summary": "The CHIP Semiconductor Engineering Internship gives eligible Carpinteria High School students hands-on experience with semiconductors, microelectronics, chip packaging, nanofabrication, and hardware engineering through a partnership with UC Santa Barbara and industry engineers.",
+    "email": "",
+    "labUrl": "https://www.ece.ucsb.edu/news/all/2026/nanofab-hs-classroom-cleanroom",
+    "applyUrl": "https://www.ece.ucsb.edu/news/all/2026/nanofab-hs-classroom-cleanroom",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 391,
+    "name": "UPWARDS TechTrek High School Summer Camp",
+    "title": "High School FPGA and Electronic Circuits Engineering Program",
+    "university": "Virginia Tech",
+    "state": "Virginia, USA",
+    "department": "Electrical and Computer Engineering",
+    "field": "Electrical Engineering",
+    "tags": [
+      "electrical engineering",
+      "electronic circuits",
+      "FPGA",
+      "digital logic",
+      "computer engineering",
+      "hardware design",
+      "embedded systems",
+      "laboratory projects",
+      "Blacksburg",
+      "Virginia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Engineering Project",
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Virginia Tech's UPWARDS TechTrek High School Summer Camp serves rising students in grades 10–12 and focuses on electrical and computer engineering through electronic circuits and FPGA-based digital design. Students move between instruction and hands-on laboratory projects that result in functioning hardware. The 2026 program offered sessions from July 20 through July 31 and August 3 through August 14. Students should verify future dates, tuition, eligibility, and application requirements.",
+    "resumeRating": 4,
+    "ratingNote": "A strong hardware-focused electrical-engineering experience because students work with FPGA systems, digital logic, circuits, and functioning electronic hardware rather than only receiving classroom instruction.",
+    "summary": "Virginia Tech's UPWARDS TechTrek introduces high school students to electrical and computer engineering through circuits, FPGA-based digital design, digital logic, hardware development, and hands-on laboratory projects.",
+    "email": "",
+    "labUrl": "https://upwards.ece.vt.edu/k-12-outreach/techtrek_summer_camp.html",
+    "applyUrl": "https://upwards.ece.vt.edu/k-12-outreach/techtrek_summer_camp.html",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 392,
+    "name": "AI & Wireless Communications Camp",
+    "title": "High School Wireless Communications and Electrical Engineering Laboratory Program",
+    "university": "The College of New Jersey",
+    "state": "New Jersey, USA",
+    "department": "Electrical and Computer Engineering",
+    "field": "Electrical Engineering",
+    "tags": [
+      "electrical engineering",
+      "wireless communications",
+      "artificial intelligence",
+      "signals",
+      "electronics",
+      "communications engineering",
+      "laboratory research",
+      "Ewing",
+      "New Jersey"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Engineering Project",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "The College of New Jersey's AI & Wireless Communications Camp is a six-day program for high school students focused on electrical and computer engineering. Participants complete hands-on work in university engineering laboratories involving wireless communications, artificial intelligence-enabled technologies, signals, and electronics. The 2026 program ran July 5 through July 10 and listed tuition of $2,200 plus a $40 application fee. Students should verify future dates, costs, financial assistance, and application requirements.",
+    "resumeRating": 4,
+    "ratingNote": "A solid electrical-engineering exposure program with a useful communications-engineering niche, although it is primarily instructional and project-based rather than an independent faculty research internship.",
+    "summary": "TCNJ's AI & Wireless Communications Camp introduces high school students to electrical engineering through hands-on laboratory work involving wireless communications, signals, electronics, and artificial intelligence applications.",
+    "email": "",
+    "labUrl": "https://electrical-computerengineering.tcnj.edu/ai-wireless-camp/",
+    "applyUrl": "https://electrical-computerengineering.tcnj.edu/ai-wireless-camp/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 393,
+    "name": "Electrical Engineering: Smart Lighting",
+    "title": "High School Optical Wireless Communications and Circuit Design Program",
+    "university": "Boston University",
+    "state": "Massachusetts, USA",
+    "department": "Multimedia Communications Laboratory / Summer Challenge",
+    "field": "Electrical Engineering",
+    "tags": [
+      "electrical engineering",
+      "optical wireless communications",
+      "LEDs",
+      "photodiodes",
+      "circuits",
+      "PCB design",
+      "Arduino",
+      "modulation",
+      "visible light communication",
+      "Boston",
+      "Massachusetts"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Engineering Project",
+      "Research Exposure",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Boston University's Electrical Engineering: Smart Lighting program is offered through BU Summer Challenge. Students build and characterize LED and photodiode circuits, assemble printed circuit boards, use Arduino hardware, experiment with analog and digital modulation, and establish visible-light wireless communication links. Participants maintain engineering laboratory notebooks and conclude with a technical team presentation. Students should verify current Summer Challenge dates, tuition, eligibility, and registration information.",
+    "resumeRating": 4,
+    "ratingNote": "A technically substantial electrical-engineering project experience because students build circuits and PCBs and implement an actual optical wireless communication link using modulation and embedded hardware.",
+    "summary": "Boston University's Smart Lighting program gives high school students hands-on electrical-engineering experience with LEDs, photodiodes, circuits, PCB assembly, Arduino systems, modulation, and visible-light wireless communications.",
+    "email": "",
+    "labUrl": "https://sites.bu.edu/mcl/academics/summer-programs/",
+    "applyUrl": "https://sites.bu.edu/mcl/academics/summer-programs/",
+    "dateAdded": "2026-08-13"
+  },
+  {
+    "id": 394,
+    "name": "Electrical & Computer Engineering Summer Program",
+    "title": "High School Electrical and Computer Engineering Laboratory Program",
+    "university": "Manhattan University",
+    "state": "New York, USA",
+    "department": "School of Engineering",
+    "field": "Electrical Engineering",
+    "tags": [
+      "electrical engineering",
+      "computer engineering",
+      "power systems",
+      "renewable energy",
+      "electronic design",
+      "robotics",
+      "artificial intelligence",
+      "cybersecurity",
+      "Bronx",
+      "New York"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Exposure",
+      "Engineering Project",
+      "Summer Program"
+    ],
+    "applicationType": "Structured Program",
+    "applicationWindow": "Manhattan University's Electrical & Computer Engineering Summer Program serves rising high school sophomores and juniors. The 2026 program runs July 27 through July 30 and includes hands-on laboratories and engineering challenges involving power and renewable energy, electronic design, artificial intelligence and robotics, cybersecurity, and bioengineering. The program also includes visits to engineering companies and research centers. Early registration was listed at $400, with later registration at $500. Students should verify future dates, costs, and eligibility.",
+    "resumeRating": 3,
+    "ratingNote": "A useful field-specific electrical and computer engineering exposure program offering hands-on laboratory activities across several ECE areas, although the four-day duration and broad curriculum make it less research-intensive than longer internships.",
+    "summary": "Manhattan University's Electrical & Computer Engineering Summer Program introduces high school students to power systems, renewable energy, electronic design, robotics, artificial intelligence, cybersecurity, and other ECE fields through university laboratory activities and engineering challenges.",
+    "email": "",
+    "labUrl": "https://manhattan.edu/academics/engineering/high-school-programs",
+    "applyUrl": "https://manhattan.edu/academics/engineering/high-school-programs",
+    "dateAdded": "2026-08-13"
+  }
 ]
