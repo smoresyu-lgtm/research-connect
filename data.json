@@ -14883,4 +14883,201 @@
     "applyUrl": "https://tickle.utk.edu/mse/student-research-project-helps-ut-integrate-ai-with-atomic-scale-microscopy/",
     "dateAdded": "2026-08-14"
   }
+  ,
+  {
+    "id": 430,
+    "name": "Academic Year Fellowship",
+    "title": "Long-Term High School Biomedical Research Fellowship",
+    "university": "The Jackson Laboratory",
+    "state": "Maine, USA",
+    "department": "The Jackson Laboratory - Bar Harbor",
+    "field": "Biomedical Science",
+    "tags": [
+      "genetics",
+      "genomics",
+      "cancer biology",
+      "computational biology",
+      "biomedical science",
+      "data science",
+      "independent research",
+      "research mentorship",
+      "laboratory research",
+      "Bar Harbor",
+      "Maine"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Structured Research Fellowship",
+    "applicationWindow": "The Jackson Laboratory offers academic-year research fellowships for high school juniors and seniors as well as undergraduate students at its Bar Harbor, Maine campus. Fellows join an active JAX research group, learn the technical and scientific skills needed to contribute to the team's work, and collaborate with a mentor to design an independent research project within the laboratory's ongoing research program. Most projects begin in the fall and continue through late spring, providing substantially longer research engagement than a typical summer internship. For the current cycle, applications are accepted on a rolling basis through August 24, 2026. Applicants should verify current openings, research areas, eligibility requirements, dates, and application deadlines.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional long-term biomedical research opportunity because high school students join active Jackson Laboratory research groups and can develop independent projects within ongoing professional research programs over much of the academic year.",
+    "summary": "The Jackson Laboratory's Academic Year Fellowship allows high school juniors and seniors to join active research groups at JAX's Bar Harbor campus. Students develop technical research skills and work with mentors to design independent projects connected to ongoing genetics, genomics, cancer, computational biology, and biomedical research.",
+    "email": "",
+    "labUrl": "https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/academic-year-internships",
+    "applyUrl": "https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/academic-year-internships",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 431,
+    "name": "Thamattoor Lab High School Summer Research Scholars",
+    "title": "High School Organic Chemistry Research Scholars",
+    "university": "Colby College",
+    "state": "Maine, USA",
+    "department": "Thamattoor Research Group / Department of Chemistry",
+    "field": "Chemistry",
+    "tags": [
+      "organic chemistry",
+      "synthetic chemistry",
+      "experimental chemistry",
+      "laboratory research",
+      "original research",
+      "faculty mentorship",
+      "chemical synthesis",
+      "NSF",
+      "direct inquiry",
+      "Waterville",
+      "Maine"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "Professor Das Thamattoor's research group at Colby College has hosted high school students as summer research scholars. Students typically spend several weeks conducting original organic chemistry research in the laboratory under the mentorship of Professor Thamattoor and Colby undergraduate researchers. Past high school participation has received support from sources including the National Science Foundation and Maine Research Internships for Teachers and Students. The laboratory documents high school researchers from area schools as well as students from outside Maine. This is an individual faculty-lab pathway rather than a guaranteed annual structured program, so interested students should review the group's current research and inquire about high school research availability, funding, dates, and mentorship capacity.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional individual-lab opportunity because documented high school scholars spend multiple weeks conducting original organic chemistry research directly within a Colby faculty research group.",
+    "summary": "Colby College's Thamattoor Lab has hosted high school students for summer research in organic and synthetic chemistry. Students conduct original laboratory research for several weeks with mentorship from Professor Das Thamattoor and Colby undergraduate researchers, with placements dependent on current availability and funding.",
+    "email": "",
+    "labUrl": "https://web.colby.edu/dasan-thamattoor/research/for-high-schoolers/",
+    "applyUrl": "https://web.colby.edu/dasan-thamattoor/research/for-high-schoolers/",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 432,
+    "name": "Maine-SMART High School Research Program",
+    "title": "Mentored High School Biotechnology and Environmental Research Program",
+    "university": "University of Southern Maine",
+    "state": "Maine, USA",
+    "department": "STEM Outreach",
+    "field": "Environmental Science",
+    "tags": [
+      "environmental science",
+      "biotechnology",
+      "algae research",
+      "biology",
+      "experimental research",
+      "laboratory research",
+      "faculty mentorship",
+      "STEM",
+      "Portland",
+      "Maine"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Exposure",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The University of Southern Maine's Maine-SMART High School Research Program introduces high school students to the full scientific research process through mentored projects with university faculty and industry professionals. The program primarily serves southern Maine students and is designed for current high school sophomores and juniors entering their junior or senior years. The 2026 sessions ran throughout July 6 through August 7 at USM's Portland campus and focused on algae-growth research. Students investigated variables such as algae species, growth media, agitation, and environmental conditions. The 2026 program cost $50. Applicants should verify future research topics, session dates, eligibility requirements, costs, and application deadlines.",
+    "resumeRating": 4,
+    "ratingNote": "A strong and accessible university research experience because students participate in mentored experimental projects and learn the complete research process, although its short duration makes it less intensive than a multi-week laboratory internship.",
+    "summary": "Maine-SMART gives high school students hands-on experience with the scientific research process at the University of Southern Maine. Recent projects have focused on experimental algae research involving species selection, growth media, agitation, and environmental conditions.",
+    "email": "",
+    "labUrl": "https://usm.maine.edu/stem-outreach/smart-high-school-research-program/",
+    "applyUrl": "https://usm.maine.edu/stem-outreach/smart-high-school-research-program/",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 433,
+    "name": "Sustainable Engineering Leaders of the Future (SELF)",
+    "title": "Free Sustainable Engineering and Forest Bioproducts Research Program",
+    "university": "University of Maine",
+    "state": "Maine, USA",
+    "department": "Forest Bioproducts Research Institute",
+    "field": "Engineering",
+    "tags": [
+      "sustainable engineering",
+      "renewable energy",
+      "forest bioproducts",
+      "biofuels",
+      "artificial intelligence",
+      "chemical processes",
+      "biomass",
+      "ethanol",
+      "sustainability",
+      "research presentation",
+      "Orono",
+      "Maine"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Exposure",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The University of Maine's Forest Bioproducts Research Institute operates Sustainable Engineering Leaders of the Future as a free residential program for Maine high school students interested in science and technology. Participants engage with university research involving sustainable engineering, renewable energy, forest bioproducts, artificial intelligence, and chemical processes. Students complete a STEM group research experience and presentation while exploring processes used to create products such as ethanol and jet fuel from woody biomass. The 2026 program ran from June 21 through June 27 and had no program cost. This opportunity is best classified as research exposure and project-based research rather than an individual faculty internship. Students should verify future program dates, eligibility requirements, residential arrangements, and application deadlines.",
+    "resumeRating": 4,
+    "ratingNote": "A strong and highly accessible engineering research-exposure program because it is free and connects Maine high school students directly with university work in sustainable engineering, renewable energy, biomass, and forest bioproducts.",
+    "summary": "UMaine's free SELF program introduces Maine high school students to sustainable engineering and forest bioproducts research. Students explore renewable energy, biomass conversion, chemical processes, artificial intelligence, and related technologies while completing a group research experience and presentation.",
+    "email": "",
+    "labUrl": "https://forestbioproducts.umaine.edu/self/",
+    "applyUrl": "https://forestbioproducts.umaine.edu/self/",
+    "dateAdded": "2026-08-14"
+  },
+  {
+    "id": 434,
+    "name": "NextWave Pre-College Experience",
+    "title": "Environmental Sustainability Original Research and Innovation Program",
+    "university": "University of New England",
+    "state": "Maine, USA",
+    "department": "Pre-College Programs",
+    "field": "Multidisciplinary",
+    "tags": [
+      "environmental science",
+      "sustainability",
+      "marine science",
+      "coastal science",
+      "technology",
+      "social science",
+      "multidisciplinary research",
+      "original research",
+      "innovation",
+      "research presentation",
+      "Maine"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Research Exposure",
+      "Summer Research"
+    ],
+    "applicationType": "Structured Research Program",
+    "applicationWindow": "The University of New England's NextWave Pre-College Experience is open to students in grades 10 through 12 and combines environmental, social, technological, and economic approaches to sustainability. Participants work with university faculty to conduct original research, develop potential solutions to real-world problems, and create final presentations that are pitched to industry decision-makers. Research and project areas can intersect with environmental science, marine and coastal science, sustainability, technology, and social science. Because the program is approximately one week long, it is best classified as an original-research and innovation intensive rather than a long-term research internship. Applicants should verify current program dates, research themes, costs, residential options, and application deadlines.",
+    "resumeRating": 4,
+    "ratingNote": "A solid multidisciplinary research program because participants explicitly conduct original research with university faculty and communicate their solutions to industry decision-makers, though its short duration limits the depth of the research experience.",
+    "summary": "UNE's NextWave Pre-College Experience gives students in grades 10 through 12 an opportunity to conduct original research with university faculty while investigating environmental, technological, social, and economic sustainability challenges.",
+    "email": "",
+    "labUrl": "https://www.une.edu/pre-college-experience",
+    "applyUrl": "https://www.une.edu/pre-college-experience",
+    "dateAdded": "2026-08-14"
+  }
 ]
