@@ -16964,4 +16964,203 @@
   "applyUrl": "https://secret.chem.uconn.edu/",
   "dateAdded": "2026-08-16"
 }
+  ,
+{
+  "id": 490,
+  "name": "UT Dallas Computer Science Research Program for High School Students",
+  "title": "Intensive Computer Science Laboratory Research Program",
+  "university": "The University of Texas at Dallas",
+  "state": "Texas, USA",
+  "department": "Computer Science K-12 Outreach",
+  "field": "Computer Science",
+  "tags": [
+    "computer science",
+    "software development",
+    "computational research",
+    "programming",
+    "simulation",
+    "data science",
+    "laboratory research",
+    "faculty research",
+    "research mentorship",
+    "Richardson",
+    "Texas"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The UT Dallas Computer Science Research Program places advanced high school students into individual computer science research groups for intensive summer research. Students generally enter after completing 10th or 11th grade and may spend approximately 20 to 40 hours per week working on research activities depending on their laboratory and project. Projects can involve programming, simulations, software development, data analysis, and other areas of computer science research. For 2026, the laboratory research experience listed a program fee of approximately $1,500, with reduced costs available for qualifying low-income students. Applicants should verify current grade requirements, research areas, time commitments, tuition, financial assistance, dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional computer science opportunity because students are placed into active university research environments and spend substantial weekly time contributing to technical projects rather than participating only in classroom-based instruction.",
+  "summary": "UT Dallas places advanced high school students into computer science research groups where they work on projects involving programming, simulation, software development, data analysis, and other computational methods. Students may spend substantial weekly time conducting research alongside university mentors.",
+  "email": "",
+  "labUrl": "https://k12.utdallas.edu/research/",
+  "applyUrl": "https://k12.utdallas.edu/research/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 491,
+  "name": "High School Research Academy (HSRA)",
+  "title": "Five-Week Multidisciplinary University Laboratory Research Program",
+  "university": "The University of Texas at Austin",
+  "state": "Texas, USA",
+  "department": "College of Natural Sciences",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "biology",
+    "biochemistry",
+    "genetics",
+    "neuroscience",
+    "environmental science",
+    "genome engineering",
+    "data analytics",
+    "ecology",
+    "chemistry",
+    "materials science",
+    "physics",
+    "laboratory research",
+    "research poster",
+    "Austin",
+    "Texas"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "UT Austin's High School Research Academy provides students with approximately five weeks of research inside active university laboratories. Research areas may include biochemistry, biology, genetics, neuroscience, environmental science, genome engineering, data analytics, ecology, chemistry, materials science, physics, and related fields. Students typically spend approximately 15 to 25 hours per week working with their research group and conclude the program by presenting a research poster. The 2026 program ran from June 8 through July 15, and the next application cycle is expected to open in January 2027. Students should verify current eligibility, available research areas, tuition, financial assistance, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional multidisciplinary research experience because students work directly within active UT Austin laboratories for several weeks and complete substantial mentored projects culminating in a formal research poster presentation.",
+  "summary": "UT Austin's High School Research Academy places students into active university laboratories across biology, chemistry, neuroscience, environmental science, engineering-related fields, physics, and other STEM disciplines. Participants spend several weeks conducting mentored research and present their findings through a final research poster.",
+  "email": "",
+  "labUrl": "https://fri.cns.utexas.edu/community-outreach/summer-high-school-research-academy",
+  "applyUrl": "https://fri.cns.utexas.edu/community-outreach/summer-high-school-research-academy",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 492,
+  "name": "Mohan Lab Summer Internship (MLSI)",
+  "title": "Eight-Week Biomedical Engineering and Neuroscience Research Internship",
+  "university": "University of Houston",
+  "state": "Texas, USA",
+  "department": "Biomedical Engineering",
+  "field": "Biomedical Engineering",
+  "tags": [
+    "biomedical engineering",
+    "biomedical science",
+    "neuroscience",
+    "artificial intelligence",
+    "image analysis",
+    "big data",
+    "bench research",
+    "laboratory research",
+    "research presentation",
+    "Houston",
+    "Texas"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Internship",
+  "applicationWindow": "The Mohan Lab Summer Internship at the University of Houston provides rising high school seniors with an intensive summer research experience. Students complete approximately one to two weeks of introductory laboratory training before conducting roughly eight weeks of research. Projects may involve biomedical science, biomedical engineering, neuroscience, artificial intelligence, image analysis, big-data analytics, and related research areas. Students conclude the internship with an oral research presentation, and some participants may have opportunities to continue their work beyond the summer or contribute to research resulting in publications. Applicants should review the laboratory's current high school internship page for eligibility, dates, project areas, application requirements, and deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional individual-laboratory opportunity because students receive substantial training followed by approximately eight weeks of genuine research and may contribute to longer-term projects with presentation or publication potential.",
+  "summary": "The Mohan Lab Summer Internship gives rising high school seniors intensive training followed by approximately eight weeks of biomedical and engineering research. Projects may involve bench science, neuroscience, artificial intelligence, medical image analysis, and large-scale biomedical data, culminating in an oral research presentation.",
+  "email": "",
+  "labUrl": "https://mohanlab.bme.uh.edu/open-positions/high-school-students/",
+  "applyUrl": "https://mohanlab.bme.uh.edu/open-positions/high-school-students/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 493,
+  "name": "Computational Biomedicine Lab Summer Internship",
+  "title": "Artificial Intelligence and Computational Biomedical Research Internship",
+  "university": "University of Houston",
+  "state": "Texas, USA",
+  "department": "Computational Biomedicine Lab",
+  "field": "Computational Biology",
+  "tags": [
+    "computational biology",
+    "artificial intelligence",
+    "machine learning",
+    "biomedical research",
+    "data science",
+    "computational research",
+    "research questions",
+    "scientific computing",
+    "Houston",
+    "Texas"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Internship",
+  "applicationWindow": "The University of Houston Computational Biomedicine Lab offers summer research internships for secondary and high school students interested in computational biomedical research. Interns work with artificial intelligence and machine-learning methods applied to biomedical and other real-world scientific problems. Students learn how to formulate research questions and hypotheses while gaining exposure to advanced computational techniques and research workflows. Availability, project assignments, technical expectations, internship dates, and application requirements may vary by year, so prospective students should review the laboratory's current internship information before applying.",
+  "resumeRating": 5,
+  "ratingNote": "A particularly strong computational research opportunity because high school students are explicitly recruited as research interns and gain exposure to artificial intelligence, machine learning, hypothesis development, and authentic biomedical research questions.",
+  "summary": "The University of Houston Computational Biomedicine Lab hosts high school research interns working on artificial intelligence and machine-learning approaches to biomedical and scientific problems. Students gain experience developing research questions, hypotheses, computational methods, and data-driven approaches to research.",
+  "email": "",
+  "labUrl": "https://www.uh.edu/cbl/careers/internship.php",
+  "applyUrl": "https://www.uh.edu/cbl/careers/internship.php",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 494,
+  "name": "George A. Jeffries NanoExplorers",
+  "title": "High School Nanotechnology Research Program",
+  "university": "The University of Texas at Dallas",
+  "state": "Texas, USA",
+  "department": "Alan G. MacDiarmid NanoTech Institute",
+  "field": "Nanotechnology",
+  "tags": [
+    "nanotechnology",
+    "materials science",
+    "nanoscience",
+    "engineering",
+    "experimental research",
+    "laboratory research",
+    "faculty mentorship",
+    "original research",
+    "scientific publication",
+    "Richardson",
+    "Texas"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The George A. Jeffries NanoExplorers program at UT Dallas gives high school students opportunities to conduct original research at the Alan G. MacDiarmid NanoTech Institute. Participants are integrated into mentor research programs and are treated as much as possible like regular members of active research laboratories. Student projects involve nanotechnology, nanoscience, materials science, engineering, and related research areas. UT Dallas reports that previous NanoExplorers have presented research at scientific conferences and contributed as coauthors to published research. Students should review the official program page for current eligibility requirements, application procedures, research topics, program dates, and deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional nanotechnology research opportunity because students conduct original research as members of active mentor-led projects, with past participants reaching the level of conference presentations and coauthorship on scientific publications.",
+  "summary": "UT Dallas NanoExplorers gives high school students the opportunity to conduct original nanotechnology and materials-science research alongside university researchers. Participants are integrated into active research groups, and past students have presented at scientific conferences and contributed to published research.",
+  "email": "",
+  "labUrl": "https://nanotech.utdallas.edu/for-students/nanoexplorers/",
+  "applyUrl": "https://nanotech.utdallas.edu/for-students/nanoexplorers/",
+  "dateAdded": "2026-08-16"
+}
 ]
