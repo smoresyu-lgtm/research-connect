@@ -17362,4 +17362,203 @@
   "applyUrl": "https://www.training.nih.gov/research-training/grads/summer-internship-program-sip/",
   "dateAdded": "2026-08-16"
 }
+  ,
+{
+  "id": 495,
+  "name": "Summer Academic Research Experience (SARE)",
+  "title": "Paid Eight-Week Biomedical Research Internship",
+  "university": "Johns Hopkins University",
+  "state": "Maryland, USA",
+  "department": "School of Medicine",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "molecular biology",
+    "cell biology",
+    "laboratory research",
+    "scientific writing",
+    "data analysis",
+    "bioethics",
+    "research mentorship",
+    "paid internship",
+    "Baltimore",
+    "Maryland"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Johns Hopkins University's Summer Academic Research Experience provides eligible high school students with approximately eight weeks of full-time, hands-on biomedical research. Participants work in active research environments and receive additional training in scientific writing, data analysis, mathematics, and bioethics. For 2026, the program ran from June 22 through August 13 and provided a $3,000 stipend. Johns Hopkins notes that some previous participants have contributed to research resulting in scientific publications. Eligibility is targeted toward students from low-income, educationally under-resourced, or otherwise qualifying backgrounds. Applicants should verify current socioeconomic eligibility, grade requirements, stipend, program dates, research placements, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional biomedical research experience because students spend eight weeks conducting full-time research while receiving structured scientific training and financial support, with some past participants contributing to publishable research.",
+  "summary": "Johns Hopkins SARE gives eligible high school students eight weeks of intensive biomedical research alongside additional training in scientific writing, quantitative analysis, and bioethics. Participants receive a stipend and work within active research environments under scientific mentorship.",
+  "email": "",
+  "labUrl": "https://sare.cellbio.jhmi.edu/",
+  "applyUrl": "https://sare.cellbio.jhmi.edu/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 496,
+  "name": "ASPIRE",
+  "title": "Intensive Applied Physics, Engineering, and Computer Science Research Internship",
+  "university": "Johns Hopkins University Applied Physics Laboratory",
+  "state": "Maryland, USA",
+  "department": "Applied Physics Laboratory",
+  "field": "Engineering",
+  "tags": [
+    "engineering",
+    "computer science",
+    "applied physics",
+    "technology",
+    "technical research",
+    "scientific computing",
+    "research mentorship",
+    "research poster",
+    "laboratory research",
+    "Laurel",
+    "Maryland"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "The Johns Hopkins Applied Physics Laboratory ASPIRE program pairs eligible high school juniors and seniors with individual APL staff mentors for intensive technical research and project work. During the summer, students may spend approximately 30 to 40 hours per week on-site and are expected to complete at least 190 hours. Projects vary by mentor and may involve engineering, computer science, applied physics, data analysis, software, experimentation, and other technical disciplines. Participants conclude their experience with a research showcase or poster presentation, and some mentor relationships may continue into the academic year. The program is unpaid and restricted to students meeting current geographic eligibility requirements in designated Maryland, Washington, DC, and Northern Virginia areas. Applicants should verify residency, grade, age, time commitment, program dates, and application requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional applied STEM research opportunity because students work intensively one-on-one with professional scientists and engineers at a major research laboratory and complete substantial technical projects over hundreds of research hours.",
+  "summary": "Johns Hopkins APL's ASPIRE program pairs high school students with professional staff mentors for intensive engineering, computing, physics, and applied-science research. Summer participants complete substantial on-site research hours and present their work through a culminating showcase.",
+  "email": "",
+  "labUrl": "https://www.jhuapl.edu/education/stem-outreach/aspire",
+  "applyUrl": "https://www.jhuapl.edu/education/stem-outreach/aspire",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 497,
+  "name": "IBBR High School Internship Program",
+  "title": "Paid Biotechnology and Biomedical Research Internship",
+  "university": "University of Maryland — Institute for Bioscience and Biotechnology Research",
+  "state": "Maryland, USA",
+  "department": "Institute for Bioscience and Biotechnology Research",
+  "field": "Biomedical Science",
+  "tags": [
+    "biotechnology",
+    "biomedical science",
+    "molecular biology",
+    "laboratory research",
+    "research mentorship",
+    "research poster",
+    "paid internship",
+    "academic-year research",
+    "Rockville",
+    "Maryland"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The Institute for Bioscience and Biotechnology Research offers a limited number of high school research internships for eligible Montgomery County Public Schools students. Students are mentored directly by IBBR scientists while contributing to biotechnology and biomedical research projects. Opportunities may include an approximately eight-week paid summer internship as well as a longer summer-plus-academic-year pathway that can potentially provide summer compensation and MCPS internship credit. Summer participants conclude their research experience with a poster presentation. Applicants should verify current MCPS enrollment requirements, grade eligibility, compensation, internship credit, program dates, mentor availability, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional local biotechnology research opportunity because students work directly with professional IBBR scientists on active projects and can pursue either an intensive paid summer internship or a longer-term research pathway extending into the academic year.",
+  "summary": "IBBR provides eligible Montgomery County high school students with mentored biotechnology and biomedical research internships. Students work directly with research scientists, may receive summer compensation, and can potentially continue research into the academic year while earning internship credit.",
+  "email": "",
+  "labUrl": "https://www.ibbr.umd.edu/internship-application",
+  "applyUrl": "https://www.ibbr.umd.edu/internship-application",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 498,
+  "name": "Summer Trainee in Aging Research (STAR) Program",
+  "title": "National Institute on Aging Biomedical Research Internship",
+  "university": "National Institutes of Health — National Institute on Aging",
+  "state": "Maryland, USA",
+  "department": "National Institute on Aging",
+  "field": "Biomedical Science",
+  "tags": [
+    "aging research",
+    "biomedical science",
+    "gerontology",
+    "neuroscience",
+    "molecular biology",
+    "laboratory research",
+    "clinical research",
+    "NIH research",
+    "research mentorship",
+    "Baltimore",
+    "Maryland"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The National Institute on Aging offers summer research opportunities through its intramural research program in Baltimore, providing hands-on experience in aging-related biomedical research. Participants may include eligible high school, undergraduate, graduate, and medical students and work within active NIH research environments under scientific mentorship. Research areas can span the biology of aging, neuroscience, molecular and cellular biology, clinical research, genetics, and related biomedical fields. For the broader 2026 NIA summer internship cycle, applications ran from December 8, 2025 through February 18, 2026. Applicants should verify current age, education level, citizenship or residency requirements, research areas, compensation, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional biomedical research opportunity because students gain direct experience within the NIH intramural research environment and can contribute to active scientific work focused on aging, disease, neuroscience, and related biological processes.",
+  "summary": "The National Institute on Aging's summer research opportunities give eligible students hands-on experience within NIH laboratories and research groups in Baltimore. Participants work with professional scientists on research involving aging, neuroscience, molecular biology, genetics, clinical science, and related biomedical areas.",
+  "email": "",
+  "labUrl": "https://www.nia.nih.gov/nia-summer-internship",
+  "applyUrl": "https://www.nia.nih.gov/nia-summer-internship",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 499,
+  "name": "NIH Summer Internship Program (SIP)",
+  "title": "Full-Time NIH Intramural Biomedical Research Internship",
+  "university": "National Institutes of Health",
+  "state": "Maryland, USA",
+  "department": "NIH Intramural Research Program",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "biomedical research",
+    "biology",
+    "neuroscience",
+    "chemistry",
+    "psychology",
+    "engineering",
+    "computer science",
+    "bioinformatics",
+    "epidemiology",
+    "mathematics",
+    "faculty research",
+    "Bethesda",
+    "Maryland"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The NIH Summer Internship Program places eligible students into full-time research groups within the NIH Intramural Research Program. Research opportunities span biology, neuroscience, chemistry, psychology, engineering, computer science, bioinformatics, epidemiology, mathematics, and many other biomedical and quantitative fields. High school eligibility is narrower than in previous versions of the program: students applying while still in high school generally must be seniors who will graduate before the internship begins and must satisfy current NIH age and eligibility requirements. Applicants complete the centralized NIH application and are encouraged to contact principal investigators directly regarding potential laboratory placements. Students should verify current age, graduation, citizenship or residency, compensation, program-date, and application requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional research opportunity because students work full-time inside the NIH Intramural Research Program across an enormous range of scientific disciplines and can directly contact principal investigators to pursue specific laboratory placements.",
+  "summary": "The NIH Summer Internship Program places eligible students into full-time research groups across biomedical, computational, behavioral, engineering, and quantitative disciplines. Applicants use a centralized application and may also contact NIH principal investigators directly to pursue specific research placements.",
+  "email": "",
+  "labUrl": "https://www.training.nih.gov/research-training/grads/summer-internship-program-sip/",
+  "applyUrl": "https://www.training.nih.gov/research-training/grads/summer-internship-program-sip/",
+  "dateAdded": "2026-08-16"
+}
 ]
