@@ -16179,4 +16179,199 @@
   "applyUrl": "https://dermatology.upenn.edu/training/t32-training/pash/",
   "dateAdded": "2026-08-16"
 }
+  ,
+{
+  "id": 470,
+  "name": "Gene Team",
+  "title": "Four-Week High School Biomedical Research Program",
+  "university": "University of Pittsburgh",
+  "state": "Pennsylvania, USA",
+  "department": "Department of Biological Sciences",
+  "field": "Biology",
+  "tags": [
+    "biology",
+    "genetics",
+    "molecular biology",
+    "biomedical science",
+    "laboratory research",
+    "faculty mentorship",
+    "experimental research",
+    "summer research",
+    "Pittsburgh",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Research Training",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Gene Team is a four-week summer biomedical research program for high school students from the Pittsburgh region who have completed at least one year of high school Biology. Previous research experience is not required. Students work full-time Monday through Friday conducting state-of-the-art biomedical research projects with support from University of Pittsburgh faculty and researchers. The program has operated at Pitt since 2006, and the 2026 session ran from June 22 through July 17. Students can participate as early as the summer before sophomore year. Applicants should verify current geographic eligibility, academic prerequisites, program dates, costs or compensation, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional early high school research opportunity because students conduct full-time biomedical laboratory research at the University of Pittsburgh, prior research experience is not required, and students may participate as early as the summer before sophomore year.",
+  "summary": "Gene Team gives Pittsburgh-area high school students four weeks of full-time biomedical laboratory research at the University of Pittsburgh. Students conduct research projects with university faculty support in areas including biology, genetics, and molecular biology, with no previous research experience required.",
+  "email": "",
+  "labUrl": "https://www.pittwire.pitt.edu/features-articles/2026/07/30/gene-team-research-biology",
+  "applyUrl": "https://www.pittwire.pitt.edu/features-articles/2026/07/30/gene-team-research-biology",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 471,
+  "name": "Outreach for Internships in Science",
+  "title": "High School Scientific and Theoretical Research Internship",
+  "university": "Carnegie Mellon University",
+  "state": "Pennsylvania, USA",
+  "department": "Outreach for Internships in Science",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "biology",
+    "chemistry",
+    "physics",
+    "computational science",
+    "theoretical science",
+    "laboratory research",
+    "research group",
+    "scientific research",
+    "research symposium",
+    "Pittsburgh",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Carnegie Mellon's Outreach for Internships in Science program provides Pittsburgh Public Schools high school students with opportunities to participate in scientific and theoretical research. Students are placed into Carnegie Mellon laboratories as members of active research groups rather than participating only in classroom instruction. Research can span experimental, computational, and theoretical areas depending on placement. The summer experience culminates in a research symposium where students present their work to Carnegie Mellon faculty and guests. Access is restricted through the Carnegie Mellon and Pittsburgh Public Schools partnership. Students should verify current school eligibility, research areas, program dates, compensation, and application procedures.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional research internship because high school students become members of active Carnegie Mellon research groups and conclude the experience by presenting their work at a university research symposium.",
+  "summary": "Carnegie Mellon's Outreach for Internships in Science places Pittsburgh Public Schools students into active scientific and theoretical research groups. Students conduct research alongside university researchers and present their work at a culminating research symposium.",
+  "email": "",
+  "labUrl": "https://www.cmu.edu/ois/",
+  "applyUrl": "https://www.cmu.edu/ois/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 472,
+  "name": "Bugs as Materials Summer Internship",
+  "title": "High School Living Materials and Bioengineering Research Internship",
+  "university": "Carnegie Mellon University",
+  "state": "Pennsylvania, USA",
+  "department": "Department of Biomedical Engineering",
+  "field": "Biomedical Engineering",
+  "tags": [
+    "biomedical engineering",
+    "materials science",
+    "microbiology",
+    "bioengineering",
+    "living materials",
+    "biomaterials",
+    "microorganisms",
+    "laboratory research",
+    "faculty mentorship",
+    "graduate student mentorship",
+    "Pittsburgh",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Carnegie Mellon's Bugs as Materials Summer Internship gives high school students hands-on experience at the intersection of biomedical engineering, microbiology, and materials science. Students work alongside Carnegie Mellon graduate students and faculty to investigate and create new materials using microorganisms. Carnegie Mellon documented the program again in January 2026, including former high school participants who worked within the Niepa MicroBioInterface Laboratory and independently optimized research techniques. Access and eligibility may depend on the current program cycle and local partnerships. Students should verify current eligibility, dates, available research projects, application procedures, and compensation before applying.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional interdisciplinary research experience because high school students work directly alongside Carnegie Mellon graduate researchers and faculty on living-materials and biomaterials research using microorganisms.",
+  "summary": "The Bugs as Materials Summer Internship gives high school students hands-on research experience in living materials at Carnegie Mellon. Participants work with faculty and graduate researchers on projects combining biomedical engineering, microbiology, and materials science.",
+  "email": "",
+  "labUrl": "https://www.cmu.edu/bme/News_Events/story_archive/2026/bugs-as-materials-bandage.html",
+  "applyUrl": "https://www.cmu.edu/bme/News_Events/story_archive/2026/bugs-as-materials-bandage.html",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 473,
+  "name": "Research Training Program",
+  "title": "Faculty-Sponsored High School Health Sciences Research Placement",
+  "university": "University of Pittsburgh",
+  "state": "Pennsylvania, USA",
+  "department": "Schools of the Health Sciences",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "medicine",
+    "public health",
+    "laboratory research",
+    "health sciences",
+    "faculty mentorship",
+    "faculty sponsorship",
+    "direct inquiry",
+    "flexible research",
+    "Pittsburgh",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Faculty Sponsorship",
+  "applicationWindow": "The University of Pittsburgh Schools of the Health Sciences maintains an official research training pathway for high school students age 16 and older who secure a participating Pitt Health Sciences faculty mentor. Pitt does not match students with mentors, so students must first identify and obtain sponsorship from an eligible faculty member. The student and faculty mentor determine the research goals, learning objectives, schedule, and start and end dates. Placements can occur during the summer, academic year, or calendar year. The program currently operates at limited capacity. Interested students should contact potential faculty mentors directly and verify current registration, safety, eligibility, and institutional requirements before arranging a placement.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-inquiry research pathway when secured because students can arrange flexible, individualized research training directly with University of Pittsburgh Health Sciences faculty throughout the summer or academic year.",
+  "summary": "Pitt's Research Training Program provides an official pathway for high school students age 16 and older to conduct research with a Health Sciences faculty sponsor. Students must secure their own mentor, after which the mentor and student establish individualized research goals, schedules, and learning objectives.",
+  "email": "",
+  "labUrl": "https://www.howscienceworks.pitt.edu/faculty-mentors",
+  "applyUrl": "https://www.howscienceworks.pitt.edu/faculty-mentors",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 474,
+  "name": "High School Research Internships",
+  "title": "Faculty-Sponsored Biomedical Research Internship",
+  "university": "Penn State College of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "College of Medicine",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "medicine",
+    "clinical science",
+    "laboratory research",
+    "faculty mentorship",
+    "faculty sponsorship",
+    "direct inquiry",
+    "research internship",
+    "Hershey",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Research Project"
+  ],
+  "applicationType": "Faculty Sponsorship",
+  "applicationWindow": "Penn State College of Medicine maintains an official pathway allowing high school students age 16 and older who live in the United States to participate in research under the supervision of a College of Medicine faculty sponsor. Experiences may range from short research observation or shadowing to extended research internships lasting several weeks or months. Extended internships may be paid or unpaid depending on the placement. Students must have a Penn State College of Medicine faculty member willing to serve as their sponsor and direct supervisor. Interested students should verify current faculty-sponsorship procedures, registration requirements, research restrictions, compensation, dates, and institutional requirements before arranging a placement.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct faculty-sponsored pathway for extended placements because Penn State College of Medicine has formal infrastructure allowing high school students to conduct research for weeks or months under direct faculty supervision.",
+  "summary": "Penn State College of Medicine allows high school students age 16 and older to undertake faculty-sponsored research experiences ranging from short observation to extended internships lasting weeks or months. Extended placements can be paid or unpaid and require a College of Medicine faculty sponsor.",
+  "email": "",
+  "labUrl": "https://med.psu.edu/education/certificate-and-undergraduate/high-school-internships-observation",
+  "applyUrl": "https://med.psu.edu/education/certificate-and-undergraduate/high-school-internships-observation",
+  "dateAdded": "2026-08-16"
+}
 ]
