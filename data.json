@@ -16374,4 +16374,202 @@
   "applyUrl": "https://med.psu.edu/education/certificate-and-undergraduate/high-school-internships-observation",
   "dateAdded": "2026-08-16"
 }
+  ,
+{
+  "id": 475,
+  "name": "High School Student Research Internships",
+  "title": "Direct Faculty-Sponsored High School Research Internship",
+  "university": "Rutgers New Jersey Medical School",
+  "state": "New Jersey, USA",
+  "department": "New Jersey Medical School",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "medicine",
+    "molecular biology",
+    "neuroscience",
+    "laboratory research",
+    "faculty mentorship",
+    "faculty sponsorship",
+    "direct inquiry",
+    "research internship",
+    "Newark",
+    "New Jersey"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Research Project"
+  ],
+  "applicationType": "Faculty Sponsorship",
+  "applicationWindow": "Rutgers New Jersey Medical School provides an official pathway for high school students age 16 and older to independently arrange research internships with individual NJMS faculty members. Students must identify and contact a Rutgers NJMS faculty member, secure that faculty member's agreement to serve as their host, and then complete the required university paperwork. Required materials include the high school student proposal, sponsorship documentation, parental consent, and applicable working papers. Paperwork must generally be submitted at least four weeks before the anticipated start date. Research areas vary according to the sponsoring faculty laboratory. Students should verify current faculty availability, age requirements, paperwork, research restrictions, dates, and institutional requirements before arranging a placement.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-inquiry pathway because Rutgers NJMS has formal university infrastructure allowing high school students to independently secure faculty-sponsored research placements in active medical-school laboratories.",
+  "summary": "Rutgers New Jersey Medical School allows high school students age 16 and older to independently arrange research internships with individual faculty members. After securing a faculty host, students complete formal NJMS sponsorship and approval procedures before beginning their research placement.",
+  "email": "",
+  "labUrl": "https://research-office.njms.rutgers.edu/training-programs/high-school",
+  "applyUrl": "https://research-office.njms.rutgers.edu/training-programs/high-school",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 476,
+  "name": "Army Educational Outreach Program (AEOP)",
+  "title": "High School Optics, Photonics and Sensor Research Internship",
+  "university": "New Jersey Institute of Technology",
+  "state": "New Jersey, USA",
+  "department": "Jordan Hu College of Science and Liberal Arts",
+  "field": "Physics",
+  "tags": [
+    "optics",
+    "photonics",
+    "imaging",
+    "biological sensors",
+    "environmental sensors",
+    "physics",
+    "engineering",
+    "laboratory research",
+    "summer research",
+    "Newark",
+    "New Jersey"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "New Jersey Institute of Technology hosts an Army Educational Outreach Program summer research internship for eligible high school students. The program focuses on optics, photonics, imaging, and biological and environmental sensors. Students conduct hands-on experiments involving light, materials, imaging, and sensor technologies, read scientific literature, interact with scientists and engineers through seminars, and develop research-question and scientific-presentation skills. Eligibility follows current AEOP and NJIT program requirements. Students should verify the current application cycle, grade and citizenship requirements, dates, compensation, research projects, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional specialized research opportunity because high school students gain hands-on university research experience in unusually advanced fields including optics, photonics, imaging, and biological and environmental sensing.",
+  "summary": "NJIT's AEOP internship gives high school students hands-on summer research experience in optics, photonics, imaging, and sensor technologies. Participants conduct experiments, engage with scientific literature, interact with researchers, and develop research and presentation skills.",
+  "email": "",
+  "labUrl": "https://csla.njit.edu/aeop",
+  "applyUrl": "https://csla.njit.edu/aeop",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 477,
+  "name": "Governor's School of New Jersey in Engineering & Technology",
+  "title": "Free Residential Engineering Research Program",
+  "university": "Rutgers University",
+  "state": "New Jersey, USA",
+  "department": "School of Engineering",
+  "field": "Engineering",
+  "tags": [
+    "engineering",
+    "technology",
+    "research and design",
+    "multidisciplinary STEM",
+    "research project",
+    "engineering research",
+    "research symposium",
+    "residential program",
+    "free program",
+    "Piscataway",
+    "New Brunswick",
+    "New Jersey"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Research Training",
+    "Summer Research"
+  ],
+  "applicationType": "School Nomination",
+  "applicationWindow": "The Governor's School of New Jersey in Engineering and Technology is an intensive residential program hosted by Rutgers University for high-achieving New Jersey high school juniors nominated by their schools. Fewer than 100 students are typically admitted, and participation is provided at no cost to students or their families. Participants collaborate on a novel engineering research project and produce both a conference-style final paper and a formal presentation for the culminating research symposium. Schools nominate applicants, with nomination limits based on the size of the school's junior class. Students should verify current nomination procedures, New Jersey residency requirements, program dates, eligibility criteria, and school deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "A highly selective and substantive engineering research experience because students complete novel collaborative research, produce a conference-style paper, and formally present their findings while attending the program at no cost.",
+  "summary": "Rutgers hosts the free Governor's School of New Jersey in Engineering and Technology for nominated New Jersey high school juniors. Students collaborate on novel engineering research and conclude the program by producing a conference-style paper and presenting their work at a research symposium.",
+  "email": "",
+  "labUrl": "https://soe.rutgers.edu/academics/pre-college-engineering-programs/new-jersey-governors-school-engineering-and-technology",
+  "applyUrl": "https://soe.rutgers.edu/academics/pre-college-engineering-programs/new-jersey-governors-school-engineering-and-technology",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 478,
+  "name": "Rutgers Youth Enjoy Science (RUYES)",
+  "title": "Mentored Cancer Research Training Program",
+  "university": "Rutgers University",
+  "state": "New Jersey, USA",
+  "department": "Rutgers Cancer Institute of New Jersey",
+  "field": "Biomedical Science",
+  "tags": [
+    "cancer biology",
+    "oncology",
+    "biomedical science",
+    "cancer research",
+    "medicine",
+    "laboratory research",
+    "research training",
+    "faculty mentorship",
+    "NIH",
+    "NCI",
+    "New Brunswick",
+    "New Jersey"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Rutgers Youth Enjoy Science is a research training partnership associated with the Rutgers Cancer Institute of New Jersey that provides research opportunities for high school and undergraduate students. The program supports mentored cancer research and scientific training and is supported through an NIH/NCI R25 grant. Specific eligibility and cohort requirements can vary by cycle. Students should verify the current high school or undergraduate application pathway, eligibility requirements, program dates, compensation or funding, available research placements, and application deadlines before applying.",
+  "resumeRating": 5,
+  "ratingNote": "A strong NIH/NCI-supported research pathway because high school and undergraduate participants receive mentored training and research experience connected to the Rutgers Cancer Institute of New Jersey.",
+  "summary": "Rutgers Youth Enjoy Science provides high school and undergraduate students with mentored cancer research training through the Rutgers Cancer Institute of New Jersey. The program is supported by an NIH/NCI R25 grant and offers participants exposure to biomedical and oncology research.",
+  "email": "",
+  "labUrl": "https://honorscollege.rutgers.edu/academics/research",
+  "applyUrl": "https://honorscollege.rutgers.edu/academics/research",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 479,
+  "name": "Princeton Research Experience for Undergraduate Students",
+  "title": "Paid Nine-Week Faculty-Mentored Computer Science Research Program",
+  "university": "Princeton University",
+  "state": "New Jersey, USA",
+  "department": "Department of Computer Science",
+  "field": "Computer Science",
+  "tags": [
+    "computer science",
+    "artificial intelligence",
+    "computing",
+    "faculty research",
+    "research mentorship",
+    "undergraduate research",
+    "paid research",
+    "summer research",
+    "Princeton",
+    "New Jersey"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Princeton University's Department of Computer Science offers a nine-week summer research experience for eligible students attending accredited two- or four-year colleges and universities in New Jersey. Applicants must have completed at least 60 college credits, be at least 18 years old, and meet current citizenship or permanent-residency requirements. Current Princeton students are excluded from this particular program. Participants work closely with Princeton faculty on computer science research projects. The 2026 program ran from June 1 through August 2 and provided $750 per week along with housing and a meal plan. Students should verify current credit, enrollment, citizenship, age, program-date, funding, and application requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate research opportunity because eligible New Jersey college students conduct nine weeks of faculty-mentored computer science research at Princeton while receiving substantial weekly compensation, housing, and meals.",
+  "summary": "Princeton Computer Science offers eligible students attending New Jersey colleges a paid nine-week summer research experience with Princeton faculty. Participants conduct hands-on computer science research while receiving weekly compensation, housing, and a meal plan.",
+  "email": "",
+  "labUrl": "https://www.cs.princeton.edu/diversity-and-outreach/princeton-research-experience-undergraduate-students",
+  "applyUrl": "https://www.cs.princeton.edu/diversity-and-outreach/princeton-research-experience-undergraduate-students",
+  "dateAdded": "2026-08-16"
+}
 ]
