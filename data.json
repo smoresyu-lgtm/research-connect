@@ -17561,4 +17561,199 @@
   "applyUrl": "https://www.training.nih.gov/research-training/grads/summer-internship-program-sip/",
   "dateAdded": "2026-08-16"
 }
+  ,
+{
+  "id": 500,
+  "name": "Summer High School Internship Program (SHIP)",
+  "title": "Paid Eight-Week Cancer and Biomedical Research Internship",
+  "university": "Fred Hutchinson Cancer Center",
+  "state": "Washington, USA",
+  "department": "Science Education",
+  "field": "Biomedical Science",
+  "tags": [
+    "cancer research",
+    "biomedical science",
+    "molecular biology",
+    "laboratory research",
+    "research mentorship",
+    "research presentation",
+    "laboratory techniques",
+    "paid internship",
+    "Seattle",
+    "Washington"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Fred Hutchinson Cancer Center's Summer High School Internship Program provides eligible students entering senior year with an eight-week, full-time paid biomedical research experience. The first two weeks focus on laboratory safety, research techniques, and scientific preparation before students spend approximately six weeks embedded in Fred Hutch research groups under individual mentorship. Participants conclude the experience by presenting their research. For 2026, the program ran from June 22 through August 14. Applicants must generally be at least 16 years old, be entering their senior year of high school, and currently live in the Greater Seattle area or surrounding eligible communities. Fred Hutch does not accept out-of-state students for this program. Applicants should verify current geographic, grade, age, compensation, program-date, and application requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional biomedical research internship because students spend six weeks embedded directly in active Fred Hutch research groups after receiving intensive laboratory preparation, while also receiving compensation and presenting their research.",
+  "summary": "Fred Hutch SHIP gives eligible Seattle-area high school students eight weeks of paid biomedical research experience. Students begin with intensive laboratory training before joining active Fred Hutch research groups for six weeks of mentored research and concluding with a formal research presentation.",
+  "email": "",
+  "labUrl": "https://www.fredhutch.org/en/education-training/high-school-students/summer-high-school-internship-program.html",
+  "applyUrl": "https://www.fredhutch.org/en/education-training/high-school-students/summer-high-school-internship-program.html",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 501,
+  "name": "BRIGHT-UP",
+  "title": "Paid Seven-Week Biomedical Laboratory Research Internship",
+  "university": "University of Washington",
+  "state": "Washington, USA",
+  "department": "Health Sciences Center Minority Students Program",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "biology",
+    "laboratory research",
+    "experimental research",
+    "research mentorship",
+    "research techniques",
+    "research symposium",
+    "paid internship",
+    "Seattle",
+    "Washington"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The University of Washington BRIGHT-UP program provides eligible high school students with approximately seven weeks of intensive biomedical research experience. Participants begin with approximately one week of biomedical research training before spending six weeks in a University of Washington research laboratory. Students work with scientists to develop and conduct research projects using specialized laboratory techniques and conclude the experience by presenting their findings at a research symposium. Participants may work approximately 30 to 40 hours per week and are paid at applicable minimum-wage rates. The program is designed particularly for students from financially or educationally disadvantaged or underrepresented backgrounds. Recruitment for 2026 is closed, with the next program cycle expected for summer 2027. Applicants should verify current socioeconomic, geographic, grade, compensation, program-date, and application requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional biomedical research experience because students receive intensive scientific preparation followed by six weeks embedded in active University of Washington laboratories while receiving compensation and completing a research presentation.",
+  "summary": "UW BRIGHT-UP combines biomedical research training with six weeks of mentored laboratory research. Eligible high school students work alongside university scientists, develop research projects using specialized techniques, receive compensation, and present their findings at a culminating symposium.",
+  "email": "",
+  "labUrl": "https://www.hcop.uw.edu/bright-up/",
+  "applyUrl": "https://www.hcop.uw.edu/bright-up/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 502,
+  "name": "Friday Harbor Laboratories Young Investigator Prize",
+  "title": "Paid Eight-Week Marine Science Research Assistantship",
+  "university": "University of Washington",
+  "state": "Washington, USA",
+  "department": "Friday Harbor Laboratories",
+  "field": "Marine Biology",
+  "tags": [
+    "marine biology",
+    "marine science",
+    "ecology",
+    "biology",
+    "field research",
+    "laboratory research",
+    "research assistant",
+    "faculty mentorship",
+    "paid research",
+    "Friday Harbor",
+    "Washington"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The University of Washington Friday Harbor Laboratories Young Investigator Prize provides an exceptional local high school junior with an approximately eight-week, full-time summer research assistant position at Friday Harbor Laboratories. The selected student works within an active marine science research environment and gains direct experience contributing to scientific research. For 2026, the award included a $5,200 cash prize and applications required materials including a transcript, two recommendations, and an essay. The 2026 application deadline was April 24. Because the opportunity is highly selective and geographically focused, prospective applicants should verify current local eligibility requirements, grade level, research placement, award amount, program dates, and application deadline.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional marine-science opportunity because a high school student receives an intensive eight-week full-time research assistantship at a major marine laboratory along with substantial financial support and direct exposure to active scientific research.",
+  "summary": "UW Friday Harbor Laboratories' Young Investigator Prize gives a selected local high school junior an eight-week full-time research assistant position in an active marine science environment. The opportunity combines intensive research experience with a substantial cash award.",
+  "email": "",
+  "labUrl": "https://fhl.uw.edu/about/outreach/young-investigators-prize/",
+  "applyUrl": "https://fhl.uw.edu/about/outreach/young-investigators-prize/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 503,
+  "name": "Research Training Program (RTP)",
+  "title": "Paid Four-Week Biomedical Laboratory Research Program",
+  "university": "Seattle Children's Research Institute",
+  "state": "Washington, USA",
+  "department": "Science Education Department",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "biochemistry",
+    "immunotherapy",
+    "gene editing",
+    "infectious disease",
+    "public health",
+    "global health",
+    "laboratory research",
+    "independent research",
+    "Seattle",
+    "Washington"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Research Training",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Seattle Children's Research Training Program provides current 10th- and 11th-grade students living within commuting distance of downtown Seattle with approximately four weeks of intensive biomedical research training and project work. Students learn laboratory techniques and explore research areas that may include biochemistry, immunotherapy, gene editing, infectious disease, public health, and global health before conducting an independent research project. For 2026, the program ran from July 13 through August 7, accepted approximately 24 students, charged no tuition, and provided participants with a $2,000 stipend. Applicants should verify current geographic, grade, age, stipend, program-date, research-topic, and application requirements.",
+  "resumeRating": 4,
+  "ratingNote": "A strong biomedical research experience because students receive hands-on laboratory training and complete independent projects while receiving financial support, although the four-week format is shorter and more structured than longer individual laboratory placements.",
+  "summary": "Seattle Children's Research Training Program gives local high school students four weeks of intensive biomedical laboratory training and independent research. Students explore techniques and topics including biochemistry, immunotherapy, gene editing, infectious disease, and public health while receiving a stipend.",
+  "email": "",
+  "labUrl": "https://www.seattlechildrens.org/research/centers-programs/science-education-department/high-school-training-programs/",
+  "applyUrl": "https://www.seattlechildrens.org/research/centers-programs/science-education-department/high-school-training-programs/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 504,
+  "name": "Cord Blood Transplant Internship Program",
+  "title": "Paid Ten-Week Stem Cell and Transplantation Research Internship",
+  "university": "Fred Hutchinson Cancer Center",
+  "state": "Washington, USA",
+  "department": "Cord Blood Transplant Program",
+  "field": "Biomedical Science",
+  "tags": [
+    "stem cells",
+    "cord blood",
+    "transplantation",
+    "cancer research",
+    "clinical research",
+    "laboratory research",
+    "public health research",
+    "research mentorship",
+    "paid internship",
+    "Seattle",
+    "Washington"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Internship",
+  "applicationWindow": "Fred Hutchinson Cancer Center's Cord Blood Transplant Internship Program provides eligible students, including high school students entering senior year, with approximately ten weeks of paid, part-time research experience. Interns are matched to specific projects involving cord blood, stem cells, transplantation, and related biomedical questions based on their interests and experience. Projects may involve clinical research, laboratory research, or public-health research. For 2026, Fred Hutch anticipated approximately three to five available research projects. Applications generally become available in late November and are due around February 1, with interviews conducted on a rolling basis. Applicants should verify current grade, age, compensation, project availability, program dates, weekly commitment, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional niche biomedical opportunity because high school students can spend ten weeks working on specific stem-cell and cord-blood transplantation research projects and may contribute to clinical, laboratory, or public-health research under Fred Hutch mentorship.",
+  "summary": "Fred Hutch's Cord Blood Transplant Internship provides high school and other eligible students with a paid ten-week research experience focused on stem cells, cord blood, and transplantation. Interns are matched to specific clinical, laboratory, or public-health research projects according to their interests and experience.",
+  "email": "",
+  "labUrl": "https://www.fredhutch.org/en/research/divisions/translational-science-and-therapeutics-division/cord-blood-transplant-program/internship-program.html",
+  "applyUrl": "https://www.fredhutch.org/en/research/divisions/translational-science-and-therapeutics-division/cord-blood-transplant-program/internship-program.html",
+  "dateAdded": "2026-08-16"
+}
 ]
