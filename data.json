@@ -18148,4 +18148,196 @@
   "applyUrl": "https://pace.oakland.edu/search/publicCourseSearchDetails.do?courseId=1764120&method=load&selectedProgramAreaId=1035308&selectedProgramStreamId=1184417",
   "dateAdded": "2026-08-16"
 }
+  ,
+{
+  "id": 515,
+  "name": "IOL HighTech Bound Internship",
+  "title": "Paid Five-Week Computer Networking and Engineering Internship",
+  "university": "University of New Hampshire",
+  "state": "New Hampshire, USA",
+  "department": "InterOperability Laboratory",
+  "field": "Computer Science",
+  "tags": [
+    "computer science",
+    "computer networking",
+    "engineering",
+    "information technology",
+    "networking technology",
+    "technical research",
+    "hands-on technology",
+    "paid internship",
+    "Durham",
+    "New Hampshire"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Research Training",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The University of New Hampshire InterOperability Laboratory HighTech Bound Internship provides rising high school seniors with approximately five weeks of intensive, paid experience in computer networking, engineering, and related technologies. Participants work in the UNH-IOL environment and gain hands-on experience with current networking and computing technologies alongside university and industry-connected technical professionals. For 2026, the program ran from July 6 through August 7, Monday through Friday from approximately 9:00 AM to 5:00 PM. The 2026 application cycle is closed. Prospective applicants should verify current grade requirements, compensation, program dates, technical activities, and application deadlines for future cycles.",
+  "resumeRating": 5,
+  "ratingNote": "A highly valuable technical internship because rising high school seniors spend five weeks working full-time in UNH's InterOperability Laboratory environment while gaining paid hands-on experience with advanced computer networking and engineering technologies.",
+  "summary": "UNH's IOL HighTech Bound Internship gives rising high school seniors five weeks of paid, hands-on experience in computer networking, engineering, and technology. Participants work within the university's InterOperability Laboratory and gain exposure to advanced technical systems and professional research and testing environments.",
+  "email": "",
+  "labUrl": "https://www.unh.edu/youthprograms/course/iol-hightech-bound-internship",
+  "applyUrl": "https://www.unh.edu/youthprograms/course/iol-hightech-bound-internship",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 516,
+  "name": "NH-INBRE Partner School Research Program",
+  "title": "Paid Biomedical Research Positions at New Hampshire Partner Colleges",
+  "university": "Dartmouth College — New Hampshire INBRE",
+  "state": "New Hampshire, USA",
+  "department": "New Hampshire INBRE",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "biology",
+    "biochemistry",
+    "laboratory research",
+    "faculty mentorship",
+    "independent research",
+    "paid research",
+    "research presentation",
+    "New Hampshire"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Partner Institution Program",
+  "applicationWindow": "The New Hampshire INBRE Partner School Research Program supports undergraduate biomedical research at participating colleges throughout New Hampshire. Students may conduct full-time summer research of approximately 40 or more hours per week under faculty mentorship and receive compensation for their research. Academic-year research positions of approximately 10 to 15 hours per week may also be available. Participants conduct biomedical research at institutions including Colby-Sawyer College, Franklin Pierce University, Keene State College, New England College, Plymouth State University, Saint Anselm College, the University of New Hampshire at Manchester, and other NH-INBRE partners. Summer researchers present their work at the NH-INBRE Annual Meeting. Students should contact their participating institution and verify current eligibility, research areas, compensation, dates, and application procedures.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate research pathway because students can conduct paid, full-time biomedical research under faculty mentorship and formally present their findings through the statewide NH-INBRE research network.",
+  "summary": "NH-INBRE supports paid undergraduate biomedical research at participating New Hampshire colleges. Students can conduct intensive summer or academic-year research with faculty mentors and present their work at the NH-INBRE Annual Meeting.",
+  "email": "",
+  "labUrl": "https://geiselmed.dartmouth.edu/nhinbre/partner-school-research/",
+  "applyUrl": "https://geiselmed.dartmouth.edu/nhinbre/partner-school-research/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 517,
+  "name": "NH-INBRE iSURF",
+  "title": "Intensive Summer Undergraduate Biomedical Research Fellowship",
+  "university": "Dartmouth College — New Hampshire INBRE",
+  "state": "New Hampshire, USA",
+  "department": "New Hampshire INBRE",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "biology",
+    "biochemistry",
+    "laboratory research",
+    "faculty mentorship",
+    "summer fellowship",
+    "research presentation",
+    "undergraduate research",
+    "Hanover",
+    "New Hampshire"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The New Hampshire INBRE iSURF program provides eligible undergraduate students with an intensive summer biomedical research experience through Dartmouth and the broader NH-INBRE network. Participants conduct sustained mentored research rather than completing a traditional classroom-based summer course and participate in the New Hampshire biomedical research community. For 2026, the summer research period began June 15 and continued through August, culminating around the NH-INBRE Annual Meeting on August 17 and 18. Application materials include academic information such as transcripts and recommendations. Prospective students should verify current institutional eligibility, research placements, compensation, program dates, housing or transportation arrangements, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate summer research opportunity because participants complete sustained mentored biomedical research through the Dartmouth-affiliated NH-INBRE network and engage with a broader statewide scientific community.",
+  "summary": "NH-INBRE iSURF provides undergraduate students with an intensive summer biomedical research experience connected to Dartmouth and New Hampshire's biomedical research network. Participants conduct sustained mentored research and engage with researchers through the NH-INBRE Annual Meeting.",
+  "email": "",
+  "labUrl": "https://geiselmed.dartmouth.edu/nhinbre/about-us/isurf/",
+  "applyUrl": "https://geiselmed.dartmouth.edu/nhinbre/about-us/isurf/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 518,
+  "name": "Research and Lab Work in Medicine",
+  "title": "High School Biomedical Laboratory and Research Training Program",
+  "university": "Dartmouth College",
+  "state": "New Hampshire, USA",
+  "department": "Dartmouth Precollege",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "medicine",
+    "cell biology",
+    "genetics",
+    "neuroscience",
+    "laboratory techniques",
+    "experimental design",
+    "research ethics",
+    "clinical research",
+    "Hanover",
+    "New Hampshire"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Training",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Dartmouth Precollege's Research and Lab Work in Medicine course provides high school students with approximately two weeks of intensive biomedical research training. Participants work with Dartmouth faculty, researchers, and medical professionals while learning laboratory techniques, experimental design, research ethics, and scientific concepts involving areas such as cell biology, genetics, neuroscience, and translational medicine. Students explore how discoveries move from basic scientific research toward clinical applications and conclude the experience with a group presentation. For 2026, the course ran from July 26 through August 7. This is a structured research-training experience rather than an individual laboratory internship. Applicants should verify current dates, eligibility, tuition, housing, course content, and application requirements.",
+  "resumeRating": 3,
+  "ratingNote": "A useful biomedical research-training opportunity because high school students gain hands-on exposure to laboratory techniques, experimental design, and active Dartmouth researchers, although the two-week course does not provide the depth of an individual multi-week laboratory placement.",
+  "summary": "Dartmouth's Research and Lab Work in Medicine program introduces high school students to biomedical research through laboratory techniques, experimental design, research ethics, and interactions with university researchers and medical professionals. Students explore fields including cell biology, genetics, neuroscience, and translational medicine.",
+  "email": "",
+  "labUrl": "https://precollege.dartmouth.edu/courses/campus-courses-session/science-courses",
+  "applyUrl": "https://precollege.dartmouth.edu/courses/campus-courses-session/science-courses",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 519,
+  "name": "Psychology and Cognitive Neuroscience",
+  "title": "High School Psychology and Neuroscience Research Training Program",
+  "university": "Dartmouth College",
+  "state": "New Hampshire, USA",
+  "department": "Dartmouth Precollege",
+  "field": "Psychology",
+  "tags": [
+    "psychology",
+    "cognitive neuroscience",
+    "neuroscience",
+    "memory",
+    "attention",
+    "behavioral research",
+    "data analysis",
+    "experimental psychology",
+    "research training",
+    "Hanover",
+    "New Hampshire"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Training",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Dartmouth Precollege's Psychology and Cognitive Neuroscience course introduces high school students to experimental psychology and neuroscience research. Participants engage with topics such as memory, attention, cognition, and brain function while gaining exposure to research methods used by psychologists and neuroscientists. Activities may include participation in memory and attention experiments, analysis of neuroscience datasets, interactions with Dartmouth researchers, and exposure to university psychology and neuroscience research facilities. The experience is research-oriented training rather than an individual laboratory internship. Students should verify current session dates, eligibility, tuition, housing, course activities, and application requirements through Dartmouth Precollege.",
+  "resumeRating": 3,
+  "ratingNote": "A useful psychology and neuroscience research-training experience because students participate in experimental activities, analyze scientific data, and interact with active Dartmouth researchers, although it does not provide an independent long-term research placement.",
+  "summary": "Dartmouth's Psychology and Cognitive Neuroscience program introduces high school students to experimental psychology and neuroscience through behavioral experiments, scientific data analysis, research-facility exposure, and interactions with Dartmouth researchers.",
+  "email": "",
+  "labUrl": "https://precollege.dartmouth.edu/courses/campus-courses-session/science-courses",
+  "applyUrl": "https://precollege.dartmouth.edu/courses/campus-courses-session/science-courses",
+  "dateAdded": "2026-08-16"
+}
 ]
