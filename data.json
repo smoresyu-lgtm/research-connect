@@ -16572,4 +16572,201 @@
   "applyUrl": "https://www.cs.princeton.edu/diversity-and-outreach/princeton-research-experience-undergraduate-students",
   "dateAdded": "2026-08-16"
 }
+  ,
+{
+  "id": 480,
+  "name": "HIP-SAT",
+  "title": "Paid Eight-Week MIT Research Internship for Homeschooled Students",
+  "university": "Massachusetts Institute of Technology",
+  "state": "Massachusetts, USA",
+  "department": "HIP-SAT",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "chemical biology",
+    "chemistry",
+    "engineering",
+    "computational science",
+    "scientific computing",
+    "laboratory research",
+    "data analysis",
+    "faculty research",
+    "paid internship",
+    "Cambridge",
+    "Massachusetts"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "HIP-SAT provides homeschooled high school students with an eight-week summer research internship in MIT or affiliated research laboratories. For 2026, students were assigned individualized frontier-research projects and mentored by PhD students or postdoctoral researchers at MIT or Weill Cornell Medicine. Depending on the project, research may involve wet-lab experimentation, scientific programming, mathematics, theory, literature research, or data analysis. Students participate in research meetings and conclude the program by presenting their findings at an August symposium. Interns were paid $15 per hour for approximately 20 hours per week. Students must be able to commute locally or arrange their own local housing. Applicants should verify current homeschool eligibility, geographic requirements, dates, compensation, research placements, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional research opportunity because high school students receive individualized frontier-research projects in MIT or affiliated laboratories, work directly with PhD or postdoctoral mentors, and receive compensation for their research.",
+  "summary": "HIP-SAT gives homeschooled high school students paid summer research placements in MIT or affiliated laboratories. Participants conduct individualized projects spanning experimental, computational, mathematical, and theoretical research and present their findings at a culminating symposium.",
+  "email": "",
+  "labUrl": "https://hip-sat.mit.edu/summer-2026-program/",
+  "applyUrl": "https://hip-sat.mit.edu/summer-2026-program/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 481,
+  "name": "Tufts University Biomedical Engineering Research Scholars (TUBERS)",
+  "title": "Paid Six-Week Biomedical Engineering Research Internship",
+  "university": "Tufts University",
+  "state": "Massachusetts, USA",
+  "department": "Department of Biomedical Engineering",
+  "field": "Biomedical Engineering",
+  "tags": [
+    "biomedical engineering",
+    "tissue engineering",
+    "cell biology",
+    "biomaterials",
+    "experimental research",
+    "laboratory research",
+    "research mentorship",
+    "paid internship",
+    "summer research",
+    "Medford",
+    "Massachusetts"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Tufts University Biomedical Engineering Research Scholars is a six-week high school research internship in Tufts Biomedical Engineering laboratories. Students work approximately 35 hours per week investigating biomedical research questions and developing methods for studying cells, tissues, organs, and biomaterials. Participants learn experimental protocols, formulate predictions, test hypotheses, and conduct research with university mentors. The program is free to participants and, for 2026, students were paid $17 per hour under applicable Massachusetts Life Sciences Center eligibility requirements. With principal investigator approval, students may also be encouraged to continue or present their research through science competitions. Applicants should verify current academic, residency, funding, age, program-date, and application requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional biomedical engineering internship because students spend six weeks conducting full-time research inside Tufts laboratories, receive direct research mentorship, pay no program fee, and receive hourly compensation.",
+  "summary": "TUBERS places high school students inside Tufts Biomedical Engineering laboratories for six weeks of paid, full-time research. Students learn experimental methods, formulate and test hypotheses, and investigate research questions involving cells, tissues, biomaterials, and related biomedical engineering topics.",
+  "email": "",
+  "labUrl": "https://sites.tufts.edu/tubers/",
+  "applyUrl": "https://sites.tufts.edu/tubers/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 482,
+  "name": "GROW",
+  "title": "Paid Six-Week High School University Laboratory Research Internship",
+  "university": "Boston University",
+  "state": "Massachusetts, USA",
+  "department": "Learning Resource Network",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "biology",
+    "chemistry",
+    "engineering",
+    "STEM",
+    "laboratory research",
+    "faculty research",
+    "research mentorship",
+    "research symposium",
+    "paid internship",
+    "Boston",
+    "Massachusetts"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Boston University's GROW program individually places eligible rising high school seniors into university research laboratories for six weeks of summer research. Students must attend Massachusetts schools, generally live within 30 miles of Boston, be at least 16 years old, and meet current academic eligibility requirements. Participants work in collaborative laboratory research groups approximately Monday through Friday, meet regularly with program staff to discuss research progress, and present their research at a culminating summer symposium. For 2026, eligible participants could receive a stipend of up to $2,000. Students should verify current residency, school, grade, age, academic, stipend, program-date, and application requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional high school research placement because each participant is individually placed into a Boston University laboratory for six weeks of cutting-edge research and concludes the experience by presenting at a research symposium.",
+  "summary": "Boston University's GROW program places eligible Massachusetts high school students into individual university laboratories for six weeks of mentored research. Participants work with research groups, receive ongoing guidance, and present their work at a summer symposium.",
+  "email": "",
+  "labUrl": "https://www.bu.edu/lernet/grow/about.html",
+  "applyUrl": "https://www.bu.edu/lernet/grow/about.html",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 483,
+  "name": "LEAH Knox Scholars Program",
+  "title": "Paid Two-Year Laboratory Training and Research Internship Pathway",
+  "university": "Massachusetts Institute of Technology",
+  "state": "Massachusetts, USA",
+  "department": "Department of Biology",
+  "field": "Biology",
+  "tags": [
+    "biology",
+    "molecular biology",
+    "biomedical science",
+    "laboratory science",
+    "quantitative biology",
+    "research training",
+    "laboratory research",
+    "paid internship",
+    "longitudinal research",
+    "Cambridge",
+    "Massachusetts"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Training",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The LEAH Knox Scholars Program is a paid two-year pathway for eligible rising juniors and seniors attending public high schools in Boston, Cambridge, or Everett. Additional socioeconomic and program eligibility requirements apply, and students must generally be at least 16 years old. During the first summer, scholars complete a five-week MIT laboratory course and learn laboratory and quantitative techniques while receiving a stipend. During the second summer, students are placed into research laboratories throughout the Boston and Cambridge area for a six-week research internship. The program is operated with Health Resources in Action and supported by an NIH Science Education Partnership Award. Applicants should verify current school, grade, age, socioeconomic, stipend, program-date, and application requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional longitudinal pathway because students progress from intensive MIT laboratory training into an actual six-week research laboratory internship during their second summer while receiving financial support.",
+  "summary": "MIT Biology's LEAH Knox Scholars Program provides eligible local high school students with a two-year pathway from intensive laboratory and quantitative training to a six-week research internship in a Boston or Cambridge laboratory.",
+  "email": "",
+  "labUrl": "https://biology.mit.edu/outreach/leah-knox-scholars-program/program-details-leah-knox-scholars/",
+  "applyUrl": "https://biology.mit.edu/outreach/leah-knox-scholars-program/program-details-leah-knox-scholars/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 484,
+  "name": "UMass Amherst Research Intensives",
+  "title": "Six-Week Professional University Laboratory Research Placement",
+  "university": "University of Massachusetts Amherst",
+  "state": "Massachusetts, USA",
+  "department": "Pre-College Programs",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "biology",
+    "biochemistry",
+    "chemistry",
+    "microbiology",
+    "psychology",
+    "food science",
+    "laboratory research",
+    "faculty research",
+    "research poster",
+    "summer research",
+    "Amherst",
+    "Massachusetts"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "UMass Amherst Research Intensives provide rising high school juniors and seniors with six weeks of research experience inside professional working laboratories at an R1 research university. Students generally should have a B or better academic record in relevant math and science coursework. Participants work alongside faculty, graduate students, and undergraduates while assisting with ongoing research and conclude by creating and presenting a research poster. Available laboratory areas vary by year and have included neural stem-cell biology, quantum chemistry, fungal genomics, microbiology, plant biology, avian physiology, psychology, food science, and related fields. For 2026, published costs were approximately $7,247 for commuters and $12,813 for residential participants. Applicants should verify current laboratory options, eligibility, tuition, housing, financial assistance, dates, and application deadlines.",
+  "resumeRating": 4,
+  "ratingNote": "A strong and legitimate university research experience because students work in professional UMass Amherst laboratories alongside active researchers and contribute to ongoing research, though the substantial program cost makes it less accessible than paid or free research internships.",
+  "summary": "UMass Amherst Research Intensives place high school students in professional university laboratories for six weeks of work alongside faculty, graduate students, and undergraduates. Students assist with ongoing research across numerous STEM disciplines and conclude by presenting a research poster.",
+  "email": "",
+  "labUrl": "https://www.umass.edu/uww/pre-college/research-intensives",
+  "applyUrl": "https://www.umass.edu/uww/pre-college/research-intensives",
+  "dateAdded": "2026-08-16"
+}
 ]
