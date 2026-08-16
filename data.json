@@ -16769,4 +16769,199 @@
   "applyUrl": "https://www.umass.edu/uww/pre-college/research-intensives",
   "dateAdded": "2026-08-16"
 }
+  ,
+{
+  "id": 485,
+  "name": "High School Student Research Apprentice Program",
+  "title": "Paid Five-Week Biomedical and Clinical Research Apprenticeship",
+  "university": "University of Connecticut Health Center",
+  "state": "Connecticut, USA",
+  "department": "Health Career Opportunity Programs",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "clinical research",
+    "molecular biology",
+    "computational biology",
+    "laboratory research",
+    "medical research",
+    "research mentorship",
+    "paid research",
+    "Farmington",
+    "Connecticut"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "UConn Health's High School Student Research Apprentice Program provides eligible Connecticut high school students with a five-week paid summer research experience in basic-science or clinical research laboratories at UConn Health and affiliated institutions. For 2026, the program ran from June 15 through July 17 and the application deadline was April 1. Applicants generally must have completed their junior year, be at least 16 years old, attend a Connecticut high school, and meet current program eligibility criteria related to educational or socioeconomic background. Participants conduct mentored research projects in active laboratories and gain exposure to biomedical and clinical research. Students should verify current residency, grade, age, eligibility, compensation, program dates, and application deadlines for future cycles.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional paid research opportunity because eligible high school students are placed directly into active biomedical or clinical research environments and conduct mentored projects rather than participating only in classroom-based enrichment.",
+  "summary": "The UConn Health High School Student Research Apprentice Program places eligible Connecticut high school students into biomedical and clinical research environments for five weeks of paid summer research. Participants work with research mentors on active scientific projects while gaining exposure to laboratory and medical research.",
+  "email": "",
+  "labUrl": "https://health.uconn.edu/hcop/pathway-programs/high-school-student-research-apprentice-program/",
+  "applyUrl": "https://health.uconn.edu/hcop/pathway-programs/high-school-student-research-apprentice-program/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 486,
+  "name": "Wesleyan Junior Fellow Summer Program",
+  "title": "Six-Week Faculty-Mentored University Laboratory Research Fellowship",
+  "university": "Wesleyan University",
+  "state": "Connecticut, USA",
+  "department": "College of Integrative Sciences",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "biology",
+    "chemistry",
+    "computer science",
+    "earth science",
+    "environmental science",
+    "molecular biology",
+    "physics",
+    "laboratory research",
+    "faculty research",
+    "research symposium",
+    "Middletown",
+    "Connecticut"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Wesleyan University's Junior Fellow Summer Program provides eligible high school juniors, seniors, and recent graduates with approximately six weeks of faculty-mentored summer research. Students must generally be at least 16 years old and live in Middletown or the surrounding area. Fellows are assigned to active Wesleyan research laboratories and work alongside faculty members and student researchers while attending laboratory meetings, seminars, and other research activities. Research areas may include biology, chemistry, computer science, earth and environmental sciences, molecular biology and biochemistry, physics, and related disciplines. Participants conclude the experience by presenting their work at a research symposium. Students should verify current age, geographic, academic, program-date, laboratory, and application requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional local research opportunity because students are placed directly into active Wesleyan faculty laboratories across numerous STEM fields and participate in the university's broader research community before presenting their work at a symposium.",
+  "summary": "Wesleyan's Junior Fellow Summer Program places eligible local high school students into active university research laboratories for approximately six weeks. Fellows work with faculty and student mentors across multiple STEM disciplines, participate in research activities and seminars, and present their work at a culminating symposium.",
+  "email": "",
+  "labUrl": "https://www.wesleyan.edu/cis/community/wes-mhs.html",
+  "applyUrl": "https://www.wesleyan.edu/cis/community/wes-mhs.html",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 487,
+  "name": "YCCI Exposures Program",
+  "title": "Remote Clinical and Translational Research Training Program",
+  "university": "Yale University",
+  "state": "Connecticut, USA",
+  "department": "Yale Center for Clinical Investigation",
+  "field": "Biomedical Science",
+  "tags": [
+    "clinical research",
+    "translational research",
+    "biomedical science",
+    "medical research",
+    "research methods",
+    "independent research",
+    "research presentation",
+    "remote research",
+    "New Haven",
+    "Connecticut"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Research Training",
+    "Remote Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The Yale Center for Clinical Investigation Exposures Program provides high school and college students with remote training in clinical and translational research. High school participants generally must be at least 15 years old. Students learn about clinical research methods and complete an individual or group research project that is presented at a Yale Center for Clinical Investigation research meeting. For 2026, the program ran from July 6 through July 31, with applications opening February 15 and closing April 4. The program was unpaid. Students should verify current age, eligibility, virtual format, dates, project expectations, and application deadlines for future cycles.",
+  "resumeRating": 4,
+  "ratingNote": "A strong and unusually accessible research opportunity because students can participate remotely while gaining structured exposure to clinical and translational research and completing a research project, although it is less intensive than a full-time laboratory placement.",
+  "summary": "Yale's YCCI Exposures Program introduces high school and college students to clinical and translational research through a remote summer experience. Participants receive research training, develop an individual or group project, and present their work through a Yale clinical-research setting.",
+  "email": "",
+  "labUrl": "https://medicine.yale.edu/center-clinical-investigation/for-students-and-interns/exposures-program/",
+  "applyUrl": "https://medicine.yale.edu/center-clinical-investigation/for-students-and-interns/exposures-program/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 488,
+  "name": "Lin Research Group",
+  "title": "Student-Faculty Chemistry and Materials Research Partnership",
+  "university": "University of Connecticut",
+  "state": "Connecticut, USA",
+  "department": "Chemistry",
+  "field": "Chemistry",
+  "tags": [
+    "chemistry",
+    "materials science",
+    "nanomaterials",
+    "polymers",
+    "protein materials",
+    "nanoparticles",
+    "experimental research",
+    "laboratory research",
+    "faculty mentorship",
+    "Storrs",
+    "Connecticut"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "Professor Yao Lin's research group at the University of Connecticut occasionally offers Student-Faculty Research Partnerships to exceptionally motivated and academically prepared high school students. High school researchers may spend approximately six to eight weeks conducting summer research and may have opportunities to continue their work afterward. The laboratory conducts materials and chemistry research involving areas such as nanostructured protein films, polymer and liquid-crystal materials, actuators, nanoparticles, and related soft-matter systems. Prospective high school researchers are expected to have unusually strong chemistry preparation, with the lab indicating that college-level general and organic chemistry experience is particularly valuable. Interested students should review the laboratory's current outreach information and contact the group regarding availability.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-access opportunity for highly prepared chemistry students because the laboratory explicitly offers research partnerships to selected high school students for substantial summer research rather than limiting participation to enrolled UConn students.",
+  "summary": "The Lin Research Group at UConn conducts experimental chemistry and materials-science research involving nanomaterials, protein-based materials, polymers, liquid-crystal systems, nanoparticles, and related topics. Exceptionally prepared high school students may inquire about six-to-eight-week summer research partnerships with the laboratory.",
+  "email": "",
+  "labUrl": "https://lingroup.uconn.edu/outreach/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 489,
+  "name": "School of Exploratory Chemistry Research Experience & Training (SECRET)",
+  "title": "High School Chemistry Laboratory Research Experience",
+  "university": "University of Connecticut",
+  "state": "Connecticut, USA",
+  "department": "Department of Chemistry",
+  "field": "Chemistry",
+  "tags": [
+    "chemistry",
+    "organic chemistry",
+    "inorganic chemistry",
+    "polymer chemistry",
+    "nanomaterials",
+    "computational chemistry",
+    "laboratory research",
+    "research training",
+    "Storrs",
+    "Connecticut"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Research Training",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "UConn's School of Exploratory Chemistry Research Experience & Training, or SECRET, is an intensive high school chemistry research experience involving work with University of Connecticut Chemistry faculty and research laboratories. Students receive laboratory and safety preparation before gaining exposure to research areas that may include organic chemistry, inorganic chemistry, polymers, nanomaterials, computational chemistry, and related fields. The experience is substantially shorter than a traditional multi-week research internship but is designed around direct exposure to university chemistry research and laboratory methods. Students should review the official SECRET site for the current program schedule, eligibility requirements, costs if applicable, research topics, and application deadlines.",
+  "resumeRating": 3,
+  "ratingNote": "A legitimate hands-on introduction to university chemistry research with exposure to faculty laboratories and several chemistry subfields, although its short duration makes it less substantial than multi-week or semester-long research placements.",
+  "summary": "UConn SECRET gives high school students an intensive introduction to chemistry research through university laboratory activities, faculty-led research exposure, safety training, and work across areas such as organic, inorganic, polymer, nanomaterials, and computational chemistry.",
+  "email": "",
+  "labUrl": "https://secret.chem.uconn.edu/",
+  "applyUrl": "https://secret.chem.uconn.edu/",
+  "dateAdded": "2026-08-16"
+}
 ]
