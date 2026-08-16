@@ -15983,4 +15983,200 @@
   "applyUrl": "https://mae.osu.edu/gtl/personnel",
   "dateAdded": "2026-08-14"
 }
+  ,
+{
+  "id": 465,
+  "name": "Penn Research Experience for High School Students (PREHSS)",
+  "title": "Five-Week Active University Laboratory Research Program",
+  "university": "University of Pennsylvania",
+  "state": "Pennsylvania, USA",
+  "department": "School of Arts and Sciences",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "biology",
+    "chemistry",
+    "physics",
+    "astronomy",
+    "linguistics",
+    "psychology",
+    "laboratory research",
+    "faculty mentorship",
+    "current research",
+    "scientific presentation",
+    "Philadelphia",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "PREHSS is a competitive five-week in-person research program at the University of Pennsylvania. Students are placed within active Penn research laboratories and assigned individual mentors. Projects may span biology, chemistry, physics, astronomy, linguistics, psychology, and other School of Arts and Sciences disciplines. Participants contribute to current scientific research, develop laboratory and research skills, and present their work at the conclusion of the program. Students should verify current eligibility requirements, program dates, costs or financial aid, research placements, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional high school research opportunity because students are placed directly within active University of Pennsylvania laboratories, receive individual mentorship, contribute to current research, and formally present their work.",
+  "summary": "PREHSS places high school students inside active University of Pennsylvania research laboratories for five weeks of mentored research. Projects span multiple scientific and academic disciplines, and participants develop research skills while contributing to current Penn research and presenting their work.",
+  "email": "",
+  "labUrl": "https://web.sas.upenn.edu/office-aee/soi/penn-prehss/",
+  "applyUrl": "https://web.sas.upenn.edu/office-aee/soi/penn-prehss/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 466,
+  "name": "OER Summer Internship Program",
+  "title": "Paid High School Faculty-Lab Research Internship",
+  "university": "University of Pennsylvania",
+  "state": "Pennsylvania, USA",
+  "department": "Perelman School of Medicine",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "molecular biology",
+    "medicine",
+    "laboratory research",
+    "bench research",
+    "faculty mentorship",
+    "clinical exposure",
+    "paid internship",
+    "summer research",
+    "Philadelphia",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The Penn Perelman School of Medicine OER Summer Internship Program places Philadelphia-area high school students into research positions hosted by Penn faculty. Students receive preparation for laboratory research and then spend approximately six weeks conducting hands-on research under the guidance of faculty laboratories, trainees, and staff, followed by an additional clinical-exposure component. Participants also receive professional-development programming throughout the summer. Students are hired and paid by Penn. Penn actively recruited laboratories and mentors for the 2026 cohort. Applicants should verify current geographic and school eligibility, compensation, dates, research placements, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional paid biomedical research internship because high school students are placed directly into University of Pennsylvania faculty laboratories for sustained hands-on research and receive additional clinical and professional-development exposure.",
+  "summary": "Penn's OER Summer Internship Program gives Philadelphia-area high school students paid research placements in Perelman School of Medicine faculty laboratories. Students conduct hands-on biomedical research with Penn mentors while also receiving laboratory preparation, professional development, and clinical exposure.",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/summer-mentor-resource-page.html",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/summer-mentor-resource-page.html",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 467,
+  "name": "CHOP Research Internship for Scholars and Emerging Scientists (CHOP-RISES)",
+  "title": "Two-Summer High School Biomedical Research Internship Pathway",
+  "university": "Children's Hospital of Philadelphia",
+  "state": "Pennsylvania, USA",
+  "department": "CHOP Research Institute",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "medicine",
+    "child health",
+    "laboratory research",
+    "STEM-M",
+    "research mentorship",
+    "research intensive",
+    "summer internship",
+    "Philadelphia",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "CHOP-RISES is a research-intensive internship pathway for eligible rising juniors attending Philadelphia public or charter schools. Students must generally be at least 16 years old and legally authorized to work in the United States. CHOP-RISES I provides approximately six weeks of immersive research experience at Children's Hospital of Philadelphia, and students who successfully complete the first program can become eligible for CHOP-RISES II during a second summer. The 2026 cohort ran from June 29 through August 6. Applicants should verify current school, grade, age, work-authorization, program-date, compensation, and application requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional long-term high school research pathway because students receive an immersive research experience at a major pediatric research institution and can continue into a second summer of research.",
+  "summary": "CHOP-RISES gives eligible Philadelphia high school students an intensive summer biomedical research experience at Children's Hospital of Philadelphia. Students who complete the first six-week research internship can become eligible to continue into a second summer through CHOP-RISES II.",
+  "email": "",
+  "labUrl": "https://research.chop.edu/services/chop-research-internship-for-scholars-and-emerging-scientists-chop-rises",
+  "applyUrl": "https://research.chop.edu/services/chop-research-internship-for-scholars-and-emerging-scientists-chop-rises",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 468,
+  "name": "Penn State GeoPath",
+  "title": "Academic-Year High School Geoscience Research Mentorship",
+  "university": "Pennsylvania State University",
+  "state": "Pennsylvania, USA",
+  "department": "GeoPath",
+  "field": "Earth Science",
+  "tags": [
+    "geoscience",
+    "earth science",
+    "environmental science",
+    "field research",
+    "laboratory research",
+    "faculty mentorship",
+    "graduate mentorship",
+    "undergraduate mentorship",
+    "academic year research",
+    "State College",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Penn State GeoPath gives high school students sustained academic-year involvement in geoscience and related STEM research. Each participant is supported through three levels of mentorship: an undergraduate mentor, a graduate student mentor, and a Penn State faculty member. Students join actual research teams and spend approximately two hours per week conducting research with their faculty mentor in addition to approximately four hours per week working with their undergraduate mentor. The program is designed to expand participation in geoscience and related disciplines. Students should verify current geographic, school, eligibility, academic-year schedule, research-area, and application requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional sustained research experience because high school students join actual Penn State research teams for an academic year while receiving undergraduate, graduate, and faculty mentorship.",
+  "summary": "Penn State GeoPath places high school students on university geoscience research teams for an academic-year mentorship experience. Participants work with an undergraduate mentor, graduate student, and faculty researcher while gaining sustained exposure to Earth and environmental science research.",
+  "email": "",
+  "labUrl": "https://sites.psu.edu/geopath/",
+  "applyUrl": "https://sites.psu.edu/geopath/",
+  "dateAdded": "2026-08-16"
+},
+{
+  "id": 469,
+  "name": "Penn Academy for Skin Health (PASH)",
+  "title": "High School Dermatology Research Academy and Internship Pathway",
+  "university": "University of Pennsylvania",
+  "state": "Pennsylvania, USA",
+  "department": "Department of Dermatology",
+  "field": "Biomedical Science",
+  "tags": [
+    "dermatology",
+    "skin biology",
+    "biomedical science",
+    "medicine",
+    "laboratory research",
+    "research techniques",
+    "clinical science",
+    "research mentorship",
+    "paid internship pathway",
+    "Philadelphia",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Research Training",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The Penn Academy for Skin Health is available to eligible students in grades 10 through 12 attending Philadelphia public or charter schools. Participants work with Penn scientists and clinicians while gaining hands-on experience with dermatology and skin-biology research, including real laboratory techniques and research equipment. PASH participants may also become eligible for a paid summer research internship with Penn Dermatology through Penn's OER pathway. Students should verify current school eligibility, dates, program structure, research activities, internship eligibility, and application deadlines.",
+  "resumeRating": 4,
+  "ratingNote": "A strong department-level research pathway because students gain hands-on dermatology research experience with Penn scientists and clinicians and may progress into a paid summer research internship through Penn's OER program.",
+  "summary": "Penn Dermatology's PASH program gives Philadelphia high school students hands-on exposure to skin biology and biomedical research using real laboratory techniques and equipment. Participants may also become eligible for a paid Penn Dermatology summer internship through the OER pathway.",
+  "email": "",
+  "labUrl": "https://dermatology.upenn.edu/training/t32-training/pash/",
+  "applyUrl": "https://dermatology.upenn.edu/training/t32-training/pash/",
+  "dateAdded": "2026-08-16"
+}
 ]
