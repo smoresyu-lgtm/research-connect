@@ -18340,4 +18340,1942 @@
   "applyUrl": "https://precollege.dartmouth.edu/courses/campus-courses-session/science-courses",
   "dateAdded": "2026-08-16"
 }
+  ,
+{
+  "id": 520,
+  "name": "Duke University Neuroscience Experience (DUNE)",
+  "title": "Paid Eight-Week Neuroscience Research Internship",
+  "university": "Duke University",
+  "state": "North Carolina, USA",
+  "department": "Duke Institute for Brain Sciences",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "biomedical research",
+    "brain science",
+    "laboratory research",
+    "faculty research",
+    "research mentorship",
+    "independent research",
+    "paid internship",
+    "Durham",
+    "North Carolina"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "The Duke University Neuroscience Experience provides eligible local high school students with approximately eight weeks of full-time, paid neuroscience research. Participants are matched with Duke neuroscience laboratories based on their scientific interests and begin research projects under individualized mentorship from professional scientists. Prior research experience is not required, and students without previous laboratory experience are encouraged to apply. For 2026, the program ran from June 15 through August 7. Applicants should verify current geographic eligibility, grade and age requirements, compensation, laboratory placements, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional neuroscience opportunity because students spend eight weeks conducting full-time research inside active Duke laboratories while receiving individualized scientific mentorship and compensation, with no prior research experience required.",
+  "summary": "Duke DUNE places eligible high school students into neuroscience laboratories for eight weeks of paid, full-time research. Students are matched with research groups according to their interests and work on scientific projects under direct mentorship from Duke researchers.",
+  "email": "",
+  "labUrl": "https://dibs.duke.edu/education/dune/",
+  "applyUrl": "https://dibs.duke.edu/education/dune/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 521,
+  "name": "Duke Research in Engineering Program (DukeREP)",
+  "title": "Seven-Week Biomedical Engineering Research Program",
+  "university": "Duke University",
+  "state": "North Carolina, USA",
+  "department": "Biomedical Engineering",
+  "field": "Biomedical Engineering",
+  "tags": [
+    "biomedical engineering",
+    "engineering research",
+    "biomedical science",
+    "laboratory research",
+    "faculty research",
+    "PhD mentorship",
+    "experimental research",
+    "summer research",
+    "Durham",
+    "North Carolina"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "Duke Research in Engineering Program provides rising high school juniors and seniors with approximately seven weeks of research experience in Duke Biomedical Engineering laboratories. Participants are paired with PhD student mentors and contribute to active engineering and biomedical research projects. Students generally must be at least 16 years old. Priority is given to Durham Public Schools students, although eligible high school students from elsewhere in North Carolina may also apply. Applicants should verify current North Carolina residency or school requirements, age and grade eligibility, research areas, compensation or funding, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional engineering research experience because high school students work directly inside Duke Biomedical Engineering laboratories for seven weeks under PhD-level mentorship and contribute to active technical research projects.",
+  "summary": "DukeREP gives North Carolina high school students sustained research experience inside Duke Biomedical Engineering laboratories. Participants are paired with PhD mentors and work on active biomedical and engineering research projects over approximately seven weeks.",
+  "email": "",
+  "labUrl": "https://sites.duke.edu/dukerep/",
+  "applyUrl": "https://sites.duke.edu/dukerep/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 522,
+  "name": "Cell Biology Academy (CeBA)",
+  "title": "Paid Six-Week Cell Biology Research Internship",
+  "university": "Duke University",
+  "state": "North Carolina, USA",
+  "department": "Department of Cell Biology",
+  "field": "Molecular Biology",
+  "tags": [
+    "cell biology",
+    "molecular biology",
+    "biomedical science",
+    "laboratory research",
+    "independent research",
+    "graduate mentorship",
+    "postdoctoral mentorship",
+    "paid internship",
+    "Durham",
+    "North Carolina"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "Duke University's Cell Biology Academy provides eligible Research Triangle-area high school students with approximately six weeks of paid cell biology research. Each student completes an independent research project in an active Duke cell biology laboratory under mentorship from a graduate student or postdoctoral researcher. For 2026, the program ran from June 22 through July 31 and participants received $2,400 upon successful completion. Applicants should verify current geographic eligibility, grade and age requirements, stipend amount, laboratory placements, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct laboratory opportunity because each student completes an independent research project inside an active Duke cell biology laboratory while receiving close graduate or postdoctoral mentorship and financial compensation.",
+  "summary": "Duke's Cell Biology Academy places eligible local high school students into university cell biology laboratories for six weeks of paid research. Participants complete independent projects under graduate-student or postdoctoral mentorship.",
+  "email": "",
+  "labUrl": "https://www.cellbio.duke.edu/education-and-training/cell-biology-academy-ceba",
+  "applyUrl": "https://www.cellbio.duke.edu/education-and-training/cell-biology-academy-ceba",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 523,
+  "name": "Veterinary Research Internship for Scientific Exploration (VetRISE)",
+  "title": "Five-Week Veterinary and Animal Health Research Internship",
+  "university": "North Carolina State University",
+  "state": "North Carolina, USA",
+  "department": "College of Veterinary Medicine",
+  "field": "Veterinary Science",
+  "tags": [
+    "veterinary medicine",
+    "animal science",
+    "animal health",
+    "biomedical research",
+    "laboratory research",
+    "veterinary research",
+    "faculty mentorship",
+    "summer research",
+    "Raleigh",
+    "North Carolina"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "NC State College of Veterinary Medicine's Veterinary Research Internship for Scientific Exploration places North Carolina high school students into veterinary and biomedical research laboratories for approximately five weeks. The program launched in 2026 with 11 students working alongside faculty scientists on active research projects within the College of Veterinary Medicine. Following the inaugural cohort, NC State announced plans to offer VetRISE again in 2027. Students should verify current North Carolina eligibility, grade and age requirements, research areas, compensation or funding, program dates, cohort size, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional and unusually specialized high school research opportunity because students work directly with veterinary scientists in active College of Veterinary Medicine laboratories on real animal-health and biomedical research projects.",
+  "summary": "NC State VetRISE places North Carolina high school students into College of Veterinary Medicine research laboratories for five weeks of hands-on veterinary and biomedical research under faculty mentorship.",
+  "email": "",
+  "labUrl": "https://cvm.ncsu.edu/news/put-nc-states-pilot-vetrise-program-for-high-schoolers-in-the-win-column/",
+  "applyUrl": "https://cvm.ncsu.edu/news/put-nc-states-pilot-vetrise-program-for-high-schoolers-in-the-win-column/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 524,
+  "name": "High School Summer Research Program — Forestry and Environmental Resources",
+  "title": "Two-Week Forestry and Environmental Science Research Program",
+  "university": "North Carolina State University",
+  "state": "North Carolina, USA",
+  "department": "Department of Forestry and Environmental Resources",
+  "field": "Environmental Science",
+  "tags": [
+    "environmental science",
+    "forestry",
+    "ecology",
+    "natural resources",
+    "field research",
+    "laboratory research",
+    "forest ecology",
+    "soil science",
+    "research mentorship",
+    "Raleigh",
+    "North Carolina"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "NC State's High School Summer Research Program in Forestry and Environmental Resources provides students with approximately two weeks of mentored research involving forests, ecosystems, natural resources, and environmental science. Participants work with university researchers and professionals and may conduct both field and laboratory research on topics such as soil conditions, forest biomass, woody debris, tree growth, and ecosystem processes. Students also participate in research-focused seminars and may have opportunities to present their findings through research symposiums. For 2026, the program ran from July 13 through July 24. Applicants should verify current eligibility, research topics, compensation or costs, program dates, housing or transportation requirements, and application deadlines.",
+  "resumeRating": 4,
+  "ratingNote": "A strong environmental research experience because students conduct genuine field and laboratory work with university researchers and may present their results, although the two-week duration is substantially shorter than longer laboratory internships.",
+  "summary": "NC State's Forestry and Environmental Resources summer program gives high school students hands-on research experience in ecology, forestry, soils, and natural-resource science. Participants work with university researchers through field and laboratory projects and may present their findings.",
+  "email": "",
+  "labUrl": "https://cnr.ncsu.edu/fer/extension-and-outreach/high-school-research/",
+  "applyUrl": "https://cnr.ncsu.edu/fer/extension-and-outreach/high-school-research/",
+  "dateAdded": "2026-08-17"
+}
+  ,
+{
+  "id": 525,
+  "name": "AEOP High School STEM Research Experience Program",
+  "title": "Six-to-Eight-Week Faculty-Mentored STEM Research Internship",
+  "university": "University of North Carolina at Charlotte",
+  "state": "North Carolina, USA",
+  "department": "Center for STEM Education",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "STEM research",
+    "engineering",
+    "science",
+    "faculty mentorship",
+    "independent research",
+    "laboratory research",
+    "research presentation",
+    "JSHS",
+    "Charlotte",
+    "North Carolina"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "UNC Charlotte's AEOP High School STEM Research Experience Program provides rising high school juniors and seniors with approximately six to eight weeks of intensive STEM research under the mentorship of university faculty. Participants are paired with faculty mentors and contribute to research projects in science, technology, engineering, mathematics, and related disciplines. Students are expected to communicate and showcase their research findings and participate in research-presentation opportunities including the Junior Science and Humanities Symposium. The program operated during summer 2026. Applicants must meet current program eligibility requirements, including applicable U.S. residency requirements. Students should verify current grade, residency, research-area, compensation, program-date, and application requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional multidisciplinary research opportunity because high school students spend six to eight weeks working directly with university faculty on STEM research and are expected to formally communicate and showcase their findings.",
+  "summary": "UNC Charlotte's High School STEM Research Experience pairs rising juniors and seniors with university faculty for six to eight weeks of intensive research. Students contribute to STEM projects and present their findings through formal research showcases and related opportunities.",
+  "email": "",
+  "labUrl": "https://cstem.charlotte.edu/pk-20-students/stem-research-experience-program/",
+  "applyUrl": "https://cstem.charlotte.edu/pk-20-students/stem-research-experience-program/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 526,
+  "name": "Summer Research Exposure Program (SREP)",
+  "title": "Four-Week Regenerative Medicine Research Experience",
+  "university": "Wake Forest University School of Medicine",
+  "state": "North Carolina, USA",
+  "department": "Wake Forest Institute for Regenerative Medicine",
+  "field": "Biomedical Engineering",
+  "tags": [
+    "regenerative medicine",
+    "biomedical engineering",
+    "biomedical science",
+    "tissue engineering",
+    "laboratory research",
+    "faculty mentorship",
+    "medical research",
+    "summer research",
+    "Winston-Salem",
+    "North Carolina"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The Wake Forest Institute for Regenerative Medicine Summer Research Exposure Program provides eligible North Carolina high school students with approximately four weeks of faculty-mentored exposure to regenerative medicine and biomedical research. Applicants generally must be between 16 and 18 years old. Participants gain experience within the Wake Forest Institute for Regenerative Medicine research environment and interact with scientists working in areas such as regenerative medicine, tissue engineering, biomedical science, and related translational research. For 2026, the program ran from June 22 through July 17 and was expected to enroll approximately eight to ten students. Applicants should verify current North Carolina eligibility, age and grade requirements, research activities, compensation or costs, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional specialized biomedical opportunity because a very small cohort of high school students gains sustained exposure to faculty-mentored regenerative medicine research within a major academic research institute.",
+  "summary": "Wake Forest's SREP gives North Carolina high school students four weeks of intensive exposure to regenerative medicine and biomedical research. Participants work within the WFIRM research environment and learn from scientists conducting active translational and tissue-engineering research.",
+  "email": "",
+  "labUrl": "https://school.wakehealth.edu/research/institutes-and-centers/wake-forest-institute-for-regenerative-medicine/education-and-training/high-school-summer-research-exposure-program",
+  "applyUrl": "https://school.wakehealth.edu/research/institutes-and-centers/wake-forest-institute-for-regenerative-medicine/education-and-training/high-school-summer-research-exposure-program",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 527,
+  "name": "Research Apprenticeship Program (RAP)",
+  "title": "Two-Week Agricultural and Environmental Science Research Apprenticeship",
+  "university": "North Carolina A&T State University",
+  "state": "North Carolina, USA",
+  "department": "College of Agriculture and Environmental Sciences",
+  "field": "Agricultural Science",
+  "tags": [
+    "agricultural science",
+    "environmental science",
+    "food science",
+    "natural resources",
+    "independent research",
+    "laboratory research",
+    "research mentorship",
+    "residential program",
+    "Greensboro",
+    "North Carolina"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "North Carolina A&T State University's Research Apprenticeship Program provides rising high school juniors and seniors with approximately two weeks of residential research experience in food, agricultural, environmental, and related sciences. Participants work under the guidance of university research scientists and conduct independent research projects while gaining exposure to scientific methods and university research environments. For 2026, the program ran from June 14 through June 26 and applications were due February 27. Applicants should verify current grade requirements, research areas, residential arrangements, costs or compensation, program dates, and application deadlines.",
+  "resumeRating": 4,
+  "ratingNote": "A strong hands-on research opportunity because high school students conduct independent projects under university scientist mentorship in agricultural, food, and environmental science, although the two-week duration is shorter than more intensive summer laboratory placements.",
+  "summary": "NC A&T's Research Apprenticeship Program gives rising high school juniors and seniors residential research experience in agricultural, food, and environmental science. Students conduct independent projects under the mentorship of university research scientists.",
+  "email": "",
+  "labUrl": "https://www.ncat.edu/caes/agricultural-research/rap-program.php",
+  "applyUrl": "https://www.ncat.edu/caes/agricultural-research/rap-program.php",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 528,
+  "name": "Nutrition Research Institute Virtual Internship Program (VIP)",
+  "title": "Virtual Nutrition and Biomedical Research Internship",
+  "university": "University of North Carolina at Chapel Hill",
+  "state": "North Carolina, USA",
+  "department": "Nutrition Research Institute",
+  "field": "Nutrition Science",
+  "tags": [
+    "nutrition science",
+    "biomedical research",
+    "public health",
+    "gut microbiome",
+    "cardiovascular health",
+    "fetal development",
+    "scientific literature",
+    "research poster",
+    "virtual research",
+    "Kannapolis",
+    "North Carolina"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Research Training",
+    "Remote Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The UNC Nutrition Research Institute Virtual Internship Program provides selected high school students with remote research experience focused on nutrition, biomedical science, and public health. Participants learn to read and evaluate scientific literature, work in pairs to investigate nutrition-related research questions, synthesize evidence, and develop professional scientific posters that are presented to Nutrition Research Institute faculty and staff. Research topics may include the gut microbiome, fetal development, cardiovascular health, disease prevention, and related areas. In 2026, 54 students were selected from more than 250 applicants. Because the program is virtual and literature-based, it does not provide a wet-laboratory placement. Applicants should verify current grade eligibility, program dates, costs or compensation, research topics, and application requirements.",
+  "resumeRating": 4,
+  "ratingNote": "A strong and accessible virtual research opportunity because students investigate genuine scientific questions, evaluate research literature, and produce and present professional research posters, although the program does not include hands-on laboratory research.",
+  "summary": "UNC's Nutrition Research Institute Virtual Internship gives high school students remote research experience in nutrition and biomedical science. Participants investigate scientific questions, analyze research literature, collaborate with peers, and create professional posters presented to institute researchers.",
+  "email": "",
+  "labUrl": "https://uncnri.org/virtual-internship-program/",
+  "applyUrl": "https://uncnri.org/virtual-internship-program/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 529,
+  "name": "North Carolina Youth Institute Research Mentorship",
+  "title": "Food Security and Sustainability Research Mentorship Program",
+  "university": "North Carolina State University",
+  "state": "North Carolina, USA",
+  "department": "NC State Extension",
+  "field": "Agricultural Science",
+  "tags": [
+    "agriculture",
+    "food security",
+    "sustainability",
+    "environmental science",
+    "global development",
+    "research mentorship",
+    "research poster",
+    "online mentorship",
+    "Plant Sciences",
+    "Raleigh",
+    "North Carolina"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Remote Research"
+  ],
+  "applicationType": "Structured Mentorship Program",
+  "applicationWindow": "The North Carolina Youth Institute Research Mentorship pairs high school students with NC State research mentors to investigate issues involving agriculture, food security, sustainability, and global development. Students select a significant food or agricultural challenge affecting another country and participate in monthly online meetings with research mentors while developing their projects. Participants then attend the North Carolina Youth Institute at NC State's Plant Sciences Initiative, where activities may include laboratory shadowing, expert roundtables, workshops, and a research poster session. The program is free and can be accessible to students beyond North Carolina depending on current eligibility rules. For 2026, the mentorship component began January 27. Students should verify current geographic eligibility, mentorship schedule, event dates, project requirements, and application deadlines.",
+  "resumeRating": 4,
+  "ratingNote": "A strong research-mentorship opportunity because students investigate substantial global agriculture and food-security questions with NC State researchers over an extended period and present their work, although the experience is primarily mentorship and project-based rather than a full laboratory placement.",
+  "summary": "NC State's Youth Institute Research Mentorship connects high school students with researchers to investigate global agriculture, sustainability, and food-security challenges. Students develop research projects through online mentorship and participate in research presentations and scientific activities at NC State.",
+  "email": "",
+  "labUrl": "https://growforit.ces.ncsu.edu/news/calling-all-youth-innovators-join-our-research-mentorship-with-the-nc-youth-institute/",
+  "applyUrl": "https://growforit.ces.ncsu.edu/news/calling-all-youth-innovators-join-our-research-mentorship-with-the-nc-youth-institute/",
+  "dateAdded": "2026-08-17"
+}
+  ,
+{
+  "id": 530,
+  "name": "GTRI High School Summer Internship",
+  "title": "Paid Five-Week Engineering and Applied STEM Research Internship",
+  "university": "Georgia Institute of Technology",
+  "state": "Georgia, USA",
+  "department": "Georgia Tech Research Institute",
+  "field": "Engineering",
+  "tags": [
+    "engineering",
+    "computer science",
+    "applied science",
+    "technology",
+    "laboratory research",
+    "technical research",
+    "research mentorship",
+    "research presentation",
+    "paid internship",
+    "Atlanta",
+    "Georgia"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "The Georgia Tech Research Institute High School Summer Internship provides eligible Georgia high school students with approximately five weeks of paid research and technical experience in GTRI laboratories. Applicants generally must be at least 16 years old. Interns work alongside GTRI faculty and staff on real science, engineering, computing, and technology projects and conclude the experience with a formal presentation. For 2026, participants worked approximately 24 hours per week, with placements available at GTRI locations including Atlanta, Cobb County, and Warner Robins. The 2026 pre-application deadline was January 18. Students should verify current Georgia residency, age and grade requirements, compensation, research areas, locations, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional applied STEM opportunity because high school students are paid to work directly in Georgia Tech Research Institute environments on real engineering and scientific projects under professional research mentorship.",
+  "summary": "GTRI's High School Summer Internship gives eligible Georgia students five weeks of paid experience working on real engineering, computing, science, and technology projects alongside Georgia Tech Research Institute faculty and staff.",
+  "email": "",
+  "labUrl": "https://www.gtri.gatech.edu/stem/high-school-summer-internship",
+  "applyUrl": "https://www.gtri.gatech.edu/stem/high-school-summer-internship",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 531,
+  "name": "NextGen High School Internship Program",
+  "title": "Five-Week Human Genetics and Biomedical Research Internship",
+  "university": "Emory University",
+  "state": "Georgia, USA",
+  "department": "Department of Human Genetics",
+  "field": "Genetics",
+  "tags": [
+    "human genetics",
+    "genomics",
+    "biomedical science",
+    "stem cells",
+    "molecular biology",
+    "genetic mutations",
+    "laboratory research",
+    "research mentorship",
+    "Atlanta",
+    "Georgia"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "Emory University's NextGen High School Internship Program provides selected Atlanta-area high school students with approximately five weeks of hands-on genetics and biomedical research through the Department of Human Genetics. The program returned in 2026 with a cohort of approximately 10 students who worked across Emory research laboratories alongside scientists and research mentors. Student experiences may involve genetic mutation analysis, stem-cell research, model organisms, molecular and cellular techniques, genetics, and other biomedical research activities depending on laboratory placement. Students should verify current Atlanta-area eligibility, grade and age requirements, compensation or costs, laboratory placements, program dates, and application procedures for future cohorts.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional genetics opportunity because a small cohort of high school students works directly across active Emory research laboratories and gains hands-on experience with human genetics, molecular biology, stem cells, and related biomedical research.",
+  "summary": "Emory's NextGen High School Internship places a small cohort of Atlanta-area students into active human genetics and biomedical research environments for approximately five weeks. Participants work alongside Emory researchers on genetics, stem-cell, molecular, and related laboratory research.",
+  "email": "",
+  "labUrl": "https://news.emory.edu/stories/2026/07/nextgen-internship-program-offers-whirlwind-tour-genetics",
+  "applyUrl": "https://news.emory.edu/stories/2026/07/nextgen-internship-program-offers-whirlwind-tour-genetics",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 532,
+  "name": "Project ENGAGES",
+  "title": "Paid Year-Long Engineering and Science Research Program",
+  "university": "Georgia Institute of Technology",
+  "state": "Georgia, USA",
+  "department": "Project ENGAGES",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "engineering",
+    "bioengineering",
+    "biology",
+    "biotechnology",
+    "physics",
+    "environmental engineering",
+    "materials science",
+    "robotics",
+    "laboratory research",
+    "paid research",
+    "Atlanta",
+    "Georgia"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Year-Round Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "Georgia Tech's Project ENGAGES provides eligible students from participating Atlanta-area high schools with an intensive paid research experience extending through the summer and academic year. Selected students may spend at least approximately 35 hours per week in Georgia Tech research laboratories during the summer and approximately 15 hours per week during the school year. Research areas may include biology, bioengineering, biotechnology, physics, environmental engineering, materials science, robotics, and other STEM disciplines. Eligibility is restricted to students attending designated participating high schools. For the 2026-2027 cohort, the application deadline was February 27, 2026. Applicants should verify current participating schools, grade and age requirements, compensation, research areas, time commitment, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional high school research opportunity because students conduct paid research inside Georgia Tech laboratories at an unusually intensive level and can continue their research throughout both the summer and academic year.",
+  "summary": "Georgia Tech Project ENGAGES gives eligible Atlanta high school students a paid, year-long research experience in university laboratories. Students can work intensively during the summer and continue during the school year in fields ranging from bioengineering and biology to materials science, physics, environmental engineering, and robotics.",
+  "email": "",
+  "labUrl": "https://projectengages.gatech.edu/",
+  "applyUrl": "https://projectengages.gatech.edu/apply-to-project-engages/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 533,
+  "name": "Winship Summer Scholars Research Program",
+  "title": "Full-Time Cancer and Biomedical Research Program",
+  "university": "Emory University",
+  "state": "Georgia, USA",
+  "department": "Winship Cancer Institute",
+  "field": "Oncology",
+  "tags": [
+    "cancer research",
+    "oncology",
+    "biomedical science",
+    "laboratory research",
+    "clinical research",
+    "research mentorship",
+    "medical research",
+    "full-time research",
+    "Atlanta",
+    "Georgia"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "Emory University's Winship Summer Scholars Research Program provides eligible rising and graduating high school seniors with full-time summer research experience through the Winship Cancer Institute. Applicants generally must be at least 16 years old, and eligible students may apply from throughout the United States rather than being limited to Georgia residents. For 2026, participants were expected to begin June 8 and work approximately Monday through Friday from 9:00 AM to 5:00 PM. Research is focused on cancer, oncology, biomedical science, and related areas within the Winship research environment. Housing is not provided, so participants from outside the Atlanta area must arrange their own housing and transportation. Applicants should verify current age and grade requirements, research placements, compensation or costs, program dates, housing requirements, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional oncology research opportunity because high school students can participate in full-time research through a major NCI-designated cancer center, with national eligibility making the program unusually accessible beyond the immediate Atlanta region.",
+  "summary": "Emory Winship Summer Scholars gives eligible high school seniors full-time summer research experience in cancer and biomedical science through the Winship Cancer Institute. Students from across the United States may apply, although participants must arrange their own Atlanta-area housing and transportation.",
+  "email": "",
+  "labUrl": "https://winshipcancer.emory.edu/education-and-training/high-school-and-undergraduate-students/index.php",
+  "applyUrl": "https://apps.winshipcancer.emory.edu/summerscholars/Account/Register",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 534,
+  "name": "Young Dawgs Summer Science Program",
+  "title": "High School University Science Internship Program",
+  "university": "University of Georgia",
+  "state": "Georgia, USA",
+  "department": "Human Resources — Young Dawgs Program",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "science",
+    "STEM",
+    "university research",
+    "laboratory experience",
+    "professional mentorship",
+    "science internship",
+    "research exposure",
+    "summer internship",
+    "Athens",
+    "Georgia"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Research Training",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Placement Program",
+  "applicationWindow": "The University of Georgia Young Dawgs Program provides high-achieving high school juniors and seniors with unpaid internship placements across university work sites. The Summer Science pathway requires participants to complete at least approximately 110 internship hours and can provide exposure to university science, research, laboratory, and professional environments depending on individual placement. The Summer 2026 program reached capacity. Because Young Dawgs placements vary across UGA departments and work sites, dedicated laboratory research is not guaranteed for every student. Applicants should verify current academic requirements, available science and research placements, internship hours, program dates, transportation requirements, and application deadlines.",
+  "resumeRating": 4,
+  "ratingNote": "A strong university-based science internship because students complete substantial internship hours and may receive direct exposure to research and laboratory environments, although individual placements vary and dedicated research is not guaranteed for every participant.",
+  "summary": "UGA Young Dawgs provides high-achieving high school students with substantial summer internship placements across university science and professional environments. Summer Science participants complete at least 110 internship hours, with specific research exposure depending on their assigned UGA placement.",
+  "email": "",
+  "labUrl": "https://hr.uga.edu/students/uga-young-dawgs-program/index-1/",
+  "applyUrl": "https://hr.uga.edu/students/uga-young-dawgs-program/index-1/",
+  "dateAdded": "2026-08-17"
+}
+  ,
+{
+  "id": 535,
+  "name": "OER Summer Internship Program",
+  "title": "Paid Seven-Week Biomedical Research Internship",
+  "university": "University of Pennsylvania",
+  "state": "Pennsylvania, USA",
+  "department": "Perelman School of Medicine — Office of Equity and Research",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "basic science",
+    "laboratory research",
+    "bench research",
+    "faculty mentorship",
+    "scientific literature",
+    "experimental methods",
+    "clinical exposure",
+    "paid internship",
+    "Philadelphia",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "Penn Medicine's OER Summer Internship Program provides eligible Philadelphia-area high school students with approximately seven weeks of paid biomedical research experience. Participants receive preparatory training in laboratory skills, scientific literature, research notebooks, and experimental methods before spending approximately six weeks placed directly in a Penn faculty research laboratory. Students conduct hands-on research under the mentorship of laboratory trainees, staff, and faculty and may also receive clinical exposure during the final portion of the program. For 2026, the laboratory research component ran from June 22 through July 31. Participants are hired and paid by Penn. Applicants should verify current geographic eligibility, age and grade requirements, compensation, laboratory placements, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional biomedical research opportunity because high school students spend six weeks directly embedded in Penn faculty laboratories after receiving structured research preparation and are compensated for their participation.",
+  "summary": "Penn Medicine's OER Summer Internship gives eligible Philadelphia-area high school students paid biomedical research experience. Students receive research training before spending six weeks conducting hands-on work inside Penn faculty laboratories, with additional clinical exposure included in the broader program.",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 536,
+  "name": "CHOP Research Internship for Scholars and Emerging Scientists (CHOP-RISES)",
+  "title": "Two-Summer Pediatric Biomedical Research Internship",
+  "university": "Children's Hospital of Philadelphia",
+  "state": "Pennsylvania, USA",
+  "department": "Children's Hospital of Philadelphia Research Institute",
+  "field": "Biomedical Science",
+  "tags": [
+    "pediatric research",
+    "biomedical science",
+    "laboratory research",
+    "clinical research",
+    "research mentorship",
+    "longitudinal research",
+    "summer research",
+    "Philadelphia",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "CHOP-RISES is a research-intensive internship for eligible Philadelphia public and charter high school students. Incoming participants generally enter as rising juniors and must meet current age requirements, including being at least 16 years old. The program is designed as a two-summer research pathway, with RISES I providing an initial six-week research experience and successful participants potentially returning for RISES II the following summer. For 2026, RISES I ran from June 29 through August 6. Students gain sustained exposure to active pediatric and biomedical research environments rather than participating only in clinical shadowing. Applicants should verify current Philadelphia school eligibility, age and grade requirements, compensation, research placements, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional longitudinal research opportunity because students can progress through two consecutive summers of pediatric and biomedical research at CHOP, providing substantially deeper engagement than a one-time enrichment program.",
+  "summary": "CHOP-RISES gives eligible Philadelphia high school students a research-intensive pediatric and biomedical experience that can extend across two summers. Participants gain sustained exposure to active CHOP research environments and scientific mentorship.",
+  "email": "",
+  "labUrl": "https://research.chop.edu/services/chop-research-internship-for-scholars-and-emerging-scientists-chop-rises",
+  "applyUrl": "https://research.chop.edu/services/chop-research-internship-for-scholars-and-emerging-scientists-chop-rises",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 537,
+  "name": "Student Internship Inquiry Database",
+  "title": "Direct Biomedical Researcher Matching and Internship Inquiry Platform",
+  "university": "Children's Hospital of Philadelphia",
+  "state": "Pennsylvania, USA",
+  "department": "Children's Hospital of Philadelphia Research Institute",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "pediatric research",
+    "research inquiry",
+    "researcher matching",
+    "direct outreach",
+    "laboratory research",
+    "clinical research",
+    "research internship",
+    "Philadelphia",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Research Matching"
+  ],
+  "applicationType": "Researcher Matching",
+  "applicationWindow": "The CHOP Student Internship Inquiry Database allows high school and undergraduate students to create profiles that can be reviewed by CHOP researchers seeking interns. Students provide information such as their research interests, previous experience, availability, résumé, statement of interest, and whether they are seeking paid or unpaid opportunities. Researchers at CHOP can search the database and contact students whose interests and availability align with current projects. This is not a guaranteed internship or centralized placement program; participation creates a direct pathway for individual research groups to identify potential student interns. Students should maintain current profile information and verify any project-specific eligibility, compensation, scheduling, onboarding, and research requirements if contacted.",
+  "resumeRating": 5,
+  "ratingNote": "An unusually valuable direct-access pathway because high school and undergraduate students can make themselves visible to individual CHOP researchers actively seeking interns rather than relying only on a single annual structured program.",
+  "summary": "CHOP's Student Internship Inquiry Database lets high school and undergraduate students create research profiles that CHOP investigators can search when looking for interns. Students list their interests, experience, availability, résumé, and preferred internship type, creating a direct researcher-matching pathway.",
+  "email": "",
+  "labUrl": "https://www.research.chop.edu/services/student-internship-inquiry-database",
+  "applyUrl": "https://www.research.chop.edu/services/student-internship-inquiry-database",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 538,
+  "name": "CHOP Research Institute Summer Scholars Program (CRISSP)",
+  "title": "Paid Ten-Week Pediatric Biomedical Research Internship",
+  "university": "Children's Hospital of Philadelphia",
+  "state": "Pennsylvania, USA",
+  "department": "Children's Hospital of Philadelphia Research Institute",
+  "field": "Biomedical Science",
+  "tags": [
+    "pediatric research",
+    "biomedical science",
+    "laboratory research",
+    "clinical research",
+    "faculty mentorship",
+    "research presentation",
+    "paid internship",
+    "housing provided",
+    "Philadelphia",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "The CHOP Research Institute Summer Scholars Program provides full-time undergraduate students with approximately ten weeks of intensive pediatric and biomedical research under direct CHOP faculty mentorship. Applicants generally must be enrolled full-time in an undergraduate program and meet current academic requirements, including a minimum GPA requirement. For 2026, the program ran from June 1 through August 7 and selected approximately 30 students. Participants received a $5,000 stipend and free housing, with need-based travel assistance potentially available. The program also includes clinical shadowing and broader exposure to biomedical research careers. Students should verify current enrollment, GPA, compensation, housing, travel support, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate research internship because students spend ten weeks conducting full-time research under CHOP faculty mentorship while receiving a substantial stipend, free housing, and additional clinical and professional exposure.",
+  "summary": "CHOP CRISSP gives undergraduates ten weeks of full-time pediatric and biomedical research under faculty mentorship. Participants receive financial support, housing, and additional exposure to clinical and biomedical research careers.",
+  "email": "",
+  "labUrl": "https://www.research.chop.edu/crissp/program-details",
+  "applyUrl": "https://www.research.chop.edu/crissp/program-details",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 539,
+  "name": "Penn-CHOP PCEN Summer Scholars Program",
+  "title": "Paid Nephrology and Kidney Research Fellowship",
+  "university": "University of Pennsylvania / Children's Hospital of Philadelphia",
+  "state": "Pennsylvania, USA",
+  "department": "Penn-CHOP Kidney Innovation Center",
+  "field": "Biomedical Science",
+  "tags": [
+    "nephrology",
+    "kidney research",
+    "biomedical science",
+    "clinical research",
+    "translational research",
+    "basic science",
+    "faculty mentorship",
+    "research presentation",
+    "paid research",
+    "Philadelphia",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Fellowship",
+  "applicationWindow": "The Penn-CHOP PCEN Summer Scholars Program provides undergraduate students with a full-time summer research experience in nephrology and kidney science. Participants conduct clinical, translational, or basic-science research projects under the mentorship of Penn and CHOP investigators. Students meet regularly with faculty mentors, participate in research or laboratory meetings, and may prepare abstracts or manuscripts when appropriate. The program concludes with an oral presentation of research findings and also includes clinical shadowing in nephrology. For 2026, the program ran from June 8 through July 31 and provided a $4,500 stipend. Applicants should verify current undergraduate eligibility, academic requirements, research areas, compensation, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional niche undergraduate research opportunity because students complete full-time kidney research under Penn-CHOP investigator mentorship, participate in professional research activities, and formally present their findings while receiving financial support.",
+  "summary": "The Penn-CHOP PCEN Summer Scholars Program gives undergraduates full-time research experience in kidney and nephrology science. Students work on basic, clinical, or translational projects with Penn-CHOP investigators and present their findings at the end of the summer.",
+  "email": "",
+  "labUrl": "https://www.research.chop.edu/services/pcen-summer-scholars-program",
+  "applyUrl": "https://www.research.chop.edu/services/pcen-summer-scholars-program",
+  "dateAdded": "2026-08-17"
+}
+  ,
+{
+  "id": 540,
+  "name": "Explorations in Neuroscience Internship Program",
+  "title": "Paid Eight-Week Neuroscience Research Internship",
+  "university": "The Ohio State University",
+  "state": "Ohio, USA",
+  "department": "College of Medicine",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "biomedical research",
+    "brain science",
+    "laboratory research",
+    "faculty research",
+    "research mentorship",
+    "independent research",
+    "paid internship",
+    "Columbus",
+    "Ohio"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "The Ohio State University Explorations in Neuroscience Internship Program provides high school students with approximately eight weeks of paid, research-intensive experience in active neuroscience laboratories. Participants are placed into existing Ohio State research groups and contribute to authentic neuroscience projects under scientific mentorship. The program is designed to expose students to professional biomedical and brain research while developing laboratory, analytical, and scientific communication skills. Ohio State reports that the program has hosted dozens of high school interns since its launch in 2021. Applicants should verify current geographic eligibility, grade and age requirements, compensation, laboratory placements, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional neuroscience opportunity because high school students spend eight weeks conducting paid research inside active Ohio State laboratories and contribute to authentic projects under professional scientific mentorship.",
+  "summary": "Ohio State's Explorations in Neuroscience Internship places high school students into active neuroscience laboratories for eight weeks of paid research. Participants work on authentic brain-science projects and gain direct experience with professional biomedical research.",
+  "email": "",
+  "labUrl": "https://medicine.osu.edu/news/distinguished-neuroscience-internship-program-engages-high-schoolers-with-seminal-research-projects",
+  "applyUrl": "https://medicine.osu.edu/news/distinguished-neuroscience-internship-program-engages-high-schoolers-with-seminal-research-projects",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 541,
+  "name": "M2JIC High School Internship Program",
+  "title": "Paid Eight-Week Welding Engineering and Materials Research Internship",
+  "university": "The Ohio State University",
+  "state": "Ohio, USA",
+  "department": "Manufacturing & Materials Joining Innovation Center",
+  "field": "Materials Science",
+  "tags": [
+    "materials science",
+    "welding engineering",
+    "manufacturing",
+    "materials testing",
+    "engineering research",
+    "data analysis",
+    "modeling",
+    "industry research",
+    "paid internship",
+    "Columbus",
+    "Ohio"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "The Ohio State University M2JIC High School Internship Program provides eligible Columbus-area rising juniors and seniors with approximately eight weeks of paid engineering and materials research. Participants contribute to active and industry-supported projects within the Manufacturing & Materials Joining Innovation Center under university and faculty mentorship. Student work may involve welding research, materials testing, experimental analysis, data-analysis coding, computational modeling, manufacturing methods, and related engineering activities. Interns conclude the program with a research poster and capstone presentation. Recent cohorts have been highly selective, with approximately 13 students chosen from around 180 applicants. Students should verify current geographic eligibility, grade requirements, compensation, research areas, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional and unusually specialized engineering opportunity because high school students contribute to active industry-connected research in welding, manufacturing, materials science, data analysis, and modeling while receiving compensation.",
+  "summary": "Ohio State M2JIC gives high school students paid research experience in welding engineering, advanced manufacturing, and materials science. Interns contribute to real research projects and finish by presenting their work through a poster and capstone presentation.",
+  "email": "",
+  "labUrl": "https://ma2jic.osu.edu/resources/aws-foundation-m2jic-high-school-internship-program",
+  "applyUrl": "https://ma2jic.osu.edu/resources/aws-foundation-m2jic-high-school-internship-program",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 542,
+  "name": "Cleveland Clinic Summer Research Internship",
+  "title": "Ten-Week Biomedical Research Internship",
+  "university": "Cleveland Clinic Lerner Research Institute",
+  "state": "Ohio, USA",
+  "department": "Lerner Research Institute",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "laboratory research",
+    "medical research",
+    "molecular biology",
+    "neuroscience",
+    "cancer research",
+    "faculty mentorship",
+    "direct PI research",
+    "Cleveland",
+    "Ohio"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Cleveland Clinic Research offers eligible students, including high school students age 16 and older, an approximately ten-week summer research internship providing hands-on experience in biomedical research. Participants may work within active Cleveland Clinic laboratories and research groups under scientific mentorship. Cleveland Clinic also maintains a separate pathway allowing high school students to independently arrange research experiences with individual principal investigators, including during the academic year or when students have a specific laboratory of interest. Applicants should verify current age and education requirements, research areas, compensation, summer internship dates, application deadlines, and any separate procedures for independently arranged PI placements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional biomedical research opportunity because students can pursue an intensive ten-week summer internship and Cleveland Clinic additionally supports independently arranged research placements with individual investigators.",
+  "summary": "Cleveland Clinic offers high school and undergraduate students hands-on biomedical research through a ten-week summer internship. Students interested in a specific laboratory may also independently arrange research experiences with individual principal investigators.",
+  "email": "",
+  "labUrl": "https://www.lerner.ccf.org/education/undergraduate-high-school-programs/application/",
+  "applyUrl": "https://www.lerner.ccf.org/education/undergraduate-high-school-programs/application/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 543,
+  "name": "Research Intensive Summer Experience (RISE)",
+  "title": "Eight-Week Biomedical and Translational Research Experience",
+  "university": "Cleveland Clinic Lerner Research Institute",
+  "state": "Ohio, USA",
+  "department": "Lerner Research Institute",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "translational research",
+    "laboratory research",
+    "medical science",
+    "research seminars",
+    "research symposium",
+    "scientific careers",
+    "research mentorship",
+    "Cleveland",
+    "Ohio"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Cleveland Clinic's Research Intensive Summer Experience provides eligible high school students with approximately eight weeks of biomedical and translational research experience. For 2026, the program ran from June 8 through July 31 and required approximately 25 hours per week. Participants engage with active research while attending scientific seminars, networking with Cleveland Clinic researchers, exploring research facilities, learning about scientific careers, and participating in research presentations or symposium activities. Students generally must be at least 16 years old, and additional eligibility restrictions may apply, including school-specific requirements connected to the Cleveland School of Science and Medicine. Applicants should verify current school eligibility, age, research activities, compensation, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "A strong and research-intensive biomedical opportunity because students combine sustained project involvement with scientific seminars, researcher networking, facility exposure, and formal research communication within Cleveland Clinic.",
+  "summary": "Cleveland Clinic RISE gives eligible high school students eight weeks of biomedical and translational research experience. Participants engage with researchers, attend seminars, explore research environments, and develop scientific communication skills through symposium and presentation activities.",
+  "email": "",
+  "labUrl": "https://www.lerner.ccf.org/education/RISE/",
+  "applyUrl": "https://www.lerner.ccf.org/education/RISE/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 544,
+  "name": "AI-EDGE High School Summer Research Program",
+  "title": "Eight-Week Artificial Intelligence and Machine Learning Research Program",
+  "university": "The Ohio State University",
+  "state": "Ohio, USA",
+  "department": "AI-EDGE Institute / Department of Electrical and Computer Engineering",
+  "field": "Computer Science",
+  "tags": [
+    "artificial intelligence",
+    "machine learning",
+    "computer science",
+    "networking",
+    "distributed intelligence",
+    "data science",
+    "research training",
+    "computational research",
+    "remote research",
+    "Columbus",
+    "Ohio"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Research Training",
+    "Remote Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "The NSF-funded AI-EDGE Institute Summer Research Program provides high school and undergraduate students with approximately eight weeks of research-oriented training in artificial intelligence, machine learning, networking, distributed intelligence, and related computing fields. For 2026, the program ran from June 8 through July 31. High school students participated remotely in weekly technical instruction and completed structured research-style projects with guidance from instructors and researchers. High school participation was unpaid. Because the high school pathway is primarily remote and project-based, it should be considered research training and computational project experience rather than a traditional in-person laboratory internship. Applicants should verify current grade eligibility, technical prerequisites, program format, compensation, dates, and application requirements.",
+  "resumeRating": 4,
+  "ratingNote": "A strong computational research-training opportunity because high school students spend eight weeks studying advanced AI and machine-learning topics and completing guided research-style projects, although participation is remote and does not provide a traditional laboratory placement.",
+  "summary": "Ohio State's AI-EDGE summer program gives high school students remote research-oriented experience in artificial intelligence, machine learning, networking, and distributed intelligence. Participants receive technical instruction and complete guided computational projects.",
+  "email": "",
+  "labUrl": "https://ece.osu.edu/events/2026/06/ai-edge-institute-summer-research-program",
+  "applyUrl": "https://ece.osu.edu/events/2026/06/ai-edge-institute-summer-research-program",
+  "dateAdded": "2026-08-17"
+}
+  ,
+{
+  "id": 545,
+  "name": "Northwestern University Research Program for High Schoolers (NURPH)",
+  "title": "Paid Seven-Week Materials Science and Engineering Research Program",
+  "university": "Northwestern University",
+  "state": "Illinois, USA",
+  "department": "Department of Materials Science and Engineering",
+  "field": "Materials Science",
+  "tags": [
+    "materials science",
+    "engineering",
+    "laboratory research",
+    "novel research",
+    "faculty mentorship",
+    "experimental research",
+    "research presentation",
+    "paid research",
+    "Evanston",
+    "Illinois"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "Northwestern University's Research Program for High Schoolers provides eligible rising high school juniors and seniors from Chicago and the Evanston area with approximately seven weeks of paid research experience in materials science and engineering. Students work directly with professional researchers in Northwestern's Department of Materials Science and Engineering on novel research projects. Prior research experience is not required. For 2026, the program ran from June 22 through August 7. Applicants should verify current geographic eligibility, grade requirements, compensation, research areas, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional materials-science opportunity because high school students spend seven weeks conducting novel research alongside professional Northwestern researchers while receiving compensation, with no prior research experience required.",
+  "summary": "Northwestern NURPH gives eligible Chicago- and Evanston-area high school students seven weeks of paid materials science and engineering research. Participants work directly with university researchers on novel projects in active research environments.",
+  "email": "",
+  "labUrl": "https://sites.northwestern.edu/nurph/",
+  "applyUrl": "https://sites.northwestern.edu/nurph/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 546,
+  "name": "Data Science Institute Summer Lab",
+  "title": "Paid Eight-Week Data Science and Interdisciplinary Research Program",
+  "university": "University of Chicago",
+  "state": "Illinois, USA",
+  "department": "Data Science Institute",
+  "field": "Data Science",
+  "tags": [
+    "data science",
+    "artificial intelligence",
+    "computer science",
+    "social science",
+    "climate research",
+    "public policy",
+    "materials science",
+    "biomedical research",
+    "research mentorship",
+    "Chicago",
+    "Illinois"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "The University of Chicago Data Science Institute Summer Lab provides Chicago-area high school students and undergraduate students with approximately eight weeks of paid interdisciplinary research. Participants are paired with data-science mentors and contribute to applied research projects spanning fields such as computer science, artificial intelligence, social science, climate and energy policy, public policy, materials science, biomedical research, and related areas. Prior research experience is not required. For 2026, the program ran from June 15 through August 7. Applicants should verify current geographic eligibility, education level, compensation, project areas, technical expectations, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional interdisciplinary research opportunity because high school and undergraduate students receive paid mentorship while applying data science to authentic research questions across scientific, policy, computational, and social-science domains.",
+  "summary": "UChicago's Data Science Institute Summer Lab pairs high school and undergraduate students with mentors for eight weeks of paid applied research. Projects span data science, AI, computing, policy, climate, materials, social science, and biomedical research.",
+  "email": "",
+  "labUrl": "https://datascience.uchicago.edu/education/summerlab/",
+  "applyUrl": "https://datascience.uchicago.edu/education/summerlab/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 547,
+  "name": "Pritzker School of Molecular Engineering STEM Lab Internship",
+  "title": "Six-Week Molecular Engineering Laboratory Research Internship",
+  "university": "University of Chicago",
+  "state": "Illinois, USA",
+  "department": "Pritzker School of Molecular Engineering",
+  "field": "Engineering",
+  "tags": [
+    "molecular engineering",
+    "materials science",
+    "engineering research",
+    "laboratory research",
+    "research bootcamp",
+    "faculty mentorship",
+    "experimental research",
+    "STEM research",
+    "Chicago",
+    "Illinois"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "The University of Chicago Pritzker School of Molecular Engineering STEM Lab Internship provides high school students with approximately six weeks of research experience. Participants first complete a research bootcamp introducing the foundations of authentic scientific research before spending approximately 20 hours per week working in a University of Chicago research laboratory. Students receive support from research mentors and Pritzker Molecular Engineering education staff while gaining exposure to molecular engineering, materials science, experimental methods, and related STEM research. Applicants should verify current grade and geographic eligibility, compensation or costs, laboratory placements, weekly time commitment, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional engineering research experience because students receive structured preparation and then spend six weeks embedded in active University of Chicago laboratories under research mentorship.",
+  "summary": "UChicago's Pritzker STEM Lab Internship combines a research bootcamp with six weeks of hands-on work in university laboratories. Students gain experience in molecular engineering, materials science, and related research while receiving mentorship from active researchers.",
+  "email": "",
+  "labUrl": "https://pme.uchicago.edu/academics/stem-education-community-outreach/k-12-student-programs/after-school-stem-lab-internship",
+  "applyUrl": "https://pme.uchicago.edu/academics/stem-education-community-outreach/k-12-student-programs/after-school-stem-lab-internship",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 548,
+  "name": "Young Scholars Summer STEMM Research — GEnYuS",
+  "title": "Six-Week Physics and Quantum Science Research Program",
+  "university": "University of Illinois Urbana-Champaign",
+  "state": "Illinois, USA",
+  "department": "Grainger College of Engineering",
+  "field": "Physics",
+  "tags": [
+    "physics",
+    "quantum science",
+    "dark matter",
+    "lasers",
+    "materials science",
+    "quantum mechanics",
+    "laboratory research",
+    "independent research",
+    "research symposium",
+    "Urbana-Champaign",
+    "Illinois"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "The University of Illinois Urbana-Champaign Young Scholars Summer STEMM Research program includes the GEnYuS physics research track for rising 10th- through 12th-grade students from Illinois and eligible neighboring states. Participants spend approximately six weeks matched with university research laboratories and conduct authentic projects in areas such as dark matter, lasers, materials science, quantum mechanics, and related physics topics. The program has no participation cost and provides housing, meals, and a monetary award. For 2026, research began June 17 and culminated in a research symposium on July 31. Applicants should verify current state eligibility, grade requirements, funding, housing, research topics, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional physics opportunity because students conduct authentic six-week research in advanced topics such as quantum mechanics, dark matter, lasers, and materials while receiving housing, meals, and financial support.",
+  "summary": "UIUC Young Scholars GEnYuS places high school students into physics research laboratories for six weeks of authentic research in areas including quantum science, dark matter, lasers, and materials. The program provides housing, meals, and a monetary award.",
+  "email": "",
+  "labUrl": "https://wyse.grainger.illinois.edu/summer-programs/young-scholars-summer-research",
+  "applyUrl": "https://wyse.grainger.illinois.edu/summer-programs/young-scholars-summer-research",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 549,
+  "name": "MCB Summer Undergraduate Research Fellowship (SURF)",
+  "title": "Eight-to-Twelve-Week Molecular and Cellular Biology Research Fellowship",
+  "university": "University of Illinois Urbana-Champaign",
+  "state": "Illinois, USA",
+  "department": "School of Molecular and Cellular Biology",
+  "field": "Molecular Biology",
+  "tags": [
+    "molecular biology",
+    "cell biology",
+    "laboratory research",
+    "faculty mentorship",
+    "independent research",
+    "journal club",
+    "research symposium",
+    "undergraduate research",
+    "Urbana-Champaign",
+    "Illinois"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Faculty-Sponsored Fellowship",
+  "applicationWindow": "The University of Illinois School of Molecular and Cellular Biology Summer Undergraduate Research Fellowship supports undergraduate students conducting intensive summer research in UIUC laboratories. Fellows generally spend approximately eight to twelve weeks working 20 to 40 hours per week alongside faculty, graduate students, and research staff. Participants may attend laboratory meetings, journal clubs, seminars, and other scientific activities and are encouraged to present at the MCB Undergraduate Research Symposium. Applicants must already have a research relationship with a principal investigator and submit a research proposal developed with the investigator along with a PI nomination letter. Students should verify current UIUC enrollment requirements, faculty sponsorship expectations, fellowship funding, research dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate research fellowship because students conduct sustained molecular and cellular biology research under direct faculty sponsorship and participate deeply in laboratory meetings, seminars, and research presentations.",
+  "summary": "UIUC MCB SURF supports undergraduate students completing intensive summer research in molecular and cellular biology laboratories. Applicants work with an existing faculty mentor, develop a research proposal, and participate in the broader laboratory and scientific community throughout the summer.",
+  "email": "",
+  "labUrl": "https://mcb.illinois.edu/academics/undergraduate-programs/undergraduate-research/summer-undergraduate-research-fellowships",
+  "applyUrl": "https://mcb.illinois.edu/academics/undergraduate-programs/undergraduate-research/summer-undergraduate-research-fellowships",
+  "dateAdded": "2026-08-17"
+}
+  ,
+{
+  "id": 550,
+  "name": "BME High School Internship Program",
+  "title": "Paid Six-Week Biomedical Engineering Research Internship",
+  "university": "University of Minnesota",
+  "state": "Minnesota, USA",
+  "department": "Department of Biomedical Engineering",
+  "field": "Biomedical Engineering",
+  "tags": [
+    "biomedical engineering",
+    "biomedical research",
+    "engineering research",
+    "laboratory research",
+    "graduate mentorship",
+    "scientific writing",
+    "research communication",
+    "research poster",
+    "paid internship",
+    "Minneapolis",
+    "Minnesota"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "The University of Minnesota Biomedical Engineering High School Internship Program provides students during the summer before their senior year with approximately six weeks of paid biomedical engineering research experience. Participants conduct hands-on research under the mentorship of biomedical engineering graduate students and gain exposure to active university laboratories and research facilities. The program also includes scientific writing and communication training, research laboratory tours, and a concluding poster session. A stipend and bus transportation are provided. The program did not accept applications for summer 2026, but the university directs prospective applicants to check back for summer 2027 opportunities. Students should verify current grade and geographic eligibility, stipend amount, transportation support, research placements, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional biomedical engineering opportunity because high school students receive paid, hands-on research experience under graduate-level mentorship while developing scientific communication skills and presenting their work through a research poster.",
+  "summary": "The University of Minnesota BME High School Internship gives students six weeks of paid biomedical engineering research under graduate-student mentorship. Participants conduct hands-on research, tour university laboratories, develop scientific communication skills, and present their work at a poster session.",
+  "email": "",
+  "labUrl": "https://cse.umn.edu/bme/bme-high-school-internship-program",
+  "applyUrl": "https://cse.umn.edu/bme/bme-high-school-internship-program",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 551,
+  "name": "High School Summer Research Scholars",
+  "title": "Paid Eight-Week Biomedical and Cancer Research Program",
+  "university": "University of Minnesota",
+  "state": "Minnesota, USA",
+  "department": "The Hormel Institute",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "cancer research",
+    "laboratory research",
+    "data analysis",
+    "scientific literature",
+    "research mentorship",
+    "research portfolio",
+    "research poster",
+    "paid research",
+    "Austin",
+    "Minnesota"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "The Hormel Institute High School Summer Research Scholars program provides a small cohort of high school students with approximately eight weeks of intensive in-person biomedical research experience. The program launched in 2026 and selected approximately three to four students. Participants work approximately 25 hours per week, learn laboratory techniques, contribute to research activities, analyze scientific data and literature, develop a research portfolio, attend scientific symposiums, and may present a research poster. The program provides a $3,000 stipend. Students entering grades 11 or 12 and recent high school graduates may be eligible, with applicants generally expected to have at least a 3.5 GPA. Students should verify current grade, GPA and age requirements, stipend amount, research areas, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional and highly selective biomedical research opportunity because only a few high school students are selected for eight weeks of hands-on research at a dedicated University of Minnesota biomedical research institute while receiving a substantial stipend.",
+  "summary": "The Hormel Institute's High School Summer Research Scholars program selects a very small cohort for eight weeks of paid biomedical and cancer research. Students gain laboratory experience, analyze scientific data and literature, build a research portfolio, and may present their work through a scientific poster.",
+  "email": "",
+  "labUrl": "https://hi.umn.edu/summer-scholar",
+  "applyUrl": "https://hi.umn.edu/summer-scholar",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 552,
+  "name": "Healthcare Experience and Research in Oncology (HERO)",
+  "title": "Paid Virtual Cancer Genetics Research Program",
+  "university": "Mayo Clinic",
+  "state": "Minnesota, USA",
+  "department": "Mayo Clinic Comprehensive Cancer Center",
+  "field": "Oncology",
+  "tags": [
+    "cancer research",
+    "oncology",
+    "genetics",
+    "biomedical research",
+    "patient case research",
+    "experimental science",
+    "research project",
+    "virtual research",
+    "paid research",
+    "Minnesota"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Research Training",
+    "Remote Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "Mayo Clinic's Healthcare Experience and Research in Oncology program provides eligible Minnesota high school freshmen, sophomores, and juniors with approximately two weeks of virtual cancer research and career exploration. Participants collaborate on a genetics-based cancer research project and patient-case project, receive experimental laboratory kits, interact with cancer researchers, and participate in research and career workshops. For 2026, the program ran from July 20 through July 31 and provided participants with a $500 stipend. Eligibility is restricted to Minnesota residents. Because the program is virtual and short-term, it is best considered project-based research and research training rather than a traditional laboratory internship. Applicants should verify current Minnesota residency, grade requirements, stipend, program format, dates, and application deadlines.",
+  "resumeRating": 4,
+  "ratingNote": "A strong and accessible oncology research experience because high school students complete genetics-based cancer and patient-case projects, interact directly with Mayo Clinic researchers, and receive compensation, although the program is virtual and only two weeks long.",
+  "summary": "Mayo Clinic HERO gives Minnesota high school students a paid virtual introduction to cancer and genetics research. Participants complete collaborative research and patient-case projects, use experimental kits, and interact with Mayo Clinic cancer researchers.",
+  "email": "",
+  "labUrl": "https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center/about-us/crtec/summer-healthcare-experience-in-oncology",
+  "applyUrl": "https://www.mayoclinic.org/departments-centers/mayo-clinic-cancer-center/about-us/crtec/summer-healthcare-experience-in-oncology",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 553,
+  "name": "HOT Division Summer Internship Research Program",
+  "title": "Paid Eight-Week Hematology, Oncology and Transplantation Research Internship",
+  "university": "University of Minnesota",
+  "state": "Minnesota, USA",
+  "department": "Division of Hematology, Oncology and Transplantation",
+  "field": "Oncology",
+  "tags": [
+    "hematology",
+    "oncology",
+    "transplantation",
+    "cancer research",
+    "clinical research",
+    "laboratory research",
+    "faculty mentorship",
+    "research poster",
+    "paid internship",
+    "Minneapolis",
+    "Minnesota"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "The University of Minnesota Division of Hematology, Oncology and Transplantation Summer Internship Research Program provides eligible undergraduate students with approximately eight weeks of paid, full-time clinical and laboratory research. Each participant works with a University of Minnesota faculty mentor and joins active research teams studying hematology, oncology, transplantation, cancer, and related biomedical topics. Interns gain hands-on laboratory research experience, receive exposure to cancer patient management, and conclude the program by presenting their work at a research poster symposium. For 2026, the program ran from June 15 through August 7 and provided a $3,500 stipend. Eligibility is generally geared toward Minnesota undergraduates or students with qualifying Minnesota connections. Applicants should verify current education, geographic and academic eligibility, stipend amount, research placements, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate biomedical opportunity because students complete eight weeks of paid, full-time laboratory and clinical research under faculty mentorship and formally present their findings at a research symposium.",
+  "summary": "UMN's HOT Division Summer Internship gives eligible undergraduates eight weeks of paid research in hematology, oncology, transplantation, and related biomedical fields. Students join faculty research teams, gain laboratory and clinical exposure, and present their work at a final poster symposium.",
+  "email": "",
+  "labUrl": "https://med.umn.edu/dom/divisions/hematology-oncology-and-transplantation/hot-division-summer-internship-research-program",
+  "applyUrl": "https://med.umn.edu/dom/divisions/hematology-oncology-and-transplantation/hot-division-summer-internship-research-program",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 554,
+  "name": "Pathways to Research Program (PReP)",
+  "title": "Paid Twelve-Week Clinical and Translational Research Program",
+  "university": "University of Minnesota",
+  "state": "Minnesota, USA",
+  "department": "Clinical and Translational Science Institute",
+  "field": "Biomedical Science",
+  "tags": [
+    "clinical research",
+    "translational research",
+    "biomedical research",
+    "faculty mentorship",
+    "full-time research",
+    "professional development",
+    "research training",
+    "paid research",
+    "Minneapolis",
+    "Minnesota"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "The University of Minnesota Pathways to Research Program provides eligible rising undergraduate sophomores, juniors, and seniors with approximately twelve weeks of full-time clinical and translational research experience. The program is designed particularly for students with limited previous research experience. Participants work approximately 40 hours per week in immersive research environments and attend weekly professional-development seminars. Eligibility generally includes students enrolled at Minnesota colleges or students who have a substantial connection to Minnesota. For 2026, the program ran from June 1 through August 21 and provided $600 per week, up to approximately $7,200 for the full program. Applicants should verify current undergraduate standing, Minnesota connection requirements, compensation, research areas, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate research pathway because students receive twelve weeks of full-time clinical and translational research experience, substantial financial support, and structured professional development, with an emphasis on students who have had limited previous access to research.",
+  "summary": "UMN PReP gives eligible undergraduates twelve weeks of paid, full-time clinical and translational research experience. Participants work in immersive research environments, receive mentorship, and attend professional-development programming throughout the summer.",
+  "email": "",
+  "labUrl": "https://sites.google.com/umn.edu/pathways-to-research-program/home-page",
+  "applyUrl": "https://sites.google.com/umn.edu/pathways-to-research-program/home-page",
+  "dateAdded": "2026-08-17"
+}
+  ,
+{
+  "id": 555,
+  "name": "STEM Research Experience",
+  "title": "Eight-Week Faculty-Mentored STEM Research Experience",
+  "university": "University of Colorado Boulder / University of Colorado Anschutz",
+  "state": "Colorado, USA",
+  "department": "CU Science Discovery",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "STEM research",
+    "laboratory research",
+    "field research",
+    "data analysis",
+    "experimental research",
+    "faculty mentorship",
+    "graduate mentorship",
+    "research methods",
+    "research poster",
+    "Boulder",
+    "Colorado"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "The CU Science Discovery STEM Research Experience provides high school students age 16 and older with approximately eight weeks of mentored research at the University of Colorado Boulder or University of Colorado Anschutz. Participants are paired with faculty members or graduate-student researchers and contribute to authentic research projects by collecting and analyzing data, supporting experiments, conducting background research, using scientific equipment, and participating in other project-specific activities. Students also attend a weekly Research Methods seminar covering topics such as literature review, data collection, analysis, and scientific communication and conclude the program with a research poster presentation. For 2026, the program ran from June 3 through July 31. Published tuition was approximately $2,400, with need-based scholarships available. Applicants should verify current age, geographic eligibility, research placements, tuition, scholarship availability, program dates, and application deadlines.",
+  "resumeRating": 4,
+  "ratingNote": "A high-quality authentic research experience because students are paired directly with university researchers and contribute to real laboratory or field projects, although the substantial program cost makes it less accessible than paid or fully funded research internships.",
+  "summary": "CU Science Discovery's STEM Research Experience pairs high school students with CU Boulder or CU Anschutz researchers for eight weeks of authentic laboratory or field research. Participants develop research-methods skills and present their work through a final scientific poster.",
+  "email": "",
+  "labUrl": "https://www.colorado.edu/sciencediscovery/programs/stem-research-experience",
+  "applyUrl": "https://www.colorado.edu/sciencediscovery/programs/stem-research-experience",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 556,
+  "name": "START Program",
+  "title": "Paid Two-Summer Cancer and Biomedical Research Program",
+  "university": "University of Colorado Anschutz Medical Campus",
+  "state": "Colorado, USA",
+  "department": "University of Colorado Cancer Center",
+  "field": "Oncology",
+  "tags": [
+    "cancer research",
+    "biomedical science",
+    "biotechnology",
+    "laboratory research",
+    "clinical research",
+    "faculty mentorship",
+    "college credit",
+    "paid research",
+    "longitudinal research",
+    "Aurora",
+    "Colorado"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Teacher-Nominated Program",
+  "applicationWindow": "The CU Anschutz START Program provides selected students entering 11th grade with two consecutive summers of intensive cancer and biomedical research at the Anschutz Medical Campus. Participants spend approximately seven weeks each summer working weekdays from about 9:00 AM to 4:00 PM in research and educational activities. The program is free and provides lunch, a $5,500 stipend per summer, and an additional daily per diem. Students also complete biotechnology coursework and cooperative biology research that can provide approximately eight transferable college credits. Students do not apply independently; participating teachers select eligible students for the program. Applicants and families should verify current teacher-participation requirements, school eligibility, grade and age requirements, stipend, college credit, research placements, program dates, and nomination procedures.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional longitudinal biomedical opportunity because students complete two summers of intensive cancer research, receive substantial financial support and college credit, and gain sustained experience within a major academic medical research center.",
+  "summary": "CU Anschutz START gives selected high school students two summers of intensive cancer and biomedical research. Participants receive stipends, daily support, college credit, and sustained research experience at the Anschutz Medical Campus.",
+  "email": "",
+  "labUrl": "https://medschool.cuanschutz.edu/colorado-cancer-center/education/k-12-training-education-opportunities/start-program",
+  "applyUrl": "https://medschool.cuanschutz.edu/colorado-cancer-center/education/k-12-training-education-opportunities/start-program",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 557,
+  "name": "Children's Hospital Colorado Summer Research Internship",
+  "title": "Paid Nine-Week Pediatric Biomedical Research Internship",
+  "university": "Children's Hospital Colorado",
+  "state": "Colorado, USA",
+  "department": "Research Institute",
+  "field": "Biomedical Science",
+  "tags": [
+    "pediatric research",
+    "biomedical science",
+    "clinical research",
+    "laboratory research",
+    "faculty mentorship",
+    "research lecture series",
+    "research presentation",
+    "paid internship",
+    "Aurora",
+    "Colorado"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "Children's Hospital Colorado offers a nine-week summer research internship providing students with hands-on pediatric and biomedical research experience. High school applicants must generally be Colorado residents, be current high school seniors, and be at least 18 years old by the start of the internship. Participants conduct research under scientific mentorship, attend a weekly research lecture series, and present their findings at the conclusion of the program. For 2026, the internship ran from June 1 through July 31 and provided a $4,400 stipend. Applicants should verify current Colorado residency, education level, age, compensation, research placements, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional pediatric biomedical research experience because participants spend nine weeks conducting mentored research and formally present their findings while receiving a substantial stipend, although high school eligibility is limited to seniors who are already 18.",
+  "summary": "Children's Hospital Colorado's Summer Research Internship gives eligible high school seniors and other students nine weeks of paid pediatric biomedical research. Participants work under scientific mentorship, attend research lectures, and present their findings.",
+  "email": "",
+  "labUrl": "https://www.childrenscolorado.org/research-innovation/training-and-internships/",
+  "applyUrl": "https://www.childrenscolorado.org/research-innovation/training-and-internships/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 558,
+  "name": "Young Scholars Summer Research Program",
+  "title": "Paid Nine-Week Chemical and Biological Engineering Research Program",
+  "university": "University of Colorado Boulder",
+  "state": "Colorado, USA",
+  "department": "Department of Chemical and Biological Engineering",
+  "field": "Chemical Engineering",
+  "tags": [
+    "chemical engineering",
+    "biological engineering",
+    "nanotechnology",
+    "protein engineering",
+    "synthetic biology",
+    "polymers",
+    "membranes",
+    "materials science",
+    "paid research",
+    "Boulder",
+    "Colorado"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "The University of Colorado Boulder Young Scholars Summer Research Program provides undergraduate students with approximately nine weeks of intensive research in chemical and biological engineering. Research areas may include nanotechnology, protein engineering, synthetic biology, polymers, membranes, separations, self-assembly, materials science, and related fields. For 2026, the program ran from June 1 through July 31 and selected approximately 15 to 18 participants. Funding included approximately $700 per week plus a $100 weekly meal allowance, with travel and housing support provided for eligible non-local participants. There are no application or participation fees. Applicants should verify current undergraduate eligibility, research topics, stipend, housing and travel support, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate research experience because students conduct intensive engineering research in advanced fields such as synthetic biology, nanotechnology, polymers, and materials while receiving substantial financial, housing, meal, and travel support.",
+  "summary": "CU Boulder's Young Scholars program gives undergraduates nine weeks of funded chemical and biological engineering research. Participants investigate advanced areas such as nanotechnology, protein engineering, synthetic biology, polymers, membranes, and materials science.",
+  "email": "",
+  "labUrl": "https://www.colorado.edu/chbe/apply/undergraduate-students/young-scholars-summer-research-program",
+  "applyUrl": "https://www.colorado.edu/chbe/apply/undergraduate-students/young-scholars-summer-research-program",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 559,
+  "name": "Research Experience for Community College Students (RECCS)",
+  "title": "Paid Nine-Week Environmental and Geoscience Research Program",
+  "university": "University of Colorado Boulder",
+  "state": "Colorado, USA",
+  "department": "Cooperative Institute for Research in Environmental Sciences",
+  "field": "Environmental Science",
+  "tags": [
+    "environmental science",
+    "geoscience",
+    "earth science",
+    "field research",
+    "laboratory research",
+    "independent research",
+    "scientific communication",
+    "research symposium",
+    "paid research",
+    "Boulder",
+    "Colorado"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "The University of Colorado Boulder Research Experience for Community College Students provides eligible community-college students with approximately nine weeks of authentic independent environmental and geoscience research. Participants work with professional scientists on laboratory or field projects while developing research methods and scientific communication skills. Students present their findings at a concluding research symposium. For 2026, the program ran from June 1 through July 31 and typically supported approximately 10 to 19 students at around $700 per week. Eligibility focuses on community-college students in Colorado and qualifying surrounding areas. Applicants should verify current institution and geographic eligibility, research areas, stipend, transportation or housing support, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional community-college research opportunity because students conduct nine weeks of independent field or laboratory research with professional scientists while receiving substantial compensation and presenting their findings at a research symposium.",
+  "summary": "CU Boulder RECCS gives eligible community-college students nine weeks of paid environmental and geoscience research. Participants conduct independent field or laboratory projects with scientific mentors and present their work at a final symposium.",
+  "email": "",
+  "labUrl": "https://ceee.colorado.edu/programs/reccs",
+  "applyUrl": "https://ceee.colorado.edu/programs/reccs",
+  "dateAdded": "2026-08-17"
+}
+  ,
+{
+  "id": 560,
+  "name": "Biocomplexity Institute Ad Hoc Project Opportunities",
+  "title": "Flexible Computational Science and Data Research Opportunity",
+  "university": "University of Virginia",
+  "state": "Virginia, USA",
+  "department": "Biocomplexity Institute",
+  "field": "Data Science",
+  "tags": [
+    "computational science",
+    "data science",
+    "systems modeling",
+    "simulation",
+    "complex systems",
+    "computational research",
+    "research mentorship",
+    "direct inquiry",
+    "Charlottesville",
+    "Virginia"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The University of Virginia Biocomplexity Institute offers flexible research opportunities for high school and undergraduate students based on current projects and mentor availability. Students may gain experience with computational science, data analysis, modeling, simulation, complex systems, and related interdisciplinary research. Individual projects vary according to the institute's active research needs and the student's background and interests. Interested high school and undergraduate students are encouraged to contact the institute directly for information about possible research involvement. Availability is not guaranteed and depends on current projects, mentorship capacity, and student preparation.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-access research pathway because high school and undergraduate students can inquire directly about flexible computational research projects at an active interdisciplinary research institute rather than relying on a single annual application cycle.",
+  "summary": "UVA's Biocomplexity Institute offers high school and undergraduate students flexible opportunities to become involved in computational and data-driven research. Projects may involve modeling, simulation, complex systems, and interdisciplinary data science depending on current institute needs and mentor availability.",
+  "email": "",
+  "labUrl": "https://biocomplexity.virginia.edu/student-opportunities",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 561,
+  "name": "Science Outreach Initiative",
+  "title": "Four-Week Multidisciplinary High School Research Experience",
+  "university": "University of Mary Washington",
+  "state": "Virginia, USA",
+  "department": "College of Arts and Sciences",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "biology",
+    "chemistry",
+    "computer science",
+    "environmental science",
+    "geology",
+    "mathematics",
+    "physics",
+    "laboratory research",
+    "faculty mentorship",
+    "Fredericksburg",
+    "Virginia"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "The University of Mary Washington Science Outreach Initiative provides a small cohort of Virginia high school juniors with approximately four weeks of summer research experience. Approximately 10 students are selected to work alongside UMW undergraduates conducting research through the university's Summer Science Institute. Research may involve biology, chemistry, computer science, environmental science, geology, mathematics, physics, and related STEM disciplines depending on mentor availability. Participants receive weekday room and board and a $250 stipend. Applicants should verify current Virginia residency, grade requirements, research areas, housing, stipend, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional small-cohort STEM opportunity because high school students work alongside undergraduate researchers across multiple scientific fields while receiving university housing, mentorship, and financial support.",
+  "summary": "UMW's Science Outreach Initiative selects a small group of Virginia high school juniors for four weeks of mentored university research. Students work alongside Summer Science Institute researchers in fields such as biology, chemistry, computing, environmental science, geology, mathematics, and physics.",
+  "email": "",
+  "labUrl": "https://cas.umw.edu/stem/science-outreach-initiative/",
+  "applyUrl": "https://cas.umw.edu/stem/science-outreach-initiative/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 562,
+  "name": "Bonnie Sue Internship Program",
+  "title": "Marine Biology and Fisheries Research Internship",
+  "university": "William & Mary",
+  "state": "Virginia, USA",
+  "department": "Virginia Institute of Marine Science",
+  "field": "Marine Biology",
+  "tags": [
+    "marine biology",
+    "fisheries science",
+    "marine ecology",
+    "fish research",
+    "squid research",
+    "crustacean research",
+    "field research",
+    "laboratory research",
+    "faculty mentorship",
+    "Gloucester Point",
+    "Virginia"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Internship",
+  "applicationWindow": "William & Mary's Bonnie Sue Internship Program provides eligible high school and undergraduate students with opportunities to assist Virginia Institute of Marine Science faculty and staff on active marine research projects. Students may contribute to research involving fish, squid, crabs, fisheries, marine ecology, and related aquatic organisms and systems. Specific responsibilities depend on the assigned research group and may include laboratory, field, animal, or data-related work. Applicants should verify current age, education-level, geographic, compensation, project, program-date, and application requirements through William & Mary and VIMS.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional niche marine-science opportunity because high school and undergraduate students can directly assist active VIMS researchers on real fisheries and marine-biology projects involving aquatic organisms and ecosystems.",
+  "summary": "The Bonnie Sue Internship Program gives high school and undergraduate students opportunities to assist VIMS researchers with ongoing marine biology and fisheries projects. Research may involve fish, squid, crabs, marine ecology, and related field or laboratory work.",
+  "email": "",
+  "labUrl": "https://www.wm.edu/academics/precollege/",
+  "applyUrl": "https://www.wm.edu/academics/precollege/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 563,
+  "name": "Jefferson Lab and VIMS Summer Residential Governor's School",
+  "title": "Residential Physics and Marine Science Research Program",
+  "university": "William & Mary / Jefferson Lab / Virginia Institute of Marine Science",
+  "state": "Virginia, USA",
+  "department": "Summer Residential Governor's School",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "physics",
+    "nuclear physics",
+    "accelerator science",
+    "marine science",
+    "environmental science",
+    "research mentorship",
+    "laboratory research",
+    "field research",
+    "residential research",
+    "Virginia"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "Virginia's Summer Residential Governor's School research pathway places selected high school students with research mentors at either Jefferson Lab in Newport News or the Virginia Institute of Marine Science in Gloucester Point. Students conduct mentored research in fields that may include accelerator science, nuclear physics, engineering, marine biology, environmental science, fisheries, and related scientific areas depending on their placement. The program is residential and designed for academically advanced Virginia students. Applicants should verify current Virginia residency and school nomination requirements, grade eligibility, research sites, housing, program dates, costs or funding, and application procedures.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional research experience because students are assigned directly to research mentors at major national and university scientific institutions in fields ranging from accelerator physics to marine and environmental science.",
+  "summary": "The Jefferson Lab/VIMS Summer Residential Governor's School places selected Virginia high school students with professional research mentors at Jefferson Lab or the Virginia Institute of Marine Science. Projects may span physics, engineering, marine science, and environmental research.",
+  "email": "",
+  "labUrl": "https://www.wm.edu/academics/precollege/",
+  "applyUrl": "https://www.wm.edu/academics/precollege/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 564,
+  "name": "Summer Research Internship Program (SRIP)",
+  "title": "Paid Ten-Week Biomedical Research Internship",
+  "university": "University of Virginia",
+  "state": "Virginia, USA",
+  "department": "School of Medicine",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "molecular biology",
+    "cell biology",
+    "neuroscience",
+    "medical research",
+    "laboratory research",
+    "faculty mentorship",
+    "paid internship",
+    "housing support",
+    "Charlottesville",
+    "Virginia"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "The University of Virginia School of Medicine Summer Research Internship Program provides undergraduate students with approximately ten weeks of intensive biomedical research under faculty mentorship. Participants work in active UVA laboratories and research groups and gain experience in biomedical and health-science research. For 2026, the program ran from May 24 through July 31 and provided a $6,000 stipend, with housing and travel support also available. Typical applicants are rising juniors and seniors, although earlier undergraduates may also be considered depending on current program requirements. The application cycle for summer 2027 is expected to open September 1, 2026. Students should verify current undergraduate eligibility, research areas, stipend, housing and travel support, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate biomedical research internship because students receive ten weeks of faculty-mentored research along with substantial stipend, housing, and travel support at a major academic medical center.",
+  "summary": "UVA SRIP gives undergraduate students ten weeks of intensive biomedical research under School of Medicine faculty mentorship. Participants receive financial support and work directly in active university research environments.",
+  "email": "",
+  "labUrl": "https://med.virginia.edu/summer-research-internship-program/",
+  "applyUrl": "https://med.virginia.edu/summer-research-internship-program/",
+  "dateAdded": "2026-08-17"
+}
+  ,
+{
+  "id": 565,
+  "name": "High School Research Immersion Program (HSRI)",
+  "title": "Paid Eight-Week Biomedical and Data Science Research Internship",
+  "university": "St. Jude Children's Research Hospital",
+  "state": "Tennessee, USA",
+  "department": "STEMM Education and Outreach Program",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "psychology",
+    "epidemiology",
+    "data science",
+    "clinical research",
+    "laboratory research",
+    "research mentorship",
+    "research poster",
+    "paid internship",
+    "Memphis",
+    "Tennessee"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "St. Jude Children's Research Hospital's High School Research Immersion Program provides eligible Memphis-area rising high school seniors with approximately eight weeks of full-time mentored research. Participants work about 40 hours per week and are paired with research mentors in areas that may include laboratory science, psychology, epidemiology, clinical research, data science, and related biomedical fields. Students work on research projects and conclude the experience by preparing and presenting a scientific poster at a community exhibition. For 2026, the program ran from June 1 through July 25 and provided a $4,800 stipend. Applicants generally must be at least 16 years old, have a minimum 3.0 GPA, and attend school in the Memphis-Shelby County area or eligible surrounding counties in Tennessee, Mississippi, or Arkansas. Students should verify current geographic, grade, age, GPA, compensation, research-placement, program-date, and application requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional high school research internship because students spend eight weeks conducting full-time mentored research across laboratory, clinical, epidemiological, psychological, or data-science settings while receiving substantial compensation and presenting their findings.",
+  "summary": "St. Jude HSRI gives eligible Memphis-area high school students eight weeks of paid, full-time research experience. Participants work with mentors in biomedical, clinical, psychology, epidemiology, laboratory, or data-science research and present their work through a final scientific poster.",
+  "email": "",
+  "labUrl": "https://www.stjude.org/education-training/pre-college/high-school-programs/high-school-research-immersion.html",
+  "applyUrl": "https://www.stjude.org/education-training/pre-college/high-school-programs/high-school-research-immersion.html",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 566,
+  "name": "Summer High-School Internships in Research Experiences (SHIRE)",
+  "title": "Vanderbilt High School Faculty-Mentored Research Internship",
+  "university": "Vanderbilt University",
+  "state": "Tennessee, USA",
+  "department": "Collaborative for STEM Education and Outreach",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "STEM research",
+    "laboratory research",
+    "faculty mentorship",
+    "biomedical science",
+    "science research",
+    "engineering research",
+    "summer research",
+    "Nashville",
+    "Tennessee"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Partner School Program",
+  "applicationWindow": "Vanderbilt University's SHIRE program provides selected high school students with mentored summer research experiences alongside Vanderbilt scientists. Eligibility is restricted to students already participating in Vanderbilt's Interdisciplinary Science and Research program at designated partner schools, including John Overton High School, Stratford STEM Magnet School, and Hillsboro High School. Current application and placement information is distributed through participating ISR teachers and Vanderbilt researchers rather than through a general public application. Research areas vary depending on faculty mentor availability and active projects. Students should verify current partner-school eligibility, grade requirements, research areas, compensation, program dates, and selection procedures through their ISR teachers and Vanderbilt.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional research opportunity for eligible partner-school students because participants gain direct summer research experience with Vanderbilt scientists, although access is highly restricted to students already enrolled in the university's ISR partner-school pathway.",
+  "summary": "Vanderbilt SHIRE connects eligible students from participating Nashville high schools with Vanderbilt scientists for mentored summer research. Students conduct authentic research through placements arranged within Vanderbilt's Interdisciplinary Science and Research program.",
+  "email": "",
+  "labUrl": "https://www.vanderbilt.edu/cseo/programs/high-school-programs/shire/shire-faq/",
+  "applyUrl": "https://www.vanderbilt.edu/cseo/programs/high-school-programs/shire/shire-faq/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 567,
+  "name": "Emerging Leaders in Biomedical Research",
+  "title": "Paid Academic-Year and Summer Biomedical Research Internship",
+  "university": "St. Jude Children's Research Hospital",
+  "state": "Tennessee, USA",
+  "department": "Comprehensive Cancer Center",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "cancer research",
+    "laboratory research",
+    "research leadership",
+    "faculty mentorship",
+    "longitudinal research",
+    "paid research",
+    "Memphis",
+    "Tennessee"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Year-Round Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "St. Jude's Emerging Leaders in Biomedical Research program provides eligible Memphis-area undergraduate freshmen and sophomores with a longitudinal research experience extending through an academic year and the following summer. For the 2026-2027 cycle, the program runs approximately from September 2026 through July 2027. Participants work roughly 20 hours per week during the academic year and approximately 40 hours per week during June and July while conducting mentored biomedical research. The program also incorporates leadership development in areas such as laboratory management, scientific mentorship, and professional research skills. Participants receive financial compensation, and approximately 25 interns may be selected. Applicants should verify current college-level, geographic, compensation, GPA, time-commitment, research-area, and application requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate research opportunity because students receive sustained mentored biomedical research experience across both an academic year and a full-time summer while developing leadership skills and receiving compensation.",
+  "summary": "St. Jude Emerging Leaders gives eligible early undergraduate students a paid longitudinal biomedical research experience extending from the academic year through the following summer. Participants conduct mentored research while also developing scientific leadership and professional skills.",
+  "email": "",
+  "labUrl": "https://www.stjude.org/research/comprehensive-cancer-center/education-training/stemm-education-and-outreach-program/emerging-leaders-in-biomedical-research.html",
+  "applyUrl": "https://www.stjude.org/research/comprehensive-cancer-center/education-training/stemm-education-and-outreach-program/emerging-leaders-in-biomedical-research.html",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 568,
+  "name": "Student Mentoring and Research Training (SMaRT) Internship Program",
+  "title": "Paid Ten-Week Oak Ridge-Connected Undergraduate Research Internship",
+  "university": "University of Tennessee, Knoxville",
+  "state": "Tennessee, USA",
+  "department": "Office of Undergraduate Research and Fellowships",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "Oak Ridge National Laboratory",
+    "energy research",
+    "engineering",
+    "computer science",
+    "materials science",
+    "physical science",
+    "biological science",
+    "faculty mentorship",
+    "paid research",
+    "Knoxville",
+    "Tennessee"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "The University of Tennessee Student Mentoring and Research Training Internship Program provides eligible undergraduate students with approximately ten weeks of paid research focused on projects connected to Oak Ridge National Laboratory and related scientific priorities. Participants work with University of Tennessee faculty mentors and may pursue research across areas such as energy, computing, engineering, materials science, physical sciences, biological sciences, and other disciplines connected to the UT-Oak Ridge research ecosystem. The program is open to eligible undergraduate students from institutions across the United States who will generally be rising sophomores, juniors, or seniors. Applicants should verify current undergraduate standing, research areas, compensation, housing or travel support, mentor assignments, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate research opportunity because students conduct paid research within the University of Tennessee-Oak Ridge ecosystem across major scientific and engineering fields under faculty mentorship.",
+  "summary": "UT Knoxville's SMaRT Internship provides undergraduates with ten weeks of paid faculty-mentored research connected to Oak Ridge National Laboratory priorities. Projects may span energy, computing, engineering, materials, physical sciences, biological sciences, and related areas.",
+  "email": "",
+  "labUrl": "https://studentsuccess.utk.edu/urf/getting-started/find-opportunities/smart-internship-program/",
+  "applyUrl": "https://studentsuccess.utk.edu/urf/getting-started/find-opportunities/smart-internship-program/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 569,
+  "name": "VINSE Research Experience for Undergraduates",
+  "title": "Paid Nanoscience and Engineering Research Experience",
+  "university": "Vanderbilt University",
+  "state": "Tennessee, USA",
+  "department": "Vanderbilt Institute of Nanoscale Science and Engineering",
+  "field": "Nanotechnology",
+  "tags": [
+    "nanotechnology",
+    "nanoscience",
+    "materials science",
+    "engineering",
+    "physics",
+    "chemistry",
+    "laboratory research",
+    "research poster",
+    "paid research",
+    "Nashville",
+    "Tennessee"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "Vanderbilt University's VINSE Research Experience for Undergraduates provides a small cohort of undergraduate students with intensive summer research in nanoscience, materials, engineering, physics, chemistry, and related nanoscale fields. Participants are matched with research projects from a larger pool of available faculty-led opportunities and receive training in scientific writing and oral communication. Students present their work through a research-poster competition and may participate in research-related professional activities including a visit to Oak Ridge National Laboratory. The program provides approximately a $7,000 stipend, room and board, and a $500 travel allowance. Applicants should verify current undergraduate eligibility, NSF requirements, research areas, compensation, housing, travel support, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate nanoscience opportunity because students receive intensive faculty-mentored research, substantial financial support, housing, travel funding, scientific communication training, and exposure to the Oak Ridge research ecosystem.",
+  "summary": "Vanderbilt VINSE REU gives undergraduates funded summer research experience in nanoscience and engineering. Participants work on faculty-led research projects, receive scientific communication training, present their work, and receive stipend, housing, and travel support.",
+  "email": "",
+  "labUrl": "https://www.vanderbilt.edu/vinse/research-experience-for-undergraduates/",
+  "applyUrl": "https://www.vanderbilt.edu/vinse/research-experience-for-undergraduates/",
+  "dateAdded": "2026-08-17"
+}
 ]
