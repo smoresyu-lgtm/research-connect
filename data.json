@@ -21654,4 +21654,204 @@
   "applyUrl": "https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/index.shtml",
   "dateAdded": "2026-08-17"
 }
+  ,
+{
+  "id": 605,
+  "name": "Hosseinizadeh Research Group",
+  "title": "Biophysics, Machine Learning and Data Science Research Opportunity",
+  "university": "University of Wisconsin–Milwaukee",
+  "state": "Wisconsin, USA",
+  "department": "Department of Physics",
+  "field": "Biophysics",
+  "tags": [
+    "biophysics",
+    "physics",
+    "machine learning",
+    "data science",
+    "computational research",
+    "scientific computing",
+    "data analysis",
+    "research mentorship",
+    "direct inquiry",
+    "Milwaukee",
+    "Wisconsin"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Direct Inquiry",
+  "applicationWindow": "The Hosseinizadeh Research Group at the University of Wisconsin–Milwaukee explicitly welcomes high school students interested in research involving physics, biophysics, data science, and machine learning. Interested students are invited to contact Professor Ahmad Hosseinizadeh directly regarding potential research involvement. Previous high school researchers in the group have gained experience with computational methods, machine learning, data analysis, and biophysics research. Opportunities depend on current projects, student interests and preparation, scheduling, and available mentorship.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-inquiry opportunity because an individual university research group explicitly welcomes high school students to contact the laboratory about projects spanning biophysics, physics, machine learning, and data science.",
+  "summary": "The Hosseinizadeh Research Group welcomes high school students interested in biophysics, physics, machine learning, and data science to inquire directly about research opportunities. Student projects may involve computation, scientific data analysis, and machine-learning approaches to biophysical research.",
+  "email": "",
+  "labUrl": "https://sites.uwm.edu/hosseina/outreach/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 606,
+  "name": "ECSyD Lab",
+  "title": "Computer Engineering, Photonics and Emerging Computing Research Opportunity",
+  "university": "Colorado State University",
+  "state": "Colorado, USA",
+  "department": "Department of Electrical and Computer Engineering",
+  "field": "Computer Engineering",
+  "tags": [
+    "computer engineering",
+    "photonics",
+    "AI hardware",
+    "computer architecture",
+    "emerging computing",
+    "photonic computing",
+    "hardware systems",
+    "capstone research",
+    "direct inquiry",
+    "Fort Collins",
+    "Colorado"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Research Assistant"
+  ],
+  "applicationType": "Direct Inquiry",
+  "applicationWindow": "Colorado State University's ECSyD Lab explicitly provides a direct-inquiry route for high school students interested in completing research-oriented capstone projects with the laboratory. High school students are instructed to contact Professor Mahdi Nikdast directly regarding possible projects. Research in the group includes photonic computing and interconnects, computer architecture, emerging computing systems, AI hardware, and related electrical and computer engineering topics. Undergraduate students may also inquire about research opportunities. Availability depends on active projects, student preparation, research fit, and mentorship capacity.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional engineering direct-inquiry opportunity because the laboratory maintains an explicit pathway for high school students to contact the PI about completing projects in advanced computing, photonics, and computer engineering.",
+  "summary": "Colorado State's ECSyD Lab allows high school students to contact the principal investigator about research-oriented capstone projects. Research spans photonic computing, AI hardware, computer architecture, emerging computing systems, and electrical and computer engineering.",
+  "email": "",
+  "labUrl": "https://www.engr.colostate.edu/~mnikdast/information-for-prospective-students/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 607,
+  "name": "FLUENT Lab",
+  "title": "Fluid Mechanics and Computational Engineering Research Opportunity",
+  "university": "University of Connecticut",
+  "state": "Connecticut, USA",
+  "department": "Department of Mechanical Engineering",
+  "field": "Engineering",
+  "tags": [
+    "fluid mechanics",
+    "fluid dynamics",
+    "aerospace engineering",
+    "mechanical engineering",
+    "computational engineering",
+    "turbulence",
+    "aerodynamics",
+    "nonlinear systems",
+    "science competitions",
+    "direct inquiry",
+    "Connecticut"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Direct Inquiry",
+  "applicationWindow": "The University of Connecticut FLUENT Lab explicitly welcomes highly motivated high school students interested in science research competitions to contact the research group regarding potential projects. The laboratory conducts research involving fluid mechanics, fluid dynamics, turbulence, computational modeling, nonlinear systems, aerodynamics, and related mechanical and aerospace engineering questions. Interested high school students should contact the laboratory directly about possible research involvement. Opportunities depend on current research projects, student preparation, competition timelines, and mentorship availability.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional niche engineering opportunity because an individual university fluid-dynamics laboratory explicitly welcomes motivated high school students to contact the group about authentic research projects.",
+  "summary": "UConn's FLUENT Lab welcomes motivated high school students interested in research competitions to inquire about projects involving fluid dynamics, turbulence, aerodynamics, computational modeling, and mechanical or aerospace engineering.",
+  "email": "",
+  "labUrl": "https://changliulab.engineering.uconn.edu/our-team/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 608,
+  "name": "Quantum Materials Lab",
+  "title": "Quantum Materials and Condensed-Matter Physics Research Opportunity",
+  "university": "University of Arkansas",
+  "state": "Arkansas, USA",
+  "department": "Department of Physics",
+  "field": "Physics",
+  "tags": [
+    "quantum materials",
+    "condensed matter physics",
+    "experimental physics",
+    "materials physics",
+    "magnetism",
+    "electronic properties",
+    "quantum physics",
+    "laboratory research",
+    "direct inquiry",
+    "Fayetteville",
+    "Arkansas"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Direct Inquiry",
+  "applicationWindow": "The Quantum Materials Lab at the University of Arkansas explicitly states that it hosts high school students interested in serious scientific research and directs interested students to contact Professor Jin Hu regarding potential opportunities. The group conducts experimental condensed-matter and quantum-materials research involving electronic, magnetic, and other physical properties of advanced materials. Undergraduate students interested in research are also encouraged to explore opportunities with the group. Availability depends on current research projects, laboratory capacity, student preparation, and mentorship availability.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-access physics opportunity because an experimental quantum-materials laboratory explicitly invites high school students interested in serious scientific research to contact the principal investigator.",
+  "summary": "The University of Arkansas Quantum Materials Lab welcomes high school students interested in serious scientific research to inquire directly about joining the group. Research focuses on quantum materials, condensed-matter physics, magnetism, and the electronic properties of advanced materials.",
+  "email": "",
+  "labUrl": "https://quantumlab.uark.edu/openings/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 609,
+  "name": "Samia Research Group",
+  "title": "Nanochemistry and Functional Nanomaterials Research Training Opportunity",
+  "university": "Case Western Reserve University",
+  "state": "Ohio, USA",
+  "department": "Department of Chemistry",
+  "field": "Chemistry",
+  "tags": [
+    "nanochemistry",
+    "nanotechnology",
+    "materials chemistry",
+    "nanomaterials",
+    "nanoparticle synthesis",
+    "materials characterization",
+    "sensors",
+    "biomedical imaging",
+    "research training",
+    "direct inquiry",
+    "Cleveland",
+    "Ohio"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Training",
+    "Summer Research"
+  ],
+  "applicationType": "Direct Inquiry",
+  "applicationWindow": "The Samia Research Group at Case Western Reserve University explicitly welcomes high school students to gain research-training experience in the laboratory and notes that summer research positions may be available. For high school participation, the laboratory asks the student's school adviser to contact Professor Anna Samia regarding potential research opportunities. Research focuses on functional nanomaterials and may involve the synthesis, functionalization, and characterization of metallic and metal-oxide nanomaterials for applications including sensing and biomedical imaging. Undergraduate research opportunities are also available. Placement depends on current projects, mentor capacity, student preparation, and laboratory availability.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional nanochemistry opportunity because the laboratory explicitly welcomes high school research trainees and provides a defined inquiry pathway for summer research in functional nanomaterials.",
+  "summary": "Case Western's Samia Research Group welcomes high school students for research training in nanochemistry and functional nanomaterials. Projects can involve nanoparticle synthesis, functionalization, characterization, sensing technologies, and biomedical-imaging applications.",
+  "email": "",
+  "labUrl": "https://caslabs.case.edu/samia/opportunities/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+}
 ]
