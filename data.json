@@ -21073,4 +21073,585 @@
   "applyUrl": "https://stem.northeastern.edu/summer/ysp/ysp2026/",
   "dateAdded": "2026-08-17"
 }
+  ,
+{
+  "id": 590,
+  "name": "Boyes Research Group",
+  "title": "Polymer and Organic Chemistry Research Opportunity",
+  "university": "George Washington University",
+  "state": "District of Columbia, USA",
+  "department": "Department of Chemistry",
+  "field": "Chemistry",
+  "tags": [
+    "polymer chemistry",
+    "organic chemistry",
+    "synthetic chemistry",
+    "polymer synthesis",
+    "materials chemistry",
+    "laboratory research",
+    "faculty mentorship",
+    "direct inquiry",
+    "academic-year research",
+    "Washington",
+    "District of Columbia"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Boyes Research Group at George Washington University explicitly states that positions are currently open for high school students to conduct research during either the academic year or summer. Undergraduate research positions are also available. Students interested in synthetic chemistry, particularly polymer and organic chemistry, should contact Professor Stephen Boyes directly and provide information about their research interests, grade or college year, GPA, and prior experience. Opportunities depend on current laboratory projects, student preparation, scheduling, and mentorship capacity.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-inquiry chemistry opportunity because the laboratory explicitly lists current research openings for both high school and undergraduate students during the summer or academic year.",
+  "summary": "The Boyes Research Group conducts synthetic research in polymer and organic chemistry and explicitly welcomes high school and undergraduate students to apply directly for research positions during the summer or academic year.",
+  "email": "",
+  "labUrl": "https://blogs.gwu.edu/sboyes/openings/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 591,
+  "name": "Accelerated Materials Development Lab",
+  "title": "Additive Manufacturing and Materials Science Research Opportunity",
+  "university": "University of Oklahoma",
+  "state": "Oklahoma, USA",
+  "department": "School of Aerospace and Mechanical Engineering",
+  "field": "Materials Science",
+  "tags": [
+    "materials science",
+    "additive manufacturing",
+    "metallic alloys",
+    "materials characterization",
+    "electron microscopy",
+    "image processing",
+    "data analytics",
+    "machine learning",
+    "direct inquiry",
+    "Norman",
+    "Oklahoma"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Volunteer"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The University of Oklahoma Accelerated Materials Development Lab explicitly welcomes high school students interested in learning about authentic science and engineering research. High school students may shadow and assist graduate students or postdoctoral researchers on projects involving additive manufacturing, materials characterization, microscopy, data analysis, and machine learning. Undergraduate students can take responsibility for portions of ongoing projects involving structural alloys, optical or electron microscopy, image processing, data analytics, and related materials research, with the laboratory noting that meaningful contributions may create opportunities for scientific coauthorship. Interested students should contact the principal investigator directly regarding current openings.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-access materials opportunity because both high school and undergraduate students are explicitly invited into active projects involving additive manufacturing, microscopy, materials characterization, data science, and machine learning.",
+  "summary": "OU's Accelerated Materials Development Lab welcomes high school and undergraduate students to participate in materials research involving additive manufacturing, metallic alloys, microscopy, characterization, image processing, data analytics, and machine learning.",
+  "email": "iman@ou.edu",
+  "labUrl": "https://www.ou.edu/coe/labs/accelerated-materials-development/openings.html",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 592,
+  "name": "AMRI High School Summer Research Program",
+  "title": "Paid Eight-Week Nanomaterials and Advanced Materials Research Program",
+  "university": "LSU New Orleans",
+  "state": "Louisiana, USA",
+  "department": "Advanced Materials Research Institute",
+  "field": "Materials Science",
+  "tags": [
+    "materials science",
+    "nanotechnology",
+    "nanomaterials",
+    "chemistry",
+    "catalysis",
+    "battery materials",
+    "thin films",
+    "materials characterization",
+    "paid research",
+    "New Orleans",
+    "Louisiana"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "The Advanced Materials Research Institute High School Summer Research Program provides eligible students with an eight-week, full-time research experience working alongside scientists in modern research laboratories. Projects may involve the synthesis, characterization, and applications of nanoparticles, composites, and advanced materials. Recent research areas have included nanomaterials, sensor arrays, environmental remediation, 3D printing, battery materials, catalysis, computer modeling, magnetic materials, and thin-film deposition. For 2026, the program runs from June 1 through July 24 and the application deadline was March 13. Eligible students must live and attend high school within approximately 40 miles of LSU New Orleans. The program has historically provided a $2,000 summer stipend per student.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional materials-science opportunity because students spend eight weeks working full-time alongside professional researchers on exploratory projects involving nanomaterials, chemistry, advanced characterization, energy materials, and related technologies.",
+  "summary": "LSU New Orleans AMRI gives local high school students eight weeks of full-time advanced-materials research. Students work alongside scientists on projects involving nanotechnology, chemistry, battery materials, catalysis, sensors, thin films, magnetic materials, and other areas of materials science.",
+  "email": "",
+  "labUrl": "https://www.lsuneworleans.edu/amri/summer-outreach/research-program-high-school-students",
+  "applyUrl": "https://www.lsuneworleans.edu/amri/summer-outreach/research-program-high-school-students",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 593,
+  "name": "HighRise Materials Laboratory Experiences for High Schoolers",
+  "title": "Two-Week Materials Science Laboratory Research Experience",
+  "university": "University of Delaware",
+  "state": "Delaware, USA",
+  "department": "Center for Hybrid, Active, and Responsive Materials",
+  "field": "Materials Science",
+  "tags": [
+    "materials science",
+    "materials chemistry",
+    "nanomaterials",
+    "laboratory research",
+    "materials characterization",
+    "polymer science",
+    "research training",
+    "experimental science",
+    "Newark",
+    "Delaware"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Training",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "The University of Delaware CHARM HighRise program partners with local organizations serving high school students to provide immersive materials-science laboratory experiences. Participants gain hands-on exposure to materials research, experimental techniques, characterization, and the scientific questions studied within an NSF Materials Research Science and Engineering Center. The confirmed 2026 program runs from July 6 through July 17. Because participation may be coordinated through partner organizations, students should verify current geographic eligibility, partner requirements, program costs or compensation, research activities, dates, and application procedures.",
+  "resumeRating": 4,
+  "ratingNote": "A strong hands-on materials-science experience because students work in university research environments and gain exposure to modern materials laboratory techniques, although the two-week duration is shorter than a full summer research internship.",
+  "summary": "University of Delaware HighRise gives high school students an immersive introduction to materials-science research through hands-on laboratory work and exposure to modern experimental and characterization methods within the CHARM materials research center.",
+  "email": "",
+  "labUrl": "https://mrsec.udel.edu/undergraduate-education-and-outreach/highrise/",
+  "applyUrl": "https://mrsec.udel.edu/undergraduate-education-and-outreach/highrise/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 594,
+  "name": "Chemical Engineering and Materials Science Summer Program",
+  "title": "High School Chemical Engineering and Materials Research Experience",
+  "university": "Stevens Institute of Technology",
+  "state": "New Jersey, USA",
+  "department": "Department of Chemical Engineering and Materials Science",
+  "field": "Chemical Engineering",
+  "tags": [
+    "chemical engineering",
+    "materials science",
+    "chemistry",
+    "laboratory research",
+    "experimental research",
+    "materials engineering",
+    "faculty mentorship",
+    "doctoral mentorship",
+    "Hoboken",
+    "New Jersey"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Training",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "Stevens Institute of Technology's Department of Chemical Engineering and Materials Science developed a summer research experience for academically strong high school students, particularly sophomores and juniors with substantial chemistry preparation. Students work with Stevens faculty and doctoral researchers and gain hands-on experience with university-scale laboratory equipment, experimental methods, chemical engineering, and materials science. The inaugural cohort included 10 students who worked for up to three days per week over approximately six weeks and received a daily stipend to help cover transportation and lunch. The department indicated plans to continue recruiting students for future cohorts. Prospective students should verify whether a current summer cycle is being offered, participating-school or geographic requirements, compensation, research areas, dates, and application procedures.",
+  "resumeRating": 4,
+  "ratingNote": "A strong chemical-engineering and materials research experience because students work directly with university faculty and doctoral researchers using sophisticated laboratory equipment, although prospective applicants should verify the availability and details of the current program cycle.",
+  "summary": "Stevens' Chemical Engineering and Materials Science summer program gives high school students hands-on experience with faculty and doctoral researchers in university laboratories. Students gain exposure to applied chemical engineering, materials research, advanced equipment, and experimental methods.",
+  "email": "",
+  "labUrl": "https://www.stevens.edu/news/chemical-engineering-high-school-summer-program",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+}
+  ,
+{
+  "id": 595,
+  "name": "Institute on Neuroscience (ION)",
+  "title": "Paid High School Behavioral Neuroscience Research Program",
+  "university": "Georgia State University",
+  "state": "Georgia, USA",
+  "department": "Center for Behavioral Neuroscience / Neuroscience Institute",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "behavioral neuroscience",
+    "brain research",
+    "laboratory research",
+    "faculty mentorship",
+    "experimental research",
+    "research symposium",
+    "paid research",
+    "Atlanta",
+    "Georgia"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "Georgia State University's Institute on Neuroscience provides high school students with mentored neuroscience research experience through the Center for Behavioral Neuroscience and Neuroscience Institute. The program begins with laboratory-based orientation and mentor matching before students participate in active neuroscience research environments. Research may involve behavioral neuroscience, neurobiology, cognition, brain function, and related experimental topics depending on mentor placement. The 2026 program operated with support from the Army Educational Outreach Program and required participants to meet current age and eligibility requirements. Students should verify current program dates, compensation, eligibility, laboratory placements, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional neuroscience opportunity because high school students move from laboratory orientation into active mentored research and gain direct experience with professional behavioral-neuroscience research environments.",
+  "summary": "Georgia State's Institute on Neuroscience gives high school students hands-on research experience in behavioral neuroscience and related brain sciences. Participants receive laboratory preparation, work with scientific mentors, and contribute to active neuroscience research.",
+  "email": "",
+  "labUrl": "https://sites.gsu.edu/ion-teach/about/",
+  "applyUrl": "https://sites.gsu.edu/ion-teach/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 596,
+  "name": "Human Behavioral Pharmacology Laboratory Training Program",
+  "title": "Behavioral Neuroscience and Neuropharmacology Research Training Opportunity",
+  "university": "University of Chicago",
+  "state": "Illinois, USA",
+  "department": "Department of Psychiatry and Behavioral Neuroscience",
+  "field": "Psychology",
+  "tags": [
+    "psychology",
+    "behavioral neuroscience",
+    "neuropharmacology",
+    "human behavior",
+    "cognitive research",
+    "clinical research",
+    "laboratory research",
+    "research mentorship",
+    "Chicago",
+    "Illinois"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Training",
+    "Volunteer"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The University of Chicago Human Behavioral Pharmacology Laboratory provides research-training opportunities in behavioral neuroscience and neuropharmacology for high school students, undergraduates, and more advanced trainees. High school research has included individualized project work under the mentorship of senior laboratory researchers, while undergraduate students may participate through volunteer research or academic-credit arrangements depending on current availability. Research focuses on human behavior, neuropharmacology, psychological responses, and related behavioral-neuroscience questions. High school access may depend on existing school partnerships and mentor capacity, while undergraduate opportunities may be available to students from UChicago or other institutions. Interested students should contact the laboratory regarding current openings and eligibility.",
+  "resumeRating": 5,
+  "ratingNote": "An excellent psychology and behavioral-neuroscience research pathway because the laboratory explicitly provides research training beginning at the high school level and supports individualized mentored research experiences.",
+  "summary": "UChicago's Human Behavioral Pharmacology Laboratory trains high school and undergraduate students in behavioral neuroscience, psychology, and neuropharmacology research. Opportunities may include individualized projects, volunteer research, and work with senior laboratory mentors.",
+  "email": "",
+  "labUrl": "https://hbpl.uchicago.edu/training-mentorship",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 597,
+  "name": "Harris Neuroscience Internship",
+  "title": "Academic-Year High School Neuroscience Research and Mentorship Internship",
+  "university": "Stanford University",
+  "state": "California, USA",
+  "department": "Department of Neurosurgery",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "neurosurgery",
+    "brain research",
+    "clinical neuroscience",
+    "scientific mentorship",
+    "research education",
+    "academic-year internship",
+    "Stanford",
+    "California"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Research Training",
+    "Mentorship"
+  ],
+  "applicationType": "Structured Program",
+  "applicationWindow": "Stanford Medicine's Harris Neuroscience Internship provides high school students with an academic-year neuroscience and neurosurgery research mentorship experience. The internship runs approximately from September through May and connects students with Stanford scientists and physicians while providing opportunities for scholarly activities related to neuroscience and neurosurgery. For the 2026-2027 program, applicants must be high school students during the academic year and be located within the United States. The 2026 application period ran from January 12 through February 15 and required a recommendation from a mathematics or science teacher. Students should verify current application dates, program format, meeting schedule, eligibility, and research activities for future cohorts.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional longitudinal neuroscience opportunity because high school students receive sustained mentorship from Stanford scientists and participate in neuroscience and neurosurgery-focused scholarly activities across an academic year.",
+  "summary": "Stanford's Harris Neuroscience Internship provides high school students with sustained neuroscience mentorship from Stanford researchers and physicians. The academic-year program introduces students to neuroscience, neurosurgery, research, and scientific scholarship.",
+  "email": "",
+  "labUrl": "https://med.stanford.edu/neurosurgery/education/JClub/HarrisInternship.html",
+  "applyUrl": "https://med.stanford.edu/neurosurgery/education/JClub/HarrisInternship.html",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 598,
+  "name": "Medical Neuroscience Summer Undergraduate Research Program",
+  "title": "Intensive Summer Neuroscience Research Program",
+  "university": "Indiana University School of Medicine",
+  "state": "Indiana, USA",
+  "department": "Stark Neurosciences Research Institute",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "neurodegeneration",
+    "neurodevelopment",
+    "neuroimaging",
+    "neuropsychiatric research",
+    "brain injury",
+    "sensory systems",
+    "laboratory research",
+    "faculty mentorship",
+    "Indianapolis",
+    "Indiana"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "Indiana University School of Medicine's Medical Neuroscience Summer Undergraduate Research Program provides undergraduate students with an intensive multi-week research experience through the Stark Neurosciences Research Institute. Participants conduct basic or translational neuroscience research under expert faculty mentorship and gain experience with professional neuroscience research environments. Research areas may include addiction, neurodegenerative disease, neurodevelopment, neuroimaging, neuropsychiatric disorders, pain, sensory systems, ocular neurobiology, and spinal cord or brain injury. For 2026, the program ran from June 8 through July 31. Students should verify current undergraduate eligibility, stipend or financial support, research placements, program dates, housing, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate neuroscience experience because students receive intensive mentored research across a broad range of basic and translational brain-science specialties at a dedicated neuroscience research institute.",
+  "summary": "Indiana University's Medical Neuroscience Summer Undergraduate Research Program provides intensive faculty-mentored research in areas including neurodegeneration, neurodevelopment, neuroimaging, addiction, neuropsychiatric disease, pain, sensory systems, and brain injury.",
+  "email": "",
+  "labUrl": "https://medicine.iu.edu/research-centers/neurosciences/education/summer-research",
+  "applyUrl": "https://medicine.iu.edu/research-centers/neurosciences/education/summer-research",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 599,
+  "name": "USC Neuroscience Experience Undergraduate Research And Learning (USC-NEURAL)",
+  "title": "Eight-Week Undergraduate Neuroscience Laboratory Research Program",
+  "university": "University of Southern California",
+  "state": "California, USA",
+  "department": "Neuroscience Graduate Program",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "brain research",
+    "cognitive neuroscience",
+    "biomedical research",
+    "laboratory research",
+    "faculty mentorship",
+    "professional development",
+    "summer research",
+    "Los Angeles",
+    "California"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "The USC Neuroscience Experience Undergraduate Research And Learning program provides visiting undergraduate students with approximately eight weeks of intensive on-campus neuroscience research. Participants work directly in USC neuroscience laboratories under scientific mentorship while developing research and professional skills intended to prepare them for advanced study and careers in brain science. Research topics vary by laboratory and may span molecular, cellular, systems, cognitive, computational, and behavioral neuroscience. Students should verify current undergraduate eligibility, stipend, housing or travel support, laboratory placements, program dates, and application deadlines through the USC Neuroscience Graduate Program.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate neuroscience opportunity because visiting students spend eight weeks embedded directly in USC neuroscience laboratories while receiving intensive research mentorship and professional development.",
+  "summary": "USC-NEURAL gives undergraduate students eight weeks of intensive neuroscience laboratory research at USC. Participants work with research mentors on active brain-science projects while developing skills for graduate study and neuroscience careers.",
+  "email": "",
+  "labUrl": "https://ngp.usc.edu/research-faculty/undergraduate-summer-research-program/",
+  "applyUrl": "https://ngp.usc.edu/research-faculty/undergraduate-summer-research-program/",
+  "dateAdded": "2026-08-17"
+}
+  ,
+{
+  "id": 600,
+  "name": "CIERA Research Experiences in Astronomy for High School Students (REACH)",
+  "title": "High School Astronomy and Astrophysics Research Program",
+  "university": "Northwestern University",
+  "state": "Illinois, USA",
+  "department": "Center for Interdisciplinary Exploration and Research in Astrophysics",
+  "field": "Astronomy",
+  "tags": [
+    "astronomy",
+    "astrophysics",
+    "computational astronomy",
+    "Python",
+    "scientific computing",
+    "data analysis",
+    "independent research",
+    "research mentorship",
+    "Evanston",
+    "Illinois"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Research Training",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "Northwestern University's CIERA REACH program provides high school students with approximately three weeks of astronomy and astrophysics research experience. Participants learn scientific programming, Python, research methods, and astronomical data analysis before completing projects based on research actively being conducted by CIERA astronomers. A limited number of students may continue for an additional approximately three-week independent research experience under the mentorship of a CIERA researcher. Prior astronomy or programming experience is not required. Students should verify current eligibility, program dates, tuition or financial assistance, independent-research continuation opportunities, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional high school astronomy opportunity because students work on projects drawn from active CIERA astrophysics research and selected participants can continue into individualized mentored research.",
+  "summary": "Northwestern CIERA REACH introduces high school students to authentic astronomy and astrophysics research through Python, data analysis, and projects connected to active CIERA science. Selected students may continue into an additional independent research project with an astrophysics mentor.",
+  "email": "",
+  "labUrl": "https://ciera.northwestern.edu/opportunities/research-experiences-in-astronomy-at-ciera-for-high-school-students-reach-summer-2026/",
+  "applyUrl": "https://ciera.northwestern.edu/opportunities/research-experiences-in-astronomy-at-ciera-for-high-school-students-reach-summer-2026/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 601,
+  "name": "Training Astronomy Research Scholars (STARS)",
+  "title": "Four-Week Astronomy and Astrophysics Research Program",
+  "university": "San Diego State University",
+  "state": "California, USA",
+  "department": "Department of Astronomy",
+  "field": "Astronomy",
+  "tags": [
+    "astronomy",
+    "astrophysics",
+    "observational astronomy",
+    "galaxy formation",
+    "binary stars",
+    "supernovae",
+    "telescope research",
+    "scientific programming",
+    "faculty mentorship",
+    "San Diego",
+    "California"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Faculty Research Program",
+  "applicationWindow": "San Diego State University's Training Astronomy Research Scholars program provides local high school and community-college students with approximately four weeks of astronomy research under the mentorship of SDSU faculty. Participants gain experience with scientific programming, astronomical research methods, telescope-based science, and active astrophysics projects. Research topics within the department may include galaxy formation, binary stars, supernovae, stellar astrophysics, observational astronomy, and related areas. Students should verify current geographic and education-level eligibility, compensation or costs, research projects, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional astronomy opportunity because high school and community-college students work directly with university astronomers on authentic astrophysical research and gain experience with programming and telescope-based science.",
+  "summary": "SDSU STARS gives high school and community-college students four weeks of faculty-led astronomy research. Participants gain experience with programming, telescopes, observational astronomy, and active astrophysics questions involving stars, galaxies, supernovae, and related phenomena.",
+  "email": "",
+  "labUrl": "https://stars.sdsu.edu/",
+  "applyUrl": "https://stars.sdsu.edu/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 602,
+  "name": "High School Research and Engineering Apprenticeship — Etelman Observatory",
+  "title": "Paid Eight-Week Astrophysics and Space Engineering Research Apprenticeship",
+  "university": "University of the Virgin Islands",
+  "state": "U.S. Virgin Islands, USA",
+  "department": "Etelman Observatory",
+  "field": "Astronomy",
+  "tags": [
+    "astrophysics",
+    "astronomy",
+    "space science",
+    "satellite engineering",
+    "observational astronomy",
+    "gamma-ray bursts",
+    "physics",
+    "engineering",
+    "paid research",
+    "U.S. Virgin Islands"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Apprenticeship",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Apprenticeship",
+  "applicationWindow": "The University of the Virgin Islands Etelman Observatory offers a summer research and engineering apprenticeship for eligible U.S. Virgin Islands high school students in grades 9 through 12. Participants spend approximately eight weeks working alongside UVI physicists and engineers on astrophysics, observational astronomy, space science, instrumentation, and satellite-related projects. Research at Etelman Observatory includes topics such as gamma-ray bursts and other astrophysical phenomena, while students may also gain experience with engineering associated with UVI space-science missions. Participants receive financial support or stipends according to current program terms. Students should verify current residency, grade, age, compensation, research projects, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional and unusually specialized high school opportunity because students participate directly in astrophysics and space-engineering research with professional physicists while gaining exposure to observatory science and satellite development.",
+  "summary": "UVI's Etelman Observatory apprenticeship gives local high school students eight weeks of paid astrophysics and engineering research. Students work with physicists and engineers on observational astronomy, space science, instrumentation, and satellite-related projects.",
+  "email": "",
+  "labUrl": "https://observatory.uvi.edu/research/internship.html",
+  "applyUrl": "https://observatory.uvi.edu/research/internship.html",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 603,
+  "name": "Institute for Astronomy Research Experiences for Undergraduates",
+  "title": "Paid Summer Astrophysics and Astronomical Instrumentation Research Program",
+  "university": "University of Hawaiʻi at Mānoa",
+  "state": "Hawaii, USA",
+  "department": "Institute for Astronomy",
+  "field": "Astronomy",
+  "tags": [
+    "astronomy",
+    "astrophysics",
+    "observational astronomy",
+    "telescope instrumentation",
+    "adaptive optics",
+    "space science",
+    "astronomical instrumentation",
+    "faculty mentorship",
+    "Honolulu",
+    "Hawaii"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Program",
+  "applicationWindow": "The University of Hawaiʻi Institute for Astronomy Research Experiences for Undergraduates program provides undergraduate students with intensive summer astrophysics research under the mentorship of professional astronomers. For 2026, the program runs from June 6 through August 14. Projects may involve observational or theoretical astrophysics as well as the development of telescopes, astronomical instrumentation, adaptive-optics systems, and related technologies. Research internships may be supported through NASA, the National Science Foundation, faculty grants, and other funding sources. Applicants should verify current undergraduate eligibility, citizenship requirements, stipend, housing or travel support, available research projects, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate astronomy opportunity because students conduct cutting-edge astrophysics research with professional astronomers and can work on both scientific questions and advanced telescope or adaptive-optics instrumentation.",
+  "summary": "The University of Hawaiʻi Institute for Astronomy REU gives undergraduates intensive summer research experience in astrophysics, observational astronomy, telescope development, astronomical instrumentation, and adaptive optics under professional scientific mentorship.",
+  "email": "",
+  "labUrl": "https://student.ifa.hawaii.edu/reu/",
+  "applyUrl": "https://student.ifa.hawaii.edu/reu/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 604,
+  "name": "LIGO Summer Undergraduate Research Fellowship (SURF)",
+  "title": "Paid Gravitational-Wave Astronomy and Experimental Physics Research Fellowship",
+  "university": "California Institute of Technology / LIGO Laboratory",
+  "state": "California / Washington / Louisiana, USA",
+  "department": "LIGO Laboratory",
+  "field": "Astrophysics",
+  "tags": [
+    "gravitational waves",
+    "astrophysics",
+    "general relativity",
+    "multimessenger astronomy",
+    "machine learning",
+    "signal processing",
+    "lasers",
+    "optics",
+    "experimental physics",
+    "paid research"
+  ],
+  "levels": [
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Research Fellowship",
+  "applicationWindow": "The Caltech LIGO Summer Undergraduate Research Fellowship provides undergraduate students with intensive summer research in gravitational-wave astronomy and experimental physics at locations including Caltech, LIGO Hanford Observatory, and LIGO Livingston Observatory. Research projects may involve multimessenger astronomy, theoretical astrophysics, general relativity, machine learning, signal processing, gravitational-wave data analysis and calibration, lasers, optics, instrumentation, and related experimental physics. For 2026, the program runs from June 16 through August 21 and provides a stipend, with some travel support available. Applicants should verify current undergraduate eligibility, citizenship or institutional requirements, stipend amount, housing and travel arrangements, available projects, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional undergraduate astrophysics fellowship because students contribute directly to LIGO research spanning gravitational-wave astronomy, general relativity, computation, optics, instrumentation, and multimessenger astrophysics.",
+  "summary": "Caltech LIGO SURF gives undergraduates intensive research experience in gravitational-wave astronomy and experimental physics. Projects span astrophysics, general relativity, machine learning, signal processing, optics, lasers, instrumentation, and LIGO data analysis.",
+  "email": "",
+  "labUrl": "https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/index.shtml",
+  "applyUrl": "https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/index.shtml",
+  "dateAdded": "2026-08-17"
+}
 ]
