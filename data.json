@@ -20278,4 +20278,799 @@
   "applyUrl": "https://www.vanderbilt.edu/vinse/research-experience-for-undergraduates/",
   "dateAdded": "2026-08-17"
 }
+  ,
+{
+  "id": 570,
+  "name": "Subree Lab",
+  "title": "Cancer Genomics and Bioinformatics Research Opportunity",
+  "university": "University of Minnesota",
+  "state": "Minnesota, USA",
+  "department": "Department of Surgery / Masonic Cancer Center",
+  "field": "Computational Biology",
+  "tags": [
+    "cancer biology",
+    "genomics",
+    "bioinformatics",
+    "microbiology",
+    "translational research",
+    "data analysis",
+    "computational biology",
+    "laboratory research",
+    "direct inquiry",
+    "Minneapolis",
+    "Minnesota"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Subree Lab at the University of Minnesota explicitly welcomes high school students interested in research to inquire about joining the laboratory during the summer. Undergraduate students are also encouraged to inquire about research opportunities. Prospective students should contact Dr. Subbaya Subramanian directly and may be asked to provide information such as a résumé, research interests, or a statement describing their goals. Research in the laboratory spans cancer biology, genomics, bioinformatics, microbiology, translational research, and related computational and experimental approaches. Availability depends on current projects, mentorship capacity, student preparation, and laboratory needs.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-access opportunity because the laboratory explicitly welcomes high school and undergraduate students to inquire about joining active cancer, genomics, and bioinformatics research projects rather than limiting participation to a centralized summer program.",
+  "summary": "The Subree Lab conducts cancer biology, genomics, bioinformatics, microbiology, and translational research and explicitly welcomes high school and undergraduate students to inquire about research involvement. Opportunities depend on current projects and mentor availability.",
+  "email": "",
+  "labUrl": "https://subreelab.umn.edu/join-lab",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 571,
+  "name": "Dolmetsch Lab",
+  "title": "Neuroscience and Cellular Biology Research Volunteer Opportunity",
+  "university": "Stanford University",
+  "state": "California, USA",
+  "department": "Neurobiology",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "cell biology",
+    "molecular biology",
+    "neurobiology",
+    "biomedical research",
+    "laboratory research",
+    "faculty mentorship",
+    "direct inquiry",
+    "volunteer research",
+    "Stanford",
+    "California"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Volunteer",
+    "Research Project"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Dolmetsch Lab at Stanford University accepts a very small number of high school students for research volunteering each year. High school students interested in joining are instructed to contact Professor Ricardo Dolmetsch directly and submit a short essay explaining why they want to work in the laboratory. Students may be contacted if a laboratory member is available to provide mentorship. The laboratory also allows undergraduate students, including students from outside Stanford, to inquire about volunteer research opportunities. Research focuses on neuroscience, cellular and molecular biology, neuronal signaling, and related biomedical questions. Availability is highly limited and depends on mentor capacity, current projects, and student fit.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-inquiry opportunity because an individual Stanford neuroscience laboratory explicitly considers a small number of high school students each year and provides a clear route for students to contact the principal investigator about research volunteering.",
+  "summary": "Stanford's Dolmetsch Lab conducts neuroscience and cellular biology research and explicitly allows high school and undergraduate students to inquire about volunteer research involvement. High school applicants contact the PI directly and may be accepted when laboratory mentorship is available.",
+  "email": "",
+  "labUrl": "https://web.stanford.edu/group/dolmetschlab/Dolmetsch_Lab_Website/Join_us.html",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 572,
+  "name": "Wu Research Group",
+  "title": "Nanotechnology and Electrical Engineering Research Opportunity",
+  "university": "Texas Tech University",
+  "state": "Texas, USA",
+  "department": "Department of Electrical and Computer Engineering",
+  "field": "Engineering",
+  "tags": [
+    "nanotechnology",
+    "electrical engineering",
+    "wearable devices",
+    "sensors",
+    "materials science",
+    "nanoengineering",
+    "experimental research",
+    "laboratory research",
+    "direct inquiry",
+    "Lubbock",
+    "Texas"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Wu Research Group at Texas Tech University explicitly invites high school students interested in nanotechnology to inquire about summer internship opportunities in the laboratory. Undergraduate students from electrical engineering, chemical engineering, mechanical engineering, computer science, physics, and related fields are also encouraged to contact Professor Kai Wu about research involvement. Research may involve nanotechnology, wearable devices, sensors, electronic systems, materials, and interdisciplinary engineering. Prospective students should contact the laboratory directly regarding current openings. Availability depends on active projects, mentor capacity, technical preparation, and laboratory needs.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional engineering direct-inquiry opportunity because the laboratory explicitly advertises summer internships for high school students and welcomes undergraduate researchers across multiple engineering and science disciplines.",
+  "summary": "Texas Tech's Wu Research Group conducts research in nanotechnology, wearable systems, sensors, materials, and electrical engineering. High school students may inquire about summer internships, while undergraduate students are also encouraged to contact the laboratory about research opportunities.",
+  "email": "",
+  "labUrl": "https://www.wunanolab.com/opportunities",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 573,
+  "name": "NJMS Individual Faculty Research Internships",
+  "title": "Faculty-Sponsored Biomedical Research Internship Pathway",
+  "university": "Rutgers New Jersey Medical School",
+  "state": "New Jersey, USA",
+  "department": "Research and Sponsored Programs",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "medical research",
+    "laboratory research",
+    "faculty sponsorship",
+    "direct outreach",
+    "research internship",
+    "molecular biology",
+    "clinical research",
+    "Newark",
+    "New Jersey"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Research Project"
+  ],
+  "applicationType": "Faculty Sponsorship",
+  "applicationWindow": "Rutgers New Jersey Medical School provides a pathway for high school students to independently arrange research internships with individual faculty members. Students identify researchers whose work matches their interests through NJMS faculty and research directories and contact potential mentors directly about joining their laboratories or research groups. If a faculty member agrees to host the student, required university procedures for minors and research participation must be completed before the internship begins. There is no centralized matching process and placement is not guaranteed. Research topics vary widely across biomedical and medical disciplines depending on the selected faculty mentor.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional faculty-sponsorship pathway because high school students are officially permitted to independently contact NJMS researchers and arrange individualized biomedical research internships directly with faculty.",
+  "summary": "Rutgers NJMS allows high school students to independently identify and contact faculty researchers about research internships. Students secure their own faculty mentor, after which institutional requirements are completed before participation begins.",
+  "email": "",
+  "labUrl": "https://njms.rutgers.edu/research/rast/high_school_students.php",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 574,
+  "name": "SERC Terrestrial Ecology Research Volunteer Opportunities",
+  "title": "Ecology Field, Laboratory, and Data Research Opportunity",
+  "university": "Smithsonian Environmental Research Center",
+  "state": "Maryland, USA",
+  "department": "Terrestrial Ecology Laboratory",
+  "field": "Environmental Science",
+  "tags": [
+    "ecology",
+    "environmental science",
+    "terrestrial ecology",
+    "field research",
+    "laboratory research",
+    "data analysis",
+    "long-term ecology",
+    "volunteer research",
+    "direct inquiry",
+    "Edgewater",
+    "Maryland"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Volunteer",
+    "Research Project"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Smithsonian Environmental Research Center offers volunteer research opportunities connected to active ecology projects, including work in the Terrestrial Ecology Laboratory. Volunteers may assist with field sample collection, laboratory sample processing, data analysis, long-term ecological monitoring, experiments, and related scientific activities. SERC explicitly notes that research volunteers range from high school students to retirees. Regular half-day or full-day commitments may be preferred depending on the project. Interested students should contact SERC or the relevant research group directly regarding current opportunities, schedules, project needs, transportation, and any age or supervision requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional environmental-science direct-inquiry opportunity because high school and undergraduate students can contribute directly to active Smithsonian ecology research through fieldwork, laboratory processing, and data analysis.",
+  "summary": "Smithsonian SERC offers high school and undergraduate students opportunities to volunteer on active terrestrial ecology research. Participants may contribute to field sampling, laboratory processing, ecological experiments, long-term datasets, and scientific data analysis depending on current project needs.",
+  "email": "",
+  "labUrl": "https://serc.si.edu/labs/terrestrial-ecology/opportunities",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+}
+  ,
+{
+  "id": 575,
+  "name": "Blekhman Lab",
+  "title": "Computational Genomics and Microbiome Research Opportunity",
+  "university": "University of Chicago",
+  "state": "Illinois, USA",
+  "department": "Department of Medicine / Section of Genetic Medicine",
+  "field": "Computational Biology",
+  "tags": [
+    "computational genomics",
+    "bioinformatics",
+    "microbiome",
+    "human genetics",
+    "multi-omics",
+    "data analysis",
+    "computational biology",
+    "research mentorship",
+    "direct inquiry",
+    "Chicago",
+    "Illinois"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Blekhman Lab at the University of Chicago explicitly welcomes inquiries from high school students interested in participating in its research. Undergraduate students are also encouraged to contact the laboratory about research opportunities and may be asked to provide an introduction, CV, transcript, and information about their research interests. The laboratory conducts computational research involving genomics, human genetics, microbiomes, multi-omics, bioinformatics, and related questions at the intersection of genetics and human health. Research opportunities depend on current projects, student preparation, and mentor availability.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional computational research opportunity because an active University of Chicago genomics laboratory explicitly welcomes inquiries from high school and undergraduate students rather than restricting participation to formal summer programs.",
+  "summary": "The Blekhman Lab conducts computational genomics, microbiome, human genetics, and multi-omics research and explicitly welcomes inquiries from high school and undergraduate students interested in contributing to its research.",
+  "email": "",
+  "labUrl": "https://blekhmanlab.org/join/index.html",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 576,
+  "name": "Lewis Lab",
+  "title": "Forest and Microbial Ecology Research Opportunity",
+  "university": "Fordham University",
+  "state": "New York, USA",
+  "department": "Department of Biological Sciences",
+  "field": "Environmental Science",
+  "tags": [
+    "forest ecology",
+    "microbial ecology",
+    "conservation biology",
+    "plant ecology",
+    "climate change",
+    "urban ecology",
+    "invasive species",
+    "amphibian research",
+    "direct inquiry",
+    "New York",
+    "New York"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Volunteer"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Lewis Lab at Fordham University explicitly offers research opportunities for graduate, undergraduate, and high school students. Interested students are encouraged to contact Dr. James Lewis directly regarding potential research involvement. The laboratory studies forest and microbial ecology, including interactions among plants, fungi, bacteria, and animals and the effects of climate change, urbanization, invasive species, and other environmental pressures. Research topics may also involve amphibians such as eastern red-backed salamanders. Opportunities depend on active projects, student interests, preparation, and laboratory mentorship capacity.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional ecology direct-inquiry opportunity because the laboratory explicitly welcomes high school and undergraduate researchers and offers access to active research spanning forests, microbes, climate change, invasive species, plants, and wildlife.",
+  "summary": "Fordham's Lewis Lab welcomes high school and undergraduate students interested in forest, microbial, plant, and conservation ecology. Students can contact the laboratory directly about participating in research involving climate change, urbanization, invasive species, microbes, plants, and amphibians.",
+  "email": "",
+  "labUrl": "https://forestmicrobelab.com/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 577,
+  "name": "Oono Lab",
+  "title": "Plant-Fungal Ecology and Evolution Research Opportunity",
+  "university": "University of California, Santa Barbara",
+  "state": "California, USA",
+  "department": "Department of Ecology, Evolution, and Marine Biology",
+  "field": "Ecology",
+  "tags": [
+    "ecology",
+    "evolution",
+    "plant biology",
+    "fungal biology",
+    "plant-fungal interactions",
+    "microbiology",
+    "laboratory research",
+    "independent research",
+    "direct inquiry",
+    "Santa Barbara",
+    "California"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Volunteer",
+    "Research Project"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Oono Lab at UC Santa Barbara explicitly allows non-UCSB undergraduate and high school students to inquire about possible research projects and volunteer opportunities. Depending on mentor availability and current projects, motivated students may participate in laboratory research involving ecology, evolution, plants, fungi, microbes, and plant-fungal interactions. The laboratory notes that small research projects may sometimes be completed during the summer and that previous high school or local researchers have worked toward contributions that resulted in scientific coauthorship. Opportunities for outside students are limited, UCSB undergraduates receive priority, and prospective outside researchers are generally expected to demonstrate strong motivation, preparation, useful skills, and the ability to work independently.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-inquiry opportunity because the laboratory explicitly permits high school and outside undergraduate students to inquire about research projects, with the possibility of independent summer work and meaningful contributions to publishable research.",
+  "summary": "The Oono Lab studies ecology, evolution, and plant-fungal biology and allows high school and non-UCSB undergraduate students to inquire about volunteer or project-based research. Openings are limited and favor motivated, prepared, and independent students.",
+  "email": "",
+  "labUrl": "https://oono-lab.eemb.ucsb.edu/join",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 578,
+  "name": "Adalsteinsson Ecology Lab",
+  "title": "Wildlife Ecology and Summer Field Research Opportunity",
+  "university": "Washington University in St. Louis",
+  "state": "Missouri, USA",
+  "department": "Department of Biology / Tyson Research Center",
+  "field": "Ecology",
+  "tags": [
+    "ecology",
+    "wildlife biology",
+    "field research",
+    "conservation biology",
+    "forest ecology",
+    "independent research",
+    "research poster",
+    "scientific publication",
+    "direct inquiry",
+    "St. Louis",
+    "Missouri"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Adalsteinsson Ecology Lab at Washington University in St. Louis and Tyson Research Center regularly has opportunities for undergraduate and high school students to participate in ongoing research during the summer field season. Students may assist with active ecology and wildlife research projects, and some participants simultaneously develop independent projects of their own. Student research may culminate in scientific posters or oral presentations, and the laboratory notes that some student projects have contributed to peer-reviewed publications. Interested high school and undergraduate students are invited to contact the laboratory regarding summer research fellowship opportunities. Availability depends on current field projects, funding, mentor capacity, and student preparation.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional ecology opportunity because the lab explicitly recruits both high school and undergraduate summer researchers, supports independent student projects, and reports that student work can progress to conference presentations and peer-reviewed publications.",
+  "summary": "WashU's Adalsteinsson Ecology Lab offers high school and undergraduate students opportunities to participate in summer field research at Tyson Research Center. Students may assist with ongoing projects, develop independent research, present their findings, and potentially contribute to publications.",
+  "email": "",
+  "labUrl": "https://www.adalsteinssonlab.org/contact-1",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 579,
+  "name": "Tumber-Dávila Lab",
+  "title": "Forest Ecology and Climate Change Research Opportunity",
+  "university": "Dartmouth College",
+  "state": "New Hampshire, USA",
+  "department": "Department of Environmental Studies",
+  "field": "Environmental Science",
+  "tags": [
+    "forest ecology",
+    "climate change",
+    "ecosystem science",
+    "plant ecology",
+    "field research",
+    "laboratory research",
+    "environmental change",
+    "forest science",
+    "direct inquiry",
+    "Hanover",
+    "New Hampshire"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Volunteer",
+    "Research Project"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Tumber-Dávila Lab at Dartmouth College explicitly welcomes inquiries from high school students located in the Upper Valley who are interested in laboratory or field research. The laboratory studies forests, ecosystem processes, plant ecology, climate change, and how ecosystems respond to environmental change. Interested local high school students may contact the principal investigator directly regarding possible research involvement. The laboratory does not offer remote high school research opportunities for students located outside the Upper Valley. Placement depends on current projects, student interests, scheduling, transportation, and mentorship capacity.",
+  "resumeRating": 5,
+  "ratingNote": "An excellent direct-inquiry environmental research opportunity because local high school students are explicitly invited to contact a Dartmouth research laboratory about participating in hands-on field or laboratory ecology research.",
+  "summary": "Dartmouth's Tumber-Dávila Lab welcomes Upper Valley high school students interested in forest ecology, ecosystem science, and climate-change research to inquire directly about laboratory or field research opportunities. Remote participation is not available for students outside the region.",
+  "email": "",
+  "labUrl": "https://sites.dartmouth.edu/tumberdavilalab/join-the-lab/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+}
+  ,
+{
+  "id": 580,
+  "name": "Quantum Science & Engineering Laboratory",
+  "title": "Paid Quantum Physics and Quantum Sensing Research Internship",
+  "university": "Wichita State University",
+  "state": "Kansas, USA",
+  "department": "Department of Physics",
+  "field": "Physics",
+  "tags": [
+    "quantum physics",
+    "quantum sensing",
+    "condensed matter physics",
+    "NV centers",
+    "magnetic resonance",
+    "2D materials",
+    "optics",
+    "microwaves",
+    "experimental physics",
+    "direct inquiry",
+    "Wichita",
+    "Kansas"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Quantum Science & Engineering Laboratory at Wichita State University offers high school students opportunities to participate in advanced experimental physics research. The laboratory has advertised an NSF-funded eight-week paid summer internship specifically for a high school student and directs interested students to contact Dr. Ambal regarding the position. Research areas include quantum sensing, nitrogen-vacancy centers, magnetic resonance spectroscopy, two-dimensional magnetic materials, optics, microwaves, and the development of custom experimental instrumentation. Availability, funding, summer positions, eligibility, and mentorship depend on the laboratory's current projects and should be confirmed directly with the research group.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional physics opportunity because a university quantum research laboratory explicitly recruits high school students for paid NSF-funded research involving advanced quantum sensing, condensed matter, optics, and experimental instrumentation.",
+  "summary": "Wichita State's Quantum Science & Engineering Laboratory offers high school students opportunities to participate in advanced experimental quantum research. Projects may involve quantum sensing, NV centers, magnetic resonance, 2D materials, optics, microwaves, and scientific instrumentation.",
+  "email": "",
+  "labUrl": "https://www.wichita.edu/academics/fairmount_las/physics/spin-microscope-lab/index.php",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 581,
+  "name": "Hansen Experimental Physics Laboratory (HEPL)",
+  "title": "Experimental and Applied Physics Research Opportunity",
+  "university": "Stanford University",
+  "state": "California, USA",
+  "department": "Hansen Experimental Physics Laboratory",
+  "field": "Physics",
+  "tags": [
+    "experimental physics",
+    "applied physics",
+    "space physics",
+    "precision measurement",
+    "optics",
+    "lasers",
+    "space instrumentation",
+    "physics research",
+    "direct inquiry",
+    "Stanford",
+    "California"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "Stanford University's Hansen Experimental Physics Laboratory occasionally offers research positions and summer internships to undergraduate students and, in some cases, high school students. Interested students may inquire directly with the laboratory regarding current availability. HEPL supports experimental and applied physics research in areas that may include precision measurement, optics and lasers, space instrumentation, space physics, gravitational experiments, and related advanced physics topics. High school opportunities are not guaranteed and depend on active projects, researcher availability, student preparation, and mentorship capacity.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-inquiry physics pathway because Stanford's experimental physics laboratory explicitly states that research positions and summer internships may sometimes be available to high school students as well as undergraduates.",
+  "summary": "Stanford HEPL occasionally offers research positions and summer internships to undergraduates and high school students. Research can span experimental and applied physics, precision measurement, optics, space instrumentation, and related advanced physics areas.",
+  "email": "",
+  "labUrl": "https://stanford.edu/group/hepl/research/student_research.html",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 582,
+  "name": "GRU Lab",
+  "title": "Molecular Physics and Spectroscopy High School Research Opportunity",
+  "university": "Tennessee Technological University",
+  "state": "Tennessee, USA",
+  "department": "Department of Physics",
+  "field": "Physics",
+  "tags": [
+    "molecular physics",
+    "spectroscopy",
+    "experimental physics",
+    "microwave spectroscopy",
+    "lasers",
+    "vacuum systems",
+    "Python",
+    "LabVIEW",
+    "scientific instrumentation",
+    "direct inquiry",
+    "Cookeville",
+    "Tennessee"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The GRU Lab at Tennessee Technological University explicitly invites high school students to participate in its research, and prior research experience is not required. Students may gain hands-on experience building scientific instruments, working with vacuum equipment, collecting and analyzing experimental data using tools such as Python and LabVIEW, using CAD and 3D printing, working with lasers, and studying molecules using Fourier Transform Microwave spectroscopy. The laboratory's research connects molecular and experimental physics with chemistry, space science, climate research, energy, and related interdisciplinary topics. Interested students should review the laboratory's current high school research information and contact the group regarding availability, scheduling, projects, and mentorship.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional high school physics opportunity because the laboratory explicitly invites students with no previous research experience to participate in hands-on molecular physics involving spectroscopy, lasers, vacuum systems, coding, instrumentation, and data analysis.",
+  "summary": "Tennessee Tech's GRU Lab explicitly invites high school students to participate in molecular and experimental physics research. Students can gain experience with spectroscopy, lasers, vacuum systems, Python, LabVIEW, CAD, 3D printing, instrumentation, and scientific data analysis.",
+  "email": "",
+  "labUrl": "https://sites.tntech.edu/grulab/high-school-research/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 583,
+  "name": "Materials Physics for Energy Management Lab",
+  "title": "Condensed Matter and Energy Materials Research Opportunity",
+  "university": "Rice University",
+  "state": "Texas, USA",
+  "department": "Department of Physics and Astronomy",
+  "field": "Physics",
+  "tags": [
+    "condensed matter physics",
+    "materials physics",
+    "energy materials",
+    "perovskites",
+    "optoelectronics",
+    "thin films",
+    "X-ray characterization",
+    "device fabrication",
+    "experimental physics",
+    "direct inquiry",
+    "Houston",
+    "Texas"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Volunteer"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "Rice University's Materials Physics for Energy Management Lab welcomes motivated high school and undergraduate students interested in gaining hands-on research experience. Students may participate in the synthesis, fabrication, characterization, and integration of materials into devices. Research areas include condensed matter and materials physics, functional materials, perovskites, optoelectronics, thin films, X-ray characterization, and materials for energy-related applications. Interested students should contact the laboratory regarding possible research involvement. Opportunities depend on current projects, student preparation, scheduling, and mentorship capacity.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-inquiry materials physics opportunity because the laboratory explicitly welcomes high school and undergraduate students for hands-on research involving material synthesis, characterization, device fabrication, and advanced condensed-matter techniques.",
+  "summary": "Rice's Materials Physics for Energy Management Lab welcomes high school and undergraduate students interested in hands-on condensed matter and materials research. Projects may involve perovskites, optoelectronics, thin films, X-ray characterization, material synthesis, and device fabrication.",
+  "email": "",
+  "labUrl": "https://mpem.rice.edu/news/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 584,
+  "name": "Chen Lab",
+  "title": "High-Pressure and Planetary Physics Research Opportunity",
+  "university": "University of Hawaiʻi at Mānoa",
+  "state": "Hawaii, USA",
+  "department": "Hawaiʻi Institute of Geophysics and Planetology",
+  "field": "Physics",
+  "tags": [
+    "high-pressure physics",
+    "planetary physics",
+    "geophysics",
+    "materials science",
+    "planetary science",
+    "diamond anvil cells",
+    "Earth science",
+    "experimental physics",
+    "direct inquiry",
+    "Honolulu",
+    "Hawaii"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Volunteer"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Chen Lab at the University of Hawaiʻi at Mānoa explicitly welcomes motivated students from local high schools to conduct research in the laboratory and directs interested students to contact Dr. Bin Chen. Undergraduate students are also invited to inquire about hands-on research opportunities. Research focuses on high-pressure physics, planetary materials, geophysics, and the properties of matter under extreme conditions. Students may gain exposure to techniques and equipment such as diamond-anvil cells, high-pressure devices, and large-volume presses while investigating materials relevant to the interiors of Earth and other planets. High school access is primarily intended for motivated local students and depends on current projects and mentorship capacity.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional niche physics opportunity because local high school and undergraduate students can directly inquire about hands-on research using high-pressure experimental equipment to investigate planetary materials and the interiors of Earth and other planets.",
+  "summary": "The Chen Lab welcomes motivated local high school and undergraduate students interested in high-pressure and planetary physics. Research involves extreme-condition experiments, planetary materials, diamond-anvil cells, geophysics, and the physical properties of planetary interiors.",
+  "email": "",
+  "labUrl": "https://higp.hawaii.edu/~binchen/opportunities/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+}
+  ,
+{
+  "id": 585,
+  "name": "Robotics and Autonomous Systems Lab (RASL)",
+  "title": "Artificial Intelligence and Robotics Research Opportunity",
+  "university": "Vanderbilt University",
+  "state": "Tennessee, USA",
+  "department": "Robotics and Autonomous Systems Laboratory",
+  "field": "Artificial Intelligence",
+  "tags": [
+    "artificial intelligence",
+    "robotics",
+    "autonomous systems",
+    "human-robot interaction",
+    "affective computing",
+    "virtual reality",
+    "computer vision",
+    "intelligent systems",
+    "research mentorship",
+    "Nashville",
+    "Tennessee"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "Vanderbilt University's Robotics and Autonomous Systems Laboratory primarily conducts graduate-level research but explicitly provides research experiences to undergraduate and high school students as well. Research areas include intelligent robotics, autonomous systems, human-robot interaction, affective computing, virtual reality, intelligent computer systems, and methods for interpreting physiological signals, gestures, facial expressions, and other human behaviors. Interested students should contact the laboratory regarding current research opportunities. Availability depends on active projects, student preparation, scheduling, and mentorship capacity.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional AI and robotics opportunity because an active Vanderbilt research laboratory explicitly provides research experiences to both high school and undergraduate students in advanced intelligent systems and human-robot interaction.",
+  "summary": "Vanderbilt RASL conducts research in artificial intelligence, robotics, autonomous systems, affective computing, virtual reality, and human-robot interaction and explicitly provides research experiences to high school and undergraduate students.",
+  "email": "",
+  "labUrl": "https://lab.vanderbilt.edu/rasl/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 586,
+  "name": "AI Institute Research Opportunities",
+  "title": "Artificial Intelligence and Data Science Research Opportunities",
+  "university": "University of North Texas",
+  "state": "Texas, USA",
+  "department": "Artificial Intelligence Institute",
+  "field": "Artificial Intelligence",
+  "tags": [
+    "artificial intelligence",
+    "machine learning",
+    "data science",
+    "computer science",
+    "applied AI",
+    "computational research",
+    "research mentorship",
+    "experiential learning",
+    "Denton",
+    "Texas"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate",
+    "Graduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Research Training"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The University of North Texas Artificial Intelligence Institute provides research and experiential-learning opportunities for students ranging from high school through graduate study. Students may gain experience with artificial intelligence, machine learning, data science, computational methods, and applied AI projects through institute research activities and mentored opportunities. Specific projects, eligibility requirements, and participation formats vary depending on current faculty research and institute programs. Interested students should review current AI Institute opportunities and inquire about available research projects and mentorship.",
+  "resumeRating": 5,
+  "ratingNote": "A strong institution-level AI research pathway because the institute explicitly supports research opportunities beginning at the high school level and continuing through undergraduate and graduate study.",
+  "summary": "UNT's AI Institute provides students from high school through graduate school with opportunities to participate in artificial intelligence, machine learning, data science, and applied computational research.",
+  "email": "",
+  "labUrl": "https://ai.unt.edu/research-opportunities/index.html",
+  "applyUrl": "",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 587,
+  "name": "Summer High School Apprenticeship Research Program (SHARP!)",
+  "title": "Eleven-Month AI, Robotics and Biomedical Engineering Research Apprenticeship",
+  "university": "University of Illinois Chicago",
+  "state": "Illinois, USA",
+  "department": "College of Engineering",
+  "field": "Artificial Intelligence",
+  "tags": [
+    "artificial intelligence",
+    "robotics",
+    "biomedical engineering",
+    "tissue engineering",
+    "surgical research",
+    "laboratory research",
+    "research mentorship",
+    "college credit",
+    "longitudinal research",
+    "Chicago",
+    "Illinois"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Year-Round Research"
+  ],
+  "applicationType": "Structured Lab Placement",
+  "applicationWindow": "The University of Illinois Chicago SHARP! program provides high school students with an approximately eleven-month research-intensive experience. Participants begin with about six weeks of summer laboratory research and then continue mentored research and professional development from approximately August through April. Research may involve artificial intelligence, robotics, biomedical engineering, tissue engineering, surgery, and related interdisciplinary areas. Successful participants may earn three undergraduate credits through the UIC College of Engineering. Students should verify current grade and geographic eligibility, compensation or costs, research placements, academic-year commitments, college credit, program dates, and application deadlines.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional long-term research opportunity because high school students begin with intensive summer laboratory work and continue research throughout the academic year at the intersection of AI, robotics, engineering, and medicine.",
+  "summary": "UIC SHARP! gives high school students an extended research experience beginning with six weeks of summer laboratory work and continuing through the school year. Projects span AI, robotics, biomedical engineering, tissue engineering, and surgical research.",
+  "email": "",
+  "labUrl": "https://engineering.uic.edu/about/summer-special-programs/sharp-program/",
+  "applyUrl": "https://engineering.uic.edu/about/summer-special-programs/sharp-program/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 588,
+  "name": "SRMPmachine",
+  "title": "Machine Learning and Scientific Research Mentorship Program",
+  "university": "Massachusetts Institute of Technology / American Museum of Natural History",
+  "state": "Massachusetts / New York, USA",
+  "department": "MIT STEP Lab / American Museum of Natural History",
+  "field": "Artificial Intelligence",
+  "tags": [
+    "machine learning",
+    "artificial intelligence",
+    "scientific computing",
+    "natural science",
+    "data science",
+    "research mentorship",
+    "laboratory research",
+    "academic-year research",
+    "New York",
+    "Massachusetts"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Research Training",
+    "Mentorship"
+  ],
+  "applicationType": "Structured Research Placement",
+  "applicationWindow": "SRMPmachine is a machine-learning research pathway developed by the MIT STEP Lab and the American Museum of Natural History. Students first receive intensive training in machine learning and scientific computing. A subset of participants then continues into academic-year research placements in scientific laboratories where researchers actively use machine-learning methods. Students apply AI and computational techniques to authentic natural-science research questions under professional scientific mentorship. Participation, cohort structure, research placements, dates, and eligibility depend on the current program cycle and should be verified through official program information.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional interdisciplinary AI opportunity because students progress from machine-learning training into authentic scientific research placements where AI methods are applied to real natural-science questions.",
+  "summary": "MIT and AMNH's SRMPmachine prepares high school students in machine learning and then places selected participants into scientific research environments where they apply AI methods to authentic natural-science projects.",
+  "email": "",
+  "labUrl": "https://education.mit.edu/project/preparing-high-school-students-for-endeavors-in-machine-learning-srmpmachine/",
+  "applyUrl": "https://education.mit.edu/project/preparing-high-school-students-for-endeavors-in-machine-learning-srmpmachine/",
+  "dateAdded": "2026-08-17"
+},
+{
+  "id": 589,
+  "name": "Young Scholars Program — AI and Computer Vision Research",
+  "title": "Faculty-Mentored Artificial Intelligence and Computer Vision Research Program",
+  "university": "Northeastern University",
+  "state": "Massachusetts, USA",
+  "department": "Center for STEM Education",
+  "field": "Artificial Intelligence",
+  "tags": [
+    "artificial intelligence",
+    "computer vision",
+    "machine learning",
+    "video understanding",
+    "behavior recognition",
+    "data visualization",
+    "Python",
+    "faculty research",
+    "Boston",
+    "Massachusetts"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Structured Faculty Research Placement",
+  "applicationWindow": "Northeastern University's Young Scholars Program places high school students into faculty-led research projects across STEM disciplines, including artificial intelligence and computer vision. Current AI-related projects may involve developing machine-learning systems for long-form video understanding, behavior recognition, movement analysis, temporal transitions, and cause-and-effect reasoning. Students gain hands-on experience with coding, experimentation, data visualization, machine learning, and real research datasets under faculty and researcher mentorship. Available AI projects vary by year, so applicants should verify current project offerings, grade and geographic eligibility, program dates, compensation or costs, and application requirements.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional high school AI research opportunity because students contribute to active faculty-led machine-learning and computer-vision projects using real datasets and research workflows rather than completing only instructional coding exercises.",
+  "summary": "Northeastern's Young Scholars Program includes faculty-led AI and computer-vision projects where high school students work with real data, code machine-learning systems, analyze experiments, and contribute to active research questions.",
+  "email": "",
+  "labUrl": "https://stem.northeastern.edu/summer/ysp/ysp2026/",
+  "applyUrl": "https://stem.northeastern.edu/summer/ysp/ysp2026/",
+  "dateAdded": "2026-08-17"
+}
 ]
