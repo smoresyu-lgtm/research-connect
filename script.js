@@ -17,12 +17,14 @@ let activeFilters = {
 };
 let searchTerm = "";
 let currentModalEntry = null;
+let activeListingType = "all";
 
 const listingsEl = document.getElementById("listings");
 const emptyStateEl = document.getElementById("empty-state");
 const resultCountEl = document.getElementById("result-count");
 const searchInput = document.getElementById("search-input");
 const clearBtn = document.getElementById("clear-filters");
+const listingTypeBtns = document.querySelectorAll(".listing-type-btn");
 
 const fieldFilterEl = document.getElementById("field-filters");
 const levelFilterEl = document.getElementById("level-filters");
@@ -91,6 +93,17 @@ async function init() {
     if (currentModalEntry && window.RCFeedback) window.RCFeedback.trackInteraction(currentModalEntry);
   });
 
+  listingTypeBtns.forEach(btn => {
+  btn.addEventListener("click", () => {
+    activeListingType = btn.dataset.listingType;
+
+    listingTypeBtns.forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+
+    render();
+  });
+});
+  
   render();
 }
 
@@ -148,6 +161,14 @@ function buildRatingTabs(container) {
 function render() {
   const filtered = allEntries.filter(entry => {
     const appType = entry.applicationType || "Direct Outreach";
+    const listingType = entry.listingType || "General Opportunity";
+
+if (
+  activeListingType !== "all" &&
+  listingType !== activeListingType
+) {
+  return false;
+}
     if (activeFilters.field && entry.field !== activeFilters.field) return false;
     if (activeFilters.level && !entry.levels.includes(activeFilters.level)) return false;
     if (activeFilters.type && !entry.opportunityTypes.includes(activeFilters.type)) return false;
