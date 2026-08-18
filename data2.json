@@ -41,7 +41,8 @@
     "email": "",
     "labUrl": "https://www.umassmed.edu/somasundaran-lab/the-lab/the-pi/",
     "applyUrl": "https://www.umassmed.edu/bmb/education/current-high-school-student/",
-    "dateAdded": "2026-08-18"
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
   },
   {
     "id": 602,
@@ -85,7 +86,8 @@
     "email": "",
     "labUrl": "https://www.umassmed.edu/hanlab/",
     "applyUrl": "https://www.umassmed.edu/bmb/education/current-high-school-student/",
-    "dateAdded": "2026-08-18"
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
   },
   {
     "id": 603,
@@ -129,7 +131,8 @@
     "email": "",
     "labUrl": "https://www.umassmed.edu/ryderlab/the-lab/the-pi/",
     "applyUrl": "https://www.umassmed.edu/bmb/education/current-high-school-student/",
-    "dateAdded": "2026-08-18"
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
   },
   {
     "id": 604,
@@ -167,7 +170,8 @@
     "email": "",
     "labUrl": "https://www.umassmed.edu/bmb/education/current-high-school-student/",
     "applyUrl": "https://www.umassmed.edu/bmb/education/current-high-school-student/",
-    "dateAdded": "2026-08-18"
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
   },
   {
     "id": 605,
@@ -211,835 +215,851 @@
     "email": "",
     "labUrl": "https://www.umassmed.edu/rhindlab/",
     "applyUrl": "https://www.umassmed.edu/bmb/education/current-high-school-student/",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 606,
+    "name": "Virgil Percec Research Laboratory",
+    "title": "Organic, Polymer and Materials Chemistry Research Opportunity",
+    "university": "University of Pennsylvania",
+    "state": "Pennsylvania, USA",
+    "department": "Department of Chemistry",
+    "field": "Chemistry",
+    "tags": [
+      "organic chemistry",
+      "polymer chemistry",
+      "materials chemistry",
+      "synthetic chemistry",
+      "macromolecular chemistry",
+      "materials science",
+      "laboratory research",
+      "wet lab",
+      "faculty mentorship",
+      "direct inquiry",
+      "Philadelphia",
+      "Pennsylvania"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Virgil Percec Research Laboratory at the University of Pennsylvania encourages high school students and undergraduate students, including students from outside Penn, to seek summer research experience with the group. Interested students may contact the laboratory directly regarding possible research involvement. Research focuses on organic chemistry, polymer chemistry, macromolecular chemistry, materials science, and related synthetic laboratory work. Availability depends on current projects, student preparation, scheduling, and laboratory mentorship capacity.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional direct-access chemistry opportunity because an individual Penn research group explicitly welcomes high school and undergraduate students, including students from outside the university, to seek summer research experience in advanced synthetic and materials chemistry.",
+    "summary": "The Virgil Percec Research Laboratory at the University of Pennsylvania conducts research in organic chemistry, polymer chemistry, macromolecular chemistry, and materials science. High school and undergraduate students may inquire directly about summer research opportunities and gain exposure to advanced synthetic laboratory research.",
+    "email": "",
+    "labUrl": "https://web.sas.upenn.edu/percecgroup/contact-us/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 607,
+    "name": "Non-Traditional Isotope Laboratory",
+    "title": "Geochemistry, Isotope and Planetary Materials Research Opportunity",
+    "university": "University of Washington",
+    "state": "Washington, USA",
+    "department": "Department of Earth and Space Sciences",
+    "field": "Earth Science",
+    "tags": [
+      "geochemistry",
+      "isotope geochemistry",
+      "geology",
+      "planetary science",
+      "meteorites",
+      "lunar samples",
+      "earth materials",
+      "analytical chemistry",
+      "laboratory research",
+      "wet lab",
+      "direct inquiry",
+      "Seattle",
+      "Washington"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The University of Washington Non-Traditional Isotope Laboratory offers research opportunities for high school and undergraduate students. Interested students are instructed to contact Professor Fang-Zhen Teng regarding current opportunities. Research may involve chemical and isotopic analysis of geological and planetary materials, including rocks from Earth's mantle and crust as well as meteorites and lunar samples. Participation depends on available projects, laboratory capacity, student preparation, and mentorship availability.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional niche research opportunity because high school students can directly inquire about hands-on isotope and geochemistry research involving Earth materials, meteorites, lunar samples, analytical chemistry, and planetary science.",
+    "summary": "The Non-Traditional Isotope Laboratory at the University of Washington studies isotope geochemistry and the chemical evolution of Earth and planetary materials. High school and undergraduate students may contact Professor Fang-Zhen Teng directly about research involving rocks, meteorites, lunar samples, and advanced chemical and isotopic analysis.",
+    "email": "",
+    "labUrl": "https://faculty.washington.edu/fteng/opportunities.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 608,
+    "name": "Rapp Lab",
+    "title": "Chemistry, Biochemistry and Bioengineering Research Opportunity",
+    "university": "University of Oregon",
+    "state": "Oregon, USA",
+    "department": "Chemistry and Biochemistry",
+    "field": "Chemistry",
+    "tags": [
+      "chemistry",
+      "biochemistry",
+      "bioengineering",
+      "biology",
+      "molecular research",
+      "experimental biology",
+      "laboratory research",
+      "wet lab",
+      "research mentorship",
+      "direct inquiry",
+      "Eugene",
+      "Oregon"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Rapp Lab at the University of Oregon explicitly welcomes applications from students ranging from high school researchers seeking research experience through undergraduate and graduate trainees. High school students may submit the laboratory's research-interest form, and prospective researchers may also contact the group regarding available opportunities. Research spans chemistry, biochemistry, bioengineering, biology, and related experimental questions. Participation depends on current projects, student fit, and mentorship capacity.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional individual-lab opportunity because the Rapp Lab explicitly includes high school students among prospective researchers and provides a dedicated pathway for them to express interest in joining active research.",
+    "summary": "The Rapp Lab at the University of Oregon welcomes high school and undergraduate students interested in research spanning chemistry, biochemistry, bioengineering, biology, and related experimental areas. High school students can submit a research-interest form and inquire directly about current projects.",
+    "email": "",
+    "labUrl": "https://www.therapplab.org/join-the-rapp-lab",
+    "applyUrl": "https://www.therapplab.org/join-the-rapp-lab",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 609,
+    "name": "Global Environmental Change Lab",
+    "title": "Climate, Agriculture and Environmental Modeling Research Opportunity",
+    "university": "University of California, Davis",
+    "state": "California, USA",
+    "department": "Environmental Science and Policy",
+    "field": "Environmental Science",
+    "tags": [
+      "climate science",
+      "environmental science",
+      "agriculture",
+      "crop modeling",
+      "water resources",
+      "wildfire",
+      "climate change",
+      "environmental modeling",
+      "data analysis",
+      "research internship",
+      "direct inquiry",
+      "Davis",
+      "California"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Global Environmental Change Lab at UC Davis states that it is continually interested in enthusiastic high school and undergraduate interns. Research projects may involve climate impacts on agriculture, crop yields, water availability, wildfire modeling, environmental data analysis, and related global-change questions. Students interested in research should review current projects and contact the laboratory regarding potential internship or research opportunities. Availability depends on active projects and mentorship capacity.",
+    "resumeRating": 4,
+    "ratingNote": "A strong direct-access environmental research opportunity because the laboratory explicitly welcomes high school and undergraduate interns and offers exposure to climate science, agriculture, wildfire, water resources, and environmental modeling.",
+    "summary": "UC Davis's Global Environmental Change Lab studies how climate and environmental change affect agriculture, water resources, wildfire, and related systems. High school and undergraduate students are encouraged to inquire about internships and research projects involving environmental modeling, data analysis, and climate impacts.",
+    "email": "",
+    "labUrl": "https://globalchange.ucdavis.edu/opportunities",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 610,
+    "name": "Hansen Experimental Physics Laboratory Student Research",
+    "title": "Physics and Engineering Research Opportunity",
+    "university": "Stanford University",
+    "state": "California, USA",
+    "department": "Hansen Experimental Physics Laboratory",
+    "field": "Physics",
+    "tags": [
+      "physics",
+      "experimental physics",
+      "applied physics",
+      "engineering",
+      "instrumentation",
+      "laboratory research",
+      "student research",
+      "summer research",
+      "direct inquiry",
+      "Stanford",
+      "California"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "Stanford University's Hansen Experimental Physics Laboratory states that it occasionally offers summer internships or research positions to undergraduate and high school students. Interested students may inquire directly with HEPL regarding current availability. Research opportunities depend on active experimental-physics and engineering projects, student preparation, and available mentorship. Because positions are occasional rather than guaranteed each year, students should contact the laboratory to confirm current openings.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional direct-inquiry physics opportunity because Stanford's Hansen Experimental Physics Laboratory explicitly acknowledges that high school students may occasionally participate in summer internships or research positions and provides a direct route for students to ask about availability.",
+    "summary": "Stanford's Hansen Experimental Physics Laboratory occasionally provides research or summer internship opportunities for high school and undergraduate students. Students interested in experimental physics, applied physics, engineering, and instrumentation may inquire directly about current opportunities.",
+    "email": "",
+    "labUrl": "https://stanford.edu/group/hepl/research/student_research.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 611,
+    "name": "Price Laboratory",
+    "title": "Biomedical Engineering and Musculoskeletal Mechanobiology Research Opportunity",
+    "university": "University of Delaware",
+    "state": "Delaware, USA",
+    "department": "Department of Biomedical Engineering",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "biomedical engineering",
+      "mechanobiology",
+      "musculoskeletal research",
+      "mechanotransduction",
+      "physiology",
+      "biomechanics",
+      "laboratory research",
+      "research mentorship",
+      "direct inquiry",
+      "Newark",
+      "Delaware"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Price Laboratory at the University of Delaware supports high school and undergraduate research involvement. Interested students are instructed to contact Dr. Christopher Price directly with a description of their research interests and a resume. The laboratory studies musculoskeletal mechanobiology and mechanotransduction, examining how mechanical forces affect tissues and biological systems. Opportunities depend on current projects, student preparation, scheduling, and laboratory mentorship capacity.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional direct-access biomedical engineering opportunity because high school and undergraduate students are explicitly provided with a faculty-contact pathway into active musculoskeletal and mechanobiology research.",
+    "summary": "The Price Laboratory at the University of Delaware studies musculoskeletal mechanobiology, mechanotransduction, physiology, and related biomedical engineering questions. High school and undergraduate students may contact Dr. Christopher Price directly with their research interests and resume to inquire about opportunities.",
+    "email": "",
+    "labUrl": "https://sites.udel.edu/pricegroup/contact-information/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 612,
+    "name": "Developing Intelligence Lab",
+    "title": "Cognitive Development, Behavioral Science and Machine Learning Research Opportunity",
+    "university": "University of Texas at Austin",
+    "state": "Texas, USA",
+    "department": "Department of Psychology",
+    "field": "Psychology",
+    "tags": [
+      "psychology",
+      "cognitive science",
+      "developmental psychology",
+      "machine learning",
+      "behavioral research",
+      "eye tracking",
+      "motion tracking",
+      "audio analysis",
+      "video analysis",
+      "data mining",
+      "human development",
+      "direct inquiry",
+      "Austin",
+      "Texas"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Internship"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Developing Intelligence Lab at the University of Texas at Austin explicitly allows high school students interested in internships to contact Dr. Chen Yu directly. The laboratory studies learning and cognitive development using behavioral experiments and large-scale datasets that may include video, audio, eye-tracking, and motion-tracking measurements. Research also incorporates data mining and machine learning. Opportunities depend on current studies, student skills, scheduling, and mentor availability.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional interdisciplinary research opportunity because high school students are explicitly allowed to contact the principal investigator about internships combining psychology, cognitive science, behavioral research, data analysis, and machine learning.",
+    "summary": "UT Austin's Developing Intelligence Lab studies learning and cognitive development using behavioral experiments, eye tracking, motion tracking, audio and video data, data mining, and machine learning. High school students may contact Dr. Chen Yu directly about potential internship opportunities.",
+    "email": "",
+    "labUrl": "https://www.la.utexas.edu/users/dil/opportunities.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 613,
+    "name": "Moseley Laboratory",
+    "title": "Molecular Virology and Infectious Disease Research Opportunity",
+    "university": "Monash University",
+    "state": "Victoria, Australia",
+    "department": "Biomedicine Discovery Institute",
+    "field": "Molecular Biology",
+    "tags": [
+      "molecular virology",
+      "infectious disease",
+      "viral pathogenesis",
+      "cell biology",
+      "immunology",
+      "biochemistry",
+      "molecular biology",
+      "wet lab",
+      "laboratory research",
+      "research training",
+      "direct inquiry",
+      "Melbourne",
+      "Australia"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Training",
+      "Internship"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Moseley Laboratory at Monash University supports research training across multiple student levels and includes placements for high school students and interns. Prospective students interested in research may contact Professor Greg Moseley regarding opportunities. The laboratory investigates molecular virology, viral pathogenesis, infectious disease, cell biology, immunology, biochemistry, and related biomedical questions. Participation depends on current projects, placement availability, student preparation, and research supervision capacity.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional wet-lab research pathway because the laboratory explicitly includes high school students among its research trainees and offers access to active molecular virology, infectious disease, cell biology, and immunology research.",
+    "summary": "The Moseley Laboratory at Monash University conducts molecular virology and viral pathogenesis research using approaches spanning cell biology, immunology, biochemistry, and infectious disease. The lab supports high school research placements and internships and allows prospective students to inquire about available opportunities.",
+    "email": "",
+    "labUrl": "https://www.monash.edu/discovery-institute/moseley-lab/join",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 614,
+    "name": "Neuromuscular Physiology Laboratory",
+    "title": "Muscle Physiology, Medical Imaging and Biomedical Research Opportunity",
+    "university": "Vanderbilt University Medical Center",
+    "state": "Tennessee, USA",
+    "department": "Neuromuscular Physiology Laboratory",
+    "field": "Biomedical Science",
+    "tags": [
+      "muscle physiology",
+      "neuromuscular research",
+      "medical imaging",
+      "biomedical engineering",
+      "exercise science",
+      "physiology",
+      "human research",
+      "laboratory research",
+      "volunteer research",
+      "direct inquiry",
+      "Nashville",
+      "Tennessee"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Volunteer",
+      "Research Project"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Neuromuscular Physiology Laboratory at Vanderbilt University Medical Center works with researchers and trainees at multiple levels and has documented mentorship of high school students through Vanderbilt research programs. Students interested in volunteering in the laboratory may contact Dr. Theodore Towse directly with a brief biography, explanation of their research interest, and information about their availability. Research combines physiology, muscle science, medical imaging, biomedical engineering, and related experimental approaches. Opportunities depend on current projects and supervision availability.",
+    "resumeRating": 5,
+    "ratingNote": "A strong direct-access biomedical research opportunity because students can contact the laboratory directly about volunteer research and the group has documented experience mentoring high school researchers in physiology and biomedical science.",
+    "summary": "Vanderbilt's Neuromuscular Physiology Laboratory studies muscle function and neuromuscular physiology using approaches that can include medical imaging, biomedical engineering, physiology, and exercise science. High school and undergraduate students may inquire directly about volunteer research involvement.",
+    "email": "",
+    "labUrl": "https://www.vumc.org/neuromuscular-physiology-lab/join-our-lab",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 615,
+    "name": "Hadland Lab",
+    "title": "Stem Cell, Hematology and Developmental Biology Research Opportunity",
+    "university": "Fred Hutch Cancer Center / University of Washington",
+    "state": "Washington, USA",
+    "department": "Translational Science and Therapeutics / Hematology",
+    "field": "Biomedical Science",
+    "tags": [
+      "stem cell biology",
+      "hematology",
+      "developmental biology",
+      "cancer research",
+      "blood development",
+      "hematopoietic stem cells",
+      "pediatric oncology",
+      "cell biology",
+      "wet lab",
+      "laboratory research",
+      "faculty mentorship",
+      "direct inquiry",
+      "Seattle",
+      "Washington"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Research Training"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Hadland Lab at Fred Hutch Cancer Center participates in research training for both high school and undergraduate students. Students interested in working with the laboratory may pursue relevant research-training pathways or contact Dr. Brandon Hadland directly about potential research opportunities. The laboratory studies blood development, hematopoietic stem and progenitor cells, developmental biology, hematology, pediatric oncology, and related biomedical questions. Availability depends on current projects, research-program eligibility, and mentorship capacity.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional biomedical research opportunity because the laboratory explicitly supports high school and undergraduate research training and provides a direct faculty-inquiry route into advanced stem cell, hematology, and developmental biology research.",
+    "summary": "The Hadland Lab at Fred Hutch Cancer Center and the University of Washington studies blood development, hematopoietic stem and progenitor cells, developmental biology, hematology, and pediatric oncology. High school and undergraduate students may pursue research training opportunities or contact Dr. Brandon Hadland directly about potential involvement.",
+    "email": "",
+    "labUrl": "https://research.fredhutch.org/hadland/en/join-our-lab.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 616,
+    "name": "Stacey M. Louie Lab",
+    "listingType": "Professor Prospect",
+    "title": "Environmental Engineering, Chemistry and Nanomaterials Research Opportunity",
+    "university": "University of Houston",
+    "state": "Texas, USA",
+    "department": "Department of Civil and Environmental Engineering",
+    "field": "Environmental Science",
+    "tags": [
+      "environmental engineering",
+      "environmental chemistry",
+      "nanomaterials",
+      "water research",
+      "laboratory measurements",
+      "environmental analysis",
+      "engineering research",
+      "volunteer research",
+      "research mentorship",
+      "direct inquiry",
+      "Houston",
+      "Texas"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Volunteer",
+      "Mentorship"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Stacey M. Louie Lab at the University of Houston explicitly welcomes high school students to contact Dr. Louie about volunteer research opportunities or mentorship for environmental projects. High school participants may assist with laboratory measurements, environmental experiments, research outreach, and related activities depending on current projects. Opportunities depend on student interests, laboratory needs, scheduling, and mentorship capacity.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional direct-access environmental research opportunity because the laboratory explicitly welcomes high school students to contact the principal investigator about volunteer research and project mentorship in environmental engineering and chemistry.",
+    "summary": "The Stacey M. Louie Lab at the University of Houston studies environmental engineering, environmental chemistry, nanomaterials, and related environmental systems. High school students may contact Dr. Louie directly about volunteer research or environmental-project mentorship and may assist with laboratory measurements and experimental work.",
+    "email": "",
+    "labUrl": "https://louielab.cive.uh.edu/outreach/",
+    "applyUrl": "",
     "dateAdded": "2026-08-18"
+  },
+  {
+    "id": 617,
+    "name": "Dongming Xie Lab",
+    "title": "Biotechnology and Bioprocess Engineering Research Opportunity",
+    "university": "University of Massachusetts Lowell",
+    "state": "Massachusetts, USA",
+    "department": "Department of Chemical Engineering",
+    "field": "Biotechnology",
+    "tags": [
+      "biotechnology",
+      "bioprocess engineering",
+      "chemical engineering",
+      "biomedical research",
+      "biomanufacturing",
+      "laboratory research",
+      "wet lab",
+      "research apprenticeship",
+      "faculty mentorship",
+      "direct inquiry",
+      "Lowell",
+      "Massachusetts"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Apprenticeship"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Dongming Xie Lab at UMass Lowell regularly hosts high school researchers, including approximately one or two Massachusetts high school students each year through the Massachusetts Life Sciences Center High School Apprenticeship Challenge. Undergraduate students may also contact Dr. Dongming Xie directly about research-assistant opportunities. Research focuses on biotechnology, bioprocess engineering, biomanufacturing, chemical engineering, and related biomedical applications. Availability depends on current laboratory projects, program eligibility, and mentorship capacity.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional biotechnology research pathway because the laboratory has a documented record of hosting high school researchers and also provides direct access for undergraduate students interested in active biotechnology and bioprocess research.",
+    "summary": "The Dongming Xie Lab at UMass Lowell conducts biotechnology and bioprocess engineering research involving biomanufacturing, chemical engineering, and biomedical applications. High school students may participate through the Massachusetts Life Sciences Center apprenticeship pathway, while undergraduate students may contact Dr. Xie directly about research opportunities.",
+    "email": "",
+    "labUrl": "https://sites.uml.edu/dongming-xie/research/opportunities/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 618,
+    "name": "Goodman Lab",
+    "title": "Neuroscience and Sensory Biology Research Opportunity",
+    "university": "Stanford University",
+    "state": "California, USA",
+    "department": "Department of Molecular and Cellular Physiology",
+    "field": "Neuroscience",
+    "tags": [
+      "neuroscience",
+      "sensory biology",
+      "molecular physiology",
+      "cell biology",
+      "neurobiology",
+      "biomedical research",
+      "laboratory research",
+      "research mentorship",
+      "summer research",
+      "direct inquiry",
+      "Stanford",
+      "California"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "Stanford University's Goodman Lab provides research opportunities for undergraduate students and high school students. The laboratory primarily hosts high school researchers during the summer, including through Stanford research-training pathways such as SIMR, while prospective students may also review the laboratory's direct research-contact guidance. Research focuses on neuroscience, sensory biology, molecular and cellular physiology, and related biomedical questions. Availability depends on current projects, research-program eligibility, and mentorship capacity.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional neuroscience opportunity because an individual Stanford laboratory explicitly discusses research involvement for high school students and provides pathways into active sensory biology, molecular physiology, and neuroscience research.",
+    "summary": "Stanford's Goodman Lab studies neuroscience, sensory biology, and molecular and cellular physiology. High school students are primarily hosted during the summer through research-training pathways, while undergraduate students may also pursue laboratory research opportunities.",
+    "email": "",
+    "labUrl": "https://goodmanlab.stanford.edu/joining-goodman-lab",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 619,
+    "name": "Supekar Lab",
+    "title": "AI, Neuroimaging and Cognitive Neuroscience Research Opportunity",
+    "university": "Stanford University School of Medicine",
+    "state": "California, USA",
+    "department": "Department of Psychiatry and Behavioral Sciences",
+    "field": "Neuroscience",
+    "tags": [
+      "neuroscience",
+      "artificial intelligence",
+      "machine learning",
+      "neuroimaging",
+      "cognitive neuroscience",
+      "psychiatry",
+      "brain imaging",
+      "data science",
+      "biomedical research",
+      "research mentorship",
+      "Stanford",
+      "California"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Supekar Lab at Stanford University School of Medicine explicitly lists high school students among the categories of prospective researchers who may seek involvement with the group. The laboratory combines neuroscience, artificial intelligence, neuroimaging, cognitive science, psychiatry, and data analysis to study brain development and neuropsychiatric conditions. Opportunities depend on current projects, student preparation, data-analysis skills, and available mentorship.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional interdisciplinary research opportunity because the laboratory explicitly includes high school students among prospective researchers and combines artificial intelligence, neuroimaging, cognitive neuroscience, psychiatry, and biomedical data science.",
+    "summary": "The Supekar Lab at Stanford Medicine studies brain function and neuropsychiatric conditions using neuroscience, artificial intelligence, neuroimaging, cognitive and clinical data, and computational analysis. High school and undergraduate students are included among prospective researchers who may inquire about laboratory opportunities.",
+    "email": "",
+    "labUrl": "https://med.stanford.edu/supekar-lab/education.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 620,
+    "name": "Jonghyun Park Additive Manufacturing Research",
+    "title": "Additive Manufacturing and Mechanical Engineering Research Opportunity",
+    "university": "Missouri University of Science and Technology",
+    "state": "Missouri, USA",
+    "department": "Department of Mechanical and Aerospace Engineering",
+    "field": "Engineering",
+    "tags": [
+      "mechanical engineering",
+      "additive manufacturing",
+      "advanced manufacturing",
+      "manufacturing engineering",
+      "3D printing",
+      "engineering design",
+      "materials processing",
+      "laboratory research",
+      "faculty research",
+      "direct inquiry",
+      "Rolla",
+      "Missouri"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "Missouri University of Science and Technology's Mechanical and Aerospace Engineering department maintains research opportunities specifically available to high school students and instructs interested students to contact the listed principal investigator directly. One available pathway includes research with Dr. Jonghyun Park involving additive manufacturing and next-generation manufacturing technologies. Projects and availability vary according to current faculty research needs, student preparation, and mentorship capacity.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional engineering opportunity because Missouri S&T maintains dedicated high school research positions and provides direct faculty contact for active projects in additive manufacturing and advanced mechanical engineering.",
+    "summary": "Dr. Jonghyun Park at Missouri S&T conducts research involving additive manufacturing, advanced manufacturing, mechanical engineering, and next-generation production technologies. High school students can identify available research projects through the department and contact the principal investigator directly about participating.",
+    "email": "",
+    "labUrl": "https://maeugresearch.mst.edu/available-positions/research-with-high-school-students/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 621,
+    "name": "Academic Orientations Project",
+    "title": "Psychology, Moral Development and Social Cognition Research Opportunity",
+    "university": "University of California, Santa Cruz",
+    "state": "California, USA",
+    "department": "Department of Psychology",
+    "field": "Psychology",
+    "tags": [
+      "psychology",
+      "social cognition",
+      "moral development",
+      "moral decision-making",
+      "social interaction",
+      "developmental psychology",
+      "behavioral research",
+      "research mentorship",
+      "direct inquiry",
+      "Santa Cruz",
+      "California"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Academic Orientations Project at UC Santa Cruz accepts applications from undergraduate and high school students interested in research involving social interactions, moral development, and moral decision-making. Students may apply directly through the lab's research-position pathway and can contact the research team with questions about participation. High school students may also engage with the group through relevant UCSC research programs depending on current availability.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional social-science research opportunity because the laboratory explicitly accepts high school and undergraduate applicants into active psychology research involving moral development, social cognition, and behavioral science.",
+    "summary": "The Academic Orientations Project at UC Santa Cruz studies social interaction, moral development, and moral decision-making. High school and undergraduate students may apply directly for research involvement and work with an active psychology research team.",
+    "email": "",
+    "labUrl": "https://aop.ucsc.edu/engage-with-us/",
+    "applyUrl": "https://aop.ucsc.edu/engage-with-us/",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 622,
+    "name": "Cox Lab",
+    "title": "Evolution, Ecology and Animal Biology Research Opportunity",
+    "university": "University of Virginia",
+    "state": "Virginia, USA",
+    "department": "Department of Biology",
+    "field": "Biology",
+    "tags": [
+      "evolution",
+      "ecology",
+      "genetics",
+      "physiology",
+      "animal biology",
+      "behavior",
+      "zoology",
+      "evolutionary biology",
+      "laboratory research",
+      "field research",
+      "direct inquiry",
+      "Charlottesville",
+      "Virginia"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Volunteer",
+      "Research Project"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Cox Lab at the University of Virginia welcomes research inquiries from both high school and undergraduate students. Undergraduate students may contact Dr. Robert Cox about volunteer research, independent research, thesis work, and other laboratory opportunities, while the lab also explicitly invites high school students and teachers to contact the group about potential research involvement. Research spans evolution, ecology, genetics, physiology, behavior, and animal biology. Availability depends on current projects and mentorship capacity.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional evolutionary and organismal biology opportunity because the lab explicitly welcomes high school and undergraduate inquiries and provides access to research spanning genetics, ecology, physiology, behavior, and animal biology.",
+    "summary": "The Cox Lab at UVA studies evolution, ecology, genetics, physiology, behavior, and animal biology. High school and undergraduate students may contact the lab directly about research, volunteer, and independent-project opportunities.",
+    "email": "",
+    "labUrl": "https://www.coxlabuva.org/join-the-lab.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 623,
+    "name": "Dávalos Lab",
+    "title": "Ecology, Evolution and Conservation Biology Research Opportunity",
+    "university": "Stony Brook University",
+    "state": "New York, USA",
+    "department": "Department of Ecology and Evolution",
+    "field": "Ecology",
+    "tags": [
+      "ecology",
+      "evolution",
+      "conservation biology",
+      "mammalogy",
+      "biodiversity",
+      "animal biology",
+      "evolutionary biology",
+      "laboratory research",
+      "data analysis",
+      "summer research",
+      "direct inquiry",
+      "Stony Brook",
+      "New York"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Dávalos Lab at Stony Brook University welcomes motivated students at multiple levels, including high school students seeking summer research experiences. Students may participate in active ecology and evolutionary biology projects and are expected to engage seriously with scientific literature, laboratory or analytical work, and data interpretation. Research focuses on ecology, evolution, mammalogy, conservation biology, and biodiversity. Opportunities depend on current projects and mentorship availability.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional ecology and evolution opportunity because high school students are explicitly included among prospective researchers and may gain meaningful experience with active projects, scientific literature, laboratory work, and data analysis.",
+    "summary": "The Dávalos Lab at Stony Brook conducts research in ecology, evolution, mammalogy, conservation biology, and biodiversity. Motivated high school and undergraduate students may inquire about research opportunities, including summer experiences.",
+    "email": "",
+    "labUrl": "https://lmdavalos.github.io/join_lab/",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 624,
+    "name": "Bashey Lab",
+    "title": "Evolutionary Ecology and Host-Pathogen Research Opportunity",
+    "university": "Indiana University Bloomington",
+    "state": "Indiana, USA",
+    "department": "Department of Biology",
+    "field": "Biology",
+    "tags": [
+      "evolutionary biology",
+      "ecology",
+      "host-pathogen interactions",
+      "microbiology",
+      "evolutionary ecology",
+      "experimental biology",
+      "laboratory research",
+      "research mentorship",
+      "student research",
+      "direct inquiry",
+      "Bloomington",
+      "Indiana"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "The Bashey Lab at Indiana University Bloomington supports research training for undergraduate and high school students and has emphasized involving students in active laboratory research projects. Research focuses on evolutionary biology, ecology, host-pathogen interactions, and related experimental questions. Interested students may contact the laboratory about potential research involvement. Opportunities depend on active projects, student preparation, and mentorship availability.",
+    "resumeRating": 5,
+    "ratingNote": "A strong evolutionary biology research opportunity because the lab explicitly values involving both high school and undergraduate students in meaningful research rather than limiting them to observation or general enrichment.",
+    "summary": "The Bashey Lab at Indiana University Bloomington studies evolutionary ecology and host-pathogen biology. High school and undergraduate students may inquire about research opportunities and participate in active experimental and ecological research projects.",
+    "email": "",
+    "labUrl": "https://basheylab.bio.indiana.edu/join-us.html",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 625,
+    "name": "Ashish Aphale — OREO Research Program",
+    "title": "Mechanical Engineering and Clean Energy Research Opportunity",
+    "university": "Kennesaw State University",
+    "state": "Georgia, USA",
+    "department": "Department of Mechanical Engineering",
+    "field": "Engineering",
+    "tags": [
+      "mechanical engineering",
+      "clean energy",
+      "materials science",
+      "electrochemistry",
+      "energy systems",
+      "experimental engineering",
+      "laboratory research",
+      "data analysis",
+      "technical writing",
+      "research mentorship",
+      "direct inquiry",
+      "Kennesaw",
+      "Georgia"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project",
+      "Research Training"
+    ],
+    "applicationType": "Direct Inquiry",
+    "applicationWindow": "Professor Ashish Aphale at Kennesaw State University runs the Outreach Program for Early Research Experience Opportunity, or OREO, for high school students interested in engineering research. Participants conduct supervised engineering experiments, generate and analyze experimental data, and develop scientific presentation and technical-writing skills. Interested students are instructed to contact Professor Aphale with a resume and short statement describing their research interests. Participation depends on project availability and mentorship capacity.",
+    "resumeRating": 5,
+    "ratingNote": "An exceptional engineering research pathway because the program is specifically designed to give high school students supervised experimental research experience rather than general STEM exposure. Students work with data, experiments, scientific presentations, and technical writing.",
+    "summary": "Kennesaw State University's OREO program, led by Professor Ashish Aphale, gives high school students hands-on research experience in mechanical engineering, clean energy, materials, and electrochemistry. Students conduct experiments, analyze data, and develop scientific communication skills.",
+    "email": "",
+    "labUrl": "https://facultyweb.kennesaw.edu/aaphale/OREO%20program%20.php",
+    "applyUrl": "",
+    "dateAdded": "2026-08-18",
+    "listingType": "Professor Prospect"
   }
-  ,
-{
-  "id": 606,
-  "name": "Virgil Percec Research Laboratory",
-  "title": "Organic, Polymer and Materials Chemistry Research Opportunity",
-  "university": "University of Pennsylvania",
-  "state": "Pennsylvania, USA",
-  "department": "Department of Chemistry",
-  "field": "Chemistry",
-  "tags": [
-    "organic chemistry",
-    "polymer chemistry",
-    "materials chemistry",
-    "synthetic chemistry",
-    "macromolecular chemistry",
-    "materials science",
-    "laboratory research",
-    "wet lab",
-    "faculty mentorship",
-    "direct inquiry",
-    "Philadelphia",
-    "Pennsylvania"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Project",
-    "Summer Research"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The Virgil Percec Research Laboratory at the University of Pennsylvania encourages high school students and undergraduate students, including students from outside Penn, to seek summer research experience with the group. Interested students may contact the laboratory directly regarding possible research involvement. Research focuses on organic chemistry, polymer chemistry, macromolecular chemistry, materials science, and related synthetic laboratory work. Availability depends on current projects, student preparation, scheduling, and laboratory mentorship capacity.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional direct-access chemistry opportunity because an individual Penn research group explicitly welcomes high school and undergraduate students, including students from outside the university, to seek summer research experience in advanced synthetic and materials chemistry.",
-  "summary": "The Virgil Percec Research Laboratory at the University of Pennsylvania conducts research in organic chemistry, polymer chemistry, macromolecular chemistry, and materials science. High school and undergraduate students may inquire directly about summer research opportunities and gain exposure to advanced synthetic laboratory research.",
-  "email": "",
-  "labUrl": "https://web.sas.upenn.edu/percecgroup/contact-us/",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 607,
-  "name": "Non-Traditional Isotope Laboratory",
-  "title": "Geochemistry, Isotope and Planetary Materials Research Opportunity",
-  "university": "University of Washington",
-  "state": "Washington, USA",
-  "department": "Department of Earth and Space Sciences",
-  "field": "Earth Science",
-  "tags": [
-    "geochemistry",
-    "isotope geochemistry",
-    "geology",
-    "planetary science",
-    "meteorites",
-    "lunar samples",
-    "earth materials",
-    "analytical chemistry",
-    "laboratory research",
-    "wet lab",
-    "direct inquiry",
-    "Seattle",
-    "Washington"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Project",
-    "Mentorship"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The University of Washington Non-Traditional Isotope Laboratory offers research opportunities for high school and undergraduate students. Interested students are instructed to contact Professor Fang-Zhen Teng regarding current opportunities. Research may involve chemical and isotopic analysis of geological and planetary materials, including rocks from Earth's mantle and crust as well as meteorites and lunar samples. Participation depends on available projects, laboratory capacity, student preparation, and mentorship availability.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional niche research opportunity because high school students can directly inquire about hands-on isotope and geochemistry research involving Earth materials, meteorites, lunar samples, analytical chemistry, and planetary science.",
-  "summary": "The Non-Traditional Isotope Laboratory at the University of Washington studies isotope geochemistry and the chemical evolution of Earth and planetary materials. High school and undergraduate students may contact Professor Fang-Zhen Teng directly about research involving rocks, meteorites, lunar samples, and advanced chemical and isotopic analysis.",
-  "email": "",
-  "labUrl": "https://faculty.washington.edu/fteng/opportunities.html",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 608,
-  "name": "Rapp Lab",
-  "title": "Chemistry, Biochemistry and Bioengineering Research Opportunity",
-  "university": "University of Oregon",
-  "state": "Oregon, USA",
-  "department": "Chemistry and Biochemistry",
-  "field": "Chemistry",
-  "tags": [
-    "chemistry",
-    "biochemistry",
-    "bioengineering",
-    "biology",
-    "molecular research",
-    "experimental biology",
-    "laboratory research",
-    "wet lab",
-    "research mentorship",
-    "direct inquiry",
-    "Eugene",
-    "Oregon"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Project",
-    "Mentorship"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The Rapp Lab at the University of Oregon explicitly welcomes applications from students ranging from high school researchers seeking research experience through undergraduate and graduate trainees. High school students may submit the laboratory's research-interest form, and prospective researchers may also contact the group regarding available opportunities. Research spans chemistry, biochemistry, bioengineering, biology, and related experimental questions. Participation depends on current projects, student fit, and mentorship capacity.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional individual-lab opportunity because the Rapp Lab explicitly includes high school students among prospective researchers and provides a dedicated pathway for them to express interest in joining active research.",
-  "summary": "The Rapp Lab at the University of Oregon welcomes high school and undergraduate students interested in research spanning chemistry, biochemistry, bioengineering, biology, and related experimental areas. High school students can submit a research-interest form and inquire directly about current projects.",
-  "email": "",
-  "labUrl": "https://www.therapplab.org/join-the-rapp-lab",
-  "applyUrl": "https://www.therapplab.org/join-the-rapp-lab",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 609,
-  "name": "Global Environmental Change Lab",
-  "title": "Climate, Agriculture and Environmental Modeling Research Opportunity",
-  "university": "University of California, Davis",
-  "state": "California, USA",
-  "department": "Environmental Science and Policy",
-  "field": "Environmental Science",
-  "tags": [
-    "climate science",
-    "environmental science",
-    "agriculture",
-    "crop modeling",
-    "water resources",
-    "wildfire",
-    "climate change",
-    "environmental modeling",
-    "data analysis",
-    "research internship",
-    "direct inquiry",
-    "Davis",
-    "California"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Internship",
-    "Research Project"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The Global Environmental Change Lab at UC Davis states that it is continually interested in enthusiastic high school and undergraduate interns. Research projects may involve climate impacts on agriculture, crop yields, water availability, wildfire modeling, environmental data analysis, and related global-change questions. Students interested in research should review current projects and contact the laboratory regarding potential internship or research opportunities. Availability depends on active projects and mentorship capacity.",
-  "resumeRating": 4,
-  "ratingNote": "A strong direct-access environmental research opportunity because the laboratory explicitly welcomes high school and undergraduate interns and offers exposure to climate science, agriculture, wildfire, water resources, and environmental modeling.",
-  "summary": "UC Davis's Global Environmental Change Lab studies how climate and environmental change affect agriculture, water resources, wildfire, and related systems. High school and undergraduate students are encouraged to inquire about internships and research projects involving environmental modeling, data analysis, and climate impacts.",
-  "email": "",
-  "labUrl": "https://globalchange.ucdavis.edu/opportunities",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 610,
-  "name": "Hansen Experimental Physics Laboratory Student Research",
-  "title": "Physics and Engineering Research Opportunity",
-  "university": "Stanford University",
-  "state": "California, USA",
-  "department": "Hansen Experimental Physics Laboratory",
-  "field": "Physics",
-  "tags": [
-    "physics",
-    "experimental physics",
-    "applied physics",
-    "engineering",
-    "instrumentation",
-    "laboratory research",
-    "student research",
-    "summer research",
-    "direct inquiry",
-    "Stanford",
-    "California"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Project",
-    "Summer Research"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "Stanford University's Hansen Experimental Physics Laboratory states that it occasionally offers summer internships or research positions to undergraduate and high school students. Interested students may inquire directly with HEPL regarding current availability. Research opportunities depend on active experimental-physics and engineering projects, student preparation, and available mentorship. Because positions are occasional rather than guaranteed each year, students should contact the laboratory to confirm current openings.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional direct-inquiry physics opportunity because Stanford's Hansen Experimental Physics Laboratory explicitly acknowledges that high school students may occasionally participate in summer internships or research positions and provides a direct route for students to ask about availability.",
-  "summary": "Stanford's Hansen Experimental Physics Laboratory occasionally provides research or summer internship opportunities for high school and undergraduate students. Students interested in experimental physics, applied physics, engineering, and instrumentation may inquire directly about current opportunities.",
-  "email": "",
-  "labUrl": "https://stanford.edu/group/hepl/research/student_research.html",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-}
-  ,
-{
-  "id": 611,
-  "name": "Price Laboratory",
-  "title": "Biomedical Engineering and Musculoskeletal Mechanobiology Research Opportunity",
-  "university": "University of Delaware",
-  "state": "Delaware, USA",
-  "department": "Department of Biomedical Engineering",
-  "field": "Biomedical Engineering",
-  "tags": [
-    "biomedical engineering",
-    "mechanobiology",
-    "musculoskeletal research",
-    "mechanotransduction",
-    "physiology",
-    "biomechanics",
-    "laboratory research",
-    "research mentorship",
-    "direct inquiry",
-    "Newark",
-    "Delaware"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Project",
-    "Mentorship"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The Price Laboratory at the University of Delaware supports high school and undergraduate research involvement. Interested students are instructed to contact Dr. Christopher Price directly with a description of their research interests and a resume. The laboratory studies musculoskeletal mechanobiology and mechanotransduction, examining how mechanical forces affect tissues and biological systems. Opportunities depend on current projects, student preparation, scheduling, and laboratory mentorship capacity.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional direct-access biomedical engineering opportunity because high school and undergraduate students are explicitly provided with a faculty-contact pathway into active musculoskeletal and mechanobiology research.",
-  "summary": "The Price Laboratory at the University of Delaware studies musculoskeletal mechanobiology, mechanotransduction, physiology, and related biomedical engineering questions. High school and undergraduate students may contact Dr. Christopher Price directly with their research interests and resume to inquire about opportunities.",
-  "email": "",
-  "labUrl": "https://sites.udel.edu/pricegroup/contact-information/",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 612,
-  "name": "Developing Intelligence Lab",
-  "title": "Cognitive Development, Behavioral Science and Machine Learning Research Opportunity",
-  "university": "University of Texas at Austin",
-  "state": "Texas, USA",
-  "department": "Department of Psychology",
-  "field": "Psychology",
-  "tags": [
-    "psychology",
-    "cognitive science",
-    "developmental psychology",
-    "machine learning",
-    "behavioral research",
-    "eye tracking",
-    "motion tracking",
-    "audio analysis",
-    "video analysis",
-    "data mining",
-    "human development",
-    "direct inquiry",
-    "Austin",
-    "Texas"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Project",
-    "Internship"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The Developing Intelligence Lab at the University of Texas at Austin explicitly allows high school students interested in internships to contact Dr. Chen Yu directly. The laboratory studies learning and cognitive development using behavioral experiments and large-scale datasets that may include video, audio, eye-tracking, and motion-tracking measurements. Research also incorporates data mining and machine learning. Opportunities depend on current studies, student skills, scheduling, and mentor availability.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional interdisciplinary research opportunity because high school students are explicitly allowed to contact the principal investigator about internships combining psychology, cognitive science, behavioral research, data analysis, and machine learning.",
-  "summary": "UT Austin's Developing Intelligence Lab studies learning and cognitive development using behavioral experiments, eye tracking, motion tracking, audio and video data, data mining, and machine learning. High school students may contact Dr. Chen Yu directly about potential internship opportunities.",
-  "email": "",
-  "labUrl": "https://www.la.utexas.edu/users/dil/opportunities.html",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 613,
-  "name": "Moseley Laboratory",
-  "title": "Molecular Virology and Infectious Disease Research Opportunity",
-  "university": "Monash University",
-  "state": "Victoria, Australia",
-  "department": "Biomedicine Discovery Institute",
-  "field": "Molecular Biology",
-  "tags": [
-    "molecular virology",
-    "infectious disease",
-    "viral pathogenesis",
-    "cell biology",
-    "immunology",
-    "biochemistry",
-    "molecular biology",
-    "wet lab",
-    "laboratory research",
-    "research training",
-    "direct inquiry",
-    "Melbourne",
-    "Australia"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Training",
-    "Internship"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The Moseley Laboratory at Monash University supports research training across multiple student levels and includes placements for high school students and interns. Prospective students interested in research may contact Professor Greg Moseley regarding opportunities. The laboratory investigates molecular virology, viral pathogenesis, infectious disease, cell biology, immunology, biochemistry, and related biomedical questions. Participation depends on current projects, placement availability, student preparation, and research supervision capacity.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional wet-lab research pathway because the laboratory explicitly includes high school students among its research trainees and offers access to active molecular virology, infectious disease, cell biology, and immunology research.",
-  "summary": "The Moseley Laboratory at Monash University conducts molecular virology and viral pathogenesis research using approaches spanning cell biology, immunology, biochemistry, and infectious disease. The lab supports high school research placements and internships and allows prospective students to inquire about available opportunities.",
-  "email": "",
-  "labUrl": "https://www.monash.edu/discovery-institute/moseley-lab/join",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 614,
-  "name": "Neuromuscular Physiology Laboratory",
-  "title": "Muscle Physiology, Medical Imaging and Biomedical Research Opportunity",
-  "university": "Vanderbilt University Medical Center",
-  "state": "Tennessee, USA",
-  "department": "Neuromuscular Physiology Laboratory",
-  "field": "Biomedical Science",
-  "tags": [
-    "muscle physiology",
-    "neuromuscular research",
-    "medical imaging",
-    "biomedical engineering",
-    "exercise science",
-    "physiology",
-    "human research",
-    "laboratory research",
-    "volunteer research",
-    "direct inquiry",
-    "Nashville",
-    "Tennessee"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Volunteer",
-    "Research Project"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The Neuromuscular Physiology Laboratory at Vanderbilt University Medical Center works with researchers and trainees at multiple levels and has documented mentorship of high school students through Vanderbilt research programs. Students interested in volunteering in the laboratory may contact Dr. Theodore Towse directly with a brief biography, explanation of their research interest, and information about their availability. Research combines physiology, muscle science, medical imaging, biomedical engineering, and related experimental approaches. Opportunities depend on current projects and supervision availability.",
-  "resumeRating": 5,
-  "ratingNote": "A strong direct-access biomedical research opportunity because students can contact the laboratory directly about volunteer research and the group has documented experience mentoring high school researchers in physiology and biomedical science.",
-  "summary": "Vanderbilt's Neuromuscular Physiology Laboratory studies muscle function and neuromuscular physiology using approaches that can include medical imaging, biomedical engineering, physiology, and exercise science. High school and undergraduate students may inquire directly about volunteer research involvement.",
-  "email": "",
-  "labUrl": "https://www.vumc.org/neuromuscular-physiology-lab/join-our-lab",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 615,
-  "name": "Hadland Lab",
-  "title": "Stem Cell, Hematology and Developmental Biology Research Opportunity",
-  "university": "Fred Hutch Cancer Center / University of Washington",
-  "state": "Washington, USA",
-  "department": "Translational Science and Therapeutics / Hematology",
-  "field": "Biomedical Science",
-  "tags": [
-    "stem cell biology",
-    "hematology",
-    "developmental biology",
-    "cancer research",
-    "blood development",
-    "hematopoietic stem cells",
-    "pediatric oncology",
-    "cell biology",
-    "wet lab",
-    "laboratory research",
-    "faculty mentorship",
-    "direct inquiry",
-    "Seattle",
-    "Washington"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Project",
-    "Research Training"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The Hadland Lab at Fred Hutch Cancer Center participates in research training for both high school and undergraduate students. Students interested in working with the laboratory may pursue relevant research-training pathways or contact Dr. Brandon Hadland directly about potential research opportunities. The laboratory studies blood development, hematopoietic stem and progenitor cells, developmental biology, hematology, pediatric oncology, and related biomedical questions. Availability depends on current projects, research-program eligibility, and mentorship capacity.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional biomedical research opportunity because the laboratory explicitly supports high school and undergraduate research training and provides a direct faculty-inquiry route into advanced stem cell, hematology, and developmental biology research.",
-  "summary": "The Hadland Lab at Fred Hutch Cancer Center and the University of Washington studies blood development, hematopoietic stem and progenitor cells, developmental biology, hematology, and pediatric oncology. High school and undergraduate students may pursue research training opportunities or contact Dr. Brandon Hadland directly about potential involvement.",
-  "email": "",
-  "labUrl": "https://research.fredhutch.org/hadland/en/join-our-lab.html",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-}
-  ,
-{
-  "id": 616,
-  "name": "Stacey M. Louie Lab",
-  "listingType": "Professor Prospect",
-  "title": "Environmental Engineering, Chemistry and Nanomaterials Research Opportunity",
-  "university": "University of Houston",
-  "state": "Texas, USA",
-  "department": "Department of Civil and Environmental Engineering",
-  "field": "Environmental Science",
-  "tags": [
-    "environmental engineering",
-    "environmental chemistry",
-    "nanomaterials",
-    "water research",
-    "laboratory measurements",
-    "environmental analysis",
-    "engineering research",
-    "volunteer research",
-    "research mentorship",
-    "direct inquiry",
-    "Houston",
-    "Texas"
-  ],
-  "levels": [
-    "High School"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Volunteer",
-    "Mentorship"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The Stacey M. Louie Lab at the University of Houston explicitly welcomes high school students to contact Dr. Louie about volunteer research opportunities or mentorship for environmental projects. High school participants may assist with laboratory measurements, environmental experiments, research outreach, and related activities depending on current projects. Opportunities depend on student interests, laboratory needs, scheduling, and mentorship capacity.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional direct-access environmental research opportunity because the laboratory explicitly welcomes high school students to contact the principal investigator about volunteer research and project mentorship in environmental engineering and chemistry.",
-  "summary": "The Stacey M. Louie Lab at the University of Houston studies environmental engineering, environmental chemistry, nanomaterials, and related environmental systems. High school students may contact Dr. Louie directly about volunteer research or environmental-project mentorship and may assist with laboratory measurements and experimental work.",
-  "email": "",
-  "labUrl": "https://louielab.cive.uh.edu/outreach/",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 617,
-  "name": "Dongming Xie Lab",
-  "title": "Biotechnology and Bioprocess Engineering Research Opportunity",
-  "university": "University of Massachusetts Lowell",
-  "state": "Massachusetts, USA",
-  "department": "Department of Chemical Engineering",
-  "field": "Biotechnology",
-  "tags": [
-    "biotechnology",
-    "bioprocess engineering",
-    "chemical engineering",
-    "biomedical research",
-    "biomanufacturing",
-    "laboratory research",
-    "wet lab",
-    "research apprenticeship",
-    "faculty mentorship",
-    "direct inquiry",
-    "Lowell",
-    "Massachusetts"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Project",
-    "Apprenticeship"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The Dongming Xie Lab at UMass Lowell regularly hosts high school researchers, including approximately one or two Massachusetts high school students each year through the Massachusetts Life Sciences Center High School Apprenticeship Challenge. Undergraduate students may also contact Dr. Dongming Xie directly about research-assistant opportunities. Research focuses on biotechnology, bioprocess engineering, biomanufacturing, chemical engineering, and related biomedical applications. Availability depends on current laboratory projects, program eligibility, and mentorship capacity.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional biotechnology research pathway because the laboratory has a documented record of hosting high school researchers and also provides direct access for undergraduate students interested in active biotechnology and bioprocess research.",
-  "summary": "The Dongming Xie Lab at UMass Lowell conducts biotechnology and bioprocess engineering research involving biomanufacturing, chemical engineering, and biomedical applications. High school students may participate through the Massachusetts Life Sciences Center apprenticeship pathway, while undergraduate students may contact Dr. Xie directly about research opportunities.",
-  "email": "",
-  "labUrl": "https://sites.uml.edu/dongming-xie/research/opportunities/",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 618,
-  "name": "Goodman Lab",
-  "title": "Neuroscience and Sensory Biology Research Opportunity",
-  "university": "Stanford University",
-  "state": "California, USA",
-  "department": "Department of Molecular and Cellular Physiology",
-  "field": "Neuroscience",
-  "tags": [
-    "neuroscience",
-    "sensory biology",
-    "molecular physiology",
-    "cell biology",
-    "neurobiology",
-    "biomedical research",
-    "laboratory research",
-    "research mentorship",
-    "summer research",
-    "direct inquiry",
-    "Stanford",
-    "California"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Project",
-    "Summer Research"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "Stanford University's Goodman Lab provides research opportunities for undergraduate students and high school students. The laboratory primarily hosts high school researchers during the summer, including through Stanford research-training pathways such as SIMR, while prospective students may also review the laboratory's direct research-contact guidance. Research focuses on neuroscience, sensory biology, molecular and cellular physiology, and related biomedical questions. Availability depends on current projects, research-program eligibility, and mentorship capacity.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional neuroscience opportunity because an individual Stanford laboratory explicitly discusses research involvement for high school students and provides pathways into active sensory biology, molecular physiology, and neuroscience research.",
-  "summary": "Stanford's Goodman Lab studies neuroscience, sensory biology, and molecular and cellular physiology. High school students are primarily hosted during the summer through research-training pathways, while undergraduate students may also pursue laboratory research opportunities.",
-  "email": "",
-  "labUrl": "https://goodmanlab.stanford.edu/joining-goodman-lab",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 619,
-  "name": "Supekar Lab",
-  "title": "AI, Neuroimaging and Cognitive Neuroscience Research Opportunity",
-  "university": "Stanford University School of Medicine",
-  "state": "California, USA",
-  "department": "Department of Psychiatry and Behavioral Sciences",
-  "field": "Neuroscience",
-  "tags": [
-    "neuroscience",
-    "artificial intelligence",
-    "machine learning",
-    "neuroimaging",
-    "cognitive neuroscience",
-    "psychiatry",
-    "brain imaging",
-    "data science",
-    "biomedical research",
-    "research mentorship",
-    "Stanford",
-    "California"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Project",
-    "Mentorship"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The Supekar Lab at Stanford University School of Medicine explicitly lists high school students among the categories of prospective researchers who may seek involvement with the group. The laboratory combines neuroscience, artificial intelligence, neuroimaging, cognitive science, psychiatry, and data analysis to study brain development and neuropsychiatric conditions. Opportunities depend on current projects, student preparation, data-analysis skills, and available mentorship.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional interdisciplinary research opportunity because the laboratory explicitly includes high school students among prospective researchers and combines artificial intelligence, neuroimaging, cognitive neuroscience, psychiatry, and biomedical data science.",
-  "summary": "The Supekar Lab at Stanford Medicine studies brain function and neuropsychiatric conditions using neuroscience, artificial intelligence, neuroimaging, cognitive and clinical data, and computational analysis. High school and undergraduate students are included among prospective researchers who may inquire about laboratory opportunities.",
-  "email": "",
-  "labUrl": "https://med.stanford.edu/supekar-lab/education.html",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 620,
-  "name": "Jonghyun Park Additive Manufacturing Research",
-  "title": "Additive Manufacturing and Mechanical Engineering Research Opportunity",
-  "university": "Missouri University of Science and Technology",
-  "state": "Missouri, USA",
-  "department": "Department of Mechanical and Aerospace Engineering",
-  "field": "Engineering",
-  "tags": [
-    "mechanical engineering",
-    "additive manufacturing",
-    "advanced manufacturing",
-    "manufacturing engineering",
-    "3D printing",
-    "engineering design",
-    "materials processing",
-    "laboratory research",
-    "faculty research",
-    "direct inquiry",
-    "Rolla",
-    "Missouri"
-  ],
-  "levels": [
-    "High School"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Project",
-    "Mentorship"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "Missouri University of Science and Technology's Mechanical and Aerospace Engineering department maintains research opportunities specifically available to high school students and instructs interested students to contact the listed principal investigator directly. One available pathway includes research with Dr. Jonghyun Park involving additive manufacturing and next-generation manufacturing technologies. Projects and availability vary according to current faculty research needs, student preparation, and mentorship capacity.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional engineering opportunity because Missouri S&T maintains dedicated high school research positions and provides direct faculty contact for active projects in additive manufacturing and advanced mechanical engineering.",
-  "summary": "Dr. Jonghyun Park at Missouri S&T conducts research involving additive manufacturing, advanced manufacturing, mechanical engineering, and next-generation production technologies. High school students can identify available research projects through the department and contact the principal investigator directly about participating.",
-  "email": "",
-  "labUrl": "https://maeugresearch.mst.edu/available-positions/research-with-high-school-students/",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-}
-  ,
-{
-  "id": 621,
-  "name": "Academic Orientations Project",
-  "title": "Psychology, Moral Development and Social Cognition Research Opportunity",
-  "university": "University of California, Santa Cruz",
-  "state": "California, USA",
-  "department": "Department of Psychology",
-  "field": "Psychology",
-  "tags": [
-    "psychology",
-    "social cognition",
-    "moral development",
-    "moral decision-making",
-    "social interaction",
-    "developmental psychology",
-    "behavioral research",
-    "research mentorship",
-    "direct inquiry",
-    "Santa Cruz",
-    "California"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Project",
-    "Mentorship"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The Academic Orientations Project at UC Santa Cruz accepts applications from undergraduate and high school students interested in research involving social interactions, moral development, and moral decision-making. Students may apply directly through the lab's research-position pathway and can contact the research team with questions about participation. High school students may also engage with the group through relevant UCSC research programs depending on current availability.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional social-science research opportunity because the laboratory explicitly accepts high school and undergraduate applicants into active psychology research involving moral development, social cognition, and behavioral science.",
-  "summary": "The Academic Orientations Project at UC Santa Cruz studies social interaction, moral development, and moral decision-making. High school and undergraduate students may apply directly for research involvement and work with an active psychology research team.",
-  "email": "",
-  "labUrl": "https://aop.ucsc.edu/engage-with-us/",
-  "applyUrl": "https://aop.ucsc.edu/engage-with-us/",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 622,
-  "name": "Cox Lab",
-  "title": "Evolution, Ecology and Animal Biology Research Opportunity",
-  "university": "University of Virginia",
-  "state": "Virginia, USA",
-  "department": "Department of Biology",
-  "field": "Biology",
-  "tags": [
-    "evolution",
-    "ecology",
-    "genetics",
-    "physiology",
-    "animal biology",
-    "behavior",
-    "zoology",
-    "evolutionary biology",
-    "laboratory research",
-    "field research",
-    "direct inquiry",
-    "Charlottesville",
-    "Virginia"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Volunteer",
-    "Research Project"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The Cox Lab at the University of Virginia welcomes research inquiries from both high school and undergraduate students. Undergraduate students may contact Dr. Robert Cox about volunteer research, independent research, thesis work, and other laboratory opportunities, while the lab also explicitly invites high school students and teachers to contact the group about potential research involvement. Research spans evolution, ecology, genetics, physiology, behavior, and animal biology. Availability depends on current projects and mentorship capacity.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional evolutionary and organismal biology opportunity because the lab explicitly welcomes high school and undergraduate inquiries and provides access to research spanning genetics, ecology, physiology, behavior, and animal biology.",
-  "summary": "The Cox Lab at UVA studies evolution, ecology, genetics, physiology, behavior, and animal biology. High school and undergraduate students may contact the lab directly about research, volunteer, and independent-project opportunities.",
-  "email": "",
-  "labUrl": "https://www.coxlabuva.org/join-the-lab.html",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 623,
-  "name": "Dávalos Lab",
-  "title": "Ecology, Evolution and Conservation Biology Research Opportunity",
-  "university": "Stony Brook University",
-  "state": "New York, USA",
-  "department": "Department of Ecology and Evolution",
-  "field": "Ecology",
-  "tags": [
-    "ecology",
-    "evolution",
-    "conservation biology",
-    "mammalogy",
-    "biodiversity",
-    "animal biology",
-    "evolutionary biology",
-    "laboratory research",
-    "data analysis",
-    "summer research",
-    "direct inquiry",
-    "Stony Brook",
-    "New York"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Project",
-    "Summer Research"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The Dávalos Lab at Stony Brook University welcomes motivated students at multiple levels, including high school students seeking summer research experiences. Students may participate in active ecology and evolutionary biology projects and are expected to engage seriously with scientific literature, laboratory or analytical work, and data interpretation. Research focuses on ecology, evolution, mammalogy, conservation biology, and biodiversity. Opportunities depend on current projects and mentorship availability.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional ecology and evolution opportunity because high school students are explicitly included among prospective researchers and may gain meaningful experience with active projects, scientific literature, laboratory work, and data analysis.",
-  "summary": "The Dávalos Lab at Stony Brook conducts research in ecology, evolution, mammalogy, conservation biology, and biodiversity. Motivated high school and undergraduate students may inquire about research opportunities, including summer experiences.",
-  "email": "",
-  "labUrl": "https://lmdavalos.github.io/join_lab/",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 624,
-  "name": "Bashey Lab",
-  "title": "Evolutionary Ecology and Host-Pathogen Research Opportunity",
-  "university": "Indiana University Bloomington",
-  "state": "Indiana, USA",
-  "department": "Department of Biology",
-  "field": "Biology",
-  "tags": [
-    "evolutionary biology",
-    "ecology",
-    "host-pathogen interactions",
-    "microbiology",
-    "evolutionary ecology",
-    "experimental biology",
-    "laboratory research",
-    "research mentorship",
-    "student research",
-    "direct inquiry",
-    "Bloomington",
-    "Indiana"
-  ],
-  "levels": [
-    "High School",
-    "Undergraduate"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Project",
-    "Mentorship"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "The Bashey Lab at Indiana University Bloomington supports research training for undergraduate and high school students and has emphasized involving students in active laboratory research projects. Research focuses on evolutionary biology, ecology, host-pathogen interactions, and related experimental questions. Interested students may contact the laboratory about potential research involvement. Opportunities depend on active projects, student preparation, and mentorship availability.",
-  "resumeRating": 5,
-  "ratingNote": "A strong evolutionary biology research opportunity because the lab explicitly values involving both high school and undergraduate students in meaningful research rather than limiting them to observation or general enrichment.",
-  "summary": "The Bashey Lab at Indiana University Bloomington studies evolutionary ecology and host-pathogen biology. High school and undergraduate students may inquire about research opportunities and participate in active experimental and ecological research projects.",
-  "email": "",
-  "labUrl": "https://basheylab.bio.indiana.edu/join-us.html",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-},
-{
-  "id": 625,
-  "name": "Ashish Aphale — OREO Research Program",
-  "title": "Mechanical Engineering and Clean Energy Research Opportunity",
-  "university": "Kennesaw State University",
-  "state": "Georgia, USA",
-  "department": "Department of Mechanical Engineering",
-  "field": "Engineering",
-  "tags": [
-    "mechanical engineering",
-    "clean energy",
-    "materials science",
-    "electrochemistry",
-    "energy systems",
-    "experimental engineering",
-    "laboratory research",
-    "data analysis",
-    "technical writing",
-    "research mentorship",
-    "direct inquiry",
-    "Kennesaw",
-    "Georgia"
-  ],
-  "levels": [
-    "High School"
-  ],
-  "opportunityTypes": [
-    "Research Assistant",
-    "Research Project",
-    "Research Training"
-  ],
-  "applicationType": "Direct Inquiry",
-  "applicationWindow": "Professor Ashish Aphale at Kennesaw State University runs the Outreach Program for Early Research Experience Opportunity, or OREO, for high school students interested in engineering research. Participants conduct supervised engineering experiments, generate and analyze experimental data, and develop scientific presentation and technical-writing skills. Interested students are instructed to contact Professor Aphale with a resume and short statement describing their research interests. Participation depends on project availability and mentorship capacity.",
-  "resumeRating": 5,
-  "ratingNote": "An exceptional engineering research pathway because the program is specifically designed to give high school students supervised experimental research experience rather than general STEM exposure. Students work with data, experiments, scientific presentations, and technical writing.",
-  "summary": "Kennesaw State University's OREO program, led by Professor Ashish Aphale, gives high school students hands-on research experience in mechanical engineering, clean energy, materials, and electrochemistry. Students conduct experiments, analyze data, and develop scientific communication skills.",
-  "email": "",
-  "labUrl": "https://facultyweb.kennesaw.edu/aaphale/OREO%20program%20.php",
-  "applyUrl": "",
-  "dateAdded": "2026-08-18"
-}
 ]
