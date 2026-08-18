@@ -141,6 +141,46 @@ a { color: var(--teal); }
   white-space: nowrap;
 }
 
+/* ---------- Listing type toggle ---------- */
+.listing-type-toggle {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+
+.listing-type-btn {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 500;
+  background: var(--card-bg);
+  border: 1px solid var(--line);
+  border-bottom: 3px solid var(--line);
+  border-radius: var(--radius) var(--radius) 0 0;
+  padding: 0.5rem 0.9rem;
+  cursor: pointer;
+  color: var(--ink-soft);
+  transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+}
+
+.listing-type-btn:hover {
+  color: var(--ink);
+  border-color: var(--ink-soft);
+}
+
+.listing-type-btn:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 2px;
+}
+
+.listing-type-btn.active {
+  color: var(--ink);
+  font-weight: 600;
+  background: var(--card-bg);
+  border-color: var(--line);
+  border-bottom: 3px solid var(--accent);
+}
+
 /* ---------- Filters ---------- */
 .filters {
   max-width: 980px;
