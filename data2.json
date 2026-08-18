@@ -1062,4 +1062,835 @@
     "dateAdded": "2026-08-18",
     "listingType": "Professor Prospect"
   }
+  ,
+{
+  "id": 626,
+  "name": "Laina Geary — Geary Lab",
+  "title": "Organic Chemistry and Catalysis Research Prospect",
+  "university": "University of Nevada, Reno",
+  "state": "Nevada, USA",
+  "department": "Department of Chemistry",
+  "field": "Chemistry",
+  "tags": [
+    "organic chemistry",
+    "organometallic chemistry",
+    "catalysis",
+    "organic synthesis",
+    "reaction mechanisms",
+    "synthetic chemistry",
+    "wet lab",
+    "high school research",
+    "University of Nevada Reno",
+    "Nevada"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI Inquiry",
+  "resumeRating": 5,
+  "description": "Professor Laina Geary leads an experimental organic chemistry laboratory studying synthetic methodology, catalysis, organometallic chemistry, and reaction mechanisms. The Geary Lab has a documented history of mentoring high-school researchers and lists multiple former high-school students among its research members. The laboratory states that it often has positions for high-school researchers, particularly through ACS Project SEED, while other opportunities may also be available. High-school students interested in current research opportunities are directed to contact Professor Geary. This makes the lab a particularly strong prospect for students seeking hands-on synthetic chemistry and wet-lab experience.",
+  "email": "",
+  "labUrl": "https://lgeary.wixsite.com/gearylab/contact-information",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 627,
+  "name": "Scott Cushing — Cushing Lab",
+  "title": "Physical Chemistry and Ultrafast Spectroscopy Research Prospect",
+  "university": "California Institute of Technology",
+  "state": "California, USA",
+  "department": "Division of Chemistry and Chemical Engineering",
+  "field": "Chemistry",
+  "tags": [
+    "physical chemistry",
+    "materials science",
+    "ultrafast spectroscopy",
+    "quantum science",
+    "spectroscopy",
+    "instrumentation",
+    "energy conversion",
+    "chemical physics",
+    "high school research",
+    "Caltech",
+    "California"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI Inquiry",
+  "resumeRating": 5,
+  "description": "Professor Scott Cushing's laboratory at Caltech develops advanced spectroscopic techniques and instrumentation for studying materials, energy conversion, and quantum phenomena. Research includes ultrafast spectroscopy, X-ray and electron-based measurements, and quantum-light approaches. The laboratory's opportunities information explicitly addresses high-school students as well as undergraduate and graduate researchers and asks prospective researchers to submit a CV with their inquiry. The lab emphasizes enthusiasm for its science and interest in building instrumentation alongside previous research experience, making this an unusually accessible direct-inquiry prospect for highly motivated students interested in physical chemistry, materials science, and experimental physics.",
+  "email": "",
+  "labUrl": "https://cushinglab.caltech.edu/contact",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 628,
+  "name": "André Hoelz — Hoelz Laboratory",
+  "title": "Structural Biology and Nucleocytoplasmic Transport Research Prospect",
+  "university": "California Institute of Technology",
+  "state": "California, USA",
+  "department": "Division of Chemistry and Chemical Engineering",
+  "field": "Biochemistry",
+  "tags": [
+    "structural biology",
+    "cell biology",
+    "biochemistry",
+    "molecular biology",
+    "nuclear pore complex",
+    "nucleocytoplasmic transport",
+    "protein structure",
+    "wet lab",
+    "high school research",
+    "Caltech",
+    "California"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct Inquiry / Availability Dependent",
+  "resumeRating": 5,
+  "description": "Professor André Hoelz's laboratory at Caltech investigates the molecular machinery responsible for nucleocytoplasmic transport, with a major focus on the structure and function of the nuclear pore complex. The group combines structural biology, biochemistry, molecular biology, and cell biology to understand how large cellular transport systems are assembled and regulated. The laboratory has documented high-school researchers directly on its personnel pages, providing strong evidence that high-school students have previously participated in the group's research. Because current openings may vary, interested students should treat this as an availability-dependent research prospect and inquire about possible opportunities.",
+  "email": "",
+  "labUrl": "https://ahweb.caltech.edu/AH_Web/Lab_Members.html",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 629,
+  "name": "Lina Chen — Chen Lab",
+  "title": "Mass Spectrometry and Analytical Chemistry Research Prospect",
+  "university": "New Jersey Institute of Technology",
+  "state": "New Jersey, USA",
+  "department": "Department of Chemistry and Environmental Science",
+  "field": "Chemistry",
+  "tags": [
+    "analytical chemistry",
+    "mass spectrometry",
+    "chemical biology",
+    "bioanalytical chemistry",
+    "instrumentation",
+    "molecular analysis",
+    "wet lab",
+    "high school research",
+    "undergraduate research",
+    "NJIT",
+    "New Jersey"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI Inquiry / Availability Dependent",
+  "resumeRating": 4.5,
+  "description": "Professor Lina Chen's research group at NJIT works in analytical chemistry and mass-spectrometry-related research. The laboratory's official personnel information documents a substantial history of student involvement, including a dedicated group of former high-school researchers as well as numerous undergraduate researchers. This repeated history of mentoring younger researchers makes the laboratory a strong professor prospect even though the lab does not guarantee that a high-school position is currently available. Students interested in analytical chemistry, chemical biology, instrumentation, and molecular analysis can inquire directly about current or future research opportunities.",
+  "email": "",
+  "labUrl": "https://research.njit.edu/chenlab/lab-members",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 630,
+  "name": "Yang Song — Song Laboratory",
+  "title": "Neuroscience, Genetics and Neurodevelopment Research Prospect",
+  "university": "University of Pennsylvania / Children's Hospital of Philadelphia",
+  "state": "Pennsylvania, USA",
+  "department": "Neuroscience",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "genetics",
+    "neurodevelopment",
+    "neurodegeneration",
+    "neural circuits",
+    "regeneration",
+    "pediatric glioma",
+    "CRISPR",
+    "organoids",
+    "iPSC",
+    "bioinformatics",
+    "wet lab",
+    "high school research",
+    "University of Pennsylvania",
+    "CHOP",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI Inquiry / Availability Dependent",
+  "resumeRating": 5,
+  "description": "Professor Yang Song's laboratory studies neural-circuit development, neurodegeneration, regeneration, genetic neurological disorders, and pediatric brain tumors. The group uses experimental systems and approaches including fly and mouse genetics, iPSC-derived neurons, organoids, bioinformatics, and CRISPR-based screening. The laboratory has an unusually extensive documented history of high-school research participation, with high-school researchers appearing across multiple years of its personnel and alumni records. Recent lab news also documents high-school students participating in summer research. The lab invites motivated researchers to inquire about joining, making it a strong prospect for students interested in neuroscience, genetics, developmental biology, and disease research.",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/song-lab/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+}
+  ,
+{
+  "id": 631,
+  "name": "Sheereen Majd — Majd Research Group",
+  "title": "Biomedical Engineering and Cellular Biophysics Research Prospect",
+  "university": "University of Houston",
+  "state": "Texas, USA",
+  "department": "Biomedical Engineering",
+  "field": "Biomedical Engineering",
+  "tags": [
+    "biomedical engineering",
+    "cellular biophysics",
+    "biotechnology",
+    "cell membranes",
+    "biomedical microdevices",
+    "bioengineering",
+    "wet lab",
+    "high school research",
+    "undergraduate research",
+    "University of Houston",
+    "Texas"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI Inquiry",
+  "resumeRating": 5,
+  "description": "Professor Sheereen Majd leads a biomedical engineering research group studying cellular biophysics, biotechnology, biological membranes, and biomedical technologies and microdevices. The group explicitly welcomes motivated high-school students interested in gaining research exposure in biomedical engineering and has documented previous high-school research participation. The laboratory also welcomes motivated undergraduate researchers. Students interested in the group's work can contact Professor Majd directly about possible research involvement, making this a particularly strong professor prospect for students interested in experimental bioengineering and cellular biophysics.",
+  "email": "",
+  "labUrl": "https://majdlab.bme.uh.edu/teachingoutreach/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 632,
+  "name": "Kristin O'Brien — O'Brien Lab",
+  "title": "Marine Biology and Environmental Physiology Research Prospect",
+  "university": "University of Alaska Fairbanks",
+  "state": "Alaska, USA",
+  "department": "Institute of Arctic Biology",
+  "field": "Biology",
+  "tags": [
+    "marine biology",
+    "comparative physiology",
+    "environmental physiology",
+    "Antarctic fishes",
+    "extreme environments",
+    "adaptation",
+    "organismal biology",
+    "high school research",
+    "undergraduate research",
+    "University of Alaska Fairbanks",
+    "Alaska"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI Inquiry",
+  "resumeRating": 5,
+  "description": "Professor Kristin O'Brien's laboratory studies the physiological and biochemical adaptations that allow organisms, particularly Antarctic fishes, to survive in extreme environments. Research encompasses comparative physiology, environmental physiology, marine biology, and organismal adaptation. The O'Brien Lab explicitly welcomes high-school, undergraduate, and graduate students and encourages interested students to contact Professor O'Brien about joining the group. This makes the laboratory a particularly valuable direct-inquiry prospect for students interested in marine organisms, physiology, climate-related biological research, and adaptation to extreme environments.",
+  "email": "",
+  "labUrl": "https://sites.google.com/alaska.edu/kobrienlab/people",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 633,
+  "name": "Pere Miró — Miró Research Group",
+  "title": "Computational and Theoretical Chemistry Research Prospect",
+  "university": "University of Iowa",
+  "state": "Iowa, USA",
+  "department": "Department of Chemistry",
+  "field": "Chemistry",
+  "tags": [
+    "computational chemistry",
+    "theoretical chemistry",
+    "chemistry",
+    "molecular modeling",
+    "chemical computation",
+    "high school research",
+    "undergraduate research",
+    "University of Iowa",
+    "Iowa"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct Professor Email",
+  "resumeRating": 4,
+  "description": "Professor Pere Miró leads a theoretical and computational chemistry research group at the University of Iowa. The laboratory's openings information explicitly invites high-school students in the Iowa City Community School District who are interested in chemistry to contact Professor Miró. The group also recruits undergraduate researchers and describes opportunities that may include volunteer, paid, credit-bearing, and summer-supported research depending on availability and funding. The explicit high-school invitation makes this a strong professor prospect, although high-school access is geographically restricted to eligible local students.",
+  "email": "",
+  "labUrl": "https://miro.lab.uiowa.edu/openings",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 634,
+  "name": "Hilde Schjerven — Schjerven Lab",
+  "title": "Immunology, Genetics and Molecular Biology Research Prospect",
+  "university": "University of California, San Francisco",
+  "state": "California, USA",
+  "department": "Laboratory Medicine",
+  "field": "Immunology",
+  "tags": [
+    "immunology",
+    "molecular biology",
+    "genetics",
+    "gene regulation",
+    "immune cells",
+    "biomedical research",
+    "wet lab",
+    "high school research",
+    "undergraduate research",
+    "UCSF",
+    "California"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI Inquiry / Availability Dependent",
+  "resumeRating": 4.5,
+  "description": "Professor Hilde Schjerven's UCSF laboratory conducts research at the intersection of immunology, genetics, molecular biology, and gene regulation. The group's official laboratory roster documents high-school research participation alongside undergraduate and more advanced researchers, providing concrete evidence that high-school students have been integrated into the laboratory. Because the laboratory does not guarantee a continuously available high-school position, students should treat this as an availability-dependent prospect and inquire directly about possible research involvement. It is particularly relevant for students interested in experimental immunology and molecular biomedical research.",
+  "email": "",
+  "labUrl": "https://schjervenlab.ucsf.edu/content/lab-members",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 635,
+  "name": "Brian Zhou — Zhou Lab",
+  "title": "Quantum Science and Spintronics Research Prospect",
+  "university": "Boston College",
+  "state": "Massachusetts, USA",
+  "department": "Department of Physics",
+  "field": "Physics",
+  "tags": [
+    "physics",
+    "quantum science",
+    "quantum spintronics",
+    "spintronics",
+    "quantum coherence",
+    "condensed matter physics",
+    "materials physics",
+    "experimental physics",
+    "high school research",
+    "undergraduate research",
+    "Boston College",
+    "Massachusetts"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI Inquiry / Availability Dependent",
+  "resumeRating": 5,
+  "description": "Professor Brian Zhou's laboratory at Boston College studies quantum spintronics, quantum coherence, and related problems in experimental condensed-matter and materials physics. The laboratory's official team page specifically groups undergraduate and high-school researchers together and documents high-school research participation, providing strong evidence that students at this level can contribute to the group. Professor Zhou also provides a route for people interested in joining the laboratory to make contact. Because high-school openings are not guaranteed at all times, this is best treated as an availability-dependent direct-inquiry prospect.",
+  "email": "",
+  "labUrl": "https://sites.bc.edu/brianzhoulab/team/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+}
+  ,
+{
+  "id": 636,
+  "name": "Jihye Yun — Yun Laboratory",
+  "title": "Cancer Biology, Microbiome and Cancer Metabolism Research Prospect",
+  "university": "UT MD Anderson Cancer Center",
+  "state": "Texas, USA",
+  "department": "Genetics",
+  "field": "Cancer Biology",
+  "tags": [
+    "cancer biology",
+    "colorectal cancer",
+    "cancer metabolism",
+    "microbiome",
+    "immunology",
+    "epigenetics",
+    "genetics",
+    "molecular biology",
+    "wet lab",
+    "high school research",
+    "undergraduate research",
+    "MD Anderson",
+    "Texas"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI Inquiry / Availability Dependent",
+  "resumeRating": 5,
+  "description": "Professor Jihye Yun's laboratory at UT MD Anderson Cancer Center investigates colorectal cancer and the biological mechanisms connecting diet with tumor development and progression. The group's research spans cancer metabolism, the microbiome, immunity, epigenetics, genetics, and molecular cancer biology. The laboratory's official personnel information documents current and former high-school researchers, providing direct evidence that students at this level have participated in the group's research. The lab also provides a route for prospective researchers and interns to inquire about joining. Because current high-school openings are not guaranteed, students should treat this as an availability-dependent direct-inquiry prospect.",
+  "email": "",
+  "labUrl": "https://www.mdanderson.org/research/departments-labs-institutes/labs/yun-laboratory/join-our-lab.html",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 637,
+  "name": "Simona Onori — Stanford Energy Control Lab",
+  "title": "Battery Engineering, Energy Systems and Machine Learning Research Prospect",
+  "university": "Stanford University",
+  "state": "California, USA",
+  "department": "Energy Science and Engineering",
+  "field": "Engineering",
+  "tags": [
+    "energy engineering",
+    "battery research",
+    "lithium-ion batteries",
+    "energy storage",
+    "battery health",
+    "electrochemical impedance spectroscopy",
+    "machine learning",
+    "control systems",
+    "modeling",
+    "electric vehicles",
+    "high school research",
+    "Stanford",
+    "California"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Program-Linked / Direct PI Inquiry / Availability Dependent",
+  "resumeRating": 5,
+  "description": "Professor Simona Onori leads the Stanford Energy Control Lab, which studies lithium-ion batteries, energy-storage systems, battery diagnostics, mathematical modeling, control, optimization, and electrified transportation. Stanford's official laboratory pages document current high-school researchers working on projects involving battery-health estimation, electrochemical impedance spectroscopy, modeling, and machine learning. High-school participation has been associated with Stanford's Young Investigators research pathway, so students should verify the appropriate route and current availability rather than assuming unrestricted admission through cold outreach. The documented depth of high-school research makes this a particularly strong engineering professor prospect.",
+  "email": "",
+  "labUrl": "https://onorilab.stanford.edu/people/hs-student",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 638,
+  "name": "Sharon Diskin — Diskin Lab",
+  "title": "Pediatric Cancer Genomics and Computational Biology Research Prospect",
+  "university": "Children's Hospital of Philadelphia / University of Pennsylvania",
+  "state": "Pennsylvania, USA",
+  "department": "Pediatric Oncology / Cancer Genomics",
+  "field": "Computational Biology",
+  "tags": [
+    "cancer genomics",
+    "computational biology",
+    "bioinformatics",
+    "pediatric oncology",
+    "neuroblastoma",
+    "genetics",
+    "tumor biology",
+    "immunotherapy",
+    "cancer research",
+    "high school research",
+    "CHOP",
+    "University of Pennsylvania",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI Inquiry / Availability Dependent",
+  "resumeRating": 4.5,
+  "description": "Professor Sharon Diskin's laboratory conducts genomic and computational research focused on childhood cancers, particularly neuroblastoma. The group studies cancer susceptibility, tumor genetics and biology, genomic variation, and potential therapeutic and immunotherapeutic targets using computational biology, genomics, and related biomedical approaches. The laboratory's official personnel history documents multiple former high-school researchers, including students who remained involved for extended periods, demonstrating an established history of high-school research participation. Because this history does not guarantee a currently open high-school position, interested students should inquire about availability.",
+  "email": "",
+  "labUrl": "https://diskinlab.org/lab-members/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 639,
+  "name": "Francisco Contijoch — Contijoch Research Laboratory",
+  "title": "Biomedical Engineering and Cardiovascular Medical Imaging Research Prospect",
+  "university": "University of California, San Diego",
+  "state": "California, USA",
+  "department": "Bioengineering",
+  "field": "Biomedical Engineering",
+  "tags": [
+    "biomedical engineering",
+    "bioengineering",
+    "medical imaging",
+    "cardiovascular engineering",
+    "cardiovascular imaging",
+    "quantitative imaging",
+    "image analysis",
+    "translational research",
+    "high school research",
+    "undergraduate research",
+    "UC San Diego",
+    "California"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI Inquiry / Availability Dependent",
+  "resumeRating": 4,
+  "description": "Professor Francisco Contijoch's research laboratory at UC San Diego develops quantitative medical-imaging methods with particular emphasis on cardiovascular applications. The group's work combines biomedical engineering, medical imaging, image analysis, and translational cardiovascular research. The laboratory's personnel history documents high-school research participation as well as numerous undergraduate and summer researchers, providing evidence that younger students have contributed to the group. Because the lab does not advertise a continuously available high-school position, this should be treated as an availability-dependent prospect and students should inquire about current research opportunities.",
+  "email": "",
+  "labUrl": "https://contijoch.ucsd.edu/people/lab_members.html",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 640,
+  "name": "Alexander Lab",
+  "title": "Cardiovascular Medicine and Cardiac Amyloidosis Research Prospect",
+  "university": "Stanford University School of Medicine",
+  "state": "California, USA",
+  "department": "Cardiovascular Medicine",
+  "field": "Biomedical Sciences",
+  "tags": [
+    "cardiovascular medicine",
+    "cardiology",
+    "cardiac amyloidosis",
+    "translational medicine",
+    "biomedical research",
+    "cardiovascular disease",
+    "clinical research",
+    "wet lab",
+    "high school research",
+    "Stanford Medicine",
+    "California"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct Inquiry / Availability Dependent",
+  "resumeRating": 4.5,
+  "description": "The Alexander Lab at Stanford University School of Medicine conducts cardiovascular research with a particular focus on cardiac amyloidosis and related translational questions. Stanford's official laboratory roster documents a high-school student researcher who joined the group specifically to gain laboratory experience studying cardiac amyloidosis, providing concrete evidence that the laboratory has hosted high-school-level research. The personnel record does not establish that high-school positions are continuously open, so students should treat the lab as an availability-dependent prospect and inquire about possible opportunities rather than assuming current recruitment.",
+  "email": "",
+  "labUrl": "https://med.stanford.edu/alexander-lab/lab-members.html",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+}
+  ,
+{
+  "id": 641,
+  "name": "H. Francis Webster — Webster Research Group",
+  "title": "Sustainable Chemistry and Nanomaterials Wet-Lab Research Prospect",
+  "university": "Radford University",
+  "state": "Virginia, USA",
+  "department": "Department of Chemistry",
+  "field": "Chemistry",
+  "tags": [
+    "sustainable chemistry",
+    "green chemistry",
+    "nanomaterials",
+    "analytical chemistry",
+    "carbon nanoparticles",
+    "water purification",
+    "biodiesel",
+    "materials chemistry",
+    "scientific instrumentation",
+    "wet lab",
+    "cold email",
+    "high school research",
+    "undergraduate research",
+    "Radford University",
+    "Virginia"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Cold Email / Direct PI Inquiry",
+  "resumeRating": 5,
+  "description": "Professor H. Francis Webster leads an experimental chemistry research group at Radford University working across sustainable chemistry, nanomaterials, analytical chemistry, and scientific instrumentation. Research projects include greener approaches to biodiesel catalysis, synthesis and functionalization of carbon nanoparticles for applications such as water purification, self-assembled materials, and development of custom scientific instrumentation. Webster states that research opportunities are available for students at multiple levels and that the group regularly has high-school students working in the laboratory during the academic year. Interested students are encouraged to contact Professor Webster directly by email about research opportunities, making this a particularly strong cold-email wet-lab prospect.",
+  "email": "",
+  "labUrl": "https://www.radford.edu/directory/profiles/chemistry-department/francis-webster.html",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 642,
+  "name": "Florian Karreth — Karreth Lab",
+  "title": "Cancer Biology and Molecular Genetics Wet-Lab Research Prospect",
+  "university": "Moffitt Cancer Center",
+  "state": "Florida, USA",
+  "department": "Molecular Oncology",
+  "field": "Cancer Biology",
+  "tags": [
+    "cancer biology",
+    "molecular biology",
+    "molecular genetics",
+    "melanoma",
+    "non-coding RNA",
+    "oncogenic signaling",
+    "mouse models",
+    "cancer genetics",
+    "wet lab",
+    "cold email",
+    "high school research",
+    "undergraduate research",
+    "Moffitt Cancer Center",
+    "Florida"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Cold Email",
+  "resumeRating": 5,
+  "description": "Dr. Florian Karreth's laboratory at Moffitt Cancer Center conducts experimental cancer research focused on non-coding RNAs, oncogenic signaling, melanoma, and other aspects of tumor biology. The group uses molecular and cellular biology techniques as well as experimental model systems, including mouse models, to investigate mechanisms involved in cancer development and progression. The laboratory explicitly provides a pathway for high-school students interested in research training and instructs them to email Dr. Karreth with a short description of their research interests. Because direct outreach is the student-facing route rather than a separate high-school application, this is an especially strong cold-email biomedical wet-lab prospect.",
+  "email": "",
+  "labUrl": "https://lab.moffitt.org/karreth/opportunities/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 643,
+  "name": "Ana Gomes — Gomes Lab",
+  "title": "Cancer Metabolism, Aging and Immunology Wet-Lab Research Prospect",
+  "university": "Moffitt Cancer Center",
+  "state": "Florida, USA",
+  "department": "Molecular Oncology",
+  "field": "Cancer Biology",
+  "tags": [
+    "cancer biology",
+    "cancer metabolism",
+    "aging",
+    "immunology",
+    "molecular biology",
+    "metabolomics",
+    "metabolic tracing",
+    "whole-genome sequencing",
+    "proteomics",
+    "mouse models",
+    "single-cell analysis",
+    "wet lab",
+    "cold email",
+    "high school research",
+    "undergraduate research",
+    "Moffitt Cancer Center",
+    "Florida"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Cold Email",
+  "resumeRating": 5,
+  "description": "Dr. Ana Gomes leads an experimental cancer biology laboratory at Moffitt Cancer Center studying the interactions among aging, host physiology, metabolism, immunity, and cancer. The group's research uses approaches including metabolomics, metabolic tracing, whole-genome sequencing, proteomics, mouse models, immunological methods, and single-cell technologies. The laboratory explicitly instructs high-school students, summer students, visiting students, and undergraduate students interested in joining the group to email Dr. Gomes directly with a short description of their research interests. This combination of advanced biomedical wet-lab research and an explicit direct-email route makes the Gomes Lab a particularly strong professor prospect.",
+  "email": "",
+  "labUrl": "https://www.gomeslab.org/opportunities/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 644,
+  "name": "Kaveh Jorabchi — Jorabchi Research Group",
+  "title": "Analytical Chemistry and Mass Spectrometry Wet-Lab Research Prospect",
+  "university": "Georgetown University",
+  "state": "Washington, D.C., USA",
+  "department": "Department of Chemistry",
+  "field": "Chemistry",
+  "tags": [
+    "analytical chemistry",
+    "mass spectrometry",
+    "chemical instrumentation",
+    "gas-phase ions",
+    "environmental analysis",
+    "biological analysis",
+    "forensic analysis",
+    "instrumental chemistry",
+    "wet lab",
+    "cold email",
+    "high school research",
+    "undergraduate research",
+    "Georgetown University",
+    "Washington DC"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Cold Email / Direct Professor Inquiry",
+  "resumeRating": 5,
+  "description": "Professor Kaveh Jorabchi's research group at Georgetown University conducts experimental analytical chemistry research involving mass spectrometry, gas-phase ion generation and reactions, chemical instrumentation, and analytical methods for environmental, biological, and forensic applications. The group's official research page states that it has standing openings for graduate, undergraduate, and high-school researchers and directs interested students to contact Professor Jorabchi for additional information. The combination of explicit high-school eligibility, hands-on experimental chemistry, and direct professor outreach makes this an unusually strong cold-email wet-lab prospect.",
+  "email": "",
+  "labUrl": "https://kaveh-jorabchi.facultysite.georgetown.edu/home",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 645,
+  "name": "Hongxiang Liu — Liu Lab",
+  "title": "Cellular and Molecular Biology Wet-Lab Research Prospect",
+  "university": "University of Georgia",
+  "state": "Georgia, USA",
+  "department": "Department of Animal and Dairy Science",
+  "field": "Molecular Biology",
+  "tags": [
+    "molecular biology",
+    "cell biology",
+    "taste biology",
+    "animal science",
+    "developmental biology",
+    "biomedical research",
+    "wet lab",
+    "cold email",
+    "high school research",
+    "undergraduate research",
+    "availability dependent",
+    "University of Georgia",
+    "Georgia"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research"
+  ],
+  "applicationType": "Cold Email / Availability Dependent",
+  "resumeRating": 4,
+  "description": "Professor Hongxiang Liu's experimental research group at the University of Georgia studies cellular and molecular mechanisms related to taste biology and associated questions in animal and biomedical science. The laboratory explicitly addresses undergraduate and high-school students interested in becoming involved in research and encourages motivated students to contact Dr. Liu directly. The lab gives preference to students who can make a substantial commitment, including participation across multiple semesters and significant weekly research time. The laboratory's recruitment information currently indicates that openings may not be available, so this listing should be treated as an availability-dependent cold-email prospect rather than a guaranteed current position.",
+  "email": "",
+  "labUrl": "https://site.caes.uga.edu/liulab/join-us/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+}
 ]
