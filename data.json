@@ -21854,4 +21854,342 @@
   "applyUrl": "",
   "dateAdded": "2026-08-17"
 }
+  ,
+{
+  "id": 596,
+  "name": "Karras Laboratory",
+  "title": "Cancer Biology and Functional Proteomics Research Opportunity",
+  "university": "UT MD Anderson Cancer Center",
+  "state": "Texas, USA",
+  "department": "Department of Genetics",
+  "field": "Biomedical Science",
+  "tags": [
+    "cancer biology",
+    "functional proteomics",
+    "quantitative genetics",
+    "biochemistry",
+    "cell biology",
+    "precision medicine",
+    "molecular biology",
+    "wet lab",
+    "laboratory research",
+    "direct inquiry",
+    "Houston",
+    "Texas"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Internship",
+    "Research Project"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Karras Laboratory at UT MD Anderson Cancer Center explicitly welcomes inquiries from high school students interested in internships. High school students may contact Dr. Georgios Karras directly regarding possible research opportunities. Undergraduate students interested in joining the laboratory may also inquire directly and are encouraged to provide a CV and description of their research interests. Opportunities depend on current laboratory projects, mentorship capacity, student preparation, and availability.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-access biomedical research opportunity because the laboratory explicitly provides a pathway for high school students to contact the principal investigator about internships. Students may gain exposure to advanced cancer biology, functional proteomics, genetics, biochemistry, and experimental laboratory research at a major cancer research center.",
+  "summary": "The Karras Laboratory at UT MD Anderson Cancer Center studies cancer biology using functional proteomics, quantitative genetics, biochemistry, cell biology, and related experimental approaches. High school students interested in internships are explicitly invited to contact Dr. Georgios Karras directly, while undergraduate students may also inquire about research involvement.",
+  "email": "",
+  "labUrl": "https://www.mdanderson.org/research/departments-labs-institutes/labs/karras-laboratory/join-our-lab.html",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18"
+},
+{
+  "id": 597,
+  "name": "Tanaka Lab",
+  "title": "Molecular Plant Pathology and Biochemistry Research Opportunity",
+  "university": "Washington State University",
+  "state": "Washington, USA",
+  "department": "Institute of Biological Chemistry",
+  "field": "Molecular Biology",
+  "tags": [
+    "molecular biology",
+    "plant pathology",
+    "plant-microbe interactions",
+    "biochemistry",
+    "molecular genetics",
+    "gene expression",
+    "molecular cloning",
+    "cell signaling",
+    "wet lab",
+    "laboratory research",
+    "direct inquiry",
+    "Pullman",
+    "Washington"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Tanaka Lab at Washington State University offers summer research opportunities for high school students and directs interested students to contact the laboratory for additional information. Undergraduate students interested in laboratory research may also inquire about joining. Research opportunities can involve plant-microbe interactions, molecular biology, molecular cloning, gene-expression analysis, cellular signaling, genetics, and biochemistry. Availability depends on current projects and laboratory mentorship capacity.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional wet-lab opportunity because the laboratory explicitly identifies summer research opportunities for high school students and provides a direct inquiry pathway. Research can expose students to molecular cloning, gene-expression analysis, genetics, biochemistry, cellular signaling, and other experimental molecular-biology techniques.",
+  "summary": "Washington State University's Tanaka Lab studies molecular mechanisms involved in plant-microbe interactions using molecular biology, genetics, biochemistry, and related experimental approaches. High school students can inquire about summer research opportunities, while undergraduate students may also contact the laboratory regarding research involvement.",
+  "email": "",
+  "labUrl": "https://labs.wsu.edu/tanaka-lab/opportunities/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18"
+},
+{
+  "id": 598,
+  "name": "Jeffrey Kim Lab",
+  "title": "Molecular and Pharmaceutical Sciences Research Opportunity",
+  "university": "University of California, Irvine",
+  "state": "California, USA",
+  "department": "Department of Pharmaceutical Sciences",
+  "field": "Biomedical Science",
+  "tags": [
+    "pharmaceutical science",
+    "molecular biology",
+    "cell biology",
+    "biochemistry",
+    "biomedical science",
+    "biotechnology",
+    "bioengineering",
+    "experimental biology",
+    "wet lab",
+    "laboratory research",
+    "research mentorship",
+    "direct inquiry",
+    "Irvine",
+    "California"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Jeffrey Kim Lab at the University of California, Irvine encourages exceptional high school students with strong interests in science and research to inquire about supervised research opportunities and mentorship. Undergraduate students and visiting research assistants may also seek research involvement. Relevant areas include molecular biology, cell biology, biochemistry, chemistry, biomedical sciences, biotechnology, bioengineering, pharmaceutical science, and related experimental and computational approaches. Placement depends on laboratory availability, research fit, and mentorship capacity.",
+  "resumeRating": 5,
+  "ratingNote": "An unusually strong individual-laboratory opportunity because high school students are explicitly encouraged to seek supervised research and mentorship rather than being restricted to a centralized pre-college program. The laboratory offers exposure to biomedical, molecular, cellular, biochemical, and pharmaceutical research.",
+  "summary": "The Jeffrey Kim Lab at UC Irvine conducts biomedical and pharmaceutical research using experimental and computational approaches spanning molecular biology, cell biology, biochemistry, biotechnology, and related fields. Exceptional high school students are explicitly encouraged to inquire about supervised research opportunities and mentorship, and undergraduate students may also seek research involvement.",
+  "email": "",
+  "labUrl": "https://faculty.sites.uci.edu/jeffreykimlab/open-positions/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18"
+},
+{
+  "id": 599,
+  "name": "Egervari Lab",
+  "title": "Neuroscience, Epigenetics, and Molecular Biology Research Opportunity",
+  "university": "Washington University in St. Louis",
+  "state": "Missouri, USA",
+  "department": "Department of Genetics",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "epigenetics",
+    "molecular biology",
+    "metabolism",
+    "genomics",
+    "proteomics",
+    "metabolomics",
+    "single-cell biology",
+    "cell biology",
+    "wet lab",
+    "laboratory research",
+    "faculty mentorship",
+    "direct inquiry",
+    "St. Louis",
+    "Missouri"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "Dr. Gabor Egervari at Washington University in St. Louis is listed as available to mentor high school and undergraduate students interested in research. Prospective students may contact him regarding possible opportunities in the laboratory. Research examines relationships among metabolism, chromatin, gene expression, and brain function using approaches including genomics, proteomics, metabolomics, single-cell methods, in vitro experiments, and animal models. Opportunities depend on research fit, current projects, and mentorship capacity.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional faculty-mentored research pathway because the principal investigator is explicitly identified as available to mentor both high school and undergraduate researchers. The laboratory combines experimental neuroscience with epigenetics, molecular biology, genomics, proteomics, metabolomics, and other advanced biomedical techniques.",
+  "summary": "The Egervari Lab at Washington University in St. Louis investigates how metabolism influences chromatin, gene expression, and brain function. The laboratory uses experimental and molecular approaches including genomics, proteomics, metabolomics, single-cell techniques, and mechanistic experiments. Dr. Gabor Egervari is listed as available to mentor high school and undergraduate students.",
+  "email": "",
+  "labUrl": "https://profiles.wustl.edu/en/persons/gabor-egervari/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18"
+},
+{
+  "id": 600,
+  "name": "Rao Lab",
+  "title": "Cellular and Molecular Physiology Research Opportunity",
+  "university": "Johns Hopkins University School of Medicine",
+  "state": "Maryland, USA",
+  "department": "Department of Physiology",
+  "field": "Molecular Biology",
+  "tags": [
+    "cell biology",
+    "molecular biology",
+    "cellular physiology",
+    "molecular physiology",
+    "biomedical science",
+    "cellular and molecular medicine",
+    "biochemistry",
+    "wet lab",
+    "laboratory research",
+    "faculty mentorship",
+    "direct inquiry",
+    "Baltimore",
+    "Maryland"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Open Inquiry",
+  "applicationWindow": "The Rao Lab at Johns Hopkins University School of Medicine explicitly states that it is open to inquiries from high school students, undergraduate students, medical students, graduate students, and postdoctoral researchers interested in research. Prospective high school and undergraduate researchers may contact the laboratory regarding potential opportunities in cellular and molecular physiology and related biomedical research. Availability depends on current projects, laboratory capacity, research fit, and mentorship availability.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional Research Connect-style opportunity because an individual Johns Hopkins School of Medicine laboratory explicitly states that it welcomes inquiries from high school students. This creates a direct pathway into faculty-led cellular, molecular, and physiological research rather than requiring participation through a general pre-college program.",
+  "summary": "The Rao Lab at Johns Hopkins University School of Medicine conducts research in cellular and molecular physiology and related areas of biomedical science. The laboratory explicitly welcomes research inquiries from high school and undergraduate students, providing a rare direct-access pathway into an active medical-school research environment.",
+  "email": "",
+  "labUrl": "https://raolab.jhmi.edu/contact/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18"
+}
+  {
+  "id": 601,
+  "name": "Andrew Leakey Laboratory",
+  "title": "Plant Physiology, Genetics and Genomics Research Opportunity",
+  "university": "University of Illinois Urbana-Champaign",
+  "state": "Illinois, USA",
+  "department": "Department of Plant Biology / Carl R. Woese Institute for Genomic Biology",
+  "field": "Plant Biology",
+  "tags": [
+    "plant biology",
+    "plant physiology",
+    "genetics",
+    "genomics",
+    "biochemistry",
+    "crop science",
+    "phenotyping",
+    "image analysis",
+    "wet lab",
+    "laboratory research",
+    "direct inquiry",
+    "Urbana",
+    "Illinois"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Direct Inquiry",
+  "applicationWindow": "The Andrew Leakey Laboratory at the University of Illinois Urbana-Champaign works with both high school and undergraduate students during the academic year and summer. Students from any institution may apply for research opportunities by providing materials such as a CV, statement of research interest, and references. Prospective researchers may also contact Dr. Andrew Leakey regarding potential projects. Research areas include plant physiology, genetics, genomics, biochemistry, crop phenotyping, image analysis, and related experimental plant biology. Availability depends on current projects, student preparation, and laboratory mentorship capacity.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-access plant science opportunity because the laboratory explicitly works with high school and undergraduate researchers and welcomes applications from students outside the university. Projects can involve experimental plant biology, genetics, genomics, biochemistry, physiology, and crop research.",
+  "summary": "The Andrew Leakey Laboratory conducts research in plant physiology, genetics, genomics, biochemistry, crop science, and phenotyping. High school and undergraduate students from any institution may seek research involvement during the academic year or summer through a direct laboratory application and faculty inquiry pathway.",
+  "email": "",
+  "labUrl": "https://lab.igb.illinois.edu/leakey/undergraduate-opportunities",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18"
+},
+{
+  "id": 602,
+  "name": "Ping He Laboratory — Molecular Plant-Microbe Interaction Group",
+  "title": "Plant Immunology and Molecular Biology Research Opportunity",
+  "university": "Texas A&M University",
+  "state": "Texas, USA",
+  "department": "Department of Biochemistry and Biophysics",
+  "field": "Molecular Biology",
+  "tags": [
+    "plant immunology",
+    "molecular biology",
+    "plant-microbe interactions",
+    "genetics",
+    "biochemistry",
+    "cell biology",
+    "gene expression",
+    "immune signaling",
+    "wet lab",
+    "laboratory research",
+    "direct inquiry",
+    "College Station",
+    "Texas"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Direct Inquiry",
+  "applicationWindow": "The Molecular Plant-Microbe Interaction research group led by Dr. Ping He explicitly welcomes high school students interested in gaining research experience and directs prospective students to contact Dr. He for application information. Undergraduate students may also seek research opportunities with the group. Research investigates plant immune signaling and plant-microbe interactions using genetic, biochemical, cellular, and molecular approaches. Projects may involve Arabidopsis genetics, gene-expression analysis, RNA interference, immune receptors, signaling pathways, and related molecular and biochemical techniques. Participation depends on current projects and mentor availability.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional wet-lab opportunity because high school students are explicitly welcomed into an active molecular plant biology research group and can directly contact the principal investigator about joining research involving genetics, biochemistry, molecular biology, and cell signaling.",
+  "summary": "The Ping He Laboratory studies plant immunity and plant-microbe interactions using molecular, genetic, biochemical, and cellular approaches. High school and undergraduate students can inquire directly about research opportunities involving gene expression, immune signaling, genetics, and experimental plant biology.",
+  "email": "",
+  "labUrl": "https://sites.lsa.umich.edu/mpmi/research-experience-for-undergraduate-and-high-school-students/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18"
+},
+{
+  "id": 603,
+  "name": "Krishnan Lab",
+  "title": "Biomedical and Molecular Research Opportunity",
+  "university": "UT Southwestern Medical Center",
+  "state": "Texas, USA",
+  "department": "Biomedical Research",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "molecular biology",
+    "immunology",
+    "cell biology",
+    "biochemistry",
+    "medical research",
+    "wet lab",
+    "laboratory research",
+    "faculty mentorship",
+    "direct inquiry",
+    "Dallas",
+    "Texas"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Direct Inquiry",
+  "applicationWindow": "The Krishnan Lab at UT Southwestern Medical Center explicitly invites high school students, undergraduate students, graduate students, and postdoctoral researchers interested in research opportunities to contact the laboratory by email. The group has documented high school research participation, including students completing mentored summer research projects through UT Southwestern educational initiatives. Research areas involve biomedical science and may include molecular biology, immunology, cell biology, biochemistry, and related experimental approaches depending on current laboratory projects. Availability depends on research needs and mentorship capacity.",
+  "resumeRating": 5,
+  "ratingNote": "An exceptional direct-access biomedical research opportunity because an individual UT Southwestern laboratory explicitly invites high school students to inquire about research and has documented experience hosting high school researchers in mentored projects.",
+  "summary": "UT Southwestern's Krishnan Lab welcomes research inquiries from high school and undergraduate students interested in biomedical and molecular research. Students may gain exposure to experimental laboratory work in areas such as molecular biology, immunology, cell biology, and biochemistry depending on available projects.",
+  "email": "",
+  "labUrl": "https://labs.utsouthwestern.edu/krishnan-lab-0/join-us",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18"
+}
 ]
