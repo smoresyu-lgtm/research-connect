@@ -34,10 +34,19 @@ init();
 
 async function init() {
   try {
-    const res = await fetch("data.json");
-    allEntries = await res.json();
+    const [res1, res2] = await Promise.all([
+      fetch("data.json"),
+      fetch("data2.json")
+    ]);
+
+    const [data1, data2] = await Promise.all([
+      res1.json(),
+      res2.json()
+    ]);
+
+    allEntries = [...data1, ...data2];
   } catch (err) {
-    listingsEl.innerHTML = `<p>Couldn't load listings. Make sure data.json is in the same folder as index.html.</p>`;
+    listingsEl.innerHTML = `<p>Couldn't load listings. Make sure data.json and data2.json are in the same folder as index.html.</p>`;
     console.error(err);
     return;
   }
