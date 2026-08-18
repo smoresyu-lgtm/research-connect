@@ -1893,4 +1893,216 @@
   "dateAdded": "2026-08-18",
   "listingType": "Professor Prospect"
 }
+  ,
+{
+  "id": 646,
+  "name": "Ricardo Araneda — Araneda Lab",
+  "title": "Neuroscience and Electrophysiology Research Prospect",
+  "university": "University of Maryland",
+  "state": "Maryland, USA",
+  "department": "Department of Biology",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "neurobiology",
+    "electrophysiology",
+    "sensory neuroscience",
+    "neural circuits",
+    "cellular neuroscience",
+    "experimental neuroscience",
+    "wet lab",
+    "high school research",
+    "direct inquiry",
+    "availability dependent",
+    "University of Maryland",
+    "Maryland"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research"
+  ],
+  "applicationType": "Direct Lab Inquiry / Availability Dependent",
+  "resumeRating": 4.5,
+  "description": "Professor Ricardo Araneda's laboratory at the University of Maryland conducts experimental neuroscience research focused on neural circuits, sensory processing, neurobiology, and electrophysiology. The laboratory's opportunities page explicitly discusses high-school students and describes support for local students conducting pre-undergraduate research associated with senior science projects. Interested high-school students are directed to contact designated laboratory members regarding available positions. Because the lab's page indicates that its high-school application process may close for particular semesters, students should verify current availability before reaching out. This is a strong direct-inquiry prospect for students interested in hands-on neuroscience and electrophysiology research.",
+  "email": "",
+  "labUrl": "https://science.umd.edu/biology/aranedalab/jobs.html",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 647,
+  "name": "Pan Research Group",
+  "title": "Bioengineering, Biomaterials and Materials in Medicine Research Prospect",
+  "university": "University of Illinois Urbana-Champaign",
+  "state": "Illinois, USA",
+  "department": "Department of Bioengineering",
+  "field": "Biomedical Engineering",
+  "tags": [
+    "bioengineering",
+    "biomedical engineering",
+    "biomaterials",
+    "materials in medicine",
+    "nanomaterials",
+    "biotechnology",
+    "medical materials",
+    "wet lab",
+    "high school research",
+    "undergraduate research",
+    "direct inquiry",
+    "availability dependent",
+    "UIUC",
+    "Illinois"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct Lab Inquiry / Availability Dependent",
+  "resumeRating": 4.5,
+  "description": "The Pan Research Group at the University of Illinois Urbana-Champaign conducts interdisciplinary bioengineering research involving biomaterials and materials for biomedical applications through its Laboratory for Materials in Medicine. The group's official website maintains a dedicated High School Students section documenting multiple high-school researchers, providing strong evidence that students at this level have participated directly in the laboratory's research environment. Because the group does not guarantee continuously available high-school positions, interested students should treat this as an availability-dependent lab prospect and inquire about possible research involvement.",
+  "email": "",
+  "labUrl": "https://pan.bioengineering.illinois.edu/people/groups/high-school-students/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 648,
+  "name": "Barry C. Thompson — Thompson Research Group",
+  "title": "Polymer Chemistry and Organic Materials Wet-Lab Research Prospect",
+  "university": "University of Southern California",
+  "state": "California, USA",
+  "department": "Department of Chemistry",
+  "field": "Chemistry",
+  "tags": [
+    "polymer chemistry",
+    "materials chemistry",
+    "organic chemistry",
+    "organic materials",
+    "polymer synthesis",
+    "materials science",
+    "synthetic chemistry",
+    "wet lab",
+    "high school research",
+    "undergraduate research",
+    "cold email",
+    "availability dependent",
+    "USC",
+    "California"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Cold Email / Availability Dependent",
+  "resumeRating": 4,
+  "description": "Professor Barry C. Thompson's research group at the University of Southern California conducts experimental research in polymer chemistry, organic materials, materials chemistry, and related areas of synthetic chemistry. The group's official outreach history documents mentoring high-school researchers, including a student who conducted summer scientific research through USC's Young Researchers Program, as well as other early-career researchers. This history provides evidence that high-school students have participated in the laboratory's research, although it does not establish a continuously open high-school position. Students interested in the group's chemistry research should therefore treat this as an availability-dependent direct-outreach prospect.",
+  "email": "",
+  "labUrl": "https://dornsife.usc.edu/barry-c-thompson-research-group/outreach/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 649,
+  "name": "Jeffrey Davis — Davis Laboratory",
+  "title": "Chemistry and Chemical Biology Wet-Lab Research Prospect",
+  "university": "Tufts University",
+  "state": "Massachusetts, USA",
+  "department": "Department of Chemistry",
+  "field": "Chemistry",
+  "tags": [
+    "chemistry",
+    "chemical biology",
+    "organic chemistry",
+    "molecular chemistry",
+    "experimental chemistry",
+    "wet lab",
+    "pre-college research",
+    "high school research",
+    "direct inquiry",
+    "availability dependent",
+    "Tufts University",
+    "Massachusetts"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI Inquiry / Availability Dependent",
+  "resumeRating": 4,
+  "description": "Professor Jeffrey Davis's laboratory at Tufts University conducts experimental chemistry and chemical biology research. The laboratory's official Join Our Lab information specifically discusses pre-college researchers and documents previous high-school participation through Tufts research experiences. The group also provides a direct route for prospective visiting researchers to contact Professor Davis about their interest in joining the laboratory. Because the documented high-school pathway does not establish that an independent high-school position is continuously available, this listing should be treated as an availability-dependent direct-inquiry prospect.",
+  "email": "",
+  "labUrl": "https://chem.tufts.edu/davis-lab/about/join-our-lab",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 650,
+  "name": "Varholick Lab",
+  "title": "Regenerative Biology and Physiology Wet-Lab Research Prospect",
+  "university": "Kennesaw State University",
+  "state": "Georgia, USA",
+  "department": "Department of Molecular and Cellular Biology",
+  "field": "Biology",
+  "tags": [
+    "regenerative biology",
+    "regeneration",
+    "physiology",
+    "neuroscience",
+    "developmental biology",
+    "spiny mice",
+    "salamanders",
+    "planarians",
+    "animal biology",
+    "bioinformatics",
+    "wet lab",
+    "high school research",
+    "direct inquiry",
+    "availability dependent",
+    "Kennesaw State University",
+    "Georgia"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Academic-Year Research",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI Inquiry / Availability Dependent",
+  "resumeRating": 4.5,
+  "description": "The Varholick Lab at Kennesaw State University studies regenerative biology and physiology using highly regenerative animal systems including spiny mice, salamanders, and planarians. The group's work can involve experimental laboratory research, physiology, regeneration, bioinformatics, and related biological approaches. The lab's official site documents recent high-school research participation, including a high-school researcher whose work on planarian regeneration led to selection for Regeneron ISEF 2026. This provides strong recent evidence that high-school students can participate in meaningful research within the group. Because the lab does not advertise a continuously available high-school position, students should inquire directly about current possibilities.",
+  "email": "",
+  "labUrl": "https://varholicklab.org/",
+  "applyUrl": "",
+  "dateAdded": "2026-08-18",
+  "listingType": "Professor Prospect"
+}
 ]
