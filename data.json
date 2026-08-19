@@ -20,7 +20,7 @@
     "opportunityTypes": [
       "Research Assistant"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "2026 cycle closed. Historically opens mid-February, closes mid-March — check the site for 2027 dates.",
     "resumeRating": 5,
     "ratingNote": "Extremely prestigious and selective (well under 5% acceptance of 3,000+ applicants), but restricted to students who live in and attend a local New Jersey high school.",
@@ -49,7 +49,7 @@
     "opportunityTypes": [
       "Research Assistant"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "2026 cycle closed. Historically opens applications in late fall/winter — check the site for 2027 dates.",
     "resumeRating": 4,
     "ratingNote": "Paid, one-on-one mentored biomedical research at a major medical research university with a public research symposium — strong for a resume, but the 2026 cohort is limited to students considered under-represented in the sciences.",
@@ -78,7 +78,7 @@
     "opportunityTypes": [
       "Research Assistant"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "2026 application closed March 22. Only open to students at specific REACH partner high schools in the San Diego area — confirm the current partner school list before planning around this one.",
     "resumeRating": 3,
     "ratingNote": "Strong, prestigious lab experience at a major research institute — but eligibility is restricted to students currently enrolled at a short list of partner high schools in San Diego County, so most students nationally can't apply at all.",
@@ -109,7 +109,7 @@
     "opportunityTypes": [
       "Research Assistant"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "2026 cycle closed (deadline was March 22). Opens again in January 2027.",
     "resumeRating": 3,
     "ratingNote": "Real hands-on lab research and college credit at a major research university — but this is a paid program with a $4,000 fee (non-refundable $400 deposit on acceptance), not a stipend, so weigh cost against prestige. Texas residents are currently prioritized.",
@@ -139,7 +139,7 @@
     "opportunityTypes": [
       "Research Assistant"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Applications are typically due by March 31 each year (2026 cycle closed).",
     "resumeRating": 4,
     "ratingNote": "Genuine six-week field and lab research on real environmental questions, with a stipend for participants — strong resume value, but it runs through a small number of partner NYC-area schools with a teacher liaison rather than a simple individual online application.",
@@ -170,7 +170,7 @@
     "opportunityTypes": [
       "Research Assistant"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "2026 cycle closed (deadline was February 2, 2026). Typically opens in fall/winter for the following summer.",
     "resumeRating": 3,
     "ratingNote": "Solid faculty-mentored research ending in a poster session, and admission is genuinely competitive — but this is a paid (tuition-style) program, roughly $2,250+ depending on the year, plus a non-refundable application fee, rather than a paid stipend position.",
@@ -200,7 +200,7 @@
     "opportunityTypes": [
       "Research Assistant"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Currently NOT accepting new applications — the program is working through a backlog of previously submitted applications after a cancelled cycle. Confirm current status on the program site before planning around this one.",
     "resumeRating": 4,
     "ratingNote": "Paid, genuinely hands-on biomedical research at a major medical school, contributing to real lung-disease research — strong pick when it's open, but it is not currently accepting new applicants, so its usefulness right now depends entirely on when it reopens.",
@@ -229,7 +229,7 @@
     "opportunityTypes": [
       "Research Assistant"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Academic-year lab positions: no deadline, contact faculty anytime. Paid Summer Undergraduate Research Fellowship: application opens each February, deadline in early April (2025 deadline was April 7).",
     "resumeRating": 2,
     "ratingNote": "The paid summer fellowship (around $8,000+ stipend) is excellent on paper — but both routes described here are open only to students who are ALREADY enrolled Stanford undergraduates. This is not an outreach program and isn't actually accessible to outside high schoolers or undergrads at other universities, which is why it's rated low despite the prestige.",
@@ -417,7 +417,7 @@
       "Research Assistant",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Applications typically open in January and close in March.",
     "resumeRating": 5,
     "ratingNote": "One of the strongest computer science research opportunities available to high school students. Participants conduct genuine faculty-led research while receiving mentorship from graduate students and researchers.",
@@ -449,7 +449,7 @@
       "Research Assistant",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Applications generally open in January with a priority deadline around March 1.",
     "resumeRating": 5,
     "ratingNote": "A highly competitive research opportunity that provides meaningful faculty mentorship and authentic computer science research experience for high school students.",
@@ -482,7 +482,7 @@
       "Research Assistant",
       "Mentorship"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Applications typically open in late summer for the academic year.",
     "resumeRating": 5,
     "ratingNote": "An exceptional interdisciplinary mentorship program connecting high school students with UC San Diego faculty conducting cutting-edge STEM research.",
@@ -514,7 +514,7 @@
       "Research Assistant",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Applications generally open in February and close around March 15.",
     "resumeRating": 5,
     "ratingNote": "An outstanding opportunity for students interested in computational science and high-performance computing. Students work directly with researchers at one of the nation's leading supercomputing centers.",
@@ -996,7 +996,7 @@
       "Research Assistant",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The 2026 application cycle is closed. The program operates during the summer, and students interested in future participation should check the official program page for the next application cycle.",
     "resumeRating": 5,
     "ratingNote": "A strong pre-med and cancer research opportunity because students spend several weeks working alongside UCI researchers and receive direct research mentorship. The specialized cancer focus makes it especially valuable for students considering medicine, oncology, or biomedical science.",
@@ -1030,7 +1030,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Applications are offered through an annual summer program cycle. Students should consult the official Memorial Sloan Kettering program page for the next application opening and deadline.",
     "resumeRating": 5,
     "ratingNote": "An outstanding opportunity for students interested in medicine, cancer biology, or computational biomedical research. Participants conduct an extended mentored project at one of the country's leading cancer centers, making it one of the strongest pre-med-oriented listings in the database.",
@@ -1130,7 +1130,7 @@
       "Research Assistant",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The lab typically hosts one to two high school students each summer through its NeuroRobotics Summer Enrichment partnership. Availability is limited and students should review the lab's high school opportunities page for current participation information.",
     "resumeRating": 5,
     "ratingNote": "An unusually hands-on engineering research experience for high school students. Previous students have contributed to projects involving robotic exoskeletons, virtual and augmented reality, clinical diagnostic technologies, and human-subject experiments, providing exposure to real interdisciplinary engineering research.",
@@ -1164,7 +1164,7 @@
       "Research Assistant",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The 2026 session ran July 6–17 and is now closed. Students interested in a future session should check the Rutgers Mechanical and Aerospace Engineering program page for updated application dates and requirements.",
     "resumeRating": 3,
     "ratingNote": "A solid engineering research experience for high school students interested in mechanical and aerospace engineering. Students conduct research projects and participate in applied engineering activities, although the program charges tuition and is more structured than the direct-access laboratory opportunities in the database.",
@@ -1198,7 +1198,7 @@
       "Internship",
       "Volunteer"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Summer positions depend on faculty research needs and available funding. A limited number of paid positions may be offered, while research-related volunteer opportunities may also be available during the summer or academic year.",
     "resumeRating": 5,
     "ratingNote": "An excellent marine research opportunity because students may be selected directly for paid work based on active faculty research needs. VIMS also offers the possibility of research-related volunteer involvement, making this more flexible than many structured summer programs.",
@@ -1231,7 +1231,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Offered as a summer field-intensive course through Shoals Marine Laboratory. Students should review the current course schedule and registration information for the next available session.",
     "resumeRating": 4,
     "ratingNote": "A strong hands-on marine research experience that goes beyond a typical summer class. Students conduct actual research projects in a field-station environment and gain exposure to marine biology, ecology, ecophysiology, and experimental methods.",
@@ -1265,7 +1265,7 @@
       "Research Assistant",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The program is open to eligible high school students in Carteret and Craven Counties, North Carolina. Students should review the Duke Marine Lab program page for current summer dates, application deadlines, and stipend information.",
     "resumeRating": 4,
     "ratingNote": "A valuable paid marine science opportunity that combines direct exposure to Duke Marine Lab research with community science and outreach. Geographic eligibility is limited, but students who qualify can gain meaningful experience alongside marine researchers.",
@@ -1300,7 +1300,7 @@
       "Internship",
       "Research Assistant"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Eligibility is limited to students connected to Accomack and Northampton Counties, Virginia. Students should review the Eastern Shore Laboratory internship page for the current application cycle, eligibility rules, and deadlines.",
     "resumeRating": 5,
     "ratingNote": "A highly specialized marine research internship where students assist VIMS scientists with active projects in aquaculture, fisheries, water quality, habitat, and coastal ecology. The geographic restriction makes it inaccessible to most students but especially valuable for eligible local applicants.",
@@ -1334,7 +1334,7 @@
       "Mentorship",
       "Research Project"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The 2026 opportunity is specifically designed for eligible advanced seniors at Flour Bluff High School in Corpus Christi. Students should review the UT Marine Science Institute page for future cycles and updated eligibility requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional one-on-one research experience for eligible students. Participants are paired directly with a graduate student, postdoctoral researcher, research associate, or scientist and complete an independent marine science project over an academic semester.",
@@ -1368,7 +1368,7 @@
       "Research Assistant",
       "Internship"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "High school students interested in research with the lab are directed toward Stanford's RISE Summer Internship Program. Undergraduate research opportunities may also be available through the lab depending on current projects and mentor availability.",
     "resumeRating": 5,
     "ratingNote": "A strong developmental psychology opportunity because the lab provides a defined pathway for high school students to pursue research exposure through Stanford's RISE program. The lab's work on language learning and cognitive development is especially relevant for students interested in psychology, neuroscience, education, or child development.",
@@ -1404,7 +1404,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The Summer Lab operates through an annual summer application cycle. High school eligibility is generally limited to students from the Chicago area. Students should review the official program page for current project areas, deadlines, and eligibility requirements.",
     "resumeRating": 5,
     "ratingNote": "An excellent paid research opportunity that pairs students with faculty mentors for an extended summer project. Psychology has been represented among available research areas, and the combination of behavioral research and data science makes this especially valuable for students interested in quantitative psychology.",
@@ -1437,7 +1437,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Offered through the University of Chicago's summer programming. The 2026 session is closed, so students should review the official course page for future dates, availability, and application information.",
     "resumeRating": 4,
     "ratingNote": "A strong project-based psychology experience because students move beyond classroom learning and design and execute an experimental research project. It is more structured and course-based than a traditional research assistant position but still provides authentic exposure to psychological research methods.",
@@ -1470,7 +1470,7 @@
       "Research Project",
       "Mentorship"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "CNI-X is offered through Stanford Psychiatry for high school students. Application dates and session availability vary by year, so students should review the official program page for the next cycle.",
     "resumeRating": 3,
     "ratingNote": "A useful psychology and neuroscience enrichment experience with meaningful exposure to clinical and research topics. The program includes a collaborative capstone project, although it is more research-oriented enrichment than a traditional laboratory research assistant position.",
@@ -1504,7 +1504,7 @@
       "Research Project",
       "Mentorship"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Tech-X operates through Stanford Psychiatry on a program-cycle basis. Students should review the official page for current eligibility requirements, session dates, and application deadlines.",
     "resumeRating": 3,
     "ratingNote": "A distinctive psychology opportunity focused on the intersection of mental health and emerging technology. Students gain exposure to research and clinical perspectives involving digital mental health, artificial intelligence, social media, and behavioral science, although the experience is more project-based than a traditional lab placement.",
@@ -1539,7 +1539,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The 2026 application cycle is closed. Information for the 2027 program is expected to become available in January. Eligible rising high school juniors and seniors from across the United States may apply.",
     "resumeRating": 5,
     "ratingNote": "An exceptional high school neuroscience opportunity offering full-time immersion in an active research laboratory. Students contribute to ongoing neuroscience projects, learn research techniques, analyze data, and present their work through a final research poster. Previous research experience is not required.",
@@ -1573,7 +1573,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "DUNE operates during the summer and is limited to eligible high school sophomores and juniors attending participating public or charter schools in Durham, North Carolina. Students should review the official program page for the next application cycle and current eligibility requirements.",
     "resumeRating": 5,
     "ratingNote": "An outstanding full-time neuroscience research experience where high school students are matched with Duke laboratories according to their interests. Participants conduct mentored research rather than simply observing scientists, and the program provides a stipend. Geographic eligibility is highly restricted.",
@@ -1608,7 +1608,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The internship is offered through the UCLA Steve Tisch BrainSPORT Program. Students should review the official internship page for current summer dates, eligibility requirements, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An excellent clinical neuroscience opportunity for students interested in neuroscience, neurology, sports medicine, or pre-med pathways. Interns gain exposure to active concussion and traumatic brain injury research while learning about research protocols, data management, cognitive assessment, neuroimaging, and other clinical research methods.",
@@ -1642,7 +1642,7 @@
       "Research Assistant",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The summer research opportunity is available to eligible high school students age 16 or older. Research placements may last up to ten weeks. Students should review the UNMC program page for current application deadlines and requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional neuroscience opportunity for high school students interested in neurological disease or biomedical research. Students work alongside faculty and graduate researchers on active projects involving conditions such as Alzheimer's disease, Parkinson's disease, and ALS. Research contributions may potentially lead to authorship on resulting publications, although authorship is not guaranteed.",
@@ -1676,7 +1676,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The program is designed for eligible students in the Rochester City School District. Students should review the official NEURO-RocHS page for current summer dates, application deadlines, stipend information, and eligibility requirements.",
     "resumeRating": 4,
     "ratingNote": "A strong paid neuroscience opportunity that pairs high school students with research mentors for hands-on laboratory work. The program also incorporates biomedical engineering and technology-driven healthcare research opportunities, although eligibility is geographically restricted to Rochester City School District students.",
@@ -1745,7 +1745,7 @@
       "Internship",
       "Mentorship"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The previous academic-year cohort has already been selected. Students should check the Stanford AIMI program page for the next application cycle, eligibility requirements, and updated deadlines.",
     "resumeRating": 5,
     "ratingNote": "An outstanding and unusually accessible AI research opportunity because the internship is virtual and specifically designed for high school students. Participants work with Stanford researchers on healthcare AI projects using real-world data while learning responsible and rigorous research practices.",
@@ -1812,7 +1812,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The 2026 application cycle ran from January 5 through February 8, with the summer program held from late June through July. Students should check the official UCSD page for the next application cycle and updated dates.",
     "resumeRating": 4,
     "ratingNote": "A strong interdisciplinary research experience that exposes high school students to artificial intelligence and machine learning alongside other scientific disciplines. It is broader than a dedicated AI lab internship but provides meaningful experience with research methods and computational approaches.",
@@ -1845,7 +1845,7 @@
       "Research Assistant",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The 2026 application deadline was April 15. The program runs for approximately six weeks, and students should review the official IU Indianapolis physics outreach page for future application dates and requirements.",
     "resumeRating": 5,
     "ratingNote": "A strong faculty-mentored physics opportunity because applicants identify research topics and potential faculty mentors as part of the application process. Students can gain direct exposure to active research in areas such as experimental physics, theoretical physics, and biophysics.",
@@ -1880,7 +1880,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The 2026 application deadline was March 15. The internship generally runs for approximately eight weeks and is intended for eligible Lincoln-area high school students age 16 or older.",
     "resumeRating": 5,
     "ratingNote": "An excellent paid research opportunity where students work directly in university physics, engineering, or chemistry laboratories under faculty or research-scientist supervision. No prior research experience is required, and participants complete a research poster at the end of the internship.",
@@ -1913,7 +1913,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The 2026 application cycle is closed. The program is designed for rising high school seniors and combines online preparation with a residential research experience at Yale. Students should review the official YSPA page for the next cycle.",
     "resumeRating": 5,
     "ratingNote": "One of the strongest dedicated astrophysics opportunities available to high school students. Participants complete an intensive research-focused experience involving astronomy, physics, observational methods, and scientific analysis at Yale's observatory.",
@@ -1980,7 +1980,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The 2026 program filled all available spots and moved to a waitlist. Students interested in future sessions should review the official Chapman program page for updated registration dates, costs, and availability.",
     "resumeRating": 5,
     "ratingNote": "A strong dedicated social-science research opportunity where high school students develop an original research question using a nationally recognized survey dataset, evaluate scholarly literature, analyze data, create a research poster, and professionally present their findings.",
@@ -2012,7 +2012,7 @@
     "opportunityTypes": [
       "Research Project"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The current course is full and applications are closed, with waitlist consideration possible if space becomes available. Students should review the official UChicago Summer Session page for future application cycles.",
     "resumeRating": 4,
     "ratingNote": "A strong introduction to the methods economists use for research and experimentation. Students study microeconomics, macroeconomics, game theory, and field experiments and apply those ideas through labs, problem sets, group projects, and discussions, although this is more course-based than a traditional research assistant placement.",
@@ -2045,7 +2045,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The World Politics Summer Institute is offered through UCLA Political Science for high school students. Students should review the official program page for current session dates, application deadlines, tuition, and eligibility requirements.",
     "resumeRating": 4,
     "ratingNote": "A strong political-science research-oriented experience where students investigate real foreign-policy problems, learn to use academic research resources, write analytical reports, and publicly present policy recommendations. It is structured as an academic institute rather than a traditional faculty research assistant position.",
@@ -2077,7 +2077,7 @@
     "opportunityTypes": [
       "Research Project"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The current course is full and applications are closed, with waitlist consideration possible if openings occur. Students should check the University of Chicago Summer Session site for future program dates and application information.",
     "resumeRating": 4,
     "ratingNote": "A useful social-science research training experience taught by research-active political scientists. Students learn how scholars study international relations using multiple methodologies and approaches, although the program is classroom- and project-based rather than a traditional research internship.",
@@ -2145,7 +2145,7 @@
       "Summer Research",
       "Research Project"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "TREES is offered as a summer research program for high school students. Students should review the official University of Pennsylvania program page for current application dates, eligibility requirements, and future program availability.",
     "resumeRating": 5,
     "ratingNote": "An exceptional environmental-science opportunity because students receive one-on-one research mentorship and move from laboratory training into an independent research project. The program is tuition-free and provides meaningful experience with environmental health and toxicology research.",
@@ -2214,7 +2214,7 @@
       "Summer Research",
       "Research Project"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "HIRES is offered as a summer research program for high school students. Students should review the official program page for current application dates, eligibility requirements, and future session information.",
     "resumeRating": 5,
     "ratingNote": "A strong environmental research opportunity that combines field and laboratory science with computational tools such as GIS and remote sensing. Students work with scientists on real environmental questions and present their findings through a final research-poster symposium.",
@@ -2249,7 +2249,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The internship operates through program-specific summer cycles. Students should review the University of Maryland Geographical Sciences site for current application information, eligibility requirements, and future program dates.",
     "resumeRating": 5,
     "ratingNote": "An excellent computational environmental-science opportunity where students conduct original research with faculty and graduate mentors. Participants can gain experience with tools such as GIS, remote sensing, Google Earth Engine, RStudio, and machine learning while investigating environmental and societal problems.",
@@ -2284,7 +2284,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The 2026 internship is open to eligible rising sophomores and juniors attending Jersey City public high schools. Students should review the official Greener JC internship page for current deadlines, eligibility requirements, and future program cycles.",
     "resumeRating": 5,
     "ratingNote": "A highly specialized paid field-research opportunity for eligible Jersey City students. Interns conduct authentic urban ecology research involving wildlife habitat or microplastic accumulation while receiving scientific mentorship and hands-on environmental research experience.",
@@ -2319,7 +2319,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The 2026 program ran from June 15 through August 6 and used a hybrid format. The program is intended for eligible Bay Area high school students. Students should check the Stanford GRIPS page for the next application cycle, with information typically becoming available around December.",
     "resumeRating": 5,
     "ratingNote": "An exceptional genomics research opportunity where high school students are placed directly into Stanford research laboratories and work under individual lab mentors. The extended eight-week format provides substantial exposure to genetics, genomics, bioinformatics, and professional biomedical research.",
@@ -2353,7 +2353,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The program is offered through Carnegie Mellon's Pre-College Programs. Students should review the official program page for current summer dates, eligibility requirements, tuition, and application deadlines.",
     "resumeRating": 4,
     "ratingNote": "A strong interdisciplinary experience combining wet-lab biology with computational analysis. Students generate biological data themselves and then use computational methods to analyze DNA sequences, providing meaningful exposure to the workflow used in modern computational biology research.",
@@ -2389,7 +2389,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "PNNL offers computational biology summer internships for eligible high school and undergraduate students. Students should review the official Predictive Phenomics internship page for current application dates, eligibility requirements, and program availability.",
     "resumeRating": 5,
     "ratingNote": "A rare national-laboratory computational biology opportunity explicitly available to high school students. Previous experience is not required, and participants receive introductory training in Python, R, and biology before working with research mentors on projects at the intersection of computation and biological science.",
@@ -2423,7 +2423,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The Waksman Student Scholars Program operates through summer institutes followed by continued research during the academic year at participating schools. Students and educators should review the official Rutgers WSSP site for current participation requirements, program dates, and application information.",
     "resumeRating": 5,
     "ratingNote": "An unusually substantial high school research experience because students contribute to an authentic molecular-biology and bioinformatics research problem over an extended period. Participants conduct DNA sequence analysis and may have opportunities to publish valid research findings through the program.",
@@ -2457,7 +2457,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "WISE is offered as a two-week summer research experience through Rutgers University's Waksman Institute. Students should review the official WISE page for current program dates, eligibility requirements, costs, and application deadlines.",
     "resumeRating": 4,
     "ratingNote": "A focused hands-on bioinformatics experience where high school students work on an authentic genomics research problem. Students combine molecular biology with computational DNA sequence analysis and comparative genomics, although the two-week duration makes it shorter than the year-long Waksman Student Scholars Program.",
@@ -2849,7 +2849,7 @@
       "Research Assistant",
       "Internship"
     ],
-    "applicationType": "Structured Internship",
+    "applicationType": "Program Application",
     "applicationWindow": "The 2026 High School Research Internship posting has closed. The position was offered through the Federal Reserve Bank of Minneapolis Research Department. Students should monitor future Minneapolis Fed career postings to determine whether another high school research internship cycle becomes available.",
     "resumeRating": 5,
     "ratingNote": "An exceptional economics opportunity because the high school intern works within a Federal Reserve research department and receives supervision and mentorship from a research economist. The position provides exposure to professional economic research, technical skills, and the work of economists within the Federal Reserve System.",
@@ -3203,7 +3203,7 @@
       "Research Project",
       "Mentorship"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The Science Research Mentoring Program serves eligible students from Cambridge Rindge and Latin School. Participants conduct year-long independent astrophysics research with scientists at the Center for Astrophysics | Harvard & Smithsonian. Students should verify current eligibility and application information for future cycles.",
     "resumeRating": 5,
     "ratingNote": "An exceptional year-long astrophysics research opportunity where eligible high school students work directly with professional scientists on independent projects. Geographic and school eligibility are extremely narrow, but the depth of mentorship and sustained research involvement make it highly valuable for qualifying students.",
@@ -3490,7 +3490,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The program is designed for eligible local and regional high school students age 16 or older. Students should review the Boyce Thompson Institute's official program page for current application deadlines, eligibility requirements, stipend information, and future summer cycles.",
     "resumeRating": 5,
     "ratingNote": "An excellent hands-on research experience where students work on real projects with both a graduate or postdoctoral research mentor and a faculty mentor. Participants gain experience in areas such as plant molecular biology, bioinformatics, biological engineering, and plant-biotic interactions and present their work at a research symposium.",
@@ -3697,7 +3697,7 @@
       "Research Project",
       "Mentorship"
     ],
-    "applicationType": "Partner School Program",
+    "applicationType": "Partner Organization",
     "applicationWindow": "The ATLAS experience launched in 2026 for local high school seniors participating through the TST-BOCES New Visions Engineering program. Students should verify future availability through Cornell's NanoScale Science and Technology Facility and the relevant partner-school program.",
     "resumeRating": 4,
     "ratingNote": "An unusually advanced engineering experience because high school students gain hands-on access to Cornell's professional nanofabrication cleanroom and learn techniques used in micro- and nanotechnology research. Eligibility is very geographically restricted, and the experience is more facility-based than an independent research assistant placement.",
@@ -3837,7 +3837,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The Penn OER Summer Research Internship serves eligible Philadelphia-area high school students. Participants receive preparatory research training followed by placement in Penn faculty laboratories. Students should verify current eligibility requirements, deadlines, dates, and application availability through Penn OER for each summer cycle.",
     "resumeRating": 5,
     "ratingNote": "An outstanding paid biomedical research opportunity where high school students receive actual research positions hosted by Penn faculty. Participants receive preparation in laboratory skills, scientific literature, experimental methods, and research documentation before conducting hands-on bench research with mentorship from Penn trainees and laboratory staff.",
@@ -3976,7 +3976,7 @@
       "Research Project",
       "Mentorship"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "MIT PRIMES serves eligible high school sophomores and juniors in the Greater Boston area. The 2026 cycle is underway, and applications for the 2027 cycle are expected to become available in September 2026. Students should verify current eligibility requirements and deadlines on the official MIT PRIMES site.",
     "resumeRating": 5,
     "ratingNote": "One of MIT's strongest high school research opportunities because students work on genuine unsolved problems under academic mentorship rather than completing predetermined classroom projects. Research areas include mathematics, computer science, bioinformatics, and computational biology.",
@@ -4010,7 +4010,7 @@
       "Research Project",
       "Mentorship"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "PRIMES-USA is designed for eligible high school sophomores and juniors who live outside the Greater Boston area. The 2026 application cycle is closed, and MIT states that applications for the 2027 cycle are expected to appear in September 2026.",
     "resumeRating": 5,
     "ratingNote": "An outstanding national research opportunity because students outside Greater Boston can conduct serious year-long research remotely with MIT-affiliated mentors. Participants work on unsolved problems rather than standard coursework, making this especially valuable for students without access to a nearby research university.",
@@ -4045,7 +4045,7 @@
       "Internship",
       "Mentorship"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The LEAH Knox Scholars Program serves eligible rising juniors from participating Boston, Cambridge, and Everett public schools. Students first complete intensive biology laboratory training and later progress into research internships. Applicants should review MIT Biology's official program page for current income, school, and residency eligibility requirements.",
     "resumeRating": 5,
     "ratingNote": "A strong long-term research pathway because students first build laboratory skills and then progress into real summer research internships in Boston-area laboratories. The multi-year structure provides substantially more preparation and continuity than a short standalone enrichment program.",
@@ -4079,7 +4079,7 @@
       "Research Project",
       "Mentorship"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The THINK Scholars Program accepts research proposals from eligible high school students in the United States. Application timing varies by cycle, so students should review the official MIT THINK site for current deadlines, proposal requirements, finalist selection, and program dates.",
     "resumeRating": 5,
     "ratingNote": "A highly distinctive opportunity because students propose and carry out their own research rather than joining a predetermined laboratory project. Selected finalists receive technical mentorship from MIT students and up to $1,000 in project funding, making it especially useful for students who already have a strong research idea but need resources and guidance.",
@@ -4506,7 +4506,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Partner School Program",
+    "applicationType": "Partner Organization",
     "applicationWindow": "Research internships are available to eligible CORES students, including students connected to Hope High School and participating Providence pathways. Opportunities may occur during the summer or academic year. Students should review Brown DEEPS for current eligibility, duration, compensation, and application information.",
     "resumeRating": 5,
     "ratingNote": "A highly niche paid research opportunity where eligible high school students work directly with Brown DEEPS faculty on active Earth, climate, ocean, or planetary science projects. Past interns have contributed to genuine research workflows involving deep-ocean samples and reconstruction of Earth's climate history.",
@@ -4576,7 +4576,7 @@
       "Research Project",
       "Mentorship"
     ],
-    "applicationType": "Partner School Program",
+    "applicationType": "Partner Organization",
     "applicationWindow": "The internship is available through Brown's partnership with Providence Career and Technical Academy and is designed for eligible pre-engineering students. Students should verify current participation requirements through PCTA and Brown Computer Science.",
     "resumeRating": 4,
     "ratingNote": "A highly specialized local pathway into Brown's robotics and computer science environment. Students receive sustained technical experience through a year-long internship and work with drones and robotics concepts using curriculum developed by Brown faculty.",
@@ -4891,7 +4891,7 @@
       "Internship",
       "Research Project"
     ],
-    "applicationType": "Partner Program Placement",
+    "applicationType": "Partner Organization",
     "applicationWindow": "SMRI serves eligible Minds Matter NYC students entering their junior year. Participants complete preparatory biological science training before beginning a multi-month laboratory research project. Students should verify current eligibility and participation information through SMRI and Minds Matter NYC.",
     "resumeRating": 5,
     "ratingNote": "An excellent and highly niche Columbia laboratory pathway because students move from preparatory training into a three-month mentored research project under senior predoctoral or postdoctoral researchers. The sustained duration and final formal presentation provide meaningful exposure to professional biomedical research.",
@@ -5103,7 +5103,7 @@
       "Summer Research",
       "Mentorship"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "GSTEM operates as a six-week summer research program for high school students through NYU's Courant Institute. The 2026 session runs from June 29 through August 7. Students should review the current GSTEM site for future application deadlines, tuition, eligibility requirements, and financial-aid information.",
     "resumeRating": 4,
     "ratingNote": "A strong mentored STEM research experience spanning mathematics, computer science, and natural science. The program emphasizes sustained research immersion and mentor-supported work, although it is tuition-based rather than a paid or free laboratory placement.",
@@ -5243,7 +5243,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Partner School Program",
+    "applicationType": "Partner Organization",
     "applicationWindow": "D-RISE operates through a partnership between the University of Michigan Department of Chemistry and Cass Technical High School. Eligible students should verify current participation requirements and future summer program information through their school and the U-M Chemistry Department.",
     "resumeRating": 5,
     "ratingNote": "A highly specialized chemistry research opportunity where students are placed directly into University of Michigan faculty laboratories and conduct full-time, hands-on research connected to active graduate or postdoctoral projects. The program provides substantially deeper research exposure than a traditional chemistry enrichment course.",
@@ -6091,7 +6091,7 @@
       "Research Project",
       "Mentorship"
     ],
-    "applicationType": "Partner School Program",
+    "applicationType": "Partner Organization",
     "applicationWindow": "SEAL is a year-long research and mentorship program available through participating partner schools and programs. High school students work with Caltech graduate students and postdoctoral researchers on sustainable-energy research. Students should verify current partner-school eligibility and program availability through Caltech.",
     "resumeRating": 5,
     "ratingNote": "A strong sustained research opportunity because students work over an extended period with graduate and postdoctoral mentors on genuine sustainable-energy projects. Research can intersect with chemistry, materials science, environmental engineering, and synthetic biology.",
@@ -6161,7 +6161,7 @@
       "Volunteer",
       "Mentorship"
     ],
-    "applicationType": "Direct PI Inquiry",
+    "applicationType": "Direct PI/Lab Inquiry",
     "applicationWindow": "The Tumber-Dávila Lab explicitly welcomes high school students in the Upper Valley who are interested in laboratory or field research to contact Professor Joseph Tumber-Dávila. Students should review the lab's current information and reach out directly regarding research interests, availability, and potential projects.",
     "resumeRating": 5,
     "ratingNote": "An exceptional professor-level opportunity because the lab explicitly invites local high school students to inquire about laboratory or field research. Students can potentially gain direct experience with active research involving forest ecosystems, climate change, carbon cycling, biogeochemistry, and plant-soil interactions.",
@@ -6268,7 +6268,7 @@
       "Summer Research",
       "Mentorship"
     ],
-    "applicationType": "Partner Program Research Placement",
+    "applicationType": "Partner Organization",
     "applicationWindow": "High school students participate through eligible STEM RISE partnerships and related outreach pathways. The Thesen Laboratory at Dartmouth's Geisel School of Medicine has hosted students for summer university-laboratory research experiences with near-peer mentorship. Students should review current STEM RISE and laboratory information for availability and eligibility.",
     "resumeRating": 5,
     "ratingNote": "A strong biomedical research pathway because participating high school students receive university laboratory experience and near-peer mentorship in an active Geisel School of Medicine research environment. The opportunity provides exposure to neuroscience, biomedical research, medicine, and scientific investigation.",
@@ -6619,7 +6619,7 @@
       "Research Project",
       "Mentorship"
     ],
-    "applicationType": "Structured Internship",
+    "applicationType": "Program Application",
     "applicationWindow": "The RTG NASC High School Summer Internship is a free program for eligible current 11th-grade students. The 2026 session runs August 3 through August 7 and introduces participants to numerical mathematics, scientific computing, programming, and computational approaches used by researchers. Students should check the official program page for future application cycles.",
     "resumeRating": 4,
     "ratingNote": "A strong computational opportunity for students interested in applied mathematics and scientific computing. Participants receive university-level exposure to numerical mathematics and programming through Python or MATLAB while learning computational techniques used in mathematical and scientific research.",
@@ -6654,7 +6654,7 @@
       "Research Exposure",
       "Workshop"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Rice Bio Academies offer hands-on laboratory experiences for high school students, with grade eligibility varying by academy. Programs include BioTech, BioMed, and BioEng experiences. For example, the 2026 BioTech academy serves students in grades 9 through 11. Students should review the current Rice R-STEM Bio Academies page for program-specific dates, eligibility, costs, and application information.",
     "resumeRating": 3,
     "ratingNote": "A useful hands-on laboratory experience, although it is more research exposure and scientific training than an independent research internship. Students can gain practical experience with techniques and concepts including DNA extraction, gel electrophoresis, genetics, biomaterials, biotechnology, and scientific imaging.",
@@ -6760,7 +6760,7 @@
       "Internship",
       "Mentorship"
     ],
-    "applicationType": "Direct PI Inquiry",
+    "applicationType": "Direct PI/Lab Inquiry",
     "applicationWindow": "McGill Biomedical Engineering notes that local high school students may exceptionally be accepted as research trainees. Prospective students are instructed to contact individual faculty members directly to inquire about potential research opportunities. Participation depends on faculty interest, project availability, eligibility, and departmental approval.",
     "resumeRating": 5,
     "ratingNote": "An unusually valuable Canadian professor-level pathway because McGill explicitly acknowledges that high school students can sometimes participate as research trainees and directly tells prospective students to contact individual faculty members about laboratory opportunities.",
@@ -6831,7 +6831,7 @@
       "Summer Research",
       "Workshop"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "GeoX is designed for high school students entering Grades 11 and 12. The 2026 program runs from August 9 through August 15 and combines field and laboratory activities. Students should review the University of Waterloo's current program page for future dates, fees, application deadlines, and eligibility requirements.",
     "resumeRating": 3,
     "ratingNote": "A useful hands-on Earth and environmental science experience, although it is more research exposure than an independent research placement. Students gain experience with field mapping, environmental sampling, laboratory testing, geological interpretation, and professional scientific instruments.",
@@ -8622,7 +8622,7 @@
       "Research Exposure",
       "Summer Program"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The 2026 Emerging Engineers program runs July 27-31 and is open to rising students in grades 9-12. The program is free and includes hands-on engineering activities, laboratory exposure, interaction with UVA researchers, and specialized tracks including Biomedical Engineering and Materials Science & Engineering.",
     "resumeRating": 3,
     "ratingNote": "A useful free introduction to university engineering and research environments, particularly for younger high school students. It provides hands-on activities and research exposure but is not equivalent to an independent laboratory research internship.",
@@ -8852,7 +8852,7 @@
       "Research Assistant",
       "Research Project"
     ],
-    "applicationType": "Direct Lab Application",
+    "applicationType": "Direct PI/Lab Inquiry",
     "applicationWindow": "The Komor Lab explicitly provides a dedicated application pathway for high school students seeking research internships. Interested students should use the high school internship application linked on the lab's Join page and verify current availability before applying.",
     "resumeRating": 5,
     "ratingNote": "An exceptional individual-lab opportunity because the Komor Lab directly invites high school internship applications rather than merely documenting past high school researchers. The lab conducts advanced genome-editing and chemical-biology research.",
@@ -10820,7 +10820,7 @@
       "Summer Research",
       "Mentorship"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Fordham STEP has historically selected participating high school students for mentored summer research with Fordham faculty, including projects connected to the Louis Calder Center and departments such as biology, chemistry, and psychology. Fordham's STEP program remains active, but students should verify whether a summer research placement component is being offered during the current cycle before applying.",
     "resumeRating": 4,
     "ratingNote": "A strong research pathway for Fordham STEP participants because previous students have completed mentored summer research and presented their work at Fordham research events. Availability of the research-placement component may vary by year.",
@@ -11467,7 +11467,7 @@
       "Summer Program",
       "Mentorship"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Rutgers University's Young Scholars Program in Discrete Mathematics serves mathematically talented high school students through an intensive summer program. The 2026 session ran from July 6 through July 31. Students study advanced topics in discrete mathematics, solve challenging problems, and interact with professional mathematicians. The experience is more focused on advanced mathematical training and research preparation than on completing an original independent research project.",
     "resumeRating": 4,
     "ratingNote": "A rigorous mathematics program offering substantial exposure to discrete mathematics, combinatorics, graph theory, algorithms, and mathematical problem solving. It is best classified as research preparation rather than original research.",
@@ -11582,7 +11582,7 @@
       "Research Exposure",
       "Summer Program"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Yale Summer Session's Engaged Citizenship politics program is a five-week academic experience open to advanced high school students and college students. Participants take two Yale courses and examine politics, democracy, civic responsibility, contemporary political issues, historical debates, and global perspectives while interacting with faculty and guest speakers and participating in field experiences and discussions. This should be considered political-science academic and research exposure rather than an independent research internship.",
     "resumeRating": 4,
     "ratingNote": "A rigorous university political-science experience providing advanced exposure to democracy, government, civic responsibility, and global politics, although it is primarily academic rather than an independent faculty research placement.",
@@ -11619,7 +11619,7 @@
       "Research Exposure",
       "Summer Program"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "UT Arlington's Quest for Community is a free residential summer program for eligible rising high school juniors and seniors from Arlington ISD, with first-generation and underserved students especially encouraged to participate. The program covers housing, meals, tuition, books, and field trips. Students explore political science, government, political philosophy, justice, community, literature, and civic life through college-level reading, writing, discussion, faculty interaction, and community engagement. The 2026 program ran July 13 through July 31.",
     "resumeRating": 4,
     "ratingNote": "A strong and highly accessible political-science enrichment opportunity because the program is fully funded and exposes students to university-level political thought, government, justice, civic life, and analytical writing.",
@@ -11658,7 +11658,7 @@
       "Research Project",
       "Remote Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Bard College's Student Voting, Civil Rights & the Practice of Democracy program is a synchronous online summer course open to advanced high school and college students nationwide. Participants study voting rights and democratic institutions through political and legal case studies, including issues involving the 26th Amendment and youth voting rights. The program provides three transferable undergraduate credits and Voting Rights & Democracy training. Students should verify current dates, tuition, eligibility, and registration information for future cycles.",
     "resumeRating": 4,
     "ratingNote": "A strong political-science and constitutional-policy experience focused on voting rights, civil rights, democracy, and legal-political analysis. It is more academic and policy-analysis oriented than an independent research internship.",
@@ -11809,7 +11809,7 @@
       "Research Exposure",
       "Summer Program"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Rutgers School of Public Health's PHocus program is designed for students in grades 9–12 and introduces participants to public health, population health, and epidemiology through interactive activities and engagement with public-health scientists and practitioners. The 2026 program ran July 27 through July 31 in Piscataway and cost $395, with need-based scholarships available. Students should verify current dates, tuition, scholarship availability, and registration requirements.",
     "resumeRating": 3,
     "ratingNote": "A useful dedicated public-health experience for younger high school students because it introduces epidemiology and population-health concepts directly through a school of public health, though it is primarily research exposure rather than an original research internship.",
@@ -11847,7 +11847,7 @@
       "Remote Research",
       "Summer Program"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The CDC Museum Public Health Academy Online Summer Course is a tuition-free virtual program for eligible rising high school juniors and seniors who are at least 16 years old. Students study epidemiology, disease surveillance, outbreaks, health disparities, global health, laboratory science, environmental health, public-health law, and health communication through synchronous instruction and independent assignments. CDC states that information for the 2027 program will be released in January 2027.",
     "resumeRating": 4,
     "ratingNote": "A strong nationally accessible public-health experience because students receive free instruction connected directly to the CDC across epidemiology, surveillance, outbreaks, global health, environmental health, and public-health communication, although it is not an independent research internship.",
@@ -12039,7 +12039,7 @@
       "Research Project",
       "Summer Program"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "McNeese State University's Summer Engineering Research Academy is open to students entering grades 9–12. The program includes hands-on engineering research and project activities using university equipment under faculty instruction, with a dedicated Chemical Engineering: Clean Water & Energy component. The 2026 two-week academy cost $800, while individual one-week participation cost $500. Students should verify current dates, program tracks, tuition, and registration information for future cycles.",
     "resumeRating": 4,
     "ratingNote": "A solid chemical engineering research-exposure program that gives students hands-on experience with university equipment and projects involving clean water, energy, and environmental engineering, though it is less intensive than an individual faculty-lab internship.",
@@ -13399,7 +13399,7 @@
       "Research Project",
       "Summer Program"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Cornell Tech launched its Summer Innovation Intensives for 2026 for students who are at least 15 years old and have completed sophomore year of high school by the program start date. The three-week program runs July 13 through July 30, 2026 on Cornell Tech's Roosevelt Island campus and focuses on artificial intelligence, ethical coding, data science, entrepreneurial thinking, and technology innovation. The 2026 application period is closed. Students should verify future dates, tuition, financial-aid availability, and eligibility requirements.",
     "resumeRating": 4,
     "ratingNote": "A strong AI and technology experience at Cornell Tech combining artificial intelligence, data science, ethical computing, and applied innovation, although it is more project and innovation focused than an independent faculty research internship.",
@@ -13475,7 +13475,7 @@
       "Research Exposure",
       "Summer Program"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Virginia Tech's UPWARDS TechTrek High School Summer Camp serves rising students in grades 10–12 and focuses on electrical and computer engineering through electronic circuits and FPGA-based digital design. Students move between instruction and hands-on laboratory projects that result in functioning hardware. The 2026 program offered sessions from July 20 through July 31 and August 3 through August 14. Students should verify future dates, tuition, eligibility, and application requirements.",
     "resumeRating": 4,
     "ratingNote": "A strong hardware-focused electrical-engineering experience because students work with FPGA systems, digital logic, circuits, and functioning electronic hardware rather than only receiving classroom instruction.",
@@ -13512,7 +13512,7 @@
       "Engineering Project",
       "Summer Program"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The College of New Jersey's AI & Wireless Communications Camp is a six-day program for high school students focused on electrical and computer engineering. Participants complete hands-on work in university engineering laboratories involving wireless communications, artificial intelligence-enabled technologies, signals, and electronics. The 2026 program ran July 5 through July 10 and listed tuition of $2,200 plus a $40 application fee. Students should verify future dates, costs, financial assistance, and application requirements.",
     "resumeRating": 4,
     "ratingNote": "A solid electrical-engineering exposure program with a useful communications-engineering niche, although it is primarily instructional and project-based rather than an independent faculty research internship.",
@@ -13551,7 +13551,7 @@
       "Research Exposure",
       "Summer Program"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Boston University's Electrical Engineering: Smart Lighting program is offered through BU Summer Challenge. Students build and characterize LED and photodiode circuits, assemble printed circuit boards, use Arduino hardware, experiment with analog and digital modulation, and establish visible-light wireless communication links. Participants maintain engineering laboratory notebooks and conclude with a technical team presentation. Students should verify current Summer Challenge dates, tuition, eligibility, and registration information.",
     "resumeRating": 4,
     "ratingNote": "A technically substantial electrical-engineering project experience because students build circuits and PCBs and implement an actual optical wireless communication link using modulation and embedded hardware.",
@@ -13589,7 +13589,7 @@
       "Engineering Project",
       "Summer Program"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Manhattan University's Electrical & Computer Engineering Summer Program serves rising high school sophomores and juniors. The 2026 program runs July 27 through July 30 and includes hands-on laboratories and engineering challenges involving power and renewable energy, electronic design, artificial intelligence and robotics, cybersecurity, and bioengineering. The program also includes visits to engineering companies and research centers. Early registration was listed at $400, with later registration at $500. Students should verify future dates, costs, and eligibility.",
     "resumeRating": 3,
     "ratingNote": "A useful field-specific electrical and computer engineering exposure program offering hands-on laboratory activities across several ECE areas, although the four-day duration and broad curriculum make it less research-intensive than longer internships.",
@@ -13968,7 +13968,7 @@
       "Research Project",
       "Summer Program"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The University of Florida Whitney Laboratory's SHORE Academy, or Science and Hands On Research Experience, serves students entering grades 10–12 who have completed high school biology, environmental science, or marine science. The program provides hands-on exposure to marine bioscience research at a dedicated university marine laboratory. The 2026 cohort was limited to approximately 12 students, and the one-week program cost $400. Students should verify future dates, tuition, prerequisite coursework, and application requirements.",
     "resumeRating": 4,
     "ratingNote": "A strong short-term marine bioscience experience because students gain hands-on exposure to scientific research inside a dedicated University of Florida marine laboratory, although its one-week duration makes it less intensive than longer internships.",
@@ -14703,7 +14703,7 @@
       "Research Exposure",
       "Summer Research"
     ],
-    "applicationType": "Structured Internship",
+    "applicationType": "Program Application",
     "applicationWindow": "The Smithsonian National Museum of Natural History offers internship opportunities for current high school students in the Washington, D.C. region, including rising sophomores, juniors, and seniors generally between ages 14 and 19. Students gain practical hands-on experience with museum staff and may participate in behind-the-scenes activities, workshops, field trips, collections work, and other museum-science experiences. The museum also provides mentor-guided internship opportunities for advanced high school students, with individual placements varying in research intensity, duration, and potential stipend availability. Students should verify the current internship cycle, age requirements, placement areas, dates, and application deadlines.",
     "resumeRating": 4,
     "ratingNote": "A strong and unusual scientific internship pathway because students work directly within the Smithsonian National Museum of Natural History, although the amount of original research varies substantially by individual placement.",
@@ -14743,7 +14743,7 @@
       "Research Project",
       "Mentorship"
     ],
-    "applicationType": "Structured Internship",
+    "applicationType": "Program Application",
     "applicationWindow": "The Smithsonian Center for Folklife and Cultural Heritage offers internships to high school students, undergraduate and graduate students, and non-students, with most placements taking place in Washington, D.C. Interns complete projects under the guidance of professional staff and may contribute to research for the Smithsonian Folklife Festival, Smithsonian Folkways, the Ralph Rinzler Folklife Archives, cultural sustainability initiatives, educational projects, and other cultural heritage work. Opportunities can involve cultural anthropology, folklore, ethnomusicology, linguistics, archival research, and related humanities and social-science fields. Applicants should verify current projects, dates, eligibility requirements, internship format, and application deadlines.",
     "resumeRating": 4,
     "ratingNote": "A particularly valuable non-STEM research pathway because high school students can work under Smithsonian professional staff on cultural, archival, anthropological, folklife, and ethnomusicological projects, with research intensity depending on the individual placement.",
@@ -16135,7 +16135,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "PREHSS is a competitive five-week in-person research program at the University of Pennsylvania. Students are placed within active Penn research laboratories and assigned individual mentors. Projects may span biology, chemistry, physics, astronomy, linguistics, psychology, and other School of Arts and Sciences disciplines. Participants contribute to current scientific research, develop laboratory and research skills, and present their work at the conclusion of the program. Students should verify current eligibility requirements, program dates, costs or financial aid, research placements, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional high school research opportunity because students are placed directly within active University of Pennsylvania laboratories, receive individual mentorship, contribute to current research, and formally present their work.",
@@ -16174,7 +16174,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The Penn Perelman School of Medicine OER Summer Internship Program places Philadelphia-area high school students into research positions hosted by Penn faculty. Students receive preparation for laboratory research and then spend approximately six weeks conducting hands-on research under the guidance of faculty laboratories, trainees, and staff, followed by an additional clinical-exposure component. Participants also receive professional-development programming throughout the summer. Students are hired and paid by Penn. Penn actively recruited laboratories and mentors for the 2026 cohort. Applicants should verify current geographic and school eligibility, compensation, dates, research placements, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional paid biomedical research internship because high school students are placed directly into University of Pennsylvania faculty laboratories for sustained hands-on research and receive additional clinical and professional-development exposure.",
@@ -16212,7 +16212,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "CHOP-RISES is a research-intensive internship pathway for eligible rising juniors attending Philadelphia public or charter schools. Students must generally be at least 16 years old and legally authorized to work in the United States. CHOP-RISES I provides approximately six weeks of immersive research experience at Children's Hospital of Philadelphia, and students who successfully complete the first program can become eligible for CHOP-RISES II during a second summer. The 2026 cohort ran from June 29 through August 6. Applicants should verify current school, grade, age, work-authorization, program-date, compensation, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional long-term high school research pathway because students receive an immersive research experience at a major pediatric research institution and can continue into a second summer of research.",
@@ -16251,7 +16251,7 @@
       "Research Project",
       "Mentorship"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Penn State GeoPath gives high school students sustained academic-year involvement in geoscience and related STEM research. Each participant is supported through three levels of mentorship: an undergraduate mentor, a graduate student mentor, and a Penn State faculty member. Students join actual research teams and spend approximately two hours per week conducting research with their faculty mentor in addition to approximately four hours per week working with their undergraduate mentor. The program is designed to expand participation in geoscience and related disciplines. Students should verify current geographic, school, eligibility, academic-year schedule, research-area, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional sustained research experience because high school students join actual Penn State research teams for an academic year while receiving undergraduate, graduate, and faculty mentorship.",
@@ -16290,7 +16290,7 @@
       "Research Training",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The Penn Academy for Skin Health is available to eligible students in grades 10 through 12 attending Philadelphia public or charter schools. Participants work with Penn scientists and clinicians while gaining hands-on experience with dermatology and skin-biology research, including real laboratory techniques and research equipment. PASH participants may also become eligible for a paid summer research internship with Penn Dermatology through Penn's OER pathway. Students should verify current school eligibility, dates, program structure, research activities, internship eligibility, and application deadlines.",
     "resumeRating": 4,
     "ratingNote": "A strong department-level research pathway because students gain hands-on dermatology research experience with Penn scientists and clinicians and may progress into a paid summer research internship through Penn's OER program.",
@@ -16328,7 +16328,7 @@
       "Research Training",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Gene Team is a four-week summer biomedical research program for high school students from the Pittsburgh region who have completed at least one year of high school Biology. Previous research experience is not required. Students work full-time Monday through Friday conducting state-of-the-art biomedical research projects with support from University of Pittsburgh faculty and researchers. The program has operated at Pitt since 2006, and the 2026 session ran from June 22 through July 17. Students can participate as early as the summer before sophomore year. Applicants should verify current geographic eligibility, academic prerequisites, program dates, costs or compensation, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional early high school research opportunity because students conduct full-time biomedical laboratory research at the University of Pittsburgh, prior research experience is not required, and students may participate as early as the summer before sophomore year.",
@@ -16367,7 +16367,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Carnegie Mellon's Outreach for Internships in Science program provides Pittsburgh Public Schools high school students with opportunities to participate in scientific and theoretical research. Students are placed into Carnegie Mellon laboratories as members of active research groups rather than participating only in classroom instruction. Research can span experimental, computational, and theoretical areas depending on placement. The summer experience culminates in a research symposium where students present their work to Carnegie Mellon faculty and guests. Access is restricted through the Carnegie Mellon and Pittsburgh Public Schools partnership. Students should verify current school eligibility, research areas, program dates, compensation, and application procedures.",
     "resumeRating": 5,
     "ratingNote": "An exceptional research internship because high school students become members of active Carnegie Mellon research groups and conclude the experience by presenting their work at a university research symposium.",
@@ -16407,7 +16407,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Carnegie Mellon's Bugs as Materials Summer Internship gives high school students hands-on experience at the intersection of biomedical engineering, microbiology, and materials science. Students work alongside Carnegie Mellon graduate students and faculty to investigate and create new materials using microorganisms. Carnegie Mellon documented the program again in January 2026, including former high school participants who worked within the Niepa MicroBioInterface Laboratory and independently optimized research techniques. Access and eligibility may depend on the current program cycle and local partnerships. Students should verify current eligibility, dates, available research projects, application procedures, and compensation before applying.",
     "resumeRating": 5,
     "ratingNote": "An exceptional interdisciplinary research experience because high school students work directly alongside Carnegie Mellon graduate researchers and faculty on living-materials and biomaterials research using microorganisms.",
@@ -16562,7 +16562,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "New Jersey Institute of Technology hosts an Army Educational Outreach Program summer research internship for eligible high school students. The program focuses on optics, photonics, imaging, and biological and environmental sensors. Students conduct hands-on experiments involving light, materials, imaging, and sensor technologies, read scientific literature, interact with scientists and engineers through seminars, and develop research-question and scientific-presentation skills. Eligibility follows current AEOP and NJIT program requirements. Students should verify the current application cycle, grade and citizenship requirements, dates, compensation, research projects, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional specialized research opportunity because high school students gain hands-on university research experience in unusually advanced fields including optics, photonics, imaging, and biological and environmental sensing.",
@@ -16643,7 +16643,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Rutgers Youth Enjoy Science is a research training partnership associated with the Rutgers Cancer Institute of New Jersey that provides research opportunities for high school and undergraduate students. The program supports mentored cancer research and scientific training and is supported through an NIH/NCI R25 grant. Specific eligibility and cohort requirements can vary by cycle. Students should verify the current high school or undergraduate application pathway, eligibility requirements, program dates, compensation or funding, available research placements, and application deadlines before applying.",
     "resumeRating": 5,
     "ratingNote": "A strong NIH/NCI-supported research pathway because high school and undergraduate participants receive mentored training and research experience connected to the Rutgers Cancer Institute of New Jersey.",
@@ -16681,7 +16681,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Princeton University's Department of Computer Science offers a nine-week summer research experience for eligible students attending accredited two- or four-year colleges and universities in New Jersey. Applicants must have completed at least 60 college credits, be at least 18 years old, and meet current citizenship or permanent-residency requirements. Current Princeton students are excluded from this particular program. Participants work closely with Princeton faculty on computer science research projects. The 2026 program ran from June 1 through August 2 and provided $750 per week along with housing and a meal plan. Students should verify current credit, enrollment, citizenship, age, program-date, funding, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional undergraduate research opportunity because eligible New Jersey college students conduct nine weeks of faculty-mentored computer science research at Princeton while receiving substantial weekly compensation, housing, and meals.",
@@ -16720,7 +16720,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "HIP-SAT provides homeschooled high school students with an eight-week summer research internship in MIT or affiliated research laboratories. For 2026, students were assigned individualized frontier-research projects and mentored by PhD students or postdoctoral researchers at MIT or Weill Cornell Medicine. Depending on the project, research may involve wet-lab experimentation, scientific programming, mathematics, theory, literature research, or data analysis. Students participate in research meetings and conclude the program by presenting their findings at an August symposium. Interns were paid $15 per hour for approximately 20 hours per week. Students must be able to commute locally or arrange their own local housing. Applicants should verify current homeschool eligibility, geographic requirements, dates, compensation, research placements, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional research opportunity because high school students receive individualized frontier-research projects in MIT or affiliated laboratories, work directly with PhD or postdoctoral mentors, and receive compensation for their research.",
@@ -16759,7 +16759,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Tufts University Biomedical Engineering Research Scholars is a six-week high school research internship in Tufts Biomedical Engineering laboratories. Students work approximately 35 hours per week investigating biomedical research questions and developing methods for studying cells, tissues, organs, and biomaterials. Participants learn experimental protocols, formulate predictions, test hypotheses, and conduct research with university mentors. The program is free to participants and, for 2026, students were paid $17 per hour under applicable Massachusetts Life Sciences Center eligibility requirements. With principal investigator approval, students may also be encouraged to continue or present their research through science competitions. Applicants should verify current academic, residency, funding, age, program-date, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional biomedical engineering internship because students spend six weeks conducting full-time research inside Tufts laboratories, receive direct research mentorship, pay no program fee, and receive hourly compensation.",
@@ -16798,7 +16798,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Boston University's GROW program individually places eligible rising high school seniors into university research laboratories for six weeks of summer research. Students must attend Massachusetts schools, generally live within 30 miles of Boston, be at least 16 years old, and meet current academic eligibility requirements. Participants work in collaborative laboratory research groups approximately Monday through Friday, meet regularly with program staff to discuss research progress, and present their research at a culminating summer symposium. For 2026, eligible participants could receive a stipend of up to $2,000. Students should verify current residency, school, grade, age, academic, stipend, program-date, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional high school research placement because each participant is individually placed into a Boston University laboratory for six weeks of cutting-edge research and concludes the experience by presenting at a research symposium.",
@@ -16837,7 +16837,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The LEAH Knox Scholars Program is a paid two-year pathway for eligible rising juniors and seniors attending public high schools in Boston, Cambridge, or Everett. Additional socioeconomic and program eligibility requirements apply, and students must generally be at least 16 years old. During the first summer, scholars complete a five-week MIT laboratory course and learn laboratory and quantitative techniques while receiving a stipend. During the second summer, students are placed into research laboratories throughout the Boston and Cambridge area for a six-week research internship. The program is operated with Health Resources in Action and supported by an NIH Science Education Partnership Award. Applicants should verify current school, grade, age, socioeconomic, stipend, program-date, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional longitudinal pathway because students progress from intensive MIT laboratory training into an actual six-week research laboratory internship during their second summer while receiving financial support.",
@@ -16877,7 +16877,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "UMass Amherst Research Intensives provide rising high school juniors and seniors with six weeks of research experience inside professional working laboratories at an R1 research university. Students generally should have a B or better academic record in relevant math and science coursework. Participants work alongside faculty, graduate students, and undergraduates while assisting with ongoing research and conclude by creating and presenting a research poster. Available laboratory areas vary by year and have included neural stem-cell biology, quantum chemistry, fungal genomics, microbiology, plant biology, avian physiology, psychology, food science, and related fields. For 2026, published costs were approximately $7,247 for commuters and $12,813 for residential participants. Applicants should verify current laboratory options, eligibility, tuition, housing, financial assistance, dates, and application deadlines.",
     "resumeRating": 4,
     "ratingNote": "A strong and legitimate university research experience because students work in professional UMass Amherst laboratories alongside active researchers and contribute to ongoing research, though the substantial program cost makes it less accessible than paid or free research internships.",
@@ -16915,7 +16915,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "UConn Health's High School Student Research Apprentice Program provides eligible Connecticut high school students with a five-week paid summer research experience in basic-science or clinical research laboratories at UConn Health and affiliated institutions. For 2026, the program ran from June 15 through July 17 and the application deadline was April 1. Applicants generally must have completed their junior year, be at least 16 years old, attend a Connecticut high school, and meet current program eligibility criteria related to educational or socioeconomic background. Participants conduct mentored research projects in active laboratories and gain exposure to biomedical and clinical research. Students should verify current residency, grade, age, eligibility, compensation, program dates, and application deadlines for future cycles.",
     "resumeRating": 5,
     "ratingNote": "An exceptional paid research opportunity because eligible high school students are placed directly into active biomedical or clinical research environments and conduct mentored projects rather than participating only in classroom-based enrichment.",
@@ -16955,7 +16955,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Wesleyan University's Junior Fellow Summer Program provides eligible high school juniors, seniors, and recent graduates with approximately six weeks of faculty-mentored summer research. Students must generally be at least 16 years old and live in Middletown or the surrounding area. Fellows are assigned to active Wesleyan research laboratories and work alongside faculty members and student researchers while attending laboratory meetings, seminars, and other research activities. Research areas may include biology, chemistry, computer science, earth and environmental sciences, molecular biology and biochemistry, physics, and related disciplines. Participants conclude the experience by presenting their work at a research symposium. Students should verify current age, geographic, academic, program-date, laboratory, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional local research opportunity because students are placed directly into active Wesleyan faculty laboratories across numerous STEM fields and participate in the university's broader research community before presenting their work at a symposium.",
@@ -16994,7 +16994,7 @@
       "Research Training",
       "Remote Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The Yale Center for Clinical Investigation Exposures Program provides high school and college students with remote training in clinical and translational research. High school participants generally must be at least 15 years old. Students learn about clinical research methods and complete an individual or group research project that is presented at a Yale Center for Clinical Investigation research meeting. For 2026, the program ran from July 6 through July 31, with applications opening February 15 and closing April 4. The program was unpaid. Students should verify current age, eligibility, virtual format, dates, project expectations, and application deadlines for future cycles.",
     "resumeRating": 4,
     "ratingNote": "A strong and unusually accessible research opportunity because students can participate remotely while gaining structured exposure to clinical and translational research and completing a research project, although it is less intensive than a full-time laboratory placement.",
@@ -17072,7 +17072,7 @@
       "Research Training",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "UConn's School of Exploratory Chemistry Research Experience & Training, or SECRET, is an intensive high school chemistry research experience involving work with University of Connecticut Chemistry faculty and research laboratories. Students receive laboratory and safety preparation before gaining exposure to research areas that may include organic chemistry, inorganic chemistry, polymers, nanomaterials, computational chemistry, and related fields. The experience is substantially shorter than a traditional multi-week research internship but is designed around direct exposure to university chemistry research and laboratory methods. Students should review the official SECRET site for the current program schedule, eligibility requirements, costs if applicable, research topics, and application deadlines.",
     "resumeRating": 3,
     "ratingNote": "A legitimate hands-on introduction to university chemistry research with exposure to faculty laboratories and several chemistry subfields, although its short duration makes it less substantial than multi-week or semester-long research placements.",
@@ -17111,7 +17111,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The UT Dallas Computer Science Research Program places advanced high school students into individual computer science research groups for intensive summer research. Students generally enter after completing 10th or 11th grade and may spend approximately 20 to 40 hours per week working on research activities depending on their laboratory and project. Projects can involve programming, simulations, software development, data analysis, and other areas of computer science research. For 2026, the laboratory research experience listed a program fee of approximately $1,500, with reduced costs available for qualifying low-income students. Applicants should verify current grade requirements, research areas, time commitments, tuition, financial assistance, dates, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional computer science opportunity because students are placed into active university research environments and spend substantial weekly time contributing to technical projects rather than participating only in classroom-based instruction.",
@@ -17154,7 +17154,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "UT Austin's High School Research Academy provides students with approximately five weeks of research inside active university laboratories. Research areas may include biochemistry, biology, genetics, neuroscience, environmental science, genome engineering, data analytics, ecology, chemistry, materials science, physics, and related fields. Students typically spend approximately 15 to 25 hours per week working with their research group and conclude the program by presenting a research poster. The 2026 program ran from June 8 through July 15, and the next application cycle is expected to open in January 2027. Students should verify current eligibility, available research areas, tuition, financial assistance, program dates, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional multidisciplinary research experience because students work directly within active UT Austin laboratories for several weeks and complete substantial mentored projects culminating in a formal research poster presentation.",
@@ -17272,7 +17272,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The George A. Jeffries NanoExplorers program at UT Dallas gives high school students opportunities to conduct original research at the Alan G. MacDiarmid NanoTech Institute. Participants are integrated into mentor research programs and are treated as much as possible like regular members of active research laboratories. Student projects involve nanotechnology, nanoscience, materials science, engineering, and related research areas. UT Dallas reports that previous NanoExplorers have presented research at scientific conferences and contributed as coauthors to published research. Students should review the official program page for current eligibility requirements, application procedures, research topics, program dates, and deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional nanotechnology research opportunity because students conduct original research as members of active mentor-led projects, with past participants reaching the level of conference presentations and coauthorship on scientific publications.",
@@ -17311,7 +17311,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Johns Hopkins University's Summer Academic Research Experience provides eligible high school students with approximately eight weeks of full-time, hands-on biomedical research. Participants work in active research environments and receive additional training in scientific writing, data analysis, mathematics, and bioethics. For 2026, the program ran from June 22 through August 13 and provided a $3,000 stipend. Johns Hopkins notes that some previous participants have contributed to research resulting in scientific publications. Eligibility is targeted toward students from low-income, educationally under-resourced, or otherwise qualifying backgrounds. Applicants should verify current socioeconomic eligibility, grade requirements, stipend, program dates, research placements, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional biomedical research experience because students spend eight weeks conducting full-time research while receiving structured scientific training and financial support, with some past participants contributing to publishable research.",
@@ -17388,7 +17388,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The Institute for Bioscience and Biotechnology Research offers a limited number of high school research internships for eligible Montgomery County Public Schools students. Students are mentored directly by IBBR scientists while contributing to biotechnology and biomedical research projects. Opportunities may include an approximately eight-week paid summer internship as well as a longer summer-plus-academic-year pathway that can potentially provide summer compensation and MCPS internship credit. Summer participants conclude their research experience with a poster presentation. Applicants should verify current MCPS enrollment requirements, grade eligibility, compensation, internship credit, program dates, mentor availability, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional local biotechnology research opportunity because students work directly with professional IBBR scientists on active projects and can pursue either an intensive paid summer internship or a longer-term research pathway extending into the academic year.",
@@ -17428,7 +17428,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The National Institute on Aging offers summer research opportunities through its intramural research program in Baltimore, providing hands-on experience in aging-related biomedical research. Participants may include eligible high school, undergraduate, graduate, and medical students and work within active NIH research environments under scientific mentorship. Research areas can span the biology of aging, neuroscience, molecular and cellular biology, clinical research, genetics, and related biomedical fields. For the broader 2026 NIA summer internship cycle, applications ran from December 8, 2025 through February 18, 2026. Applicants should verify current age, education level, citizenship or residency requirements, research areas, compensation, program dates, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional biomedical research opportunity because students gain direct experience within the NIH intramural research environment and can contribute to active scientific work focused on aging, disease, neuroscience, and related biological processes.",
@@ -17470,7 +17470,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The NIH Summer Internship Program places eligible students into full-time research groups within the NIH Intramural Research Program. Research opportunities span biology, neuroscience, chemistry, psychology, engineering, computer science, bioinformatics, epidemiology, mathematics, and many other biomedical and quantitative fields. High school eligibility is narrower than in previous versions of the program: students applying while still in high school generally must be seniors who will graduate before the internship begins and must satisfy current NIH age and eligibility requirements. Applicants complete the centralized NIH application and are encouraged to contact principal investigators directly regarding potential laboratory placements. Students should verify current age, graduation, citizenship or residency, compensation, program-date, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional research opportunity because students work full-time inside the NIH Intramural Research Program across an enormous range of scientific disciplines and can directly contact principal investigators to pursue specific laboratory placements.",
@@ -17509,7 +17509,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Johns Hopkins University's Summer Academic Research Experience provides eligible high school students with approximately eight weeks of full-time, hands-on biomedical research. Participants work in active research environments and receive additional training in scientific writing, data analysis, mathematics, and bioethics. For 2026, the program ran from June 22 through August 13 and provided a $3,000 stipend. Johns Hopkins notes that some previous participants have contributed to research resulting in scientific publications. Eligibility is targeted toward students from low-income, educationally under-resourced, or otherwise qualifying backgrounds. Applicants should verify current socioeconomic eligibility, grade requirements, stipend, program dates, research placements, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional biomedical research experience because students spend eight weeks conducting full-time research while receiving structured scientific training and financial support, with some past participants contributing to publishable research.",
@@ -17586,7 +17586,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The Institute for Bioscience and Biotechnology Research offers a limited number of high school research internships for eligible Montgomery County Public Schools students. Students are mentored directly by IBBR scientists while contributing to biotechnology and biomedical research projects. Opportunities may include an approximately eight-week paid summer internship as well as a longer summer-plus-academic-year pathway that can potentially provide summer compensation and MCPS internship credit. Summer participants conclude their research experience with a poster presentation. Applicants should verify current MCPS enrollment requirements, grade eligibility, compensation, internship credit, program dates, mentor availability, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional local biotechnology research opportunity because students work directly with professional IBBR scientists on active projects and can pursue either an intensive paid summer internship or a longer-term research pathway extending into the academic year.",
@@ -17626,7 +17626,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The National Institute on Aging offers summer research opportunities through its intramural research program in Baltimore, providing hands-on experience in aging-related biomedical research. Participants may include eligible high school, undergraduate, graduate, and medical students and work within active NIH research environments under scientific mentorship. Research areas can span the biology of aging, neuroscience, molecular and cellular biology, clinical research, genetics, and related biomedical fields. For the broader 2026 NIA summer internship cycle, applications ran from December 8, 2025 through February 18, 2026. Applicants should verify current age, education level, citizenship or residency requirements, research areas, compensation, program dates, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional biomedical research opportunity because students gain direct experience within the NIH intramural research environment and can contribute to active scientific work focused on aging, disease, neuroscience, and related biological processes.",
@@ -17668,7 +17668,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The NIH Summer Internship Program places eligible students into full-time research groups within the NIH Intramural Research Program. Research opportunities span biology, neuroscience, chemistry, psychology, engineering, computer science, bioinformatics, epidemiology, mathematics, and many other biomedical and quantitative fields. High school eligibility is narrower than in previous versions of the program: students applying while still in high school generally must be seniors who will graduate before the internship begins and must satisfy current NIH age and eligibility requirements. Applicants complete the centralized NIH application and are encouraged to contact principal investigators directly regarding potential laboratory placements. Students should verify current age, graduation, citizenship or residency, compensation, program-date, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional research opportunity because students work full-time inside the NIH Intramural Research Program across an enormous range of scientific disciplines and can directly contact principal investigators to pursue specific laboratory placements.",
@@ -17706,7 +17706,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Fred Hutchinson Cancer Center's Summer High School Internship Program provides eligible students entering senior year with an eight-week, full-time paid biomedical research experience. The first two weeks focus on laboratory safety, research techniques, and scientific preparation before students spend approximately six weeks embedded in Fred Hutch research groups under individual mentorship. Participants conclude the experience by presenting their research. For 2026, the program ran from June 22 through August 14. Applicants must generally be at least 16 years old, be entering their senior year of high school, and currently live in the Greater Seattle area or surrounding eligible communities. Fred Hutch does not accept out-of-state students for this program. Applicants should verify current geographic, grade, age, compensation, program-date, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional biomedical research internship because students spend six weeks embedded directly in active Fred Hutch research groups after receiving intensive laboratory preparation, while also receiving compensation and presenting their research.",
@@ -17744,7 +17744,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The University of Washington BRIGHT-UP program provides eligible high school students with approximately seven weeks of intensive biomedical research experience. Participants begin with approximately one week of biomedical research training before spending six weeks in a University of Washington research laboratory. Students work with scientists to develop and conduct research projects using specialized laboratory techniques and conclude the experience by presenting their findings at a research symposium. Participants may work approximately 30 to 40 hours per week and are paid at applicable minimum-wage rates. The program is designed particularly for students from financially or educationally disadvantaged or underrepresented backgrounds. Recruitment for 2026 is closed, with the next program cycle expected for summer 2027. Applicants should verify current socioeconomic, geographic, grade, compensation, program-date, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional biomedical research experience because students receive intensive scientific preparation followed by six weeks embedded in active University of Washington laboratories while receiving compensation and completing a research presentation.",
@@ -17783,7 +17783,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The University of Washington Friday Harbor Laboratories Young Investigator Prize provides an exceptional local high school junior with an approximately eight-week, full-time summer research assistant position at Friday Harbor Laboratories. The selected student works within an active marine science research environment and gains direct experience contributing to scientific research. For 2026, the award included a $5,200 cash prize and applications required materials including a transcript, two recommendations, and an essay. The 2026 application deadline was April 24. Because the opportunity is highly selective and geographically focused, prospective applicants should verify current local eligibility requirements, grade level, research placement, award amount, program dates, and application deadline.",
     "resumeRating": 5,
     "ratingNote": "An exceptional marine-science opportunity because a high school student receives an intensive eight-week full-time research assistantship at a major marine laboratory along with substantial financial support and direct exposure to active scientific research.",
@@ -17822,7 +17822,7 @@
       "Research Training",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Seattle Children's Research Training Program provides current 10th- and 11th-grade students living within commuting distance of downtown Seattle with approximately four weeks of intensive biomedical research training and project work. Students learn laboratory techniques and explore research areas that may include biochemistry, immunotherapy, gene editing, infectious disease, public health, and global health before conducting an independent research project. For 2026, the program ran from July 13 through August 7, accepted approximately 24 students, charged no tuition, and provided participants with a $2,000 stipend. Applicants should verify current geographic, grade, age, stipend, program-date, research-topic, and application requirements.",
     "resumeRating": 4,
     "ratingNote": "A strong biomedical research experience because students receive hands-on laboratory training and complete independent projects while receiving financial support, although the four-week format is shorter and more structured than longer individual laboratory placements.",
@@ -17901,7 +17901,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "OHSU's Knight Cardiovascular Internship for High School Students provides eligible Oregon high school students with exposure to cardiovascular science through a dedicated research track. Applicants generally must be at least 16 years old, with preference given to current 10th- and 11th-grade students. Research-track participants may receive training in wet-laboratory and analytical methods including cell culture, spectroscopy, fluorescence microscopy, immunostaining, organic synthesis and purification, data analysis, image-analysis programming, experimental planning, and troubleshooting. For 2026, the application deadline was April 6. Students should verify current Oregon residency, grade, age, research-track availability, program dates, compensation, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional cardiovascular research opportunity because high school students can enter a dedicated research track involving advanced wet-laboratory, imaging, analytical, and experimental methods within an active academic medical research environment.",
@@ -17941,7 +17941,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "OHSU School of Dentistry's Summer Research Internship provides eligible students, including high school students age 16 and older, with at least eight weeks of mentored research in dental, oral, craniofacial, and related biomedical fields. Interns receive individual research mentorship, focus on research projects throughout the summer, and present their findings at the conclusion of the experience. Paid research pathways may be available depending on the current program structure and eligibility. For 2026, the summer internship ran from June 22 through August 14. The application for the 2027 program is expected to open in November 2026. Applicants should verify current age, education-level, compensation, research-area, program-date, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional niche biomedical opportunity because high school students are explicitly eligible for substantial individually mentored research in dental, oral, and craniofacial science and conclude the experience by presenting their research.",
@@ -18023,7 +18023,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "OHSU's STEMPrep Internship Program provides selected students with approximately eight to ten weeks of basic-science research experience. Eligibility begins with incoming high school juniors and extends through eligible college students. Participants are matched with OHSU research laboratories and conduct hypothesis-driven projects under mentorship from faculty members, postdoctoral researchers, graduate students, and other scientists. Students receive wet-bench and research-fundamentals training as well as clinical mentorship and conclude the program with oral and poster research presentations. Housing at Portland State University may be provided for program participants. Applicants should verify current grade, eligibility, housing, compensation, research-placement, program-date, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional biomedical research opportunity because students spend eight to ten weeks conducting hypothesis-driven research inside OHSU laboratories while receiving multiple layers of scientific mentorship, research training, and opportunities to present their work.",
@@ -18061,7 +18061,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The Ted R. Lilley Summer CURE Research Program at OHSU provides hands-on cancer and biomedical research experience for eligible Portland-area high school students. The program is designed for academically strong high school sophomores, juniors, and seniors who are generally at least 16 years old and come from socially or economically disadvantaged backgrounds. Participants gain direct exposure to biomedical and cancer research through OHSU and the Knight Cancer Institute while receiving mentorship intended to expand access to scientific and health-research careers. Applicants should verify current Portland-area eligibility, grade, age, socioeconomic criteria, research placements, program dates, compensation, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional cancer-research opportunity for eligible local students because participants receive hands-on biomedical research experience within OHSU and the Knight Cancer Institute while gaining direct mentorship and exposure to active cancer science.",
@@ -18101,7 +18101,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Wayne State University's Discovery to Cure Summer Internship Program provides high school students with approximately eight weeks of intensive biomedical research in laboratories of the C.S. Mott Center for Human Growth and Development. High school applicants must generally be rising seniors and at least 16 years old. Participants spend approximately 40 hours per week conducting research under the mentorship of a principal investigator, postdoctoral researcher, research assistant, or other scientist. Research areas may include reproductive biology, immunology, oncology, toxicology, prenatal medicine, and precision medicine. For 2026, the program ran from June 22 through August 14 and concluded with Research Presentation Day. Applicants should verify current age, grade, research-area, transportation, program-date, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional biomedical research opportunity because students spend eight weeks working approximately full-time in active Wayne State laboratories under direct scientific mentorship and conclude the experience by presenting their research.",
@@ -18140,7 +18140,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Michigan State University's St. Andrews Summer Research Experience provides high school juniors and seniors with hands-on research in applied chemistry and materials science. Students are mentored by active researchers while completing real-world projects with potential industry applications. Participants may use advanced laboratory equipment to identify and characterize chemical compounds, fabricate and physically test 3D-printed materials, and collaborate in research teams. The experience culminates in a research poster presentation, and students are encouraged to present their work at science fairs. For 2026, applications were due May 1. Transportation and housing are not provided, and participants must attend the program in person at MSU St. Andrews in Midland. Applicants should verify current dates, eligibility, research topics, costs or compensation, and application requirements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional applied-science opportunity because high school students conduct real-world chemistry and materials research with active scientists, gain experience with sophisticated instrumentation, and present their results through a research poster.",
@@ -18178,7 +18178,7 @@
       "Mentorship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The Henry Ford Health Department of Surgery High School Mentorship Program culminates in a seven-week paid summer internship for selected Detroit-area high school students. Interns receive a $1,000 stipend and are paired one-to-one with professional healthcare mentors based on their interests. The broader program exposes students to areas including medicine, surgery, nursing, healthcare research, and healthcare administration through hands-on experiences and professional mentorship. The 2026 application period closed April 30. Because individual internship experiences depend on mentor placement, dedicated laboratory or clinical research is not guaranteed for every participant. Students should verify current geographic eligibility, internship dates, stipend, mentor areas, and application requirements.",
     "resumeRating": 4,
     "ratingNote": "A strong paid healthcare internship with substantial one-to-one professional mentorship and exposure to medicine and research, although individual placements vary and dedicated research is not guaranteed for every participant.",
@@ -18216,7 +18216,7 @@
       "Mentorship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Henry Ford Health's RYSE MED program is a year-long healthcare and research experience beginning with an intensive six-week summer immersion at Henry Ford Hospital. Eligible high school students generally must be at least 16 years old by the program start date, be current 10th- or 11th-graders at application, and live in or attend high school in Metro Detroit. Students interact with physicians, nurses, researchers, healthcare administrators, and other professionals while exploring community health and medical research. Participants conduct research on a community-health topic and create a group presentation delivered to healthcare professionals and community members. Following the summer component, students continue meeting with mentors and program staff during the academic year. Applications for the 2026-2027 cohort are closed, with information for the 2027-2028 cohort expected in the new year. Applicants should verify current eligibility, GPA requirements, dates, compensation, and application requirements.",
     "resumeRating": 4,
     "ratingNote": "A strong longitudinal health-research and mentorship opportunity because students conduct a community-health research project while developing sustained relationships with researchers and clinicians, although it is broader than a dedicated laboratory research internship.",
@@ -18253,7 +18253,7 @@
       "Research Training",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Oakland University's Introduction to Quantum Physics and Research Opportunities program provides advanced high school students with an intensive introduction to quantum and atomic physics. For 2026, the program ran from June 22 through July 2 and was open to rising juniors, rising seniors, and graduating seniors who had earned an A or B in AP Calculus or equivalent IB mathematics. Participants attend lectures on foundational quantum physics, observe laboratory demonstrations, and hear Oakland University physics faculty discuss their current scientific research. The program also introduces students to potential research opportunities for high school students, although an individual research placement is not guaranteed. The 2026 registration fee was $300, with need-based scholarships available. Applicants should verify current dates, prerequisites, tuition, scholarship availability, and research opportunities.",
     "resumeRating": 3,
     "ratingNote": "A useful advanced physics research-training experience because students engage with university-level quantum physics, laboratory demonstrations, and active faculty research, although the program does not guarantee an individual research project or laboratory placement.",
@@ -18291,7 +18291,7 @@
       "Research Training",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The University of New Hampshire InterOperability Laboratory HighTech Bound Internship provides rising high school seniors with approximately five weeks of intensive, paid experience in computer networking, engineering, and related technologies. Participants work in the UNH-IOL environment and gain hands-on experience with current networking and computing technologies alongside university and industry-connected technical professionals. For 2026, the program ran from July 6 through August 7, Monday through Friday from approximately 9:00 AM to 5:00 PM. The 2026 application cycle is closed. Prospective applicants should verify current grade requirements, compensation, program dates, technical activities, and application deadlines for future cycles.",
     "resumeRating": 5,
     "ratingNote": "A highly valuable technical internship because rising high school seniors spend five weeks working full-time in UNH's InterOperability Laboratory environment while gaining paid hands-on experience with advanced computer networking and engineering technologies.",
@@ -18366,7 +18366,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The New Hampshire INBRE iSURF program provides eligible undergraduate students with an intensive summer biomedical research experience through Dartmouth and the broader NH-INBRE network. Participants conduct sustained mentored research rather than completing a traditional classroom-based summer course and participate in the New Hampshire biomedical research community. For 2026, the summer research period began June 15 and continued through August, culminating around the NH-INBRE Annual Meeting on August 17 and 18. Application materials include academic information such as transcripts and recommendations. Prospective students should verify current institutional eligibility, research placements, compensation, program dates, housing or transportation arrangements, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional undergraduate summer research opportunity because participants complete sustained mentored biomedical research through the Dartmouth-affiliated NH-INBRE network and engage with a broader statewide scientific community.",
@@ -18405,7 +18405,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Dartmouth Precollege's Research and Lab Work in Medicine course provides high school students with approximately two weeks of intensive biomedical research training. Participants work with Dartmouth faculty, researchers, and medical professionals while learning laboratory techniques, experimental design, research ethics, and scientific concepts involving areas such as cell biology, genetics, neuroscience, and translational medicine. Students explore how discoveries move from basic scientific research toward clinical applications and conclude the experience with a group presentation. For 2026, the course ran from July 26 through August 7. This is a structured research-training experience rather than an individual laboratory internship. Applicants should verify current dates, eligibility, tuition, housing, course content, and application requirements.",
     "resumeRating": 3,
     "ratingNote": "A useful biomedical research-training opportunity because high school students gain hands-on exposure to laboratory techniques, experimental design, and active Dartmouth researchers, although the two-week course does not provide the depth of an individual multi-week laboratory placement.",
@@ -18444,7 +18444,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Dartmouth Precollege's Psychology and Cognitive Neuroscience course introduces high school students to experimental psychology and neuroscience research. Participants engage with topics such as memory, attention, cognition, and brain function while gaining exposure to research methods used by psychologists and neuroscientists. Activities may include participation in memory and attention experiments, analysis of neuroscience datasets, interactions with Dartmouth researchers, and exposure to university psychology and neuroscience research facilities. The experience is research-oriented training rather than an individual laboratory internship. Students should verify current session dates, eligibility, tuition, housing, course activities, and application requirements through Dartmouth Precollege.",
     "resumeRating": 3,
     "ratingNote": "A useful psychology and neuroscience research-training experience because students participate in experimental activities, analyze scientific data, and interact with active Dartmouth researchers, although it does not provide an independent long-term research placement.",
@@ -18711,7 +18711,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The Wake Forest Institute for Regenerative Medicine Summer Research Exposure Program provides eligible North Carolina high school students with approximately four weeks of faculty-mentored exposure to regenerative medicine and biomedical research. Applicants generally must be between 16 and 18 years old. Participants gain experience within the Wake Forest Institute for Regenerative Medicine research environment and interact with scientists working in areas such as regenerative medicine, tissue engineering, biomedical science, and related translational research. For 2026, the program ran from June 22 through July 17 and was expected to enroll approximately eight to ten students. Applicants should verify current North Carolina eligibility, age and grade requirements, research activities, compensation or costs, program dates, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "An exceptional specialized biomedical opportunity because a very small cohort of high school students gains sustained exposure to faculty-mentored regenerative medicine research within a major academic research institute.",
@@ -18788,7 +18788,7 @@
       "Research Training",
       "Remote Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The UNC Nutrition Research Institute Virtual Internship Program provides selected high school students with remote research experience focused on nutrition, biomedical science, and public health. Participants learn to read and evaluate scientific literature, work in pairs to investigate nutrition-related research questions, synthesize evidence, and develop professional scientific posters that are presented to Nutrition Research Institute faculty and staff. Research topics may include the gut microbiome, fetal development, cardiovascular health, disease prevention, and related areas. In 2026, 54 students were selected from more than 250 applicants. Because the program is virtual and literature-based, it does not provide a wet-laboratory placement. Applicants should verify current grade eligibility, program dates, costs or compensation, research topics, and application requirements.",
     "resumeRating": 4,
     "ratingNote": "A strong and accessible virtual research opportunity because students investigate genuine scientific questions, evaluate research literature, and produce and present professional research posters, although the program does not include hands-on laboratory research.",
@@ -19328,7 +19328,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Cleveland Clinic Research offers eligible students, including high school students age 16 and older, an approximately ten-week summer research internship providing hands-on experience in biomedical research. Participants may work within active Cleveland Clinic laboratories and research groups under scientific mentorship. Cleveland Clinic also maintains a separate pathway allowing high school students to independently arrange research experiences with individual principal investigators, including during the academic year or when students have a specific laboratory of interest. Applicants should verify current age and education requirements, research areas, compensation, summer internship dates, application deadlines, and any separate procedures for independently arranged PI placements.",
     "resumeRating": 5,
     "ratingNote": "An exceptional biomedical research opportunity because students can pursue an intensive ten-week summer internship and Cleveland Clinic additionally supports independently arranged research placements with individual investigators.",
@@ -19366,7 +19366,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Cleveland Clinic's Research Intensive Summer Experience provides eligible high school students with approximately eight weeks of biomedical and translational research experience. For 2026, the program ran from June 8 through July 31 and required approximately 25 hours per week. Participants engage with active research while attending scientific seminars, networking with Cleveland Clinic researchers, exploring research facilities, learning about scientific careers, and participating in research presentations or symposium activities. Students generally must be at least 16 years old, and additional eligibility restrictions may apply, including school-specific requirements connected to the Cleveland School of Science and Medicine. Applicants should verify current school eligibility, age, research activities, compensation, program dates, and application deadlines.",
     "resumeRating": 5,
     "ratingNote": "A strong and research-intensive biomedical opportunity because students combine sustained project involvement with scientific seminars, researcher networking, facility exposure, and formal research communication within Cleveland Clinic.",
@@ -19870,7 +19870,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Teacher-Nominated Program",
+    "applicationType": "Teacher Nomination",
     "applicationWindow": "The CU Anschutz START Program provides selected students entering 11th grade with two consecutive summers of intensive cancer and biomedical research at the Anschutz Medical Campus. Participants spend approximately seven weeks each summer working weekdays from about 9:00 AM to 4:00 PM in research and educational activities. The program is free and provides lunch, a $5,500 stipend per summer, and an additional daily per diem. Students also complete biotechnology coursework and cooperative biology research that can provide approximately eight transferable college credits. Students do not apply independently; participating teachers select eligible students for the program. Applicants and families should verify current teacher-participation requirements, school eligibility, grade and age requirements, stipend, college credit, research placements, program dates, and nomination procedures.",
     "resumeRating": 5,
     "ratingNote": "An exceptional longitudinal biomedical opportunity because students complete two summers of intensive cancer research, receive substantial financial support and college credit, and gain sustained experience within a major academic medical research center.",
@@ -20257,7 +20257,7 @@
       "Internship",
       "Summer Research"
     ],
-    "applicationType": "Partner School Program",
+    "applicationType": "Partner Organization",
     "applicationWindow": "Vanderbilt University's SHIRE program provides selected high school students with mentored summer research experiences alongside Vanderbilt scientists. Eligibility is restricted to students already participating in Vanderbilt's Interdisciplinary Science and Research program at designated partner schools, including John Overton High School, Stratford STEM Magnet School, and Hillsboro High School. Current application and placement information is distributed through participating ISR teachers and Vanderbilt researchers rather than through a general public application. Research areas vary depending on faculty mentor availability and active projects. Students should verify current partner-school eligibility, grade requirements, research areas, compensation, program dates, and selection procedures through their ISR teachers and Vanderbilt.",
     "resumeRating": 5,
     "ratingNote": "An exceptional research opportunity for eligible partner-school students because participants gain direct summer research experience with Vanderbilt scientists, although access is highly restricted to students already enrolled in the university's ISR partner-school pathway.",
@@ -21336,7 +21336,7 @@
       "Research Project",
       "Summer Research"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "The University of Delaware CHARM HighRise program partners with local organizations serving high school students to provide immersive materials-science laboratory experiences. Participants gain hands-on exposure to materials research, experimental techniques, characterization, and the scientific questions studied within an NSF Materials Research Science and Engineering Center. The confirmed 2026 program runs from July 6 through July 17. Because participation may be coordinated through partner organizations, students should verify current geographic eligibility, partner requirements, program costs or compensation, research activities, dates, and application procedures.",
     "resumeRating": 4,
     "ratingNote": "A strong hands-on materials-science experience because students work in university research environments and gain exposure to modern materials laboratory techniques, although the two-week duration is shorter than a full summer research internship.",
@@ -21489,7 +21489,7 @@
       "Research Training",
       "Mentorship"
     ],
-    "applicationType": "Structured Program",
+    "applicationType": "Program Application",
     "applicationWindow": "Stanford Medicine's Harris Neuroscience Internship provides high school students with an academic-year neuroscience and neurosurgery research mentorship experience. The internship runs approximately from September through May and connects students with Stanford scientists and physicians while providing opportunities for scholarly activities related to neuroscience and neurosurgery. For the 2026-2027 program, applicants must be high school students during the academic year and be located within the United States. The 2026 application period ran from January 12 through February 15 and required a recommendation from a mathematics or science teacher. Students should verify current application dates, program format, meeting schedule, eligibility, and research activities for future cohorts.",
     "resumeRating": 5,
     "ratingNote": "An exceptional longitudinal neuroscience opportunity because high school students receive sustained mentorship from Stanford scientists and participate in neuroscience and neurosurgery-focused scholarly activities across an academic year.",
