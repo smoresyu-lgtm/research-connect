@@ -226,7 +226,98 @@ function normalizeApplicationType(originalType) {
   ) {
     return "Direct PI/Lab Inquiry";
   }
+  // --------------------------------------------------
+  // SECOND-PASS CLEANUP FOR REMAINING LEGACY TYPES
+  // --------------------------------------------------
 
+  // Structured programs, internships, fellowships,
+  // placements, mentorships, apprenticeships, etc.
+  if (
+    lower.includes("structured research program") ||
+    lower.includes("structured lab placement") ||
+    lower.includes("structured research internship") ||
+    lower.includes("structured research fellowship") ||
+    lower.includes("structured research apprenticeship") ||
+    lower.includes("structured lab internship") ||
+    lower.includes("structured fellowship") ||
+    lower.includes("structured research mentorship") ||
+    lower.includes("structured research placement") ||
+    lower.includes("structured faculty research placement") ||
+    lower.includes("structured faculty research program") ||
+    lower.includes("structured mentorship program") ||
+    lower.includes("structured placement program") ||
+    lower.includes("pre-freshman research program") ||
+    lower.includes("department research program") ||
+    lower.includes("educator team program") ||
+    lower.includes("outreach program") ||
+    lower.includes("community research program") ||
+    lower.includes("community-based research program") ||
+    lower.includes("individual lab program") ||
+    lower.includes("lab research pathway") ||
+    lower.includes("research apprenticeship") ||
+    lower.includes("independent research pathway") ||
+    lower.includes("program-linked")
+  ) {
+    return "Program Application";
+  }
+
+  // Direct contact with a professor, lab, researcher,
+  // department, or research group.
+  if (
+    lower === "direct inquiry" ||
+    lower.includes("direct inquiry /") ||
+    lower.includes("direct professor email") ||
+    lower.includes("direct research internship") ||
+    lower.includes("faculty sponsorship") ||
+    lower.includes("researcher coordination") ||
+    lower.includes("research collaboration") ||
+    lower.includes("individual faculty lab internship") ||
+    lower.includes("research group inquiry")
+  ) {
+    return "Direct PI/Lab Inquiry";
+  }
+
+  // School or external-partner pathways
+  if (
+    lower.includes("school-based placement") ||
+    lower.includes("school partnership") ||
+    lower.includes("partner institution program")
+  ) {
+    return "Partner Organization";
+  }
+
+  // Researcher matching
+  if (
+    lower.includes("researcher matching")
+  ) {
+    return "Research Matching";
+  }
+
+  // Faculty placement / matching
+  if (
+    lower.includes("faculty research placement") ||
+    lower.includes("faculty-supervised placement")
+  ) {
+    return "Faculty Matching";
+  }
+
+  // Individual lab application
+  if (
+    lower.includes("individual lab application")
+  ) {
+    return "Direct Application";
+  }
+
+  // These do not really describe an application method,
+  // so treat them as an open inquiry rather than creating
+  // a separate filter category.
+  if (
+    lower === "availability dependent" ||
+    lower.includes("eligibility verification required")
+  ) {
+    return "Open Inquiry";
+  }
+  
   // Don't guess if nothing matched.
   return null;
 }
