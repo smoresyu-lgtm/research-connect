@@ -91,12 +91,6 @@ A few rules to keep it working:
 [jsonlint.com](https://jsonlint.com) — it'll tell you exactly where a comma or bracket
 is missing.
 
-### Using AI to help you find new listings
-Each week, you can ask an AI assistant (like me) to search for current professors
-looking for student researchers, and ask it to hand the results back to you in the
-exact JSON format above so you can paste them straight into `data.json`. Always
-double-check a listing (does the professor's page still exist? is the email right?)
-before publishing — treat the AI's list as a first draft.
 
 ## Publishing it for free with GitHub Pages
 
