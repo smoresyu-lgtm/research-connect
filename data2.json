@@ -29518,5 +29518,645 @@
   "applyUrl": "https://as.tufts.edu/biology/research/undergraduate-research-opportunities",
   "dateAdded": "2026-10-25",
   "listingType": "Professor Prospect"
-}
+},
+  
+[
+  {
+    "id": 1380,
+    "name": "Fei Xia Research Lab",
+    "title": "Neuroengineering and Bioelectronics Research",
+    "university": "University of California, Irvine",
+    "state": "California, USA",
+    "department": "Engineering",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "neuroengineering",
+      "bioelectronics",
+      "optoelectronics",
+      "instrumentation",
+      "neuroscience"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project"
+    ],
+    "applicationType": "Direct PI/Lab Inquiry",
+    "resumeRating": 5,
+    "description": "The Xia Lab explicitly welcomes high school, undergraduate, and masters students to inquire about research. High school applicants may ask about opportunities outside its OPALS pathway. The lab currently highlights experience in animal models, cell culture and optoelectronic instrumentation as especially relevant; such experience is not stated as a universal prerequisite. Email the PI or use the inquiry form; placement is not guaranteed.",
+    "email": "fei.xia@uci.edu",
+    "labUrl": "https://www.xia-lab.com/openings",
+    "applyUrl": "",
+    "dateAdded": "2026-10-25",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 1381,
+    "name": "FaST Lab Summer Research Internship",
+    "title": "High School Summer Research Internship",
+    "university": "University of Tennessee, Knoxville",
+    "state": "Tennessee, USA",
+    "department": "Food Science",
+    "field": "Food Science",
+    "tags": [
+      "food science",
+      "laboratory research",
+      "summer internship",
+      "food safety",
+      "applied research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Program Application",
+    "resumeRating": 4,
+    "description": "The FaST Lab describes a summer research internship for high school students involving food science research. Students interested in applying should consult the lab's official internship information for current eligibility, project availability and application instructions. The next application cycle has not been confirmed.",
+    "email": "",
+    "labUrl": "https://foodscience.tennessee.edu/",
+    "applyUrl": "",
+    "dateAdded": "2026-10-25",
+    "listingType": "Program"
+  },
+  {
+    "id": 1382,
+    "name": "Yale Forests Student Research",
+    "title": "Forest Ecology and Environmental Research",
+    "university": "Yale University",
+    "state": "Connecticut, USA",
+    "department": "Yale School of the Environment",
+    "field": "Ecology",
+    "tags": [
+      "forest ecology",
+      "environmental science",
+      "field research",
+      "forestry",
+      "conservation",
+      "ecosystems"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Open Inquiry",
+    "resumeRating": 4,
+    "description": "Yale Forests provides educational and research opportunities connected to forest ecology, conservation and environmental science. Students may inquire about possible research involvement, field activities or mentorship. Specific high school placement availability, supervision and eligibility should be confirmed before treating an inquiry as an accepted research position.",
+    "email": "",
+    "labUrl": "https://forests.yale.edu/",
+    "applyUrl": "",
+    "dateAdded": "2026-10-25",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 1383,
+    "name": "Beaury Lab — New York Botanical Garden",
+    "title": "Invasion Ecology and Conservation Research",
+    "university": "New York Botanical Garden",
+    "state": "New York, USA",
+    "department": "Plant Research and Conservation",
+    "field": "Ecology",
+    "tags": [
+      "invasion ecology",
+      "plant biology",
+      "conservation",
+      "biodiversity",
+      "ecological research",
+      "data analysis"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project"
+    ],
+    "applicationType": "Cold Email",
+    "resumeRating": 4,
+    "description": "The Beaury Lab studies plant invasions, ecological change and conservation. Students interested in contributing to research can investigate the group's current projects and inquire about mentorship or research-assistant possibilities. A currently open high school position has not been confirmed, so this should be treated as an outreach prospect rather than a guaranteed internship.",
+    "email": "",
+    "labUrl": "https://www.nybg.org/",
+    "applyUrl": "",
+    "dateAdded": "2026-10-25",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 1384,
+    "name": "Monell Chemical Senses Research",
+    "title": "Chemical Senses and Behavioral Research",
+    "university": "Monell Chemical Senses Center",
+    "state": "Pennsylvania, USA",
+    "department": "Chemical Senses Research",
+    "field": "Neuroscience",
+    "tags": [
+      "neuroscience",
+      "taste",
+      "smell",
+      "sensory biology",
+      "behavior",
+      "chemical senses",
+      "biomedical research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Open Inquiry",
+    "resumeRating": 4,
+    "description": "Monell Chemical Senses Center conducts interdisciplinary research on taste, smell and related sensory processes. High school students interested in research should consult the center's official student opportunity pages and inquire about applicable programs. Participation requirements and current openings may differ by program.",
+    "email": "",
+    "labUrl": "https://monell.org/",
+    "applyUrl": "",
+    "dateAdded": "2026-10-25",
+    "listingType": "Program"
+  },
+  {
+    "id": 1385,
+    "name": "Alley Pond Field Biology Internship",
+    "title": "Environmental Field Biology Internship",
+    "university": "Alley Pond Environmental Center",
+    "state": "New York, USA",
+    "department": "Environmental Education",
+    "field": "Environmental Science",
+    "tags": [
+      "field biology",
+      "ecology",
+      "environmental education",
+      "conservation",
+      "fieldwork",
+      "biodiversity"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Summer Research"
+    ],
+    "applicationType": "Program Application",
+    "resumeRating": 3,
+    "description": "Alley Pond Environmental Center offers a field-oriented educational internship involving local environmental science, ecology and conservation activities. The program lists a $250 participation fee, with financial assistance available. Applicants should confirm current dates, eligibility and whether their specific placement involves independent research or primarily environmental education.",
+    "email": "",
+    "labUrl": "https://www.alleypond.org/",
+    "applyUrl": "",
+    "dateAdded": "2026-10-25",
+    "listingType": "Program"
+  },
+  {
+    "id": 1386,
+    "name": "UNC Fry Lab FRESH Outcomes",
+    "title": "Environmental Health and Community Research",
+    "university": "University of North Carolina at Chapel Hill",
+    "state": "North Carolina, USA",
+    "department": "Environmental Sciences and Engineering",
+    "field": "Environmental Science",
+    "tags": [
+      "environmental health",
+      "public health",
+      "community research",
+      "environmental exposures",
+      "health disparities",
+      "research mentorship"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Open Inquiry",
+    "resumeRating": 4,
+    "description": "The Fry Lab's FRESH-related work connects environmental health research with community engagement and research training. Interested high school students should confirm whether the current project has a student participation pathway, applicable geographic restrictions and an open recruitment process. It should not be interpreted as an automatically available laboratory position.",
+    "email": "",
+    "labUrl": "https://sph.unc.edu/",
+    "applyUrl": "",
+    "dateAdded": "2026-10-25",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 1387,
+    "name": "Turnbaugh Lab Summer Research Pathway",
+    "title": "Microbiome and Biomedical Science Research",
+    "university": "University of California, San Francisco",
+    "state": "California, USA",
+    "department": "Microbiology and Immunology",
+    "field": "Microbiology",
+    "tags": [
+      "microbiome",
+      "microbiology",
+      "biomedical research",
+      "genomics",
+      "gut bacteria",
+      "summer research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Cold Email",
+    "resumeRating": 4,
+    "description": "The Turnbaugh Lab conducts microbiome research involving microorganisms and host biology. Students may explore the lab's research and relevant UCSF student research pathways. A currently open high school-specific placement has not been verified, and prospective applicants should not assume that the lab recruits high school students directly.",
+    "email": "",
+    "labUrl": "https://turnbaughlab.ucsf.edu/",
+    "applyUrl": "",
+    "dateAdded": "2026-10-25",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 1388,
+    "name": "UCI Blum Center Summer Scholars",
+    "title": "Public Health and Community Research Experience",
+    "university": "University of California, Irvine",
+    "state": "California, USA",
+    "department": "Blum Center",
+    "field": "Public Health",
+    "tags": [
+      "public health",
+      "community research",
+      "health equity",
+      "mentorship",
+      "summer program",
+      "social science"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Summer Research",
+      "Mentorship"
+    ],
+    "applicationType": "Program Application",
+    "resumeRating": 3,
+    "description": "The UCI Blum Center is associated with interdisciplinary education and community-focused initiatives. The current existence, high school eligibility and availability of a Summer Scholars research pathway have not been fully verified. This listing requires confirmation from an official current program announcement before publication as an available opportunity.",
+    "email": "",
+    "labUrl": "https://blumcenter.uci.edu/",
+    "applyUrl": "",
+    "dateAdded": "2026-10-25",
+    "listingType": "Program"
+  },
+  {
+    "id": 1389,
+    "name": "Tennessee Center for Environmental Biotechnology",
+    "title": "Environmental Biotechnology Research",
+    "university": "University of Tennessee, Knoxville",
+    "state": "Tennessee, USA",
+    "department": "Environmental Biotechnology",
+    "field": "Biotechnology",
+    "tags": [
+      "environmental biotechnology",
+      "microbiology",
+      "environmental science",
+      "bioremediation",
+      "laboratory research",
+      "sustainability"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Cold Email",
+    "resumeRating": 3,
+    "description": "Environmental biotechnology research at the University of Tennessee may involve microorganisms, biological systems and environmental applications. A specific current high school research opportunity associated with this center has not been verified. Students should confirm that the relevant research group is active and accepts inquiries before pursuing this listing.",
+    "email": "",
+    "labUrl": "https://www.utk.edu/",
+    "applyUrl": "",
+    "dateAdded": "2026-10-25",
+    "listingType": "Professor Prospect"
+  },
+  
+[
+  {
+    "id": 1390,
+    "name": "Jing Tang — Tang Group",
+    "title": "Materials, Batteries and AI-Assisted Chemistry Research",
+    "university": "University of Michigan",
+    "state": "Michigan",
+    "department": "Department of Mechanical Engineering",
+    "field": "Materials Science",
+    "tags": [
+      "materials science",
+      "electrochemistry",
+      "batteries",
+      "AI for materials",
+      "critical minerals",
+      "carbon capture"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Direct PI/Lab Inquiry",
+    "resumeRating": 4,
+    "description": "Professor Jing Tang explicitly welcomes talented high school students and undergraduates from any discipline. Current research includes battery materials, electrochemistry, AI-guided materials discovery, mineral recovery and sustainability. High-school applicants should inquire directly about capacity; the page does not guarantee an opening.",
+    "email": "jingtang@umich.edu",
+    "labUrl": "https://tang.engin.umich.edu/",
+    "applyUrl": "",
+    "dateAdded": "2026-10-25",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 1391,
+    "name": "Tufts Summer Research Experience",
+    "title": "Six-Week University Research Experience",
+    "university": "Tufts University",
+    "state": "Massachusetts",
+    "department": "University College / Pre-College Programs",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "summer research",
+      "research mentorship",
+      "laboratory research",
+      "college preparation"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Summer Research",
+      "Research Project"
+    ],
+    "applicationType": "Program Application",
+    "resumeRating": 3,
+    "description": "Tufts offers a six-week in-person pre-college summer research experience combining exposure to university research projects with foundational skills workshops, speakers, and field trips. The 2027 application is scheduled to open December 14, 2026. This is a tuition-based pre-college program; consult the program for fees and project selection.",
+    "email": "",
+    "labUrl": "https://universitycollege.tufts.edu/pre-college/browse/tufts-summer-research-experience",
+    "applyUrl": "https://universitycollege.tufts.edu/pre-college/browse/tufts-summer-research-experience",
+    "dateAdded": "2026-10-25",
+    "listingType": "Program"
+  },
+  {
+    "id": 1392,
+    "name": "University of Arizona Young Global Leaders Program",
+    "title": "Public Health Research and Laboratory Summer Program",
+    "university": "University of Arizona",
+    "state": "Arizona",
+    "department": "Global Health Institute",
+    "field": "Public Health",
+    "tags": [
+      "public health",
+      "environmental health",
+      "research design",
+      "data analysis",
+      "lab experience",
+      "team research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Program Application",
+    "resumeRating": 3,
+    "description": "Summer public-health program for current high school students featuring team-based small-scale investigations, data analysis, laboratory activities and a final showcase. Summer 2027 applications are expected in February 2027. Published cost is $350 with scholarships available. Students from outside Tucson must arrange housing and be accompanied by a parent or guardian remaining in Tucson.",
+    "email": "ghi@arizona.edu",
+    "labUrl": "https://ghi.arizona.edu/outreach/young-global-leaders-program",
+    "applyUrl": "https://ghi.arizona.edu/outreach/young-global-leaders-program",
+    "dateAdded": "2026-10-25",
+    "listingType": "Program"
+  },
+  {
+    "id": 1393,
+    "name": "George Mason Schar Young Scholars Research Program",
+    "title": "Faculty-Mentored Multidisciplinary Research",
+    "university": "George Mason University",
+    "state": "Virginia",
+    "department": "Schar School of Policy and Government",
+    "field": "Multidisciplinary STEM",
+    "tags": [
+      "data science",
+      "bioinformatics",
+      "public policy",
+      "AI",
+      "astronomy",
+      "research writing"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Mentorship"
+    ],
+    "applicationType": "Program Application",
+    "resumeRating": 3,
+    "description": "George Mason Schar School offers faculty-mentored research activities for students in grades 9–12 across areas such as data science, bioinformatics, public policy and astronomy. Its official page lists 2026 offerings and says applications generally open in early February, with possible fall options. Fees and 2027 topics should be confirmed before applying.",
+    "email": "ExecEd@gmu.edu",
+    "labUrl": "https://schar.gmu.edu/programs/executive-education/young-scholars-research-program",
+    "applyUrl": "https://schar.gmu.edu/programs/executive-education/young-scholars-research-program",
+    "dateAdded": "2026-10-25",
+    "listingType": "Program"
+  },
+  {
+    "id": 1394,
+    "name": "Shukla Lab — High School Research Pathways",
+    "title": "Biology and Nanoscience Student Research",
+    "university": "University of Texas at Dallas",
+    "state": "Texas",
+    "department": "Biological Sciences",
+    "field": "Biology",
+    "tags": [
+      "biology",
+      "nanotechnology",
+      "experimental biology",
+      "laboratory research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Program Application",
+    "resumeRating": 4,
+    "description": "The Shukla Lab states that high-school students can participate through the NanoExplorers Summer Research Program or Summer Biology Research Workshop rather than direct unrestricted lab placement. Interested students should apply through the respective programs and verify next-cycle eligibility, dates and application availability.",
+    "email": "",
+    "labUrl": "https://labs.utdallas.edu/shukla/join-us/",
+    "applyUrl": "https://labs.utdallas.edu/shukla/join-us/",
+    "dateAdded": "2026-10-25",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 1395,
+    "name": "Boston College Quantum Materials Laboratory",
+    "title": "Quantum Materials and Devices Research Inquiry",
+    "university": "Boston College",
+    "state": "Massachusetts",
+    "department": "Department of Physics",
+    "field": "Physics",
+    "tags": [
+      "quantum materials",
+      "quantum devices",
+      "condensed matter physics",
+      "experimental physics"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Research Assistant",
+      "Research Project"
+    ],
+    "applicationType": "Direct PI/Lab Inquiry",
+    "resumeRating": 4,
+    "description": "Boston College Quantum Materials Laboratory welcomes motivated undergraduates and, in some cases, high school students for projects involving quantum materials and devices. The page describes volunteer research and mentored projects tailored to background and availability. Contact Professor Ma to ask whether an appropriate supervised position exists; high-school admission is not guaranteed.",
+    "email": "",
+    "labUrl": "https://www.bc.edu/bc-web/schools/morrissey/departments/physics/labs/QMLab/research/get-involved.html",
+    "applyUrl": "",
+    "dateAdded": "2026-10-25",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 1396,
+    "name": "Mount Sinai Orthopaedics Research Labs Internship",
+    "title": "Orthopaedic Biomedical Research Internship",
+    "university": "Icahn School of Medicine at Mount Sinai",
+    "state": "New York",
+    "department": "Orthopaedics Research Labs",
+    "field": "Biomedical Science",
+    "tags": [
+      "orthopaedic research",
+      "biomechanics",
+      "biomedical science",
+      "laboratory research"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Internship",
+      "Research Project"
+    ],
+    "applicationType": "Direct PI/Lab Inquiry",
+    "resumeRating": 4,
+    "description": "Mount Sinai Orthopaedics Research Labs describes a research internship application pathway for high-school, undergraduate and post-baccalaureate students. Applicants are told to email an appropriate lab PI or Dr. James Iatridis with interests, availability and CV. The displayed acceptance notice refers to 2023, so current placement availability has not been confirmed; treat as a documented inquiry pathway only.",
+    "email": "james.iatridis@mssm.edu",
+    "labUrl": "https://labs.icahn.mssm.edu/ORL/research-opportunities/",
+    "applyUrl": "",
+    "dateAdded": "2026-10-25",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 1397,
+    "name": "Duncan Lab — UMB CURE Scholars Research",
+    "title": "Biomedical Engineering Research for Baltimore High School Scholars",
+    "university": "University of Maryland, College Park",
+    "state": "Maryland",
+    "department": "Fischell Department of Bioengineering",
+    "field": "Biomedical Engineering",
+    "tags": [
+      "lung disease",
+      "bioengineering",
+      "cystic fibrosis",
+      "mentored research",
+      "summer research"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Summer Research",
+      "Research Project"
+    ],
+    "applicationType": "Program Application",
+    "resumeRating": 4,
+    "description": "The Duncan Lab documents paid summer biomedical engineering research internships for Baltimore City high-school students already enrolled as UMB CURE Scholars. Interns work with a graduate or postdoctoral mentor on an independent project. This is a restricted partner-program pathway, not open cold-email recruitment for all high-school students.",
+    "email": "",
+    "labUrl": "https://duncan.umd.edu/outreach.html",
+    "applyUrl": "https://duncan.umd.edu/outreach.html",
+    "dateAdded": "2026-10-25",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 1398,
+    "name": "Wiseman Lab — Scripps High School Research Pathway",
+    "title": "Protein Homeostasis and Chemical Biology Research",
+    "university": "Scripps Research",
+    "state": "California",
+    "department": "Molecular Medicine / Chemical Biology",
+    "field": "Biochemistry",
+    "tags": [
+      "protein homeostasis",
+      "chemical biology",
+      "cell biology",
+      "biomedical research",
+      "summer internship"
+    ],
+    "levels": [
+      "High School",
+      "Undergraduate"
+    ],
+    "opportunityTypes": [
+      "Summer Research",
+      "Research Project"
+    ],
+    "applicationType": "Program Application",
+    "resumeRating": 4,
+    "description": "The Wiseman Lab explicitly welcomes high-school and undergraduate interns, but instructs applicants to use the Scripps Research High School Internship Program or Summer Undergraduate Research Program, respectively. Placement with this specific lab is not guaranteed and the relevant program may impose eligibility restrictions.",
+    "email": "",
+    "labUrl": "https://wiseman.scripps.edu/join/",
+    "applyUrl": "https://wiseman.scripps.edu/join/",
+    "dateAdded": "2026-10-25",
+    "listingType": "Professor Prospect"
+  },
+  {
+    "id": 1399,
+    "name": "Nicholas Lab — UCI High School Research Pathway",
+    "title": "Neuroendocrine and Immunology Research",
+    "university": "University of California, Irvine",
+    "state": "California",
+    "department": "Department of Biology",
+    "field": "Biology",
+    "tags": [
+      "neuroendocrinology",
+      "immunology",
+      "hormones",
+      "laboratory research",
+      "biomedical science"
+    ],
+    "levels": [
+      "High School"
+    ],
+    "opportunityTypes": [
+      "Research Project",
+      "Summer Research"
+    ],
+    "applicationType": "Program Application",
+    "resumeRating": 4,
+    "description": "The Nicholas Lab indicates that high-school students can train through UCI structured programs including the Youth Science Fellowship Program and UCI x GATI, but it does not accept high-school interns outside those programs. The lab studies immune-system regulation of gonadotropin secretion. Current program eligibility and placement must be checked independently; the lab also lists commitment and GPA criteria that should be clarified with its PI.",
+    "email": "dequinaa@uci.edu",
+    "labUrl": "https://nicholaslab.bio.uci.edu/join-us/",
+    "applyUrl": "https://nicholaslab.bio.uci.edu/join-us/",
+    "dateAdded": "2026-10-25",
+    "listingType": "Professor Prospect"
+  }
 ]
