@@ -30469,5 +30469,2325 @@
   "applyUrl": "https://www.creighton.edu/healthsciences/diversity/research/summer-research-institute",
   "dateAdded": "2026-10-25",
   "listingType": "Program"
+},
+{
+  "id": 1410,
+  "name": "CUNY Language Acquisition Research Center — Advanced High School Internship",
+  "title": "Child Language and Psychology Research Internship",
+  "university": "Hunter College, City University of New York",
+  "state": "New York, USA",
+  "department": "Language Acquisition Research Center",
+  "field": "Psychology",
+  "tags": [
+    "language acquisition",
+    "child language",
+    "developmental psychology",
+    "linguistics",
+    "speech transcription"
+  ],
+  "levels": ["High School", "Undergraduate"],
+  "opportunityTypes": ["Internship", "Research Project"],
+  "applicationType": "Open Inquiry",
+  "resumeRating": 4,
+  "description": "The CUNY Language Acquisition Research Center accepts internship inquiries and notes that successful interns have very occasionally included advanced high-school students. Candidates submit a cover letter, resume, transcript, instructor recommendation, and availability; selection can include a child-speech transcription exercise and evaluation of research material. Its page currently says internships and independent studies are available but no research assistant positions.",
+  "email": "litlinglarc@gmail.com",
+  "labUrl": "https://littlelinguist.hunter.cuny.edu/join-the-lab-2/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1411,
+  "name": "Robert Catena — M.O.M. Biomechanics Lab",
+  "title": "Movement and Occupational Mechanics Research Internship",
+  "university": "Washington State University",
+  "state": "Washington, USA",
+  "department": "Kinesiology",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomechanics",
+    "human movement",
+    "kinesiology",
+    "movement analysis",
+    "research internship"
+  ],
+  "levels": ["High School", "Undergraduate"],
+  "opportunityTypes": ["Internship", "Research Project"],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 4,
+  "description": "Dr. Robert Catena explicitly invites exceptional local high-school students to discuss an internship in the M.O.M. Lab. Interested students should email to arrange a meeting; opportunities are not guaranteed. The lab also hosts undergraduate projects relating to biomechanics and movement.",
+  "email": "robert.catena@wsu.edu",
+  "labUrl": "https://labs.wsu.edu/biomechanics/joining-the-mom-lab/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1412,
+  "name": "Loyola CHARM — High School Biomedical Research Volunteers",
+  "title": "Molecular Biology and Healthy Aging Volunteer Research",
+  "university": "Loyola University Chicago Stritch School of Medicine",
+  "state": "Illinois, USA",
+  "department": "Center for Healthy Aging Research and Medicine",
+  "field": "Biomedical Science",
+  "tags": [
+    "healthy aging",
+    "molecular biology",
+    "biomedical research",
+    "laboratory volunteer",
+    "translational science"
+  ],
+  "levels": ["High School", "Undergraduate"],
+  "opportunityTypes": ["Volunteer", "Research Assistant"],
+  "applicationType": "Open Inquiry",
+  "resumeRating": 4,
+  "description": "Loyola CHARM explicitly welcomes volunteers from high-school level and above to inquire about joining a basic research team. Interested students are directed to contact the program about research-lab volunteer opportunities; the site does not promise immediate openings or a specific placement.",
+  "email": "tpak@luc.edu",
+  "labUrl": "https://charm.sites.luc.edu/get-involved/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1413,
+  "name": "Shaghayegh Bagheri — Advanced Materials and Manufacturing Laboratory",
+  "title": "Advanced Manufacturing and Materials Research Inquiry",
+  "university": "George Mason University",
+  "state": "Virginia, USA",
+  "department": "Mechanical Engineering",
+  "field": "Materials Science",
+  "tags": [
+    "additive manufacturing",
+    "polymer chemistry",
+    "materials engineering",
+    "manufacturing",
+    "mechanical engineering"
+  ],
+  "levels": ["High School", "Undergraduate"],
+  "opportunityTypes": ["Research Project", "Mentorship"],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 4,
+  "description": "The Advanced Materials and Manufacturing Laboratory at George Mason University explicitly welcomes middle- and high-school students to contact the group about research opportunities. Its stated interests include additive manufacturing, polymer chemistry, and engineering design and analysis. Students should inquire about available projects rather than assume a vacancy.",
+  "email": "",
+  "labUrl": "https://amm.mechanical.gmu.edu/contact/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1414,
+  "name": "UMES Geoscience Bridge Program",
+  "title": "Paid Geosciences Summer Research and College Experience",
+  "university": "University of Maryland Eastern Shore",
+  "state": "Maryland, USA",
+  "department": "Department of Natural Sciences",
+  "field": "Environmental Science",
+  "tags": [
+    "geosciences",
+    "earth science",
+    "fieldwork",
+    "summer internship",
+    "environmental research",
+    "NOAA"
+  ],
+  "levels": ["High School"],
+  "opportunityTypes": ["Summer Research", "Internship"],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "The University of Maryland Eastern Shore describes a six-week paid Geoscience Bridge Program for high-school students considering geosciences careers. The program combines courses, field trips, hands-on activities and a stipend, with housing, meals and travel support described on the institutional summer-program page. Current-cycle availability and detailed eligibility must be reconfirmed.",
+  "email": "pchigbu@umes.edu",
+  "labUrl": "https://www.umes.edu/sciences/summer-programs/",
+  "applyUrl": "https://www.umes.edu/sciences/summer-programs/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1415,
+  "name": "UCSC Health Equity in Youth Lab — Youth Advisory Board",
+  "title": "Adolescent Health and Psychology Research Advisory Experience",
+  "university": "University of California, Santa Cruz",
+  "state": "California, USA",
+  "department": "Psychology",
+  "field": "Psychology",
+  "tags": [
+    "adolescent health",
+    "health equity",
+    "developmental psychology",
+    "research advisory",
+    "youth perspectives"
+  ],
+  "levels": ["High School"],
+  "opportunityTypes": ["Research Project", "Mentorship"],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "The Health Equity in Youth Lab invites middle- and high-school students to apply for its Youth Advisory Board. Members attend monthly online meetings to discuss study findings and help shape future research questions. This is research participation and advisory training, not a conventional laboratory research-assistant internship.",
+  "email": "",
+  "labUrl": "https://rahal.sites.ucsc.edu/joining/",
+  "applyUrl": "https://rahal.sites.ucsc.edu/joining/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1416,
+  "name": "Stanford Social Learning Lab — FAST Research Pathway",
+  "title": "Developmental Psychology Research Through FAST",
+  "university": "Stanford University",
+  "state": "California, USA",
+  "department": "Department of Psychology",
+  "field": "Psychology",
+  "tags": [
+    "social learning",
+    "developmental psychology",
+    "child development",
+    "behavioral experiments",
+    "research mentorship"
+  ],
+  "levels": ["High School"],
+  "opportunityTypes": ["Research Project", "Summer Research"],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "Dr. Hyowon Gweon’s Social Learning Lab studies how children learn from other people. The lab says it generally does not admit high-school research assistants except through the Stanford FAST program; only program-admitted students can participate, and direct volunteer internships are not supported. A position with this specific laboratory is not guaranteed.",
+  "email": "",
+  "labUrl": "https://sll.stanford.edu/contact_joining.html",
+  "applyUrl": "https://sll.stanford.edu/contact_joining.html",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1417,
+  "name": "Nayak Lab — UCSF High School Summer Research Pathways",
+  "title": "Microbiome and Immunology Research Through UCSF Programs",
+  "university": "University of California, San Francisco",
+  "state": "California, USA",
+  "department": "Biomedical Research",
+  "field": "Biomedical Science",
+  "tags": [
+    "microbiome",
+    "immunology",
+    "microbiology",
+    "summer research",
+    "translational medicine"
+  ],
+  "levels": ["High School"],
+  "opportunityTypes": ["Summer Research", "Research Project"],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "The UCSF Nayak Lab directs high-school applicants to the UCSF Science and Health Education Partnership (SEP) for summer internships instead of offering unrestricted high-school placements. Its institutional page also discusses research volunteering through the San Francisco VA for people aged 16 or older, subject to separate eligibility and clearance rules. Students should apply through the relevant program and must not assume assignment to this lab.",
+  "email": "",
+  "labUrl": "https://nayak.ucsf.edu/positions",
+  "applyUrl": "https://nayak.ucsf.edu/positions",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1418,
+  "name": "Zhicheng Jin Lab — High School Research Recruitment",
+  "title": "Biomaterials and Analytical Chemistry Research Internship",
+  "university": "Georgia State University",
+  "state": "Georgia, USA",
+  "department": "Chemistry",
+  "field": "Chemistry",
+  "tags": [
+    "biomaterials",
+    "analytical chemistry",
+    "materials chemistry",
+    "human health",
+    "laboratory internship"
+  ],
+  "levels": ["High School"],
+  "opportunityTypes": ["Internship", "Research Project"],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "The Jin Lab recruitment notice, updated August 2026, explicitly seeks two high-school students. Applicants are instructed to email Dr. Zhicheng Jin with a CV and use a subject line giving their high school, name and intended internship period. The laboratory develops materials for applications in human health; confirm whether the advertised slots remain open.",
+  "email": "zjin4@gsu.edu",
+  "labUrl": "https://sites.gsu.edu/zhicheng-jin-lab/contact/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1419,
+  "name": "Stanford Rehabilitation Research Intern Program",
+  "title": "Neurorehabilitation and Clinical Research Internship",
+  "university": "Stanford Medicine / VA Palo Alto Health Care System",
+  "state": "California, USA",
+  "department": "Department of Neurosurgery",
+  "field": "Neuroscience",
+  "tags": [
+    "neurorehabilitation",
+    "neuropsychology",
+    "neuroimaging",
+    "clinical research",
+    "data collection"
+  ],
+  "levels": ["High School", "Undergraduate"],
+  "opportunityTypes": ["Internship", "Research Project"],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "Stanford Medicine describes a year-round onsite rehabilitation research internship involving neuropsychology, neuroimaging, clinical research and research data management. High-school students age 17 and older are explicitly encouraged to apply. No remote positions are offered; the program asks candidates to use its application route and designated contact email, not individual mentors.",
+  "email": "jennifer.terry5@va.gov",
+  "labUrl": "https://med.stanford.edu/neurosurgery/research/neuro-rehab/intern.html",
+  "applyUrl": "https://med.stanford.edu/neurosurgery/research/neuro-rehab/intern.html",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1420,
+  "name": "James Kirby — Kirby Laboratory Research Volunteers",
+  "title": "Biomedical Laboratory Volunteer Research Positions",
+  "university": "Beth Israel Deaconess Medical Center / Harvard Medical School",
+  "state": "Massachusetts, USA",
+  "department": "Department of Pathology",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "microbiology",
+    "infectious disease",
+    "laboratory research",
+    "volunteer research",
+    "high school research"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Volunteer",
+    "Research Assistant",
+    "Research Project"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "The Kirby Laboratory at Beth Israel Deaconess Medical Center explicitly advertises volunteer research positions for high-school and undergraduate students. The laboratory has previously mentored numerous Massachusetts high-school researchers. Interested students are instructed to contact James Kirby or Dr. Yanqin Huang directly with a CV and brief statement of research interests. The laboratory's official positions page describes volunteer opportunities as immediately available, although applicants should confirm that openings remain.",
+  "email": "yhuang@bidmc.harvard.edu",
+  "labUrl": "https://research.bidmc.org/james-kirby/positions",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1421,
+  "name": "CHROME Lab — High School Engineering Research",
+  "title": "Human-Centered Engineering and Technology Research Internship",
+  "university": "Saint Louis University",
+  "state": "Missouri, USA",
+  "department": "School of Science and Engineering",
+  "field": "Engineering",
+  "tags": [
+    "human-centered engineering",
+    "computer science",
+    "assistive technology",
+    "human-computer interaction",
+    "engineering research",
+    "technology design",
+    "research internship"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "Saint Louis University's CHROME Lab accepts applications from high-school students in the St. Louis area for summer research experiences involving engineering, computer science and human-centered technology. Participants work alongside university researchers on ongoing projects, typically committing at least ten hours per week. Applicants must have parental permission and transportation to campus. The laboratory generally hosts approximately two or three high-school students each summer. Its published application timeline anticipates opening applications near the end of October, accepting submissions through March, conducting interviews in April and making decisions by mid-May.",
+  "email": "chromelab@slu.edu",
+  "labUrl": "https://sites.google.com/slu.edu/gorlewicz-lab/get-involved",
+  "applyUrl": "https://sites.google.com/slu.edu/gorlewicz-lab/get-involved",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1422,
+  "name": "Memorial Sloan Kettering Science Enrichment Program",
+  "title": "Cancer Biology and Biomedical Research Enrichment Internship",
+  "university": "Memorial Sloan Kettering Cancer Center",
+  "state": "New York, USA",
+  "department": "Human Oncology and Pathogenesis Program",
+  "field": "Cancer Biology",
+  "tags": [
+    "cancer biology",
+    "oncology",
+    "biomedical research",
+    "laboratory skills",
+    "clinical research",
+    "summer internship",
+    "faculty mentorship"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Summer Research",
+    "Research Training"
+  ],
+  "applicationType": "School Nomination",
+  "resumeRating": 5,
+  "description": "Memorial Sloan Kettering's Science Enrichment Program is a ten-month research enrichment pathway for students attending designated New York City partner high schools. Participants receive instruction in cancer biology, laboratory skills and clinical research, followed by an intensive eight-week summer research internship with individual mentorship. Students must be nominated through a participating school; applications are not open to all NYC high-school students. The official partner-school list includes Brooklyn Latin School, the High School for Health Professions and Human Services, Lincoln High School and Uncommon Collegiate Charter High School. This program is separate from MSK's general Summer Student Program.",
+  "email": "",
+  "labUrl": "https://www.mskcc.org/education-training/science-enrichment",
+  "applyUrl": "https://www.mskcc.org/education-training/science-enrichment",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1423,
+  "name": "Gautam Dantas — Dantas Laboratory",
+  "title": "Microbiology, Genomics and Biomedical Summer Research",
+  "university": "Washington University in St. Louis",
+  "state": "Missouri, USA",
+  "department": "Department of Pathology and Immunology",
+  "field": "Microbiology",
+  "tags": [
+    "microbiology",
+    "microbial genomics",
+    "antibiotic resistance",
+    "microbiome research",
+    "computational biology",
+    "biomedical research",
+    "summer internship"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "The Dantas Laboratory at Washington University in St. Louis explicitly welcomes inquiries from high-school and undergraduate students interested in summer research internships. The laboratory investigates microbial communities, antibiotic resistance and related biomedical questions using experimental and computational approaches. Prospective researchers are strongly encouraged to seek independent funding or fellowship support and to contact the laboratory well ahead of summer fellowship deadlines. St. Louis-area high-school students may also investigate Washington University's Young Scientist Program. Current placements depend on laboratory availability and funding.",
+  "email": "dantas@wustl.edu",
+  "labUrl": "https://www.dantaslab.org/opportunities",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1424,
+  "name": "Samir Kendale — CERBERUS Clinical Research Project",
+  "title": "Neuroanesthesia and Clinical Neuroscience Research",
+  "university": "Beth Israel Deaconess Medical Center / Harvard Medical School",
+  "state": "Massachusetts, USA",
+  "department": "Anesthesia and Critical Care",
+  "field": "Neuroscience",
+  "tags": [
+    "clinical neuroscience",
+    "neuroanesthesia",
+    "cerebral autoregulation",
+    "clinical research",
+    "neurocognitive assessment",
+    "machine learning",
+    "medical informatics",
+    "neuroimaging"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Volunteer"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "Beth Israel Deaconess Medical Center's Office of Student Engagement and Experience lists the CERBERUS clinical research project under Dr. Samir Kendale as an unpaid, in-person opportunity explicitly available to high-school students and students at higher educational levels. The study examines cerebral autoregulation during major non-cardiac surgery and its relationship to postoperative cognitive outcomes. Opportunities include clinical research, neurocognitive assessment, and potentially machine-learning analysis with experienced mentors. The posting describes flexible full-time or part-time arrangements. Applicants should email Dr. Kendale with their resume and statement of interest and copy the Office of Student Engagement and Experience.",
+  "email": "skendale@bidmc.harvard.edu",
+  "labUrl": "https://research.bidmc.org/student-experience/opportunities-research-students-constantly-updated",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1425,
+  "name": "Children's National — Colaco Scholar Program",
+  "title": "Pediatric Laboratory Medicine and Clinical Research Internship",
+  "university": "Children's National Hospital",
+  "state": "Washington, D.C., USA",
+  "department": "Laboratory Medicine and Pathology",
+  "field": "Biomedical Science",
+  "tags": [
+    "laboratory medicine",
+    "clinical pathology",
+    "pediatric hematology",
+    "clinical laboratory",
+    "medical research",
+    "research internship"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Summer Research",
+    "Research Project"
+  ],
+  "applicationType": "Invitation/Referral",
+  "resumeRating": 4,
+  "description": "The Colaco Scholar Program at Children's National Hospital provides approximately eight weeks of laboratory medicine and clinical research exposure for one or two area high-school students. Participants work in the hospital's clinical laboratory, learn about medical laboratory testing, observe relevant medical specialties and contribute to research projects. Recruitment is highly restricted by donor requirements, with most participants coming from selected private high schools in Washington, D.C., or Thomas Jefferson High School for Science and Technology in Virginia. The institution does not advertise an unrestricted national application route.",
+  "email": "",
+  "labUrl": "https://www.childrensnational.org/about-us/health-equity/investing-in-the-future-of-healthcare/research-opportunities",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1426,
+  "name": "Boston Children's Hospital Anesthesiology Research Opportunities",
+  "title": "Pediatric Biomedical and Translational Research Inquiry",
+  "university": "Boston Children's Hospital / Harvard Medical School",
+  "state": "Massachusetts, USA",
+  "department": "Anesthesiology, Critical Care and Pain Medicine Research",
+  "field": "Biomedical Science",
+  "tags": [
+    "pediatric research",
+    "anesthesiology",
+    "translational medicine",
+    "nanomedicine",
+    "biomedical engineering",
+    "clinical research",
+    "laboratory research"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Internship"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "Boston Children's Hospital's Anesthesiology, Critical Care and Pain Medicine research division explicitly states that high-school students aged sixteen or older may seek research opportunities, including students from outside the hospital. Interested students are instructed to contact the investigator whose research interests them. The department documents previous high-school participation in biomedical laboratory projects involving nanoparticle technologies, cell culture and experimental methods. The opportunities depend on the investigator's ability to supervise students and are distinct from guaranteed placement in the department's structured clinical research internship.",
+  "email": "",
+  "labUrl": "https://research.childrenshospital.org/research-units/anesthesiology-critical-care-and-pain-medicine-research/educational-opportunities",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1427,
+  "name": "Scripps Research Translational Institute — Student Research Internship",
+  "title": "Genomics and Digital Health Translational Research Internship",
+  "university": "Scripps Research",
+  "state": "California, USA",
+  "department": "Scripps Research Translational Institute",
+  "field": "Biomedical Science",
+  "tags": [
+    "genomics",
+    "digital health",
+    "mobile health",
+    "translational research",
+    "biomedical informatics",
+    "clinical research",
+    "summer internship"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Summer Research",
+    "Research Project"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "The Scripps Research Translational Institute offers a student research internship for highly motivated students interested in genomics, mobile health and translational biomedical research. High-school students must be at least sixteen years old before the internship begins. The unpaid internship requires school credit or a transcript notation, with an affiliated community college pathway potentially available to help arrange credit. The 2027 application is scheduled to open November 23, 2026, with a March 30, 2027 deadline. Interns are selected according to project fit and mentor availability. This is distinct from Scripps Research's REACH internship.",
+  "email": "",
+  "labUrl": "https://www.scripps.edu/science/translational-institute/education-training/student-research-internship-program/",
+  "applyUrl": "https://www.scripps.edu/science/translational-institute/education-training/student-research-internship-program/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1428,
+  "name": "University of Wisconsin-Milwaukee — ACS Project SEED",
+  "title": "Paid Chemistry and Biochemistry Summer Research Internship",
+  "university": "University of Wisconsin-Milwaukee",
+  "state": "Wisconsin, USA",
+  "department": "Department of Chemistry and Biochemistry",
+  "field": "Chemistry",
+  "tags": [
+    "analytical chemistry",
+    "biochemistry",
+    "drug discovery",
+    "environmental chemistry",
+    "water chemistry",
+    "molecular biophysics",
+    "faculty mentorship",
+    "summer research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Summer Research",
+    "Research Project"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "The University of Wisconsin-Milwaukee hosts an American Chemical Society Project SEED site providing paid, mentored summer chemistry research for eligible high-school students. Participants work alongside university faculty and graduate researchers on authentic scientific projects. The 2027 research areas include computational chemistry, drug discovery and biochemistry, environmental and water chemistry, and molecular biophysics. The university lists applications from February 8 through April 1, 2027, with the summer program running June 15 through August 6. Applicants must meet ACS Project SEED eligibility requirements, including its applicable financial eligibility criteria.",
+  "email": "blecking@uwm.edu",
+  "labUrl": "https://uwm.edu/chemistry/outreach/american-chemical-society-project-seed/",
+  "applyUrl": "https://www.acs.org/education/students/highschool/seed/apply.html",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1429,
+  "name": "Melanie Morrison — UCSF Neuromodulation Imaging Lab",
+  "title": "Neuroimaging and Brain Stimulation Research Pathway",
+  "university": "University of California, San Francisco",
+  "state": "California, USA",
+  "department": "Neuromodulation Imaging Laboratory",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroimaging",
+    "neuromodulation",
+    "deep brain stimulation",
+    "brain research",
+    "medical imaging",
+    "clinical neuroscience",
+    "computational neuroscience"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Summer Research",
+    "Research Project",
+    "Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "The Neuromodulation Imaging Lab at UCSF, led by Dr. Melanie Morrison, explicitly welcomes high-school students through designated paid summer research programs. Research involves neuroimaging, brain stimulation and investigation of deep brain stimulation mechanisms and outcomes. The laboratory directs interested students toward structured programs including RISE, SEP, CURE and BAYS rather than guaranteeing independent laboratory placement. Students applying through an eligible program are encouraged to notify the lab of their interest. Program-specific eligibility restrictions and placement availability apply, and acceptance into a program does not guarantee assignment to this laboratory.",
+  "email": "",
+  "labUrl": "https://morrisonlab.ucsf.edu/join-our-lab",
+  "applyUrl": "https://morrisonlab.ucsf.edu/join-our-lab",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1430,
+  "name": "Veenema Lab — High School Behavioral Neuroscience Internship",
+  "title": "Behavioral Neuroscience Summer Volunteer Research",
+  "university": "Michigan State University",
+  "state": "Michigan, USA",
+  "department": "Department of Psychology",
+  "field": "Neuroscience",
+  "tags": [
+    "behavioral neuroscience",
+    "social behavior",
+    "neurobiology",
+    "animal behavior",
+    "experimental psychology",
+    "wet lab",
+    "summer internship"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Volunteer",
+    "Research Project"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 4,
+  "description": "The Veenema Lab explicitly welcomes talented high-school students interested in volunteering as summer research interns. Students may gain experience with behavioral neuroscience experiments and laboratory techniques. Applicants must be at least sixteen years old. The laboratory's outreach page still mentions commuting to Boston College, although its current website identifies Michigan State University, so prospective applicants must confirm the present internship location and availability before making arrangements.",
+  "email": "",
+  "labUrl": "https://veenemalab.psy.msu.edu/outreach/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1431,
+  "name": "Candace Fleischer — Fleischer Lab High School Research Pathway",
+  "title": "Biomedical Engineering and Medical Imaging Research",
+  "university": "Emory University",
+  "state": "Georgia, USA",
+  "department": "Biomedical Engineering and Medical Imaging",
+  "field": "Biomedical Engineering",
+  "tags": [
+    "biomedical engineering",
+    "medical imaging",
+    "neuroimaging",
+    "magnetic resonance imaging",
+    "neuroscience",
+    "research mentorship",
+    "laboratory research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Summer Research",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "The Fleischer Lab conducts biomedical imaging and neuroscience-related research and explicitly considers high-school students through established research-training programs. Its official recruitment page states that high-school students must already be enrolled in a formal program, such as Project ENGAGES, Winship Summer Scholars, or a qualifying school-credit internship. The laboratory does not advertise unrestricted high-school volunteer positions. Students should apply to an appropriate program and verify whether a placement in this particular laboratory is possible.",
+  "email": "",
+  "labUrl": "https://fleischerlab.org/positions",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1432,
+  "name": "University of Hawaii Cancer Center — High School Research Mentorship",
+  "title": "Cancer Research and Population Science Project Mentorship",
+  "university": "University of Hawaii Cancer Center",
+  "state": "Hawaii, USA",
+  "department": "Cancer Research Training",
+  "field": "Cancer Biology",
+  "tags": [
+    "cancer research",
+    "population science",
+    "public health",
+    "research mentorship",
+    "scientific writing",
+    "research proposal",
+    "biomedical science"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Open Inquiry",
+  "resumeRating": 3,
+  "description": "The University of Hawaii Cancer Center permits high-school students with school research projects to inquire about faculty mentorship. Applicants are instructed to submit a resume and short proposal outlining the research question, objectives, and any preliminary work. Due to institutional policies involving minors, students younger than eighteen cannot be placed in laboratory settings. Possible alternatives include faculty guidance on research papers and population-science projects. Mentorship depends on faculty availability and is not guaranteed.",
+  "email": "",
+  "labUrl": "https://wws.uhcancercenter.org/education/trainees/high-school-students",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1433,
+  "name": "Graham Macleod — Macleod Neurophysiology Laboratory",
+  "title": "Neurophysiology, Cell Biology and Biophysics Research Internship",
+  "university": "Tulane University",
+  "state": "Louisiana, USA",
+  "department": "Biological Sciences",
+  "field": "Neuroscience",
+  "tags": [
+    "neurophysiology",
+    "cell biology",
+    "biophysics",
+    "genetics",
+    "experimental neuroscience",
+    "laboratory research",
+    "summer research"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Research Assistant",
+    "Research Project"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "The Macleod Lab at Tulane University explicitly advertises opportunities for high-school interns, undergraduate interns, research assistants, graduate students, and postdoctoral researchers. Its research concerns neurophysiology at the intersection of cellular biology, biophysics, and genetics. Students interested in experimental neuroscience can contact Dr. Graham Macleod directly about potential research involvement. The laboratory's recruitment page lists high-school interns among its open position categories, although specific project assignments and remaining vacancies should be confirmed.",
+  "email": "gmacleod@tulane.edu",
+  "labUrl": "https://themacleodlab.com/join-us/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1434,
+  "name": "CRoME Pharmacy Summer Research Scholars",
+  "title": "Virtual Pharmacy and Health Research Summer Program",
+  "university": "University of Kentucky",
+  "state": "Kentucky, USA",
+  "department": "College of Pharmacy",
+  "field": "Biomedical Science",
+  "tags": [
+    "pharmacy",
+    "medication research",
+    "health sciences",
+    "research design",
+    "data analysis",
+    "scientific writing",
+    "virtual research",
+    "summer research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Summer Research",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "The University of Kentucky's Collaborative Research on Medication Use and Family Health Laboratory operates the CRoME Pharmacy Summer Research Scholars program, a six-week virtual research experience for high-school students. Participants learn how pharmacy research is designed, conducted, analyzed, and communicated while collaborating with peers and mentors on an independent research project. Graduates may be eligible for additional research activities, including internships, publications, and community outreach. The official page describes the program but does not confirm the next application deadline.",
+  "email": "crome.lab@uky.edu",
+  "labUrl": "https://cromelababraham.com/opportunities",
+  "applyUrl": "https://cromelababraham.com/opportunities",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1435,
+  "name": "Anisha Gupta — Cancer Therapeutics Research Laboratory",
+  "title": "Cancer Biology and Nucleic Acid Therapeutics Research",
+  "university": "University of Saint Joseph",
+  "state": "Connecticut, USA",
+  "department": "Pharmaceutical Sciences",
+  "field": "Cancer Biology",
+  "tags": [
+    "cancer therapeutics",
+    "molecular biology",
+    "medicinal chemistry",
+    "nucleic acid therapeutics",
+    "cell culture",
+    "experimental research",
+    "scientific writing",
+    "drug development"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "Professor Anisha Gupta's research laboratory at the University of Saint Joseph explicitly welcomes qualified high-school students, undergraduate students, and Pharm.D. students interested in cancer therapeutics, medicinal chemistry, and nucleic acid therapies. Research activities may include cell culture, molecular biology, experimental design, data analysis, scientific writing, and research presentations. Students are generally expected to contribute approximately four to eight hours weekly, attend laboratory meetings, and maintain organized research records. Previous research experience is not required. Interested students should contact Professor Gupta to discuss eligibility and available projects.",
+  "email": "",
+  "labUrl": "https://www.usj.edu/faculty/anisha-gupta-ph-d/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1436,
+  "name": "Huiqing Zhou — Zhou Laboratory High School Research",
+  "title": "Molecular Biology and RNA Biochemistry Research Prospect",
+  "university": "Boston College",
+  "state": "Massachusetts, USA",
+  "department": "Department of Chemistry",
+  "field": "Biochemistry",
+  "tags": [
+    "RNA biology",
+    "biochemistry",
+    "molecular biology",
+    "gene regulation",
+    "chemical biology",
+    "protein engineering",
+    "laboratory research"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Research Assistant"
+  ],
+  "applicationType": "Cold Email",
+  "resumeRating": 4,
+  "description": "The Zhou Laboratory at Boston College conducts research involving RNA biology, biochemistry, and molecular chemical techniques. The laboratory's official news page documents high-school research assistants returning for summer research in June 2026, demonstrating that students at this educational level have participated in its projects. This is evidence of previous high-school mentorship rather than a currently advertised open position. Interested students may investigate the group's research and inquire about future opportunities, subject to laboratory capacity and supervision.",
+  "email": "",
+  "labUrl": "https://sites.bc.edu/huiqing-zhou/news/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1437,
+  "name": "Georgia Tech College of Sciences Summer Research Academy",
+  "title": "High School STEM Summer Laboratory Research",
+  "university": "Georgia Institute of Technology",
+  "state": "Georgia, USA",
+  "department": "College of Sciences",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "scientific research",
+    "biology",
+    "chemistry",
+    "physics",
+    "laboratory research",
+    "STEM mentorship",
+    "summer research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Summer Research",
+    "Internship",
+    "Research Project"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "Georgia Tech's College of Sciences Summer Research Academy provides local high-school students with supervised volunteer summer research experiences at no cost. Applicants must be at least sixteen years old when the program begins. The program particularly encourages applications from Atlanta Public Schools students and students who have historically had limited access to STEM opportunities, although other eligible local students may apply. Participants gain laboratory research experience with mentorship from university researchers. Current program dates, placements, and application requirements should be checked before applying.",
+  "email": "",
+  "labUrl": "https://summerresearchacademy.cos.gatech.edu/faq/",
+  "applyUrl": "https://summerresearchacademy.cos.gatech.edu/faq/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1438,
+  "name": "Pelham–Einstein Neuroscience Scholars Program",
+  "title": "High School Neuroscience Summer Research Mentorship",
+  "university": "Albert Einstein College of Medicine",
+  "state": "New York, USA",
+  "department": "Neuroscience",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "neurobiology",
+    "research mentorship",
+    "scientific literature",
+    "research design",
+    "summer research",
+    "biomedical science"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Summer Research",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "The Pelham–Einstein Neuroscience Scholars Program is a summer research opportunity organized through neuroscientists and the Neuroscience Graduate Student Organization at Albert Einstein College of Medicine. High-school participants work on an original research project under the mentorship of graduate and postdoctoral researchers and attend enrichment activities focused on scientific literature and developing research questions. The institution identifies the program as a high-school research pathway, but current recruitment dates and geographic eligibility should be confirmed with the organizers.",
+  "email": "",
+  "labUrl": "https://einsteinmed.edu/education/pathway-programs/pathway-programs-middle-high-school-students",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1439,
+  "name": "Penn State College of Medicine High School Research Internships",
+  "title": "Biomedical Research Internship and Laboratory Shadowing",
+  "university": "Pennsylvania State University College of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "College of Medicine",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "laboratory research",
+    "research internship",
+    "faculty mentorship",
+    "clinical science",
+    "laboratory shadowing",
+    "research training"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Research Project",
+    "Research Assistant"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 4,
+  "description": "Penn State College of Medicine maintains an institutional process allowing high-school students aged sixteen or older to seek research shadowing or extended research internships in faculty laboratories. Experiences may range from one or two days of observation to several weeks or months of supervised research. Students must first identify a prospective faculty supervisor using the institution's research directory before proceeding with the required application and safety procedures. A research placement is not automatically provided; approval depends on securing a willing mentor and satisfying institutional requirements for minors.",
+  "email": "",
+  "labUrl": "https://med.psu.edu/education/certificate-and-undergraduate/high-school-internships-observation",
+  "applyUrl": "https://med.psu.edu/education/certificate-and-undergraduate/high-school-internships-observation",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1440,
+  "name": "UCLA–LA Youth Research Initiative",
+  "title": "University Laboratory Research Internship",
+  "university": "University of California, Los Angeles",
+  "state": "California, USA",
+  "department": "California NanoSystems Institute",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "bioengineering",
+    "nanoscience",
+    "laboratory research",
+    "faculty mentorship",
+    "summer research",
+    "scientific research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Summer Research",
+    "Research Project"
+  ],
+  "applicationType": "School Nomination",
+  "resumeRating": 5,
+  "description": "The UCLA–LA Youth Research Initiative provides local Los Angeles high-school students opportunities to participate in research at UCLA laboratories affiliated with the California NanoSystems Institute. Students selected through participating high-school teachers join a UCLA research laboratory for approximately five to six weeks during the summer. Each participant works closely with a graduate student mentor who develops a research schedule, provides training, and supervises laboratory activities. The application process normally involves teacher nominations in February, student applications during March or April, and interviews during May. Students must be nominated through participating local schools rather than applying independently.",
+  "email": "education@cnsi.ucla.edu",
+  "labUrl": "https://cnsi.ucla.edu/ucla-la-youth-research-initiative/",
+  "applyUrl": "https://cnsi.ucla.edu/ucla-la-youth-research-initiative/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1441,
+  "name": "Hamid Rabb — Rabb Kidney Research Laboratory",
+  "title": "Kidney Disease, Immunology and Molecular Biology Research",
+  "university": "Johns Hopkins University School of Medicine",
+  "state": "Maryland, USA",
+  "department": "Division of Nephrology",
+  "field": "Biomedical Science",
+  "tags": [
+    "kidney disease",
+    "nephrology",
+    "immunology",
+    "T cell biology",
+    "molecular biology",
+    "cell biology",
+    "acute kidney injury",
+    "wet lab",
+    "biomedical research",
+    "research mentorship"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "The Rabb Kidney Research Laboratory at Johns Hopkins University School of Medicine studies immunological and molecular mechanisms involved in acute kidney injury and kidney repair. Research includes T cell immunology, inflammatory responses, molecular biology, cell biology, and experimental approaches to understanding kidney damage. The laboratory explicitly invites high-school and undergraduate students interested in gaining research experience or exposure to a wet-lab environment to contact the group describing their interests and future plans. This is a documented high-school inquiry pathway, although current positions and mentorship capacity must be confirmed before participation.",
+  "email": "",
+  "labUrl": "https://rabbkidneyresearchlab.jhmi.edu/join-us/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1442,
+  "name": "Weissman Hood Institute High School Summer Research Internship",
+  "title": "Biomedical Laboratory Summer Research Internship",
+  "university": "Weissman Hood Institute",
+  "state": "Montana, USA",
+  "department": "Biomedical Research",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "laboratory research",
+    "molecular biology",
+    "cell biology",
+    "experimental biology",
+    "research mentorship",
+    "summer internship",
+    "scientific presentations"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Summer Research",
+    "Research Project"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "The Weissman Hood Institute offers summer internships for eligible high-school and college students interested in biomedical research. Participants spend approximately eight weeks working in the laboratory of an institute scientist or in the Animal Resource Center, contributing to an active research project under the supervision of experienced researchers. Interns participate in journal clubs, scientific seminars, and laboratory activities before presenting their work at the end of the program. Applicants must have completed their junior or senior year of high school or be enrolled in college. The official page describes the June 15 through August 7, 2026 program; dates and application availability for 2027 have not yet been confirmed.",
+  "email": "",
+  "labUrl": "https://www.weissmanhood.org/opportunities",
+  "applyUrl": "https://www.weissmanhood.org/opportunities",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1443,
+  "name": "Harvard Chemistry High School Lab Pathways Research Program",
+  "title": "Chemistry and Biological Laboratory Summer Research",
+  "university": "Harvard University",
+  "state": "Massachusetts, USA",
+  "department": "Department of Chemistry and Chemical Biology",
+  "field": "Chemistry",
+  "tags": [
+    "chemistry",
+    "chemical biology",
+    "laboratory research",
+    "experimental science",
+    "scientific literacy",
+    "faculty mentorship",
+    "summer research",
+    "research training"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Summer Research",
+    "Research Training",
+    "Research Project"
+  ],
+  "applicationType": "School Nomination",
+  "resumeRating": 5,
+  "description": "Harvard University's Department of Chemistry and Chemical Biology operates the High School Lab Pathways Summer Research Program in partnership with the Harvard Ed Portal. The documented program serves students from Brighton High School who are nominated by their teachers. Participants receive science-literacy and laboratory-skills instruction during the spring before undertaking approximately six weeks of mentored summer laboratory research. Students work with graduate student mentors, conduct experiments, read scientific literature, attend laboratory meetings, and gain exposure to research instrumentation. This is a restricted partner-school pathway rather than an open national application. Current cohort arrangements should be confirmed through Harvard.",
+  "email": "",
+  "labUrl": "https://www.chemistry.harvard.edu/pathways-research-program",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1444,
+  "name": "Baruch College Now STEM Research Academy",
+  "title": "Faculty-Mentored Summer Research and Research Methods Program",
+  "university": "Baruch College, City University of New York",
+  "state": "New York, USA",
+  "department": "College Now",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "scientific research",
+    "research methodology",
+    "biology",
+    "environmental science",
+    "psychology",
+    "social science",
+    "faculty mentorship",
+    "summer research",
+    "data analysis"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Summer Research",
+    "Research Training"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "Baruch College's STEM Research Academy provides New York City public high-school students with a structured introduction to university research followed by potential faculty-mentored summer research. Approximately twenty-five students are selected for a spring college-credit research methods course covering research-question development, experimental design, literature searches, and scientific reading. Students who successfully complete the spring course with at least a C become eligible for a six-week summer research experience with CUNY faculty. Previous research disciplines have included biology, environmental science, sociology, and psychology. Selection considers academic records, Regents performance, and written application materials. The official page includes information from earlier cohorts; current application dates should be verified.",
+  "email": "",
+  "labUrl": "https://collegenow.baruch.cuny.edu/stem-research-academy/",
+  "applyUrl": "https://collegenow.baruch.cuny.edu/stem-research-academy/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1445,
+  "name": "UC Davis EnvironMentors Research Program",
+  "title": "Environmental Science and Ecology Research Mentorship",
+  "university": "University of California, Davis",
+  "state": "California, USA",
+  "department": "Environmental Science and Related Research Departments",
+  "field": "Environmental Science",
+  "tags": [
+    "environmental science",
+    "ecology",
+    "conservation biology",
+    "environmental research",
+    "data collection",
+    "scientific research",
+    "research mentorship",
+    "science fair",
+    "academic-year research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Academic-Year Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "UC Davis EnvironMentors connects Sacramento-area high-school students with university researchers for yearlong scientific research mentorship. Students work with undergraduate, graduate, postdoctoral, or faculty mentors to develop a research question, collect and analyze data, and communicate their findings. Research can involve ecology, environmental science, wildlife conservation, agriculture, environmental toxicology, or related scientific fields. The program generally runs from September through June and provides participants with opportunities to present their research at the UC Davis Science Fair, with selected projects advancing to an international science fair. Participation is free, prior research experience is not required, and students must meet the program's geographic and enrollment requirements.",
+  "email": "",
+  "labUrl": "https://environmentors.ucdavis.edu/",
+  "applyUrl": "https://environmentors.ucdavis.edu/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1446,
+  "name": "Farmingdale State College SURI High School Scholars",
+  "title": "Faculty-Mentored Summer Research Institute",
+  "university": "Farmingdale State College",
+  "state": "New York, USA",
+  "department": "Office of Undergraduate Research and Scholarship",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "scientific research",
+    "engineering",
+    "applied science",
+    "data analysis",
+    "faculty mentorship",
+    "interdisciplinary research",
+    "summer research",
+    "research presentation"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Summer Research",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "Farmingdale State College's Summer Undergraduate Research Institute includes a High School Scholars pathway for eligible high-school juniors and seniors. Students join faculty-mentored research clusters that may involve laboratory experiments, data analysis, engineering prototypes, applied scientific investigations, or other scholarly projects. Research groups typically contain college students and a small number of high-school scholars, allowing collaborative research and mentorship. The college's 2027 program information states that high-school scholars are scheduled to join on July 5, 2027. Student application instructions and final project availability should be confirmed on the official program website.",
+  "email": "ours@farmingdale.edu",
+  "labUrl": "https://www.farmingdale.edu/ours/suripages/surimainpage.shtml",
+  "applyUrl": "https://www.farmingdale.edu/ours/suripages/surimainpage.shtml",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1447,
+  "name": "Anne Arundel Community College High-RISE Research Experience",
+  "title": "Paid High School Summer Scientific Research",
+  "university": "Anne Arundel Community College",
+  "state": "Maryland, USA",
+  "department": "School of Science, Technology and Education",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "scientific research",
+    "biology",
+    "chemistry",
+    "experimental science",
+    "laboratory research",
+    "data collection",
+    "faculty mentorship",
+    "summer research",
+    "research presentation"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Summer Research",
+    "Research Project",
+    "Research Training"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "Anne Arundel Community College offers High-RISE, a summer research program designed specifically for current and graduating high-school students. Participants work with college science faculty on research activities, develop experimental and analytical skills, and communicate their research findings. The program includes faculty mentorship and paid participation, with opportunities to present research results. For 2027, the college lists High-RISE from June 14 through June 25, with full-day activities Monday through Friday. Student applications are expected to open in early spring 2027. Specific eligibility requirements and project assignments should be checked when applications become available.",
+  "email": "",
+  "labUrl": "https://www.aacc.edu/about/schools-of-study/science-technology-and-education/research-experiences/",
+  "applyUrl": "https://www.aacc.edu/about/schools-of-study/science-technology-and-education/research-experiences/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1448,
+  "name": "University of Rochester Laboratory for Laser Energetics Summer Research",
+  "title": "Laser Physics, Plasma Science and Engineering Summer Research",
+  "university": "University of Rochester",
+  "state": "New York, USA",
+  "department": "Laboratory for Laser Energetics",
+  "field": "Physics",
+  "tags": [
+    "laser physics",
+    "plasma physics",
+    "high-energy-density physics",
+    "engineering",
+    "scientific instrumentation",
+    "computer modeling",
+    "experimental physics",
+    "summer research",
+    "faculty mentorship"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Summer Research",
+    "Research Project"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "The University of Rochester's Laboratory for Laser Energetics offers an eight-week summer research program for highly motivated high-school juniors from the Rochester, New York area. Selected students work on authentic research projects under the supervision of laboratory scientists or engineers. Projects are connected to the laboratory's research involving the OMEGA and OMEGA EP laser systems and may involve plasma physics, high-energy-density science, scientific instrumentation, modeling, and engineering. Participants receive a monetary stipend and present their research findings at a concluding laboratory symposium. The program is geographically restricted to eligible Rochester-area students, and applicants should verify the current application cycle.",
+  "email": "",
+  "labUrl": "https://www.lle.rochester.edu/education/summer-high-school-research-program/",
+  "applyUrl": "https://www.lle.rochester.edu/education/summer-high-school-research-program/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1449,
+  "name": "Mount Sinai Krammer Lab — New York City Virus Hunters",
+  "title": "Virology and Community-Based Infectious Disease Research",
+  "university": "Icahn School of Medicine at Mount Sinai / BioBus",
+  "state": "New York, USA",
+  "department": "Department of Microbiology",
+  "field": "Microbiology",
+  "tags": [
+    "virology",
+    "infectious disease",
+    "virus research",
+    "community science",
+    "public health",
+    "biomedical research",
+    "data collection",
+    "research internship",
+    "science outreach"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Research Project",
+    "Research Training"
+  ],
+  "applicationType": "Open Inquiry",
+  "resumeRating": 4,
+  "description": "The Krammer Laboratory at the Icahn School of Medicine at Mount Sinai collaborates with BioBus on New York City Virus Hunters, a community science initiative involving infectious disease research and student participation. The laboratory explicitly invites middle- and high-school classes to inquire about participating in research data collection and hands-on scientific activities. Individual students are also directed to contact BioBus for information about possible internships in future years. Interested students should contact the community science director to learn whether an internship or school-based research opportunity is available. This is a documented research engagement pathway rather than a confirmed currently open internship position.",
+  "email": "christine@biobus.org",
+  "labUrl": "https://labs.icahn.mssm.edu/krammerlab/new-york-city-virus-hunters/get-involved/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1450,
+  "name": "James Gaynor — Ultrafast Spectroscopy Research Group",
+  "title": "Physical Chemistry and Ultrafast Spectroscopy Research",
+  "university": "Northwestern University",
+  "state": "Illinois, USA",
+  "department": "Department of Chemistry",
+  "field": "Chemistry",
+  "tags": [
+    "physical chemistry",
+    "ultrafast spectroscopy",
+    "laser spectroscopy",
+    "chemical physics",
+    "scientific instrumentation",
+    "experimental chemistry",
+    "high school research"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "The Gaynor Research Group at Northwestern University studies molecular processes using ultrafast spectroscopy and advanced experimental instrumentation. Research interests include multidimensional spectroscopy, femtosecond laser techniques, high-harmonic generation, and X-ray science. The laboratory's recruitment page explicitly invites interested high-school and undergraduate students to email Dr. James Gaynor describing their research interests and attaching a CV. Prior research experience is not required, although enthusiasm for designing, building, and operating spectroscopic instruments is emphasized. This is a direct laboratory inquiry pathway; actual availability depends on supervision and current projects.",
+  "email": "",
+  "labUrl": "https://sites.northwestern.edu/gaynorgroup/join-the-team/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1451,
+  "name": "Paul Chwatko — Chwatko Research Group",
+  "title": "Chemical Engineering and Advanced Materials Research",
+  "university": "University of Kentucky",
+  "state": "Kentucky, USA",
+  "department": "Chemical and Materials Engineering",
+  "field": "Engineering",
+  "tags": [
+    "chemical engineering",
+    "materials engineering",
+    "materials science",
+    "laboratory research",
+    "experimental engineering",
+    "faculty mentorship",
+    "high school research"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 4,
+  "description": "The Chwatko Research Group at the University of Kentucky provides opportunities for students interested in chemical and materials engineering research. Its official recruitment page specifically welcomes high-school students from the Lexington, Kentucky area to email the principal investigator about potential research participation. Undergraduate students may also inquire directly about current opportunities. There is no centrally advertised high-school application cycle or guarantee of immediate placement. High-school applicants should contact the research group to discuss available projects, appropriate preparation, scheduling, and laboratory supervision.",
+  "email": "",
+  "labUrl": "https://chwatko.engr.uky.edu/join-our-team-0",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1452,
+  "name": "Hinsby Cadillo-Quiroz — Cadillo Laboratory",
+  "title": "Environmental Microbiology and Ecosystem Research",
+  "university": "Arizona State University",
+  "state": "Arizona, USA",
+  "department": "School of Life Sciences",
+  "field": "Microbiology",
+  "tags": [
+    "environmental microbiology",
+    "microbial ecology",
+    "geomicrobiology",
+    "ecosystem ecology",
+    "metagenomics",
+    "soil ecology",
+    "biogeochemistry",
+    "laboratory research"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "The Cadillo Laboratory at Arizona State University investigates environmental microbiology, microbial ecology, biogeochemistry, and microorganisms involved in ecosystem processes. Its official Join Us page includes specific instructions for undergraduate and high-school candidates. Interested students are instructed to email an introduction explaining their academic background, year in school, research interests, and reasons for wanting to participate, accompanied by a resume describing relevant coursework or research experience. Students must complete applicable laboratory safety training before beginning experimental work. High-school participation is explicitly contemplated, but specific placements depend on current projects and mentoring capacity.",
+  "email": "",
+  "labUrl": "https://faculty.thecollege.asu.edu/cadillo/join-us",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1453,
+  "name": "Behnam Ghalei — RAMP Laboratory",
+  "title": "Advanced Membranes and Chemical Engineering Research",
+  "university": "New Jersey Institute of Technology",
+  "state": "New Jersey, USA",
+  "department": "Otto H. York Department of Chemical and Materials Engineering",
+  "field": "Materials Science",
+  "tags": [
+    "membrane science",
+    "chemical engineering",
+    "advanced materials",
+    "polymer chemistry",
+    "water treatment",
+    "critical mineral recovery",
+    "nanomaterials",
+    "separation science",
+    "laboratory research"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Summer Research",
+    "Research Project"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "The RAMP Laboratory at New Jersey Institute of Technology develops advanced materials and membrane technologies for chemical separations and related environmental applications. Its research includes polymer membranes, stimuli-responsive membranes, mineral recovery, and chemical engineering materials. The laboratory's official recruitment page explicitly states that it hosts high-school and community-college students as summer research interns. Students can gain exposure to membrane fabrication, material characterization, separation experiments, laboratory safety, and data analysis. The group identifies Dr. Behnam Ghalei as its contact. High-school applicants should inquire about summer eligibility and availability because the published application instructions are primarily directed toward graduate and undergraduate applicants.",
+  "email": "behnam.ghalei@njit.edu",
+  "labUrl": "https://www.ramp-lab.com/join-us",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1454,
+  "name": "Tao Gao — Sustainable Processing and Energy Resilience Laboratory",
+  "title": "Battery Science and Electrochemical Engineering Research",
+  "university": "North Carolina State University",
+  "state": "North Carolina, USA",
+  "department": "Department of Chemical and Biomolecular Engineering",
+  "field": "Engineering",
+  "tags": [
+    "electrochemistry",
+    "battery research",
+    "energy storage",
+    "critical minerals",
+    "electrochemical separation",
+    "chemical engineering",
+    "sustainable manufacturing",
+    "energy engineering"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Summer Research",
+    "Mentorship"
+  ],
+  "applicationType": "Open Inquiry",
+  "resumeRating": 4,
+  "description": "Professor Tao Gao leads the Sustainable Processing and Energy Resilience Laboratory at North Carolina State University, studying battery systems, electrochemical separations, critical-material recovery, and sustainable industrial processes. The laboratory's recruitment page explicitly welcomes motivated high-school students, generally through summer research programs. Prospective students are instructed to contact Professor Gao through LinkedIn with information about their preferred timing and research interests. The laboratory does not advertise guaranteed direct high-school placements, and applicants should confirm whether a relevant program or individual research arrangement is available.",
+  "email": "",
+  "labUrl": "https://www.taogao-echem.net/join-us/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1455,
+  "name": "Upstate Freshwater Institute — High School Research Inquiry",
+  "title": "Freshwater Ecology and Environmental Research Experience",
+  "university": "Upstate Freshwater Institute",
+  "state": "New York, USA",
+  "department": "Aquatic and Environmental Research",
+  "field": "Environmental Science",
+  "tags": [
+    "freshwater ecology",
+    "water quality",
+    "aquatic ecosystems",
+    "environmental chemistry",
+    "limnology",
+    "environmental monitoring",
+    "field research",
+    "laboratory research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Open Inquiry",
+  "resumeRating": 3,
+  "description": "The Upstate Freshwater Institute is an independent nonprofit environmental research organization that studies freshwater ecosystems, aquatic chemistry, and water quality. Its official student opportunities page explicitly encourages high-school students to contact institute staff about potential job-shadowing or research experiences. The organization operates an accredited environmental laboratory and conducts scientific work related to water resources. Its paid summer internship descriptions primarily concern college students and recent graduates, so high-school students should not assume eligibility for those positions. High-school research participation is inquiry-based and depends on available staff, supervision, and projects.",
+  "email": "",
+  "labUrl": "https://www.upstatefreshwater.org/about/jobs",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1456,
+  "name": "Leilani Gilpin — AIEA Laboratory",
+  "title": "Explainable Artificial Intelligence Research Internship",
+  "university": "University of California, Santa Cruz",
+  "state": "California, USA",
+  "department": "Computer Science and Engineering",
+  "field": "Artificial Intelligence",
+  "tags": [
+    "artificial intelligence",
+    "explainable AI",
+    "machine learning",
+    "AI safety",
+    "neurosymbolic AI",
+    "autonomous systems",
+    "computer science",
+    "computational research"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Open Inquiry",
+  "resumeRating": 5,
+  "description": "The AIEA Laboratory at the University of California, Santa Cruz conducts research on interpretable and explainable artificial intelligence, AI safety, neurosymbolic methods, and autonomous systems. Its official recruitment page explains that high-school students commonly join through UCSC's Science Internship Program or COSMOS. However, the laboratory also states that students outside these programs may be considered for structured summer volunteer opportunities involving independent projects or contributions to existing research. Interested students can join the prospective-intern mailing list or community channels to learn about availability. Independent volunteer placements are conditional rather than guaranteed, making this a useful but competitive research pathway.",
+  "email": "aiea@ucsc.edu",
+  "labUrl": "https://aiea-lab.github.io/join/",
+  "applyUrl": "https://aiea-lab.github.io/join/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1457,
+  "name": "Kavita Hegde — Ophthalmic Research Laboratory",
+  "title": "Vision Science and Ophthalmic Research Internship",
+  "university": "Coppin State University",
+  "state": "Maryland, USA",
+  "department": "Biology and Biochemistry",
+  "field": "Biomedical Science",
+  "tags": [
+    "ophthalmology",
+    "vision science",
+    "eye research",
+    "biomedical research",
+    "laboratory research",
+    "experimental biology",
+    "research internship",
+    "faculty mentorship"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "Coppin State University's Ophthalmic Research Laboratory offers a formal research internship pathway for high-school sophomores, juniors, seniors, high-school graduates, and college students. The laboratory is led by Dr. Kavita Hegde and provides opportunities to gain experience in ophthalmic and biomedical research. Its official website lists separate high-school and undergraduate application forms, making the application process more concrete than an informal faculty inquiry. The published schedule describes summer internships from June 15 through July 31 and academic-year internships from September 1 through May 15. Applications are requested by April 30 for summer participation and July 31 for academic-year participation. Applicants should confirm the applicable year and current capacity.",
+  "email": "khegde@coppin.edu",
+  "labUrl": "https://www.coppin.edu/internship-opportunities",
+  "applyUrl": "https://www.coppin.edu/internship-opportunities",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1458,
+  "name": "McCoy Lab — R.E.E.F. High School Research Mentorship",
+  "title": "Ecology and Evolutionary Biology Research Enrichment",
+  "university": "University of Chicago",
+  "state": "Illinois, USA",
+  "department": "Department of Ecology and Evolution",
+  "field": "Ecology",
+  "tags": [
+    "evolutionary biology",
+    "ecology",
+    "marine biology",
+    "scientific literature",
+    "research mentorship",
+    "evolutionary theory",
+    "research discussions",
+    "scientific presentations"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Training",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "The McCoy Laboratory at the University of Chicago offers R.E.E.F., or Readings in Ecological and Evolutionary Foundations, a research enrichment program designed for local Chicago-area high-school students. The program introduces participants to ecological and evolutionary research through weekly readings, guided discussion with graduate-student mentors, and participation in laboratory meetings. The documented 2026 session operated for approximately eight weeks, from June 8 through August 7, and concluded with student presentations. This is a scientific research-literacy and mentorship program rather than a conventional independent wet-laboratory research internship. Current application availability and the next program cycle require confirmation.",
+  "email": "",
+  "labUrl": "https://mccoylab.uchicago.edu/join-us/",
+  "applyUrl": "https://mccoylab.uchicago.edu/join-us/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1459,
+  "name": "TGen Academic-Year Biomedical Research Internships",
+  "title": "Translational Genomics and Biomedical Research Internship",
+  "university": "Translational Genomics Research Institute",
+  "state": "Arizona, USA",
+  "department": "Education and Outreach",
+  "field": "Biomedical Science",
+  "tags": [
+    "genomics",
+    "computational biology",
+    "bioinformatics",
+    "biomedical research",
+    "translational science",
+    "laboratory research",
+    "research mentorship",
+    "academic-year internship"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Research Project",
+    "Research Assistant"
+  ],
+  "applicationType": "Open Inquiry",
+  "resumeRating": 4,
+  "description": "The Translational Genomics Research Institute provides unpaid academic-year internships involving laboratory research, computational biology, bioinformatics, statistics, and other areas of translational bioscience. Internships are supervised by institute personnel and typically require ten to twenty hours weekly over at least one academic semester. The institution states that high-school participation is possible but extremely rare because students often cannot meet the weekday laboratory schedule. Applicants generally must be at least sixteen years old, satisfy applicable enrollment and immigration-status requirements, and contact the Education and Outreach office about potential placements. This is a limited inquiry-based pathway, not a guaranteed high-school research position.",
+  "email": "",
+  "labUrl": "https://www.tgen.org/education/academic-year-internships/",
+  "applyUrl": "https://www.tgen.org/education/academic-year-internships/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1460,
+  "name": "Wen Song — Micro/Nanofluidics Research Laboratory",
+  "title": "Microfluidics, Geochemistry and Energy Materials Recovery Research",
+  "university": "University of Texas at Austin",
+  "state": "Texas, USA",
+  "department": "Petroleum and Geosystems Engineering",
+  "field": "Engineering",
+  "tags": [
+    "microfluidics",
+    "nanofluidics",
+    "fluid mechanics",
+    "geochemistry",
+    "energy materials",
+    "subsurface engineering",
+    "resource recovery",
+    "experimental engineering",
+    "research mentorship"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "Professor Wen Song's research group at the University of Texas at Austin investigates microscale fluid-solid interactions, microfluidics, geochemistry, and technologies for recovering materials and resources from subsurface environments. Research connects fluid mechanics, thermodynamics, reservoir engineering, and experimental approaches to sustainable resource recovery. The laboratory's official recruitment page explicitly welcomes high-school students who are curious about its research and encourages them to email a brief introduction explaining their interests and goals. Undergraduate students are also invited to inquire. This is a genuine direct-contact opportunity rather than a pathway restricted to an established summer program, although specific projects and mentorship availability must be confirmed with the laboratory.",
+  "email": "wensong@utexas.edu",
+  "labUrl": "https://www.wensong.org/join-us",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1461,
+  "name": "Nicholas Hutzler — Hutzler Atomic Physics Laboratory",
+  "title": "Atomic and Molecular Physics Summer Research",
+  "university": "California Institute of Technology",
+  "state": "California, USA",
+  "department": "Division of Physics, Mathematics and Astronomy",
+  "field": "Physics",
+  "tags": [
+    "atomic physics",
+    "molecular physics",
+    "precision measurement",
+    "laser physics",
+    "quantum science",
+    "experimental physics",
+    "scientific instrumentation",
+    "summer research",
+    "research mentorship"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Summer Research",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "The Hutzler Laboratory at Caltech conducts experimental atomic and molecular physics research involving precision measurements, laser-based techniques, and fundamental physical phenomena. Its official community page documents a recurring partnership with Caltech's Summer Research Connection, administered through the Center for Teaching, Learning, and Outreach. Each summer, teams of high-school students and K-12 teachers have participated in research activities with the laboratory. The page documents past high-school research teams across multiple years and directs interested students to contact the Caltech outreach program, specifically Mitch Aiken, about participation. Students should apply or inquire through the relevant outreach program rather than assuming unrestricted admission directly into the laboratory. Availability for the next summer remains subject to confirmation.",
+  "email": "",
+  "labUrl": "https://www.hutzlerlab.com/community",
+  "applyUrl": "https://www.hutzlerlab.com/community",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1462,
+  "name": "Mechanics of Advanced Materials Laboratory — High School Explorers",
+  "title": "Advanced Materials and Mechanical Engineering Research",
+  "university": "University of Texas at Dallas",
+  "state": "Texas, USA",
+  "department": "Mechanical Engineering",
+  "field": "Materials Science",
+  "tags": [
+    "mechanics of materials",
+    "materials engineering",
+    "mechanical engineering",
+    "advanced materials",
+    "experimental mechanics",
+    "materials characterization",
+    "laboratory research",
+    "summer research",
+    "research volunteering"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Volunteer",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Open Inquiry",
+  "resumeRating": 4,
+  "description": "The Mechanics of Advanced Materials Laboratory at the University of Texas at Dallas describes a High School Explorers research pathway for students in their junior or senior year. Interested high-school students may apply to volunteer in the laboratory after school or during summer vacation, contributing to investigations involving the mechanical behavior of advanced materials and new material compositions. The laboratory's outreach page explicitly describes student participation in research rather than general classroom enrichment. Students should contact the laboratory to confirm its current application procedure, project availability, age requirements, and supervision arrangements. The official page was indexed but could not be fully reopened during verification.",
+  "email": "",
+  "labUrl": "https://labs.utdallas.edu/maml/outreach/",
+  "applyUrl": "https://labs.utdallas.edu/maml/outreach/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1463,
+  "name": "Wei Lin — Lin Research Group",
+  "title": "Physics and Materials Research Through the UTRGV High Scholar Program",
+  "university": "University of Texas Rio Grande Valley",
+  "state": "Texas, USA",
+  "department": "Department of Physics",
+  "field": "Physics",
+  "tags": [
+    "physics",
+    "materials research",
+    "computational research",
+    "scientific modeling",
+    "research mentorship",
+    "faculty research",
+    "summer research"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Summer Research",
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "Professor Wei Lin's research group at the University of Texas Rio Grande Valley explicitly welcomes high-school students to participate in summer research through the university's High Scholar program. The laboratory maintains active university research and offers opportunities for students to gain experience with scientific methods and faculty-supervised projects. Its official research-group page, updated in fall 2026, specifically identifies the High Scholar program as the route for high-school participation. Undergraduate students may separately contact the laboratory about research credit, volunteering, and supported research. High-school applicants should verify the current High Scholar application cycle, eligibility requirements, available projects, and whether placement with the Lin group is possible.",
+  "email": "",
+  "labUrl": "https://faculty.utrgv.edu/wei.lin/researchgroup.html",
+  "applyUrl": "https://faculty.utrgv.edu/wei.lin/researchgroup.html",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1464,
+  "name": "Yun Song — Song Laboratory at CHOP and Penn",
+  "title": "Neural Development, Genetics and Brain Disease Research",
+  "university": "Children's Hospital of Philadelphia / University of Pennsylvania",
+  "state": "Pennsylvania, USA",
+  "department": "Center for Cellular and Molecular Therapeutics",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "neural development",
+    "neural circuits",
+    "neurogenetics",
+    "neurodegeneration",
+    "molecular biology",
+    "developmental biology",
+    "glioma",
+    "experimental neuroscience",
+    "summer research"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Assistant",
+    "Summer Research",
+    "Research Project"
+  ],
+  "applicationType": "Cold Email",
+  "resumeRating": 5,
+  "description": "The Song Laboratory at the Children's Hospital of Philadelphia and University of Pennsylvania investigates the cellular and molecular mechanisms governing neural circuit development, maintenance, and function. Its work includes neural development, neurogenetics, injury, neurodegeneration, and disease-related research using experimental model systems. The laboratory's official news page documents two students from Pennsylvania-area high schools beginning research internships in May and June 2026, providing recent evidence of direct high-school research involvement. The laboratory also states that it welcomes motivated prospective researchers and provides a contact email for Dr. Song. However, the recruitment instructions are not specifically written for high-school applicants, and the documented internships do not guarantee current openings. Students interested in neuroscience or molecular biology may inquire about possible summer opportunities while clearly identifying their educational level and research interests.",
+  "email": "songy2@chop.edu",
+  "labUrl": "https://www.med.upenn.edu/song-lab/lab-news.html",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1465,
+  "name": "Morehouse Materials/Optics Research and Engineering Laboratory",
+  "title": "Quantum Science, Optics and Photonics Summer Research Enrichment",
+  "university": "Morehouse College",
+  "state": "Georgia, USA",
+  "department": "Department of Physics",
+  "field": "Physics",
+  "tags": [
+    "quantum science",
+    "optics",
+    "photonics",
+    "materials science",
+    "experimental physics",
+    "computational science",
+    "engineering",
+    "summer research",
+    "STEM enrichment"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Training",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "Morehouse College's Materials/Optics Research and Engineering Laboratory, directed by Dr. Wesley Sims, describes a MORE-QuEST summer program for rising ninth- through twelfth-grade students interested in quantum science, optics, photonics, advanced materials, and computing technologies. The program is intended to introduce participants to foundational scientific ideas while developing research-related reasoning, problem-solving, and communication skills. Students must attend the full program duration. The laboratory's institutional page identifies a forthcoming application rather than confirming an active application cycle. Its separately advertised laboratory research-assistant positions are directed toward undergraduates, so high-school users should regard MORE-QuEST as a research-enrichment pathway rather than a guaranteed placement in an active research laboratory.",
+  "email": "wesley.sims@morehouse.edu",
+  "labUrl": "https://morehouse.edu/academics/majors/physics/morelab",
+  "applyUrl": "https://morehouse.edu/academics/majors/physics/morelab",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1466,
+  "name": "Wipawee Winuthayanon — Winuthayanon Laboratory",
+  "title": "Reproductive Biology and Molecular Biomedical Research",
+  "university": "University of Missouri",
+  "state": "Missouri, USA",
+  "department": "Department of Obstetrics, Gynecology and Women's Health",
+  "field": "Biomedical Science",
+  "tags": [
+    "reproductive biology",
+    "reproductive physiology",
+    "molecular biology",
+    "endocrinology",
+    "cell biology",
+    "biomedical research",
+    "laboratory research",
+    "summer research",
+    "research mentorship"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Research Assistant",
+    "Summer Research"
+  ],
+  "applicationType": "Cold Email",
+  "resumeRating": 4,
+  "description": "The Winuthayanon Laboratory at the University of Missouri conducts biomedical research related to reproductive biology, reproductive physiology, and the molecular mechanisms regulating reproductive health. Its official laboratory membership page documents current high-school researchers from Rock Bridge High School in Columbia, Missouri. One joined during summer 2024 and continued into the 2025 academic year, while another joined during summer 2026. These records demonstrate recent and sustained high-school participation rather than merely one historical outreach event. However, the personnel page does not provide a formal open application or guarantee additional positions. Students interested in experimental reproductive biology may contact the laboratory about prospective research opportunities, with local access and mentorship capacity likely important considerations.",
+  "email": "",
+  "labUrl": "https://ww7nw.mufaculty.umsystem.edu/team-members",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1467,
+  "name": "Xi Ling — Nanomaterials, Structures and Spectroscopy Group",
+  "title": "Nanomaterials and Advanced Spectroscopy Research",
+  "university": "Boston University",
+  "state": "Massachusetts, USA",
+  "department": "Department of Chemistry",
+  "field": "Materials Science",
+  "tags": [
+    "nanomaterials",
+    "two-dimensional materials",
+    "spectroscopy",
+    "Raman spectroscopy",
+    "materials chemistry",
+    "condensed matter",
+    "nanotechnology",
+    "experimental research",
+    "summer research"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Summer Research",
+    "Research Project",
+    "Research Assistant"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "Professor Xi Ling's research group at Boston University studies advanced materials and their physical and chemical behavior through spectroscopy, nanoscale characterization, and experimental materials research. The group's official news archive documents repeated participation by high-school researchers through Boston University's GROW and RISE summer programs, including students in 2024 and 2025. In 2025, the laboratory specifically reported that four high-school participants completed six-week summer research experiences under graduate-student mentorship. This provides evidence of recurring laboratory participation rather than a single isolated internship. High-school students should pursue the appropriate Boston University summer research application and understand that admission to a program does not guarantee assignment to the Ling Group. Independent direct high-school recruitment has not been confirmed.",
+  "email": "",
+  "labUrl": "https://sites.bu.edu/xling/news/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1468,
+  "name": "University of Delaware Center for Composite Materials — Student Research Internships",
+  "title": "Composite Materials and Manufacturing Engineering Research",
+  "university": "University of Delaware",
+  "state": "Delaware, USA",
+  "department": "Center for Composite Materials",
+  "field": "Materials Science",
+  "tags": [
+    "composite materials",
+    "materials engineering",
+    "manufacturing",
+    "mechanical engineering",
+    "materials characterization",
+    "laboratory research",
+    "experimental engineering",
+    "research internship",
+    "summer research"
+  ],
+  "levels": [
+    "High School",
+    "Undergraduate"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "The University of Delaware Center for Composite Materials offers research internships involving composite materials, advanced manufacturing, laboratory investigation, and engineering research. Its official internship page explicitly provides an application route for students who are not enrolled at the University of Delaware, including high-school students. Interested non-UD applicants are directed to email their resume to the center, including a short summary of their research experience, technical skills, and relevant coursework. Internships may involve mentorship from experienced researchers and university faculty, with opportunities to develop engineering skills and communicate research findings. The program describes flexible participation during academic semesters and summer or winter breaks. Specific high-school eligibility, available projects, compensation, and supervision requirements should be confirmed. The institutional page was indexed but could not be fully reopened during verification.",
+  "email": "ccm-resumes@udel.edu",
+  "labUrl": "https://ccm.udel.edu/education-training/internships/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1469,
+  "name": "NYU Music and Audio Research Laboratory — High School Research Pathways",
+  "title": "Music Technology, Audio Computing and Interdisciplinary Research",
+  "university": "New York University",
+  "state": "New York, USA",
+  "department": "Steinhardt School of Culture, Education, and Human Development",
+  "field": "Computer Science",
+  "tags": [
+    "music technology",
+    "audio research",
+    "music information retrieval",
+    "digital signal processing",
+    "computer science",
+    "music cognition",
+    "machine learning",
+    "interdisciplinary research",
+    "summer research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Summer Research",
+    "Research Training"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "The Music and Audio Research Laboratory at NYU Steinhardt conducts interdisciplinary research involving music, audio technology, computing, and related scientific and creative questions. Its official Join Us page explicitly welcomes middle- and high-school students to participate in initiatives through NYU programs including ARISE, SONYC K-12, and Music Technology Summer Intensives. These programs offer different forms of research exposure, training, and technical enrichment; not all constitute individual mentored laboratory research projects. Interested high-school students should review the requirements and application processes of the relevant program rather than assume the laboratory accepts unrestricted direct applications. Specific placement with MARL, research responsibilities, and next-cycle availability must be verified through the program.",
+  "email": "",
+  "labUrl": "https://steinhardt.nyu.edu/marl/join-us",
+  "applyUrl": "https://steinhardt.nyu.edu/marl/join-us",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1470,
+  "name": "Kaveh Yousefi — Flow Dynamics and Turbulence Laboratory",
+  "title": "Fluid Mechanics, Computational Modeling and Machine Learning Summer Research",
+  "university": "University of Texas at Dallas",
+  "state": "Texas, USA",
+  "department": "Mechanical Engineering",
+  "field": "Engineering",
+  "tags": [
+    "fluid dynamics",
+    "turbulence",
+    "computational fluid dynamics",
+    "wave modeling",
+    "machine learning",
+    "numerical simulation",
+    "mechanical engineering",
+    "summer research",
+    "research mentorship"
+  ],
+  "levels": ["High School", "Undergraduate"],
+  "opportunityTypes": ["Summer Research", "Research Project", "Mentorship"],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "The Flow Dynamics and Turbulence Laboratory at the University of Texas at Dallas explicitly welcomes high-school students through its Summer STEM Scholars Program and STEM Bridge Program. Research involves fluid dynamics, wave modeling, computational methods, and machine learning. The laboratory states that it typically accepts one to three students through its own summer scholars pathway and four to five through STEM Bridge. Students work with university researchers and gain exposure to computational and experimental engineering. Interested high-school students may contact Professor Kaveh Yousefi directly at kyousefi@utdallas.edu regarding the Summer STEM Scholars Program. Admission is limited by available projects and supervision, and the next application dates should be confirmed.",
+  "email": "kyousefi@utdallas.edu",
+  "labUrl": "https://labs.utdallas.edu/fdt-lab/people/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1471,
+  "name": "UC Merced YuCCA Laboratory — High School Research",
+  "title": "Edge Artificial Intelligence and Embedded Systems Research",
+  "university": "University of California, Merced",
+  "state": "California, USA",
+  "department": "Computer Science and Engineering",
+  "field": "Artificial Intelligence",
+  "tags": [
+    "edge AI",
+    "embedded systems",
+    "machine learning",
+    "computer engineering",
+    "intelligent computing",
+    "AI optimization",
+    "computer science",
+    "research mentorship"
+  ],
+  "levels": ["High School", "Undergraduate"],
+  "opportunityTypes": ["Research Project", "Research Assistant", "Mentorship"],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 4,
+  "description": "Yu's Cognitive Computing and Automation Laboratory at UC Merced develops intelligent computing technologies with particular emphasis on edge artificial intelligence and embedded systems. Its official recruitment page explicitly addresses high-school students alongside undergraduate and master's students and invites motivated young researchers to inquire about participating. Research opportunities may provide faculty and graduate-student mentorship, technical skill development, and participation in active projects. The laboratory emphasizes that capacity is limited and that it cannot accommodate every applicant. Students should review the published requirements and use the laboratory's stated email-subject format when contacting the group. Current individual high-school openings and project assignments must be confirmed.",
+  "email": "",
+  "labUrl": "https://yuccalab.ucmerced.edu/join.html",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1472,
+  "name": "University of Maryland PRIME-R Robotics Research Program",
+  "title": "Semester-Long Faculty-Mentored Robotics Research",
+  "university": "University of Maryland, College Park",
+  "state": "Maryland, USA",
+  "department": "Maryland Robotics Center",
+  "field": "Robotics",
+  "tags": [
+    "robotics",
+    "automation",
+    "mechanical engineering",
+    "computer science",
+    "robotics research",
+    "engineering design",
+    "faculty mentorship",
+    "academic-year research"
+  ],
+  "levels": ["High School"],
+  "opportunityTypes": ["Research Project", "Mentorship", "Academic-Year Research"],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "The University of Maryland's Pre-College Research Internships and Mentored Experience in Robotics program, PRIME-R, places motivated high-school students into robotics laboratories affiliated with the Maryland Robotics Center. Students work alongside faculty members and graduate-student mentors on meaningful research projects over a semester, with an expected commitment of approximately five hours weekly. The program is open to current tenth-, eleventh-, and twelfth-grade students who are United States citizens. Applications require a transcript, resume, and recommendation letter, and prior robotics experience is not mandatory. The official application deadline is November 15, 2026. PRIME-R is an in-person commuter program without transportation or meals, and it does not provide academic credit.",
+  "email": "",
+  "labUrl": "https://robotics.umd.edu/education/prime-r",
+  "applyUrl": "https://robotics.umd.edu/education/prime-r",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1473,
+  "name": "Axel Krieger Research Group — AMIRo Laboratory",
+  "title": "Medical Robotics and Image-Guided Intervention Summer Research",
+  "university": "Johns Hopkins University",
+  "state": "Maryland, USA",
+  "department": "Laboratory for Computational Sensing and Robotics",
+  "field": "Robotics",
+  "tags": [
+    "medical robotics",
+    "surgical robotics",
+    "image-guided intervention",
+    "robotic systems",
+    "biomedical engineering",
+    "automation",
+    "medical technology",
+    "summer research"
+  ],
+  "levels": ["High School", "Undergraduate"],
+  "opportunityTypes": ["Research Project", "Summer Research", "Research Assistant"],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "The Automation and Interventional Medicine Robotics Laboratory at Johns Hopkins University investigates medical robotics and technologies for robotic and image-guided interventions. Its official opportunities page states that the laboratory occasionally offers summer research positions for undergraduate students and advanced high-school students. Interested students are instructed to contact Professor Iulian Iordachita directly about possible summer research involvement. The laboratory does not promise a continuously available high-school opening, and participation depends on project needs, technical preparation, and available mentorship. Students should inquire about current opportunities rather than interpreting the page as a confirmed vacancy.",
+  "email": "iordachita@jhu.edu",
+  "labUrl": "https://amiro.lcsr.jhu.edu/opportunities/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1474,
+  "name": "Gregory Fischer — Automation and Interventional Medicine Robotics Laboratory",
+  "title": "Medical Robotics and Biomedical Engineering Summer Research",
+  "university": "Worcester Polytechnic Institute",
+  "state": "Massachusetts, USA",
+  "department": "Robotics Engineering",
+  "field": "Robotics",
+  "tags": [
+    "medical robotics",
+    "surgical robotics",
+    "robotic systems",
+    "biomedical engineering",
+    "robotics engineering",
+    "medical instrumentation",
+    "research mentorship",
+    "summer research"
+  ],
+  "levels": ["High School", "Undergraduate"],
+  "opportunityTypes": ["Research Project", "Summer Research", "Research Assistant"],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 4,
+  "description": "The Automation and Interventional Medicine Robotics Laboratory at Worcester Polytechnic Institute develops robotic technologies for medical applications and image-guided procedures. Its official positions page explicitly states that the group occasionally offers summer research positions to undergraduate students and advanced high-school students. Interested students are directed to contact Professor Gregory Fischer about potential research involvement. The laboratory's high-school positions are intermittent rather than guaranteed. Students should confirm whether a suitable summer project, available mentor, and institutional arrangements for minors exist before making plans. This is a separate institution and research group from the Johns Hopkins AMIRo laboratory.",
+  "email": "",
+  "labUrl": "https://aimlab.wpi.edu/open_positions/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1475,
+  "name": "Rutgers Institute for Translational Medicine and Sciences Summer Research Program",
+  "title": "Translational Biomedical Research Summer Internship",
+  "university": "Rutgers University",
+  "state": "New Jersey, USA",
+  "department": "Institute for Translational Medicine and Sciences",
+  "field": "Biomedical Science",
+  "tags": [
+    "translational medicine",
+    "biomedical research",
+    "laboratory research",
+    "experimental biology",
+    "clinical research",
+    "data analysis",
+    "research mentorship",
+    "summer internship"
+  ],
+  "levels": ["High School", "Undergraduate"],
+  "opportunityTypes": ["Internship", "Summer Research", "Research Project"],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "The Rutgers Institute for Translational Medicine and Sciences Summer Research Program provides high-school students, college students, and first-year medical students opportunities to contribute to translational biomedical research. Participants become part of research teams, participate in experimental planning and analysis, perform laboratory investigations where appropriate, and present scientific results. Applicants must be at least sixteen years old when the program begins. The official program page lists February 1 as the general application deadline, with January 1 specified for foreign nationals, and requires supporting application materials and recommendations. Students should verify the applicable summer cycle, project availability, and additional eligibility requirements before applying.",
+  "email": "",
+  "labUrl": "https://ritms.rutgers.edu/education-training/graduate-and-undergraduate-education-and-training/",
+  "applyUrl": "https://ritms.rutgers.edu/education-training/graduate-and-undergraduate-education-and-training/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1476,
+  "name": "Shelly Peyton — Engineering the Cell Summer Research Program",
+  "title": "Cancer Bioengineering, Biomaterials and Cellular Research",
+  "university": "Tufts University",
+  "state": "Massachusetts, USA",
+  "department": "Department of Biomedical Engineering",
+  "field": "Biomedical Engineering",
+  "tags": [
+    "cancer bioengineering",
+    "biomaterials",
+    "cell biology",
+    "traumatic brain injury",
+    "tissue engineering",
+    "biomedical engineering",
+    "laboratory research",
+    "summer research",
+    "research mentorship"
+  ],
+  "levels": ["High School"],
+  "opportunityTypes": ["Summer Research", "Research Project", "Research Training"],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "The Peyton Laboratory at Tufts University operates Engineering the Cell, a summer research program developed specifically for high-school students interested in science and engineering. Participants spend approximately six weeks in the laboratory working with Dr. Shelly Peyton and graduate researchers on scientific questions connected to cancer, brain research, soft materials, and biomaterials. The program provides direct exposure to experimental research and scientific methods. Participation is free, and selected students receive a small stipend. The 2026 application cycle is closed, with information for the following summer expected in early 2027. Applicants should confirm application dates, eligibility, and available placements before applying.",
+  "email": "",
+  "labUrl": "https://www.peytonlab.org/etc",
+  "applyUrl": "https://www.peytonlab.org/etc",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1477,
+  "name": "SickKids Summer Research Program — SSuRe",
+  "title": "Pediatric Biomedical Research Summer Experience",
+  "university": "The Hospital for Sick Children",
+  "state": "Ontario, Canada",
+  "department": "SickKids Research Institute",
+  "field": "Biomedical Science",
+  "tags": [
+    "pediatric research",
+    "biomedical science",
+    "molecular biology",
+    "clinical research",
+    "genetics",
+    "laboratory research",
+    "research mentorship",
+    "summer research",
+    "scientific presentations"
+  ],
+  "levels": ["High School", "Undergraduate"],
+  "opportunityTypes": ["Summer Research", "Internship", "Research Project"],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "The SickKids Summer Research Program provides research and professional development experiences for students working under the supervision of scientists at the SickKids Research Institute in Toronto. Summer researchers can attend seminars, scientific training activities, career events, and a concluding research symposium. High-school eligibility is specifically limited to students in their final year who will enroll in a university or college undergraduate program during the following fall. Younger high-school students are directed toward the separate Student Advancement Research internship program. Applicants must secure a qualifying research position and meet the institute's hiring and eligibility requirements. The available official page describes the 2026 application cycle; current openings and next-cycle dates require confirmation. This listing is distinct from SickKids StAR.",
+  "email": "",
+  "labUrl": "https://www.sickkids.ca/SSuRe/",
+  "applyUrl": "https://www.sickkids.ca/SSuRe/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1478,
+  "name": "University of Pittsburgh Allegheny Observers",
+  "title": "High School Astronomy and Astrophysics Research Group",
+  "university": "University of Pittsburgh — Allegheny Observatory",
+  "state": "Pennsylvania, USA",
+  "department": "Department of Physics and Astronomy",
+  "field": "Astronomy",
+  "tags": [
+    "astronomy",
+    "astrophysics",
+    "observational astronomy",
+    "telescope operations",
+    "scientific outreach",
+    "astronomical research",
+    "science communication",
+    "student research"
+  ],
+  "levels": ["High School"],
+  "opportunityTypes": ["Research Project", "Mentorship", "Research Training"],
+  "applicationType": "Open Inquiry",
+  "resumeRating": 3,
+  "description": "Allegheny Observers is a high-school astronomy group based at the University of Pittsburgh's Allegheny Observatory. A September 2026 university report describes approximately sixty participating students from more than thirteen schools, coordinated through the observatory's outreach activities. Students engage with astronomy and astrophysics, scientific outreach, telescope-related activities, and research-oriented experiences, including a group trip to Green Bank Observatory. The program has received recognition for its scientific outreach. It should not be confused with a guaranteed individual university laboratory internship or a paid research position. Prospective participants should contact the observatory about current membership, research activities, geographic eligibility, and recruitment procedures.",
+  "email": "",
+  "labUrl": "https://www.pittwire.pitt.edu/accolades-honors/2026/09/08/allegheny-observers-cern-telescope",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1479,
+  "name": "University of Alberta EdTeKLA Research Group — High School Research Pathway",
+  "title": "Educational Technology, Artificial Intelligence and Software Research",
+  "university": "University of Alberta",
+  "state": "Alberta, Canada",
+  "department": "Department of Computing Science",
+  "field": "Computer Science",
+  "tags": [
+    "educational technology",
+    "artificial intelligence",
+    "machine learning",
+    "intelligent tutoring systems",
+    "natural language processing",
+    "human-computer interaction",
+    "software development",
+    "summer research"
+  ],
+  "levels": ["High School", "Undergraduate"],
+  "opportunityTypes": ["Summer Research", "Research Project", "Internship"],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "The University of Alberta EdTeKLA Research Group has documented high-school students participating in summer research and software-development activities through the university's Computing Science High School Internship Program and the Faculty of Science WISEST Summer Research Program. Research interests include educational technology, intelligent tutoring systems, computer-assisted learning, artificial intelligence, and human-computer interaction. The laboratory's available evidence comes from an archived former-members page rather than a current high-school recruitment announcement. Students should verify whether the group is still accepting placements through either program and apply through the appropriate university pathway rather than assuming direct lab admission. This is a historical participation pathway pending current-cycle confirmation.",
+  "email": "",
+  "labUrl": "https://spaces.facsci.ualberta.ca/edtekla/old-group-members/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
 }
 ]
