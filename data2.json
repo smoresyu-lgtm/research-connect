@@ -30154,5 +30154,320 @@
     "applyUrl": "https://nicholaslab.bio.uci.edu/join-us/",
     "dateAdded": "2026-10-25",
     "listingType": "Professor Prospect"
-  }
+  },  
+{
+  "id": 1400,
+  "name": "Hartstone-Rose Research Lab",
+  "title": "Functional Morphology and Paleontology Research",
+  "university": "North Carolina State University",
+  "state": "North Carolina, USA",
+  "department": "Department of Biological Sciences",
+  "field": "Biology",
+  "tags": [
+    "functional morphology",
+    "paleontology",
+    "muscle anatomy",
+    "digital dissection",
+    "micro-CT",
+    "evolution"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Open Inquiry",
+  "resumeRating": 4,
+  "description": "The Hartstone-Rose Lab documents working with high-school students on functional morphology projects and invites interested students to explore lab participation. The lab uses anatomical approaches including dissection and imaging. Current high-school capacity is not stated; ask Dr. Adam Hartstone-Rose before assuming an opening.",
+  "email": "AdamHRose@ncsu.edu",
+  "labUrl": "https://sites.google.com/ncsu.edu/hartstone-rose-lab/join-the-lab",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1401,
+  "name": "LSU LCMC Health Cancer Center Summer Research Internship",
+  "title": "Cancer Biology Summer Research Internship",
+  "university": "LSU Health New Orleans",
+  "state": "Louisiana, USA",
+  "department": "LSU LCMC Health Cancer Center",
+  "field": "Biomedical Science",
+  "tags": [
+    "cancer research",
+    "biomedical science",
+    "laboratory techniques",
+    "research mentorship",
+    "science communication"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "Eight-week hands-on cancer research internship for high-school juniors or seniors ages 16–18 at application. Participants must live in or near the New Orleans area during the program and attend all dates and mandatory orientation. The program ends with a poster or oral research presentation. Confirm next-cycle dates on the official page.",
+  "email": "SummerResearch@lsuhsc.edu",
+  "labUrl": "https://medschool.lsuhsc.edu/cancer_center/education-and-training/education-and-training-for-high-school-students.aspx",
+  "applyUrl": "https://medschool.lsuhsc.edu/cancer_center/education-and-training/education-and-training-for-high-school-students.aspx",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1402,
+  "name": "University of Utah Engineering High School Summer Research Internship",
+  "title": "Engineering Laboratory Summer Research",
+  "university": "University of Utah",
+  "state": "Utah, USA",
+  "department": "John and Marcia Price College of Engineering",
+  "field": "Engineering",
+  "tags": [
+    "engineering research",
+    "faculty mentorship",
+    "lab internship",
+    "research symposium",
+    "summer research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Summer Research",
+    "Research Project"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "Competitive no-cost, unpaid summer internship placing eligible high-school students in university engineering labs with a faculty-assigned research project and final symposium. The current page states applicants graduating in 2028 may apply; housing is not supplied. Verify deadline and cohort requirements on the application page.",
+  "email": "alyssa.koskinen@utah.edu",
+  "labUrl": "https://www.price.utah.edu/k12/high-school-summer-research-internship",
+  "applyUrl": "https://www.price.utah.edu/k12/high-school-summer-research-internship",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1403,
+  "name": "University of Delaware CIS High School Faculty Lab Research",
+  "title": "Computer Science Faculty Research Inquiry",
+  "university": "University of Delaware",
+  "state": "Delaware, USA",
+  "department": "Department of Computer and Information Sciences",
+  "field": "Computer Science",
+  "tags": [
+    "computer science",
+    "human-computer interaction",
+    "cybersecurity",
+    "biomedical data",
+    "faculty research",
+    "summer internship"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Cold Email",
+  "resumeRating": 3,
+  "description": "The University of Delaware Computer and Information Sciences department states that selected faculty labs occasionally host motivated local high-school juniors and seniors for summer research in areas including human-computer interaction, cybersecurity and biomedical data. Students are instructed to identify aligned faculty labs and email a resume and brief statement, ideally in January–March. No specific professor placement is guaranteed.",
+  "email": "",
+  "labUrl": "https://www.cis.udel.edu/opportunities/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1404,
+  "name": "Nihal Dharmasiri — Plant Molecular Biology Lab",
+  "title": "Plant Development and Molecular Biology Research",
+  "university": "Texas State University",
+  "state": "Texas, USA",
+  "department": "Department of Biology",
+  "field": "Plant Biology",
+  "tags": [
+    "plant molecular biology",
+    "plant development",
+    "plant physiology",
+    "hormone signaling",
+    "laboratory research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Summer Research"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 4,
+  "description": "The Dharmasiri laboratory explicitly accepts inquiries from motivated high-school juniors and seniors for short-term summer research projects lasting approximately four to six weeks. The research concerns plant molecular biology and development. Contact the laboratory to determine whether a particular summer has capacity.",
+  "email": "md34@txstate.edu",
+  "labUrl": "https://www.bio.txst.edu/faculty-staff/nihal-dharmasiri/dharmasiri-lab.html",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1405,
+  "name": "James D. Lewis — Plant and Forest Ecology Research",
+  "title": "Forest Ecology and Environmental Change Research",
+  "university": "Fordham University",
+  "state": "New York, USA",
+  "department": "Department of Biological Sciences",
+  "field": "Ecology",
+  "tags": [
+    "forest ecology",
+    "plant ecology",
+    "invasive species",
+    "climate change",
+    "urban ecology",
+    "plant physiology"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "Fordham faculty member James D. Lewis explicitly states that research opportunities exist for high-school, undergraduate and graduate students interested in plant or forest ecology. Research addresses invasive species, climate change, urbanization and plant responses to environmental conditions. Students should contact him about current project and mentoring capacity.",
+  "email": "jdlewis@fordham.edu",
+  "labUrl": "https://www.fordham.edu/academics/departments/biological-sciences/faculty-and-instructional-staff/james-d-lewis/",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1406,
+  "name": "Stanger-Hall Lab — Firefly Biology Research",
+  "title": "Firefly Ecology and Biology Summer Research",
+  "university": "University of Georgia",
+  "state": "Georgia, USA",
+  "department": "Department of Plant Biology",
+  "field": "Biology",
+  "tags": [
+    "firefly biology",
+    "insect biology",
+    "evolutionary ecology",
+    "field biology",
+    "science education"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Summer Research",
+    "Research Project"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "The Stanger-Hall Lab explicitly directs high-school students interested in a summer research experience to inquire about applying through UGA’s Young Dawgs program. The group researches fireflies and related biological questions. This is a program-dependent pathway, not confirmed unrestricted admission directly into the laboratory.",
+  "email": "ksh@uga.edu",
+  "labUrl": "https://stanger-hall.franklinresearch.uga.edu/contact-0",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1407,
+  "name": "Jin He Nano-Bio Research Laboratory",
+  "title": "Nanobiotechnology and Single-Molecule Research",
+  "university": "Florida International University",
+  "state": "Florida, USA",
+  "department": "Department of Physics",
+  "field": "Physics",
+  "tags": [
+    "nanobiotechnology",
+    "single-molecule biophysics",
+    "molecular electronics",
+    "nanomaterials",
+    "nano-fabrication"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Summer Research",
+    "Research Project"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 4,
+  "description": "The Jin He lab states it accepts one or two teacher-recommended high-school students for summer research and also participates in institutional summer research internships. Work includes molecular electronics, nanobiotechnology and single-molecule biophysics. Recommendation and capacity requirements apply; verify a current summer opening before outreach.",
+  "email": "",
+  "labUrl": "https://faculty.fiu.edu/~jinhe/positions.htm",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1408,
+  "name": "Hudson Lab — Developmental Neurobiology High School Internships",
+  "title": "Developmental Neurobiology Research Internship",
+  "university": "Kennesaw State University",
+  "state": "Georgia, USA",
+  "department": "Department of Molecular and Cellular Biology",
+  "field": "Neuroscience",
+  "tags": [
+    "developmental neurobiology",
+    "cell biology",
+    "biomedical research",
+    "wet lab",
+    "neural development"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Internship",
+    "Research Project"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 4,
+  "description": "The Hudson Lab says it occasionally hosts high-school students for research internships and instructs interested students to contact the professor directly. Its research opportunities page focuses on developmental neurobiology and bench research. High-school placements are occasional, not guaranteed or necessarily currently open.",
+  "email": "mhudso28@kennesaw.edu",
+  "labUrl": "https://facultyweb.kennesaw.edu/mhudso28/opportunities.php",
+  "applyUrl": "",
+  "dateAdded": "2026-10-25",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1409,
+  "name": "Creighton HS-MACA/CPHHE Summer Research Institute",
+  "title": "Biomedical and Community Health Summer Research",
+  "university": "Creighton University",
+  "state": "Nebraska, USA",
+  "department": "Center for Promoting Health and Health Equity",
+  "field": "Public Health",
+  "tags": [
+    "biomedical research",
+    "community-based research",
+    "public health",
+    "health disparities",
+    "faculty mentorship",
+    "research presentation"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Summer Research",
+    "Research Project"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "Creighton’s HS-MACA/CPHHE Summer Research Institute introduces high-school and college students to biomedical and community-based research. Participants are paired with faculty on ongoing projects or community organizations for participatory research and conclude with oral or poster presentations. Confirm current selection criteria and next-cycle application dates.",
+  "email": "cphhe@creighton.edu",
+  "labUrl": "https://www.creighton.edu/healthsciences/diversity/research/summer-research-institute",
+  "applyUrl": "https://www.creighton.edu/healthsciences/diversity/research/summer-research-institute",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+}
 ]
