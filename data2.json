@@ -32789,5 +32789,324 @@
   "applyUrl": "",
   "dateAdded": "2026-10-25",
   "listingType": "Professor Prospect"
+},
+  {
+  "id": 1480,
+  "name": "Laboratory for Laser Energetics (LLE)",
+  "title": "Summer High School Research Program",
+  "university": "University of Rochester",
+  "state": "NY",
+  "department": "Laboratory for Laser Energetics",
+  "field": "Physics",
+  "tags": [
+    "laser physics",
+    "plasma physics",
+    "fusion energy",
+    "high-energy-density physics",
+    "optics",
+    "computational modeling"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "Paid, eight-week summer research placement for Rochester-area high-school students currently in their junior year. Accepted students are matched with an LLE scientist or engineer and work on projects connected to the OMEGA or OMEGA EP laser systems. Past topics include laser/plasma physics, materials science, diagnostics, optics, experimental data analysis, physical/computational chemistry, and modeling; students present their results at an LLE symposium. The official page says Summer 2026 applications are closed, and LLE announced in September 2026 that planning for the 2027 season had begun, but 2027 application dates are not yet posted. Local eligibility and the full eight-week commitment are important restrictions.",
+  "email": "hsprogram@lle.rochester.edu",
+  "labUrl": "https://www.lle.rochester.edu/education/summer-high-school-research-program/",
+  "applyUrl": "https://www.lle.rochester.edu/education/summer-high-school-research-program/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1481,
+  "name": "St. Bonaventure University Faculty Research Mentors",
+  "title": "High School Student Research Program",
+  "university": "St. Bonaventure University",
+  "state": "NY",
+  "department": "School of Arts and Sciences",
+  "field": "Interdisciplinary",
+  "tags": [
+    "faculty-mentored research",
+    "biochemistry",
+    "bioinformatics",
+    "computational chemistry",
+    "molecular genetics",
+    "developmental biology",
+    "engineering",
+    "human-computer interaction"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "A two-week, non-residential summer research experience for students completing their sophomore or junior year before Summer 2027. Students select and rank research interests from faculty project areas that include biochemistry, bioinformatics, biopsychology, computational chemistry, developmental biology, digital humanities, mathematics/computer-aided design, mechanical/electrical engineering, mental health in media, human-computer interaction, and molecular genetics. Participants work with a faculty mentor and present a project poster. For 2027, dates and the application deadline are still TBA; applicants should prepare a transcript and one-page personal statement and submit materials as directed on the program page. The stated program fee is $1,000 after acceptance; need-based scholarship support may be available. It is not residential, and a student needing on-campus housing must be accompanied by an adult.",
+  "email": "",
+  "labUrl": "https://www.sbu.edu/academics/schools-at-sbu/school-of-arts-sciences/high-school-student-research-program",
+  "applyUrl": "https://www.sbu.edu/academics/schools-at-sbu/school-of-arts-sciences/high-school-student-research-program",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1482,
+  "name": "Stanford Center for Artificial Intelligence in Medicine & Imaging (AIMI)",
+  "title": "AIMI Summer Research Internship",
+  "university": "Stanford University",
+  "state": "CA",
+  "department": "Center for Artificial Intelligence in Medicine & Imaging",
+  "field": "Computer Science",
+  "tags": [
+    "artificial intelligence",
+    "health AI",
+    "medical imaging",
+    "clinical data",
+    "machine learning",
+    "biomedicine"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "Mentored high-school research internship focused on AI at the intersection of medicine and imaging. Students work with real-world health data and explore research questions involving the development and responsible translation of AI into healthcare. Stanford lists Summer 2027 applications as opening November 10, 2026, with a February 1, 2027 deadline. The official page does not yet specify the full 2027 schedule, compensation, or housing details, so applicants should verify these in the application materials. The program is a research experience rather than a general AI camp.",
+  "email": "aimi-hs-programs@stanford.edu",
+  "labUrl": "https://aimi.stanford.edu/education/summer-research-internship",
+  "applyUrl": "https://aimi.stanford.edu/education/summer-research-internship",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1483,
+  "name": "Duke Department of Cell Biology",
+  "title": "Cell Biology Academy (CeBA)",
+  "university": "Duke University",
+  "state": "NC",
+  "department": "Department of Cell Biology, Duke University School of Medicine",
+  "field": "Biology",
+  "tags": [
+    "cell biology",
+    "bench research",
+    "hypothesis formulation",
+    "data analysis",
+    "scientific communication",
+    "journal club"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "Paid summer cell-biology research opportunity for local Research Triangle-area high-school students. Interns conduct an independent project under a graduate-student or postdoctoral mentor and build experience in hypothesis formulation, practical bench skills, data analysis, and communicating results; the program also includes career seminars and journal clubs. The current program page says Summer 2027 applications will be accepted in January 2027. Current sophomores, juniors, and seniors may apply; participants must be local because transportation and lodging are not provided, and the page says students need an SSN or ITIN to receive the stipend. The page describes a six-week schedule for the prior cycle; 2027 dates and stipend amount should be reconfirmed when the new application opens.",
+  "email": "ceba@duke.edu",
+  "labUrl": "https://www.cellbio.duke.edu/education-and-training/cell-biology-academy-ceba",
+  "applyUrl": "https://www.cellbio.duke.edu/education-and-training/cell-biology-academy-ceba",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1484,
+  "name": "University of Nebraska Medical Center SHARP",
+  "title": "Summer High School Advanced Research Program (SHARP)",
+  "university": "University of Nebraska Medical Center",
+  "state": "NE",
+  "department": "Division of Student Success; Pharmacology and Experimental Neuroscience; Biochemistry; Anesthesiology",
+  "field": "Biology",
+  "tags": [
+    "biomedical research",
+    "pharmacology",
+    "neuroscience",
+    "biochemistry",
+    "anesthesiology",
+    "laboratory techniques",
+    "research poster"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "Ten-week, bench-side research program in UNMC laboratories associated with pharmacology and experimental neuroscience, biochemistry, and anesthesiology (including the HSTAR pathway). Students receive biomedical research-methods training, work with a lab team, examine data, and prepare and present a research poster. The Summer 2027 application opens November 1, 2026 and is due February 1, 2027. Applicants must be at least 16, be a current high-school sophomore or junior, and be a U.S. citizen or permanent resident; graduating seniors and international students are not considered. A 3.0 GPA, prior science coursework, and two strong recommendation letters are among the additional factors listed by UNMC.",
+  "email": "studentsuccess@unmc.edu",
+  "labUrl": "https://www.unmc.edu/student-success/pathway-programs/sharp/index.html",
+  "applyUrl": "https://www.unmc.edu/student-success/pathway-programs/sharp/index.html",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1485,
+  "name": "RockEDU Science Outreach",
+  "title": "Jumpstart: Spring-to-Summer Research Program",
+  "university": "The Rockefeller University",
+  "state": "NY",
+  "department": "RockEDU Science Outreach",
+  "field": "Biology",
+  "tags": [
+    "molecular biology",
+    "laboratory research",
+    "research skills",
+    "New York City",
+    "mentorship",
+    "scientific communication"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A combined after-school and summer program for New York City high-school juniors and seniors who are at least 16 at program start. The spring portion (February 25–June 10, 2027) meets Tuesdays and Thursdays from 4:30–7:00 p.m. and builds molecular-biology laboratory skills; students then join the Summer Science Research Program for mentored, hands-on lab research from June 21–August 5, 2027, up to 35 hours per week. Applications for Jumpstart 2027 are open and all materials, including a recommendation letter, are due by 5:00 p.m. Eastern on January 4, 2027. Applicants must attend an NYC high school and commit to the entire spring-and-summer schedule. The page does not specify compensation or housing support.",
+  "email": "",
+  "labUrl": "https://www.rockefeller.edu/outreach/lab-jumpstart/",
+  "applyUrl": "https://www.rockefeller.edu/outreach/lab-jumpstart/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1486,
+  "name": "Georgia Cancer Center (GCC)",
+  "title": "Summer Research Experience (GCC SRE)",
+  "university": "Augusta University",
+  "state": "GA",
+  "department": "Georgia Cancer Center",
+  "field": "Biology",
+  "tags": [
+    "cancer biology",
+    "cancer immunology",
+    "molecular biology",
+    "bioinformatics",
+    "computational biology",
+    "population health",
+    "clinical outcomes"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "Six-week, individually mentored cancer-research experience at the Georgia Cancer Center, with projects spanning cell and molecular biology, cancer immunology, clinical outcomes, bioinformatics, population health, computational biology, and related areas. The 2027 program runs June 2–July 14; applications opened October 15, 2026 and are due January 15, 2027. Students must be at least 16 by the start date for bench-laboratory projects; younger high-school students may apply to non-bench projects such as bioinformatics, population health, clinical outcomes, or computational biology. Priority is given to students from Richmond, Columbia, and Aiken Counties, but the page does not make those counties an absolute eligibility requirement. Housing and stipends are not provided.",
+  "email": "sre_gcc@augusta.edu",
+  "labUrl": "https://www.augusta.edu/cancer/education/summer-research-experience.php",
+  "applyUrl": "https://www.augusta.edu/cancer/education/summer-research-experience.php",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1487,
+  "name": "Simpson Querrey Lung Institute for Translational Science (SQLIFTS)",
+  "title": "Kimberly Querrey Summer Research Program",
+  "university": "Northwestern University",
+  "state": "IL",
+  "department": "Feinberg School of Medicine; Simpson Querrey Lung Institute for Translational Science",
+  "field": "Biology",
+  "tags": [
+    "lung disease",
+    "pulmonary research",
+    "translational medicine",
+    "basic research",
+    "clinical research",
+    "biological sciences"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "Paid six- to eight-week summer research program pairing participants with Northwestern faculty for basic or clinical projects related to lung disease. Interns work full-time (40 hours per week) and present their work at the Kimberly Querrey Summer Research Symposium. High-school applicants must be current juniors at application time and at least 16 years old by May 31 of the program year. The program welcomes applicants nationally, but students must arrange their own housing and transportation to Northwestern’s Chicago campus. The program page says the Summer 2027 application is expected to open in early January 2027; deadline and full 2027 details have not yet been posted.",
+  "email": "",
+  "labUrl": "https://www.feinberg.northwestern.edu/sites/sqlifts/research/summer-research-program.html",
+  "applyUrl": "https://www.feinberg.northwestern.edu/sites/sqlifts/research/summer-research-program.html",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
+},
+{
+  "id": 1488,
+  "name": "Feeley-Liu Lab (Brian Feeley, MD)",
+  "title": "Summer Research Program for High School Students",
+  "university": "University of California, San Francisco",
+  "state": "CA",
+  "department": "Sports Medicine and Shoulder Service; Department of Orthopaedic Surgery",
+  "field": "Biology",
+  "tags": [
+    "stem cells",
+    "muscle regeneration",
+    "sports medicine",
+    "translational research",
+    "histology",
+    "RT-PCR",
+    "gene expression",
+    "protein expression",
+    "motion analysis",
+    "injury prevention"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "A lab-run summer research program explicitly open to high-school, college, and medical students interested in sports medicine and translational stem-cell research. The lab studies muscle atrophy following rotator-cuff tears, muscle-stem-cell differentiation and regeneration, and low-cost motion analysis to improve lower-extremity movement and reduce injury or reinjury. Described student training includes histologic sample preparation and analysis, gene-expression work such as RT-PCR, protein-expression methods, and assessment of stem-cell function; some participants also gain clinical-research exposure and may shadow in the UCSF Sports Medicine Clinic. The lab page says applicants for Summer 2027 should contact the lab; it does not publish a deadline, stipend, or detailed grade/residency criteria. The contact link is email-protected on the public page, so no email is entered here rather than guessing.",
+  "email": "",
+  "labUrl": "https://feeleylab.ucsf.edu/",
+  "applyUrl": "https://feeleylab.ucsf.edu/feeley-liu-lab-members",
+  "dateAdded": "2026-10-25",
+  "listingType": "Lab"
+},
+{
+  "id": 1489,
+  "name": "BIO5 Institute / Keep Engaging Youth in Science (KEYS)",
+  "title": "KEYS Research Internship",
+  "university": "University of Arizona",
+  "state": "AZ",
+  "department": "BIO5 Institute",
+  "field": "Biology",
+  "tags": [
+    "bioscience",
+    "data science",
+    "laboratory methods",
+    "research mentorship",
+    "computational biology",
+    "Arizona",
+    "science communication"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "Free, seven-week summer research internship for high-school students from across Arizona. The 2027 program is scheduled for June 7–July 23, and applications open November 2, 2026; a closing date is not yet posted on the program homepage. Interns first complete a one-week introduction to bioscience and data-science techniques and science literacy, then join University of Arizona researchers on real projects across multiple disciplines. Placements have included research labs in Tucson and Phoenix as well as a virtual cohort, with mentoring from faculty, graduate/postdoctoral researchers, university students, and near-peer mentors. Students present their work at a research showcase. Housing arrangements for the 2027 cycle are not yet specified on the current page.",
+  "email": "",
+  "labUrl": "https://keys.arizona.edu/",
+  "applyUrl": "https://keys.arizona.edu/",
+  "dateAdded": "2026-10-25",
+  "listingType": "Program"
 }
 ]
