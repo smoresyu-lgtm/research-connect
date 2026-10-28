@@ -34350,5 +34350,328 @@
   "applyUrl": "https://naturalhistory.si.edu/education/youth-programs/high-school-internship-program",
   "dateAdded": "2026-10-28",
   "listingType": "Program"
+},
+  {
+  "id": 1540,
+  "name": "UPMC Hillman Cancer Center Academy",
+  "title": "Hillman Academy High School Research Program",
+  "university": "University of Pittsburgh / UPMC",
+  "state": "PA",
+  "department": "UPMC Hillman Cancer Center",
+  "field": "Biology",
+  "tags": [
+    "cancer biology",
+    "tumor immunology",
+    "drug discovery",
+    "computational biology",
+    "bioinformatics",
+    "biomedical engineering",
+    "mentored research",
+    "Pennsylvania"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "A free, full-time, mentored research program offering high-school students hands-on projects at research sites across the University of Pittsburgh and UPMC campuses. Scholars spend approximately 30–35 hours per week on research and participate in a seven- or eight-week program scheduled for June 14–July 30, 2027. Research areas span cancer biology, tumor immunology, drug discovery, systems and computational biology, biomedical informatics, and related disciplines. Applicants must meet the age requirement for their selected research site: at least 15 for the computational, CoSBBI, and surgery sites, and at least 16 for several other sites. The application is expected to run from December 3, 2026, through February 14, 2027. Housing is not provided; out-of-region students must arrange their own accommodation and transportation. Stipends may be available to qualified students from underrepresented backgrounds in biomedicine. The official site lists nine research sites, so applicants should review site-specific eligibility before applying.",
+  "email": "hillman.academy@pitt.edu",
+  "labUrl": "https://hillmanacademy.upmc.com/",
+  "applyUrl": "https://hillmanacademy.upmc.com/apply-now/",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1541,
+  "name": "Anson L. Clark Scholars Program",
+  "title": "Seven-Week Summer Research Program",
+  "university": "Texas Tech University",
+  "state": "TX",
+  "department": "Office of the Provost / Clark Scholars Program",
+  "field": "Interdisciplinary",
+  "tags": [
+    "faculty-mentored research",
+    "independent research",
+    "scientific writing",
+    "research presentation",
+    "residential program",
+    "Texas"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "A highly selective, seven-week summer research program for a cohort of approximately 12 rising high-school seniors and recent graduates. Scholars work directly with Texas Tech faculty on research projects and complete a practical research experience rather than a general science camp. The 2027 program is scheduled for June 20–August 5. The 2027 application opens January 2, with a February 15 deadline. Applicants must be at least 17 by the program start date and meet the program's U.S. citizenship or permanent-residency requirement. The program provides room, board, meals, and weekend programming; students pay a $25 application fee and their own travel and personal expenses. Participants who successfully complete the research project report receive a $750 stipend. Review the official eligibility page carefully because the age and graduation-year requirements are strict.",
+  "email": "",
+  "labUrl": "https://www.depts.ttu.edu/clarkscholars/",
+  "applyUrl": "https://www.depts.ttu.edu/clarkscholars/ApplicationDetails.php",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1542,
+  "name": "Arizona State University Center for Cybersecurity and Trusted Foundations",
+  "title": "High School Cybersecurity Research Internship",
+  "university": "Arizona State University",
+  "state": "AZ",
+  "department": "Center for Cybersecurity and Trusted Foundations",
+  "field": "Computer Science",
+  "tags": [
+    "cybersecurity",
+    "computer science",
+    "Python",
+    "security research",
+    "capture the flag",
+    "Phoenix",
+    "summer internship"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Open Inquiry",
+  "resumeRating": 4,
+  "description": "ASU's Center for Cybersecurity and Trusted Foundations says it plans to relaunch its high-school internship during summer 2027 for Phoenix-area students interested in cybersecurity and computer science. The center describes a preference for self-directed applicants with programming experience, including Python, and an interest in capture-the-flag cybersecurity challenges. This is a research-oriented technical opportunity, not a general cybersecurity camp. The official page does not yet provide a complete 2027 application timeline, selection process, compensation details, or final eligibility rules. Interested students should monitor the center's official page for the relaunch announcement and use the published contact or application instructions when they become available; do not assume that the program is already accepting applications.",
+  "email": "",
+  "labUrl": "https://ctf.asu.edu/education/internship/",
+  "applyUrl": "https://ctf.asu.edu/education/internship/",
+  "dateAdded": "2026-10-28",
+  "listingType": "Lab"
+},
+{
+  "id": 1543,
+  "name": "Greehey Children's Cancer Research Institute",
+  "title": "Donald G. McEwen Memorial Summer Research Program",
+  "university": "UT Health San Antonio",
+  "state": "TX",
+  "department": "Greehey Children's Cancer Research Institute",
+  "field": "Biology",
+  "tags": [
+    "pediatric cancer",
+    "cancer genomics",
+    "proteomics",
+    "bioinformatics",
+    "structural biology",
+    "classical genetics",
+    "molecular imaging",
+    "translational research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "A ten-week summer program in which high-school and undergraduate participants conduct hypothesis-driven research in childhood cancer at the Greehey Children's Cancer Research Institute. Students are matched with a principal investigator and research project based on their interests. Research areas and methods include cancer genomics, proteomics, bioinformatics, structural biology, classical genetics, molecular imaging, and basic or translational cancer research. The 2027 program is scheduled for June 1–August 4, and the current official program page lists a February 18, 2027 application deadline. High-school applicants must be at least 16 on the program start date. Application materials include a one-page personal statement, one academic recommendation, a résumé, and an unofficial transcript. The listed $5,000 stipend is specified for undergraduate students; high-school applicants should not assume they will receive that stipend. Housing, meals, and transportation are not provided.",
+  "email": "mcceducation@uthscsa.edu",
+  "labUrl": "https://gccri.uthscsa.edu/",
+  "applyUrl": "https://gccri.uthscsa.edu/gccri-donald-g-mcewen-memorial-summer-research-program/",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1544,
+  "name": "The University of Kansas Cancer Center",
+  "title": "Accelerate Cancer Education (ACE) High School Summer Research Program",
+  "university": "The University of Kansas Medical Center",
+  "state": "KS",
+  "department": "The University of Kansas Cancer Center",
+  "field": "Biology",
+  "tags": [
+    "cancer research",
+    "biomedical science",
+    "faculty mentorship",
+    "clinical research",
+    "laboratory research",
+    "poster presentation",
+    "Kansas City"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A six-week paid summer research experience for local high-school students interested in biomedical science and cancer research. Each participant is paired with a faculty mentor and completes a research project that may take place in a laboratory, clinical setting, or office environment. Participants present their work at a concluding poster forum and receive a $2,940 stipend after successful completion. The 2027 program dates are June 14–July 23, and the listed application deadline is March 1, 2027, at noon. Eligibility is geographically restricted to current juniors or seniors attending high school in Wyandotte County, Kansas, or Jackson County, Missouri, during the 2026–27 school year. Applicants must be at least 16 at the program start, have a GPA of at least 3.0, be legally eligible to work in the United States, and have guardian permission. The official page advises students to check back for program information and application details.",
+  "email": "kucc-ace@kumc.edu",
+  "labUrl": "https://www.kucancercenter.org/training-education/high-school-undergraduate/summer-research-program",
+  "applyUrl": "https://www.kucancercenter.org/training-education/high-school-undergraduate/summer-research-program",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1545,
+  "name": "The Hormel Institute",
+  "title": "High School Summer Research Scholars Program",
+  "university": "University of Minnesota",
+  "state": "MN",
+  "department": "The Hormel Institute",
+  "field": "Biology",
+  "tags": [
+    "biomedical research",
+    "laboratory research",
+    "data analysis",
+    "literature review",
+    "research portfolio",
+    "Minnesota",
+    "research symposium"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "An eight-week, in-person biomedical research program introduced in 2026 for students entering grades 11–12 and eligible recent graduates. Participants learn laboratory procedures and take part in research observation, data analysis, literature review, and professional development. The small cohort is expected to include approximately three to four students, with a research portfolio and opportunities to present a poster or participate in research symposiums. The inaugural 2026 application cycle is closed; the institute says to check back in early 2027 for the next cycle. The 2026 program offered a $3,000 stipend and required a 3.5 GPA, completion of a biology course, and a science or mathematics recommendation. These conditions and compensation should be reconfirmed for the 2027 cycle rather than assumed unchanged.",
+  "email": "",
+  "labUrl": "https://hi.umn.edu/summer-scholar",
+  "applyUrl": "https://hi.umn.edu/summer-scholar",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1546,
+  "name": "McGovern Medical School Department of Biochemistry and Molecular Biology",
+  "title": "High School Summer Research Program",
+  "university": "The University of Texas Health Science Center at Houston (UTHealth Houston)",
+  "state": "TX",
+  "department": "Department of Biochemistry and Molecular Biology",
+  "field": "Biology",
+  "tags": [
+    "biochemistry",
+    "molecular biology",
+    "bench science",
+    "faculty mentorship",
+    "laboratory research",
+    "minisymposium",
+    "Houston"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "A four-week summer research program for rising high-school juniors and seniors interested in biomedical science. Accepted students are placed in laboratories based on their preferences and receive hands-on experience with research under faculty, graduate-student, and postdoctoral mentorship. The program includes weekly discussions with clinicians and scientists, student-driven workshops, and a final minisymposium where participants present team projects. The 2027 program runs June 7–July 2, and the application deadline is January 15, 2027. Applicants must be at least 16 by June 7 and submit a transcript, personal statement, and two letters of reference. The participation fee is $4,000 and includes registration and lab coats. Housing and parking are not provided, so applicants should consider the cost and local commuting requirements before applying.",
+  "email": "",
+  "labUrl": "https://med.uth.edu/bmb/high-school-summer-research-program/",
+  "applyUrl": "https://med.uth.edu/bmb/high-school-summer-research-program/summer-research-program-application/",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1547,
+  "name": "Ohio State University Explorations in Neuroscience Research Internship",
+  "title": "Explorations in Neuroscience Research Internship Program",
+  "university": "The Ohio State University",
+  "state": "OH",
+  "department": "Department of Neuroscience, College of Medicine",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "neurological injury",
+    "neurodegeneration",
+    "biomedical research",
+    "research mentorship",
+    "paid internship",
+    "Ohio"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "An NIH-funded, eight-week paid summer internship for high-school students interested in neuroscience and biomedical research. Interns work with trained research mentors and learn about neuroscience, neurological injury, or neurodegeneration, gaining direct exposure to how research questions are investigated in a laboratory. The program is intended to support students who are exploring neuroscience for the first time; prior research experience and a specific GPA or science-course background are not required according to the official FAQ. Eligibility includes rising juniors or seniors and U.S. citizens, non-citizen nationals, or permanent residents. The 2026 cycle is closed, and the program says 2027 details will be released in January 2027. The 2027 application dates, compensation amount, and other cycle-specific conditions should be confirmed when the updated page is published.",
+  "email": "",
+  "labUrl": "https://medicine.osu.edu/departments/neuroscience/outreach-and-events/internship",
+  "applyUrl": "https://medicine.osu.edu/departments/neuroscience/outreach-and-events/internship",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1548,
+  "name": "Gibbs Laboratory",
+  "title": "Fluorescence Molecular Imaging Internship Program",
+  "university": "Oregon Health & Science University",
+  "state": "OR",
+  "department": "School of Medicine / Gibbs Laboratory",
+  "field": "Biology",
+  "tags": [
+    "fluorescence imaging",
+    "molecular imaging",
+    "cell culture",
+    "microscopy",
+    "immunostaining",
+    "organic synthesis",
+    "image analysis",
+    "biomedical engineering"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "A laboratory-hosted, ten-week internship for high-school and college students interested in scientific research and biomedical imaging. Interns can develop hands-on skills in cell culture, spectroscopy, fluorescence and macroscopic imaging, microscopy, immunostaining, organic synthesis, small-molecule purification, and antibody conjugation and purification. The lab also describes training in image-analysis programming, data processing, experimental planning, and troubleshooting within a research project. The official OHSU page lists a January 4–March 15, 2027 application window for the internship. The Gibbs Lab's opportunities page directs interested candidates to send a cover letter explaining their interest and a CV to the lab. The internship is listed as unpaid; applicants should confirm the current cycle's dates, age requirements, and available placements directly with the lab.",
+  "email": "gibbss@ohsu.edu",
+  "labUrl": "https://www.ohsu.edu/school-of-medicine/gibbs-lab/opportunities",
+  "applyUrl": "https://www.ohsu.edu/school-of-medicine/gibbs-lab/opportunities",
+  "dateAdded": "2026-10-28",
+  "listingType": "Lab"
+},
+{
+  "id": 1549,
+  "name": "Young Nebraska Scientists",
+  "title": "High School Researchers Program",
+  "university": "University of Nebraska System",
+  "state": "NE",
+  "department": "Young Nebraska Scientists",
+  "field": "Interdisciplinary",
+  "tags": [
+    "faculty-mentored research",
+    "paid research",
+    "quantum materials",
+    "nanoscience",
+    "chemistry",
+    "physics",
+    "materials engineering",
+    "Nebraska"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "A paid summer research pathway that places eligible high-school students in the laboratories of Nebraska scientist-educators. Positions are generally part-time, with the student and faculty host coordinating the schedule and work location. Research areas listed by the program include biology, biomechanics, climate science, physics, chemistry, nanoscience, and materials engineering. One featured research area, Emergent Quantum Materials and Technologies, includes projects involving materials synthesis and characterization and technologies such as nitrogen-vacancy microscopy. Students are expected to share their work through a research poster or other science communication. Eligibility stated on the official page includes being at least 16, a current 10th- or 11th-grade student, a Nebraska resident, and a U.S. citizen or someone with proof of employment authorization. The program is commuter-only and does not provide residential housing. Applications typically open in early spring, with limited placements; the official application instructions list March 15 as the deadline, so students should confirm the 2027 cycle's details when applications open.",
+  "email": "",
+  "labUrl": "https://yns.nebraska.edu/gain-hands-on-experience-in-stem/high-school-research",
+  "applyUrl": "https://yns.nebraska.edu/gain-hands-on-experience-in-stem/apply",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
 }
 ]
