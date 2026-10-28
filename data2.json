@@ -33108,5 +33108,306 @@
   "applyUrl": "https://keys.arizona.edu/",
   "dateAdded": "2026-10-25",
   "listingType": "Program"
+},
+  {
+  "id": 1490,
+  "name": "University of Chicago Pritzker School of Molecular Engineering",
+  "title": "After-School Matters STEM Lab Internship",
+  "university": "University of Chicago",
+  "state": "IL",
+  "department": "Pritzker School of Molecular Engineering",
+  "field": "Engineering",
+  "tags": [
+    "STEM",
+    "molecular engineering",
+    "hands-on research",
+    "laboratory skills"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "A STEM-focused opportunity associated with the University of Chicago and After School Matters. Verify the current program format, eligibility, and whether placements involve direct research before listing it as a research internship.",
+  "email": "",
+  "labUrl": "",
+  "applyUrl": "",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1491,
+  "name": "American Museum of Natural History (AMNH)",
+  "title": "Science Research Mentoring Program (SRMP)",
+  "university": "American Museum of Natural History",
+  "state": "NY",
+  "department": "Museum Research Departments",
+  "field": "Interdisciplinary",
+  "tags": [
+    "faculty-mentored research",
+    "astrophysics",
+    "anthropology",
+    "conservation biology",
+    "genetics and genomics",
+    "paleontology",
+    "ecology",
+    "data science",
+    "scientific communication"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program",
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A year-long research program for eligible New York City students in grades 10–11. Participants begin with a summer institute and then work in small teams with AMNH scientists on original research projects during the school year. Research areas vary annually and can include astrophysics, anthropology, conservation, genetics, genomics, and other natural sciences. Students develop research, data analysis, teamwork, and science communication skills and present their findings at a year-end symposium. Participants may receive a $2,500 stipend upon completing program requirements and may earn one CUNY Lehman College credit at no cost. Eligibility is restricted to students who live and attend school in NYC and meet additional academic and program-participation requirements. Check the official page for current application dates and eligibility details.",
+  "email": "",
+  "labUrl": "https://www.amnh.org/learn-teach/teens/science-research-mentoring-program",
+  "applyUrl": "https://www.amnh.org/learn-teach/teens/science-research-mentoring-program/join-srmp",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1492,
+  "name": "LSU College of Engineering",
+  "title": "High School Summer Research (HSSR) Internship",
+  "university": "Louisiana State University",
+  "state": "LA",
+  "department": "College of Engineering",
+  "field": "Engineering",
+  "tags": [
+    "engineering",
+    "faculty mentorship",
+    "summer research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A summer research opportunity connecting high-school students with engineering research at LSU. Students should consult the official program information for current eligibility, participating research areas, dates, and application requirements.",
+  "email": "",
+  "labUrl": "",
+  "applyUrl": "",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1493,
+  "name": "Roswell Park Comprehensive Cancer Center",
+  "title": "SURE-CAN",
+  "university": "Roswell Park Comprehensive Cancer Center",
+  "state": "NY",
+  "department": "Cancer Research and Education",
+  "field": "Biomedical Science",
+  "tags": [
+    "cancer research",
+    "biomedical science",
+    "laboratory research",
+    "mentorship"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A research-focused educational opportunity associated with Roswell Park Comprehensive Cancer Center. Verify current high-school eligibility, research placement structure, and application availability through the center's official education pages before applying.",
+  "email": "",
+  "labUrl": "",
+  "applyUrl": "",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1494,
+  "name": "St. Jude Children's Research Hospital",
+  "title": "High School Research Immersion Program",
+  "university": "St. Jude Children's Research Hospital",
+  "state": "TN",
+  "department": "Research Education",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "cancer research",
+    "laboratory science",
+    "research mentorship"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A high-school research immersion opportunity connected to St. Jude's biomedical research environment. Check official program information for current availability, age and grade requirements, program format, and application details.",
+  "email": "",
+  "labUrl": "",
+  "applyUrl": "",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1495,
+  "name": "George Mason University",
+  "title": "Aspiring Scientists Summer Internship Program (ASSIP)",
+  "university": "George Mason University",
+  "state": "VA",
+  "department": "Office of University Branding / Research",
+  "field": "Interdisciplinary STEM",
+  "tags": [
+    "faculty-mentored research",
+    "biomedical science",
+    "computer science",
+    "engineering",
+    "environmental science",
+    "data science"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "A summer research internship placing eligible high-school students with university researchers across STEM disciplines. Projects vary by faculty mentor and may involve laboratory experiments, computational research, data analysis, or engineering. Review the official ASSIP page for current eligibility, project listings, fees or stipends, and application deadlines.",
+  "email": "",
+  "labUrl": "https://assip.gmu.edu/",
+  "applyUrl": "https://assip.gmu.edu/",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1496,
+  "name": "UCSF Center for Science Education and Outreach",
+  "title": "CURE Research Internship Program",
+  "university": "University of California, San Francisco",
+  "state": "CA",
+  "department": "Center for Science Education and Outreach",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "laboratory research",
+    "clinical science",
+    "research mentorship"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A research experience associated with UCSF's science education and outreach programs. Students should verify current eligibility, project placement, schedule, and application requirements through the official UCSF program pages.",
+  "email": "",
+  "labUrl": "",
+  "applyUrl": "",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1497,
+  "name": "National Institute of Standards and Technology (NIST)",
+  "title": "Summer High School Internship Program (SHIP)",
+  "university": "National Institute of Standards and Technology",
+  "state": "MD",
+  "department": "Research Laboratories",
+  "field": "Physical Science and Engineering",
+  "tags": [
+    "metrology",
+    "physics",
+    "chemistry",
+    "engineering",
+    "computer science",
+    "materials science"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "A summer internship pathway for high-school students interested in scientific and technical work at NIST. Potential research areas include physics, chemistry, engineering, materials science, and computing, depending on available projects. Confirm current program status, eligibility, location requirements, and application procedures through NIST's official student opportunities pages.",
+  "email": "",
+  "labUrl": "https://www.nist.gov/iaao/summer-high-school-internship-program",
+  "applyUrl": "https://www.nist.gov/iaao/summer-high-school-internship-program",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1498,
+  "name": "Oak Ridge National Laboratory (ORNL)",
+  "title": "Next Generation STEM Internship (NGSI)",
+  "university": "Oak Ridge National Laboratory",
+  "state": "TN",
+  "department": "Research and STEM Education",
+  "field": "Interdisciplinary STEM",
+  "tags": [
+    "energy research",
+    "materials science",
+    "computing",
+    "engineering",
+    "national laboratory"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "A STEM internship opportunity associated with Oak Ridge National Laboratory. Research areas and eligibility can vary by program cycle and available placements. Confirm that the current NGSI pathway accepts high-school students and review its official eligibility and application requirements before listing it as an active research placement.",
+  "email": "",
+  "labUrl": "",
+  "applyUrl": "",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1499,
+  "name": "Moffitt Cancer Center Integrated Mathematical Oncology",
+  "title": "High School Internship Program in Integrated Mathematical Oncology (HIP IMO)",
+  "university": "Moffitt Cancer Center",
+  "state": "FL",
+  "department": "Integrated Mathematical Oncology",
+  "field": "Mathematical Biology",
+  "tags": [
+    "mathematical oncology",
+    "computational biology",
+    "cancer modeling",
+    "mathematics",
+    "data science"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A high-school research opportunity focused on mathematical and computational approaches to cancer. The Integrated Mathematical Oncology group studies how mathematical models can help explain tumor growth, treatment response, and interactions within the tumor environment. Verify the current internship cycle, eligibility, schedule, and application route through Moffitt's official pages.",
+  "email": "",
+  "labUrl": "",
+  "applyUrl": "",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
 }
 ]
