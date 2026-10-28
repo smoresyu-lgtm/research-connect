@@ -33718,5 +33718,318 @@
   "applyUrl": "https://www.cee.org/programs/apply-rsi",
   "dateAdded": "2026-10-27",
   "listingType": "Program"
+},
+  {
+  "id": 1520,
+  "name": "Stony Brook University Department of Biomedical Informatics",
+  "title": "Computer Science and Informatics Research Experience (CSIRE)",
+  "university": "Stony Brook University",
+  "state": "NY",
+  "department": "Biomedical Informatics",
+  "field": "Computer Science",
+  "tags": [
+    "artificial intelligence",
+    "machine learning",
+    "biomedical informatics",
+    "medical imaging",
+    "data science",
+    "natural language processing",
+    "high school research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "A research-centered summer program in which high school students join active research groups and contribute to original projects in areas such as machine learning, biomedical informatics, medical imaging, natural language processing, data science, human-computer interaction, and computer systems. Students work with faculty and research mentors, develop research questions, conduct computational investigations, and present their findings at a final symposium. Applicants should already have strong programming skills and an understanding of computer science fundamentals. The 2026 cycle is closed; check the official website for the next application cycle, eligibility details, schedule, and program fee.",
+  "email": "fusheng.wang@stonybrook.edu",
+  "labUrl": "https://bmi.stonybrookmedicine.edu/csire/introduction",
+  "applyUrl": "https://bmi.stonybrookmedicine.edu/csire/application",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1521,
+  "name": "Center for Matter at Atomic Pressures (CMAP)",
+  "title": "Research Experience for High School Students",
+  "university": "University of Rochester",
+  "state": "NY",
+  "department": "Physics and Astronomy",
+  "field": "Physics",
+  "tags": [
+    "high-energy-density physics",
+    "planetary science",
+    "laboratory research",
+    "experimental physics",
+    "Python",
+    "teacher nomination"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "School Nomination",
+  "resumeRating": 4,
+  "description": "A summer research experience hosted by the University of Rochester's Center for Matter at Atomic Pressures. The program introduces students to high-energy-density physics, planetary science, and Python through laboratory activities, demonstrations, and practical projects with university researchers. Students are nominated by their high school teachers, and schools across the Greater Rochester area are eligible to participate. This is a distinct opportunity from the university's Laboratory for Laser Energetics high school program. Check the official page for the next cycle's dates, nomination process, and eligibility requirements.",
+  "email": "adriana.cabiedes@rochester.edu",
+  "labUrl": "https://cmap.rochester.edu/education-outreach/high-school/",
+  "applyUrl": "https://cmap.rochester.edu/education-outreach/high-school/",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1522,
+  "name": "Barrow Neurological Institute",
+  "title": "Summer High School Internship Program",
+  "university": "Barrow Neurological Institute",
+  "state": "AZ",
+  "department": "Research",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "neurology",
+    "clinical research",
+    "laboratory research",
+    "research technology",
+    "scientific mentorship"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A five-week summer internship for high school students aged 16 or older. Participants work part-time in a Barrow laboratory or supporting department under the mentorship of faculty, scientists, clinicians, or managers, with opportunities to participate in research and learn about scientific methods and technology. Applicants interested in laboratory research should review the institute's research groups and identify positions that align with their interests. The published 2027 timeline lists applications opening January 4 and closing February 12, with the internship running June 7 through July 8. Applicants should confirm the available research placements and application instructions on the official page.",
+  "email": "",
+  "labUrl": "https://www.barrowneuro.org/for-physicians-researchers/research/training-programs/high-school-research-program/",
+  "applyUrl": "https://www.barrowneuro.org/for-physicians-researchers/research/training-programs/high-school-research-program/",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1523,
+  "name": "CU Boulder Science Discovery",
+  "title": "STEM Research Experience",
+  "university": "University of Colorado Boulder",
+  "state": "CO",
+  "department": "Science Discovery",
+  "field": "Interdisciplinary",
+  "tags": [
+    "faculty-mentored research",
+    "biology",
+    "engineering",
+    "physics",
+    "chemistry",
+    "computational biology",
+    "research methods",
+    "scientific poster"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A seven-week, nonresidential summer research program pairing high school students with researchers at CU Boulder or CU Anschutz Medical Campus. Students work on authentic research projects, review scientific literature, collect and analyze data, conduct experiments, and present their findings in a research poster. Past research areas have included aerospace engineering, astrophysics, bioengineering, biology, chemistry, ecology, neuroscience, and medicine. Students must be at least 16 years old by June 2, 2027. The 2027 program is scheduled for June 2 through July 30; applications are expected to open in mid-December 2026 and close March 16, 2027. Housing is not provided, and the program fee is still listed as to be determined.",
+  "email": "steven.denham@colorado.edu",
+  "labUrl": "https://www.colorado.edu/sciencediscovery/programs/stem-research-experience",
+  "applyUrl": "https://www.colorado.edu/sciencediscovery/programs/stem-research-experience",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1524,
+  "name": "Vanderbilt University Center for Science Outreach",
+  "title": "Research Experience for High School Students (REHSS)",
+  "university": "Vanderbilt University",
+  "state": "TN",
+  "department": "Center for Science Outreach",
+  "field": "Interdisciplinary",
+  "tags": [
+    "faculty-mentored research",
+    "laboratory research",
+    "independent research project",
+    "STEM",
+    "scientific communication"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "An intensive six-week scientific research internship for eligible students in Vanderbilt's Interdisciplinary Science and Research program. Rising high school seniors are immersed in a Vanderbilt University or Vanderbilt University Medical Center research laboratory and complete an independent project under the mentorship of a research faculty member. This is a targeted pathway rather than a program open to every high school student; prospective applicants should confirm that they are currently enrolled in the qualifying school-based program and check with the Center for Science Outreach for application details and the next cycle's timeline.",
+  "email": "REHSS@vanderbilt.edu",
+  "labUrl": "https://www.vanderbilt.edu/cseo/programs/high-school-programs/research-experience-for-high-school-students-rehss/",
+  "applyUrl": "https://www.vanderbilt.edu/cseo/programs/high-school-programs/research-experience-for-high-school-students-rehss/",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1525,
+  "name": "University of Delaware Department of Computer and Information Sciences",
+  "title": "Computer and Information Sciences High School Faculty-Lab Research Opportunities",
+  "university": "University of Delaware",
+  "state": "DE",
+  "department": "Computer and Information Sciences",
+  "field": "Computer Science",
+  "tags": [
+    "faculty research",
+    "human-computer interaction",
+    "cybersecurity",
+    "biomedical data analysis",
+    "computer science",
+    "direct faculty inquiry"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 3,
+  "description": "The department reports that selected faculty laboratories occasionally host motivated local high school juniors and seniors for summer research internships. Potential project areas include human-computer interaction, cybersecurity, and biomedical data analysis. This is not a single centralized internship with guaranteed placements; students should review the department's research areas and identify faculty whose work matches their interests and skills. The department recommends contacting faculty by email in late winter or early spring with a resume and a brief statement of interest. Availability depends on individual faculty and project capacity.",
+  "email": "",
+  "labUrl": "https://www.cis.udel.edu/opportunities/",
+  "applyUrl": "https://www.cis.udel.edu/opportunities/",
+  "dateAdded": "2026-10-27",
+  "listingType": "Lab"
+},
+{
+  "id": 1526,
+  "name": "UCLA Brain Research Institute CELL Scholars",
+  "title": "Cultivating Early Laboratory Learning (CELL Scholars)",
+  "university": "University of California, Los Angeles",
+  "state": "CA",
+  "department": "Brain Research Institute",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "bioscience",
+    "laboratory research",
+    "computational research",
+    "graduate student mentorship",
+    "school-year research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program"
+  ],
+  "applicationType": "Open Inquiry",
+  "resumeRating": 4,
+  "description": "A school-year research initiative connecting high school students with graduate-student mentors and research opportunities in UCLA bioscience laboratories. Participants develop hands-on laboratory or computational skills, receive career and college guidance, and present their work at a research poster symposium. The program is specifically available to students at University High School in Los Angeles, with scholarship-sponsored research opportunities also described for students from qualifying Title I high schools. Interested eligible students should contact the program directly to ask about openings in the next cycle; participation is not universally open to all high school students.",
+  "email": "cellscholars@gmail.com",
+  "labUrl": "https://bri.ucla.edu/outreach/cell-scholars/",
+  "applyUrl": "https://bri.ucla.edu/outreach/cell-scholars/",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1527,
+  "name": "UCSF Science & Health Education Partnership",
+  "title": "High School Intern Program",
+  "university": "University of California, San Francisco",
+  "state": "CA",
+  "department": "Science & Health Education Partnership",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "paid internship",
+    "faculty mentorship",
+    "original research",
+    "laboratory skills",
+    "science communication"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "An eight-week paid summer internship in which high school students conduct original biomedical research under the guidance of a UCSF scientist mentor. The 2027 program is limited to current high school juniors enrolled in a San Francisco Unified School District high school or San Francisco public charter school. The published 2027 timeline lists applications opening January 15 and closing February 15, with the internship scheduled for June 7 through July 30. Students interested in applying should use the official program page to sign up for application notifications and confirm required materials. This is a distinct Science & Health Education Partnership opportunity, not the UCSF CURE internship.",
+  "email": "",
+  "labUrl": "https://sep.ucsf.edu/programs/high-school-students/intern-program/",
+  "applyUrl": "https://sep.ucsf.edu/programs/high-school-students/intern-program/",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1528,
+  "name": "University of Wisconsin-Milwaukee Chemistry and Biochemistry",
+  "title": "American Chemical Society Project SEED Research Internship",
+  "university": "University of Wisconsin-Milwaukee",
+  "state": "WI",
+  "department": "Chemistry and Biochemistry",
+  "field": "Chemistry",
+  "tags": [
+    "chemistry",
+    "paid research internship",
+    "biochemistry",
+    "drug discovery",
+    "environmental chemistry",
+    "molecular biophysics",
+    "computational research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A paid summer research internship for high school students interested in chemistry. Participants work on authentic research projects with faculty mentors and graduate students. The University of Wisconsin-Milwaukee's 2027 project areas include computational research, biochemistry and drug discovery, environmental and water chemistry, and molecular biophysics or biochemistry. The local program lists dates of June 15 through August 6, 2027, with applications expected to be accepted from February 8 through April 1, 2027 through the national ACS Project SEED application system. Applicants should review national eligibility and financial-need requirements before applying.",
+  "email": "blecking@uwm.edu",
+  "labUrl": "https://uwm.edu/chemistry/outreach/american-chemical-society-project-seed/",
+  "applyUrl": "https://www.acs.org/education/students/highschool/seed/apply.html",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1529,
+  "name": "UT Southwestern Medical Center Krishnan Lab",
+  "title": "High School Research Opportunities through the Krishnan Lab",
+  "university": "University of Texas Southwestern Medical Center",
+  "state": "TX",
+  "department": "Research Laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "laboratory research",
+    "high school students",
+    "scientific mentorship",
+    "immunology",
+    "molecular biology",
+    "direct faculty inquiry"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 3,
+  "description": "The Krishnan Lab's official Join Us page explicitly invites high school students to email about research opportunities. The lab also describes participation by a high school student in an eight-week summer research project through UT Southwestern's STARS program. Students interested in this pathway should read the lab's research description and contact the lab to ask whether a suitable project or mentor is available in the upcoming cycle. Past participation does not guarantee a current opening, and applicants should confirm age, school, safety, and scheduling requirements directly.",
+  "email": "",
+  "labUrl": "https://labs.utsouthwestern.edu/krishnan-lab-0/join-us",
+  "applyUrl": "https://labs.utsouthwestern.edu/krishnan-lab-0/join-us",
+  "dateAdded": "2026-10-27",
+  "listingType": "Lab"
 }
 ]
