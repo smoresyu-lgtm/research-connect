@@ -33409,5 +33409,314 @@
   "applyUrl": "",
   "dateAdded": "2026-10-27",
   "listingType": "Program"
+},
+  {
+  "id": 1500,
+  "name": "Zuckerman Institute at Columbia University",
+  "title": "Brain Research Apprenticeships in New York at Columbia (BRAINYAC)",
+  "university": "Columbia University",
+  "state": "NY",
+  "department": "Mortimer B. Zuckerman Mind Brain Behavior Institute",
+  "field": "Neuroscience",
+  "tags": [
+    "neuroscience",
+    "brain research",
+    "laboratory internship",
+    "mentored research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "An intensive summer research internship placing high-school students in Columbia neuroscience laboratories for hands-on research with scientists. Eligibility is highly restricted: applicants must live in New York City and participate in an eligible partner program, such as S-PREP, BioBus, Lang Youth Medical, Columbia Secondary School, or Double Discovery Center. The 2027 application deadline is October 28, 2026, at 11:59 p.m.; students should check with their partner program about submitting an application. This is not an open application for all NYC high-school students.",
+  "email": "",
+  "labUrl": "https://zuckermaninstitute.columbia.edu/brainyac",
+  "applyUrl": "https://zuckermaninstitute.columbia.edu/brainyac",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1501,
+  "name": "Stanford Institutes of Medicine",
+  "title": "Stanford Institutes of Medicine Summer Research Program (SIMR)",
+  "university": "Stanford University",
+  "state": "CA",
+  "department": "Stanford Medicine",
+  "field": "Biology",
+  "tags": [
+    "biomedical research",
+    "medicine",
+    "laboratory research",
+    "faculty mentorship",
+    "basic science"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "An eight-week biomedical research program in which high-school students conduct a medically oriented research project with Stanford faculty, postdoctoral fellows, students, and research staff. For Summer 2027, applicants must be high-school juniors or seniors, at least 16 by the program start, living in and attending high school in the United States, and U.S. citizens or permanent residents. Stanford states that selection will heavily favor Bay Area students. Consult the official page for the current application schedule and project details.",
+  "email": "",
+  "labUrl": "https://med.stanford.edu/simr",
+  "applyUrl": "https://med.stanford.edu/simr",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1502,
+  "name": "Simons Summer Research Program",
+  "title": "Simons Summer Research Program",
+  "university": "Stony Brook University",
+  "state": "NY",
+  "department": "Faculty Research Groups",
+  "field": "Interdisciplinary",
+  "tags": [
+    "faculty-mentored research",
+    "chemistry",
+    "computer science",
+    "geosciences",
+    "marine science",
+    "neurobiology",
+    "research poster"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "School Nomination",
+  "resumeRating": 5,
+  "description": "A six-week summer research program in which selected high-school students join Stony Brook faculty research groups, contribute to ongoing projects, pursue a research question, and present a poster. The 2027 program is scheduled for June 28–August 6. Applicants must be current high-school juniors, U.S. citizens or permanent residents, and at least 16 by the program start. School nomination is required, with a limit of three nominees per school; the published application guidance lists January 29, 2027, as the nomination deadline and February 5, 2027, as the student application deadline. Highly competitive.",
+  "email": "simonssrp@stonybrook.edu",
+  "labUrl": "https://www.stonybrook.edu/simons/",
+  "applyUrl": "https://www.stonybrook.edu/simons/apply/",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1503,
+  "name": "Salk Institute for Biological Studies",
+  "title": "Heithoff-Brody High School Summer Scholars Program",
+  "university": "Salk Institute for Biological Studies",
+  "state": "CA",
+  "department": "Education Outreach",
+  "field": "Biology",
+  "tags": [
+    "biomedical research",
+    "wet-lab research",
+    "bioinformatics",
+    "data analysis",
+    "paid internship",
+    "scientific presentation"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "An eight-week paid summer internship in which high-school scholars work with Salk scientists on mentored research projects and present their findings at a research symposium. The 2027 program runs June 14–August 6, with applications scheduled to open December 1, 2026, and close February 15, 2027. Applicants must be at least 16 by June 14, live in San Diego County, and have completed their most recent high-school semester at a San Diego County high school. A minimum 2.75 GPA and completion of a high-school biology course are required; students under 18 need a school work permit upon hire.",
+  "email": "community@salk.edu",
+  "labUrl": "https://www.salk.edu/about/education-outreach/programs/high-school-scholars/",
+  "applyUrl": "https://www.salk.edu/about/education-outreach/programs/high-school-scholars/",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1504,
+  "name": "CaliBaja Center for Resilient Materials and Systems",
+  "title": "ENLACE Summer Research Program",
+  "university": "University of California, San Diego",
+  "state": "CA",
+  "department": "CaliBaja Center for Resilient Materials and Systems",
+  "field": "Engineering",
+  "tags": [
+    "faculty-mentored research",
+    "materials science",
+    "computer science",
+    "data science",
+    "physical sciences",
+    "biological sciences",
+    "earth sciences"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A summer research program connecting students with UC San Diego research laboratories in engineering, computer and data sciences, physical sciences, biological sciences, and earth sciences. The official 2027 page confirms that current high-school 11th graders are eligible to apply and notes scholarship support for the upcoming program. Students should review the official 2027 announcement for the application process, financial support conditions, and any additional eligibility restrictions before applying.",
+  "email": "",
+  "labUrl": "https://resilientmaterials.ucsd.edu/ENLACE",
+  "applyUrl": "https://resilientmaterials.ucsd.edu/ENLACE",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1505,
+  "name": "Houston Methodist Academic Institute",
+  "title": "Summer High School Research Internship",
+  "university": "Houston Methodist",
+  "state": "TX",
+  "department": "Academic Institute",
+  "field": "Biology",
+  "tags": [
+    "translational research",
+    "biomedical research",
+    "laboratory techniques",
+    "faculty mentorship",
+    "paid internship",
+    "research symposium"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "A paid, full-time, ten-week summer internship introducing selected high-school juniors and seniors to translational research. Interns work with research mentors on projects, learn relevant laboratory techniques, and present their work at a research symposium. For Summer 2027, the program is scheduled for June 1–August 6; applications are scheduled to open December 4, 2026, and close January 29, 2027. Applicants must be at least 16 by June 1, have a minimum 3.5 GPA, submit a transcript and resume, answer essay questions, and provide two recommendations. Participants must arrange their own housing and transportation.",
+  "email": "",
+  "labUrl": "https://www.houstonmethodist.org/academic-institute/education/research/summer-internship-program/highschoolresearchinternship/",
+  "applyUrl": "https://www.houstonmethodist.org/academic-institute/education/research/summer-internship-program/highschoolresearchinternship/",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1506,
+  "name": "MIT PRIMES-USA",
+  "title": "Program for Research in Mathematics, Engineering, and Science for High School Students — PRIMES-USA",
+  "university": "Massachusetts Institute of Technology",
+  "state": "National",
+  "department": "Department of Mathematics",
+  "field": "Mathematics",
+  "tags": [
+    "mathematical research",
+    "bioinformatics",
+    "proof-based mathematics",
+    "remote mentorship",
+    "original research",
+    "research paper"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "A free, year-long research program for high-school sophomores and juniors residing in the United States outside Greater Boston. Participants work on original problems in mathematics or bioinformatics with academic mentors, primarily through remote collaboration. The program requires advanced mathematical preparation, independent study, and a substantial time commitment; admission is highly selective. The 2027 application deadline is November 2, 2026, with recommendation letters accepted through November 6. This is a genuine research program, distinct from MIT's math-enrichment offerings.",
+  "email": "building2@mit.edu",
+  "labUrl": "https://math.mit.edu/research/highschool/primes/usa/",
+  "applyUrl": "https://math.mit.edu/research/highschool/primes/usa/apply-usa.html",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1507,
+  "name": "Department of the Navy Laboratories",
+  "title": "Science and Engineering Apprenticeship Program (SEAP)",
+  "university": "U.S. Navy",
+  "state": "Multiple",
+  "department": "Naval Research Laboratories",
+  "field": "Engineering",
+  "tags": [
+    "naval research",
+    "engineering",
+    "science",
+    "laboratory internship",
+    "technical mentorship",
+    "defense research"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "A competitive eight-week summer apprenticeship placing high-school students in Department of the Navy laboratories to participate in real science and engineering research with professional mentors. The program serves high-school sophomores, juniors, and seniors, with placements across multiple U.S. laboratories. The 2027 application cycle opened September 15, 2026, and the published application window runs through November 30, 2026. Students select preferred laboratories and apply through the central program portal; placement depends on the participating laboratory and its selection process.",
+  "email": "",
+  "labUrl": "https://www.navalsteminterns.us/internships/seap/",
+  "applyUrl": "https://www.navalsteminterns.us/internships/seap/",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1508,
+  "name": "National Institutes of Health (NIH)",
+  "title": "Summer Internship Program (SIP) — Graduating High School Seniors",
+  "university": "National Institutes of Health",
+  "state": "MD",
+  "department": "Office of Intramural Training and Education",
+  "field": "Biology",
+  "tags": [
+    "biomedical research",
+    "intramural research",
+    "laboratory internship",
+    "clinical research",
+    "research mentorship"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "The NIH Summer Internship Program offers mentored research placements in NIH laboratories and research groups. The high-school pathway is narrow: applicants must be U.S. citizens or permanent residents and be graduating high-school seniors who will graduate before the internship starts. Applicants generally must be 18 by September 30, 2027; a graduating senior who is 17 on June 1 may qualify if their permanent home is within 40 miles of an NIH campus and they turn 18 by September 30. Check the official eligibility and application instructions carefully before applying, as this is not open to all high-school students.",
+  "email": "",
+  "labUrl": "https://www.training.nih.gov/research-training/pb/sip/",
+  "applyUrl": "https://www.training.nih.gov/research-training/pb/sip/",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
+},
+{
+  "id": 1509,
+  "name": "Center for Excellence in Education (CEE)",
+  "title": "Research Science Institute (RSI)",
+  "university": "Massachusetts Institute of Technology and Stanford University",
+  "state": "Multiple",
+  "department": "Research Science Institute",
+  "field": "Interdisciplinary",
+  "tags": [
+    "original research",
+    "science and engineering",
+    "research internship",
+    "scientific literature",
+    "research presentation",
+    "MIT",
+    "Stanford"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "A free, intensive six-week summer research program combining STEM coursework with a five-week mentored research internship and final oral and written research reports. For 2027, CEE is expanding RSI to both MIT and Stanford. Applicants typically apply during 11th grade and must have one year of high school remaining; seniors are not eligible, and applicants must be at least 16 by July 1, 2027. U.S. and permanent-resident applicants can apply, as can international students from participating countries. The 2027 application deadline is December 11, 2026, at 11:59 p.m. ET.",
+  "email": "",
+  "labUrl": "https://www.cee.org/programs/research-science-institute",
+  "applyUrl": "https://www.cee.org/programs/apply-rsi",
+  "dateAdded": "2026-10-27",
+  "listingType": "Program"
 }
 ]
