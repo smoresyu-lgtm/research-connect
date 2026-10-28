@@ -34031,5 +34031,324 @@
   "applyUrl": "https://labs.utsouthwestern.edu/krishnan-lab-0/join-us",
   "dateAdded": "2026-10-27",
   "listingType": "Lab"
+},
+  {
+  "id": 1530,
+  "name": "Center for Smart Streetscapes (CS3)",
+  "title": "My Streetscape Summer Research Institute — New York",
+  "university": "Columbia University",
+  "state": "NY",
+  "department": "Center for Smart Streetscapes; Columbia Engineering E.N.G. Program",
+  "field": "Interdisciplinary",
+  "tags": [
+    "urban technology",
+    "transportation engineering",
+    "social science",
+    "human-centered research",
+    "field research",
+    "data collection",
+    "community engagement"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A paid, six-week interdisciplinary summer research program for New York City high school students entering 12th grade. Organized by the NSF-supported Center for Smart Streetscapes, the program explores how technology, transportation, urban environments, and public trust interact. Students investigate urban mobility and related social-science questions, conduct fieldwork and interviews with community members, gather data, and present their findings. The 2027 program is scheduled for July 7–August 12, with applications opening November 16, 2026 and closing January 15, 2027. The listed pay rate is $17 per hour. Applicants must meet the program's NYC and grade-level eligibility requirements.",
+  "email": "",
+  "labUrl": "https://cs3-erc.org/my-streetscape-summer-research-institute-new-york/",
+  "applyUrl": "https://cs3-erc.org/my-streetscape-summer-research-institute-new-york/",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1531,
+  "name": "University of Arizona Molecular and Cellular Biology STAR Lab",
+  "title": "STAR Lab Authentic Research Projects for High School Students",
+  "university": "University of Arizona",
+  "state": "AZ",
+  "department": "Department of Molecular and Cellular Biology",
+  "field": "Biology",
+  "tags": [
+    "student-designed research",
+    "molecular biology",
+    "cell biology",
+    "research mentorship",
+    "scientific literature",
+    "data analysis",
+    "research writing",
+    "science communication"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program"
+  ],
+  "applicationType": "Open Inquiry",
+  "resumeRating": 3,
+  "description": "A mentored research pathway through the University of Arizona's STAR Lab, where high school students develop feasible scientific questions and work with a research mentor to complete a project. Projects may take place in the STAR Lab, a University of Arizona mentor's laboratory, or remotely when appropriate for computational research. Students receive structured support with research proposals, scientific literature, research papers, presentations, and skills such as statistics, coding, and laboratory techniques. This is a guided student-research model rather than a guaranteed summer laboratory internship. Students should review the official site and contact the program to confirm student enrollment availability, project format, and current application procedures.",
+  "email": "dastover@arizona.edu",
+  "labUrl": "https://mcb.arizona.edu/outreach/star-lab",
+  "applyUrl": "https://mcb.arizona.edu/outreach/star-lab",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1532,
+  "name": "Tufts University Pre-College Programs",
+  "title": "Tufts Summer Research Experience",
+  "university": "Tufts University",
+  "state": "MA",
+  "department": "University College",
+  "field": "Interdisciplinary",
+  "tags": [
+    "faculty-mentored research",
+    "university research",
+    "research methods",
+    "scientific investigation",
+    "research communication",
+    "interdisciplinary STEM"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A six-week, in-person pre-college research experience for high school students at Tufts University. Participants engage with university-level research and develop foundational research skills through program activities, workshops, guest speakers, and field trips. The program offers an introduction to research at a major university, but students should review the specific project structure and mentor arrangements before assuming that every placement involves an independent laboratory project. The official page indicates that the Summer 2027 application opens December 14, 2026; full dates and other cycle-specific details should be confirmed on the program website. Commuter and residential formats are listed.",
+  "email": "",
+  "labUrl": "https://universitycollege.tufts.edu/pre-college/browse/tufts-summer-research-experience",
+  "applyUrl": "https://universitycollege.tufts.edu/pre-college/browse/tufts-summer-research-experience",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1533,
+  "name": "University of California, San Francisco Summer Student Research Program",
+  "title": "Summer Student Research Program (SSRP)",
+  "university": "University of California, San Francisco",
+  "state": "CA",
+  "department": "Summer Student Research Program",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "clinical research",
+    "basic science",
+    "research mentorship",
+    "journal clubs",
+    "scientific poster",
+    "oral presentation"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A structured summer research experience that pairs eligible students with mentors for a clinical or basic-science research project. The program includes research training, seminars, workshops, journal clubs, small-group mentoring, and a final research presentation. The published 2026 eligibility criteria included students in grades 10–12 who were at least 16 by June 1, had completed a year of math and biology, maintained good academic standing, and were U.S. citizens or lawful permanent residents. The 2027 cohort information is expected to be updated separately, so applicants should not assume the previous year's eligibility or stipend details will remain unchanged. This is a separate UCSF program from CURE and the Science & Health Education Partnership High School Intern Program.",
+  "email": "",
+  "labUrl": "https://summerstudents.ucsf.edu/",
+  "applyUrl": "https://summerstudents.ucsf.edu/apply",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1534,
+  "name": "Farmingdale State College Office of Undergraduate Research and Scholarship",
+  "title": "Summer Undergraduate Research Institute (SURI) — High School Scholars",
+  "university": "Farmingdale State College",
+  "state": "NY",
+  "department": "Office of Undergraduate Research and Scholarship",
+  "field": "Interdisciplinary",
+  "tags": [
+    "faculty-mentored research",
+    "laboratory research",
+    "health sciences",
+    "engineering",
+    "technology",
+    "data analysis",
+    "creative research",
+    "research presentation"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A six-week summer research experience for rising high school juniors and seniors. Scholars join faculty-mentored research clusters alongside college students and participate in authentic research or applied projects spanning STEM, health sciences, business, technology, arts, and humanities. Depending on the project, students may conduct experiments, analyze data, develop prototypes, or contribute to community-focused research, then present their work at the SURI Expo. The program page lists a $350 participation fee and says applications for the 2027 high school scholar cohort open December 1, 2026. Students should check the official page for the application deadline, project choices, and final schedule.",
+  "email": "",
+  "labUrl": "https://www.farmingdale.edu/ours/suripages/surihsscholars.shtml",
+  "applyUrl": "https://www.farmingdale.edu/ours/suripages/surihsscholars.shtml",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1535,
+  "name": "Lockheed Martin Space",
+  "title": "High School Internship Program",
+  "university": "Lockheed Martin",
+  "state": "CO",
+  "department": "Space and Aerospace Engineering",
+  "field": "Engineering",
+  "tags": [
+    "aerospace engineering",
+    "space systems",
+    "engineering projects",
+    "technical problem-solving",
+    "scientific mentorship",
+    "STEM internship"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A summer internship program that gives eligible high school students exposure to aerospace engineering and technical work alongside Lockheed Martin Space scientists and engineers. Interns spend at least nine weeks working on projects and receive on-the-job training, mentorship, professional development, and opportunities to learn about engineering careers. Positions are typically offered at participating locations including Denver, Colorado; Sunnyvale, California; Cape Canaveral, Florida; King of Prussia/Valley Forge, Pennsylvania; Huntsville, Alabama; and Herndon, Virginia. Applicants must be at least 16 at the start of the internship and attend a local high school within commuting distance of a participating facility. The 2027 application window is November 2, 2026–January 3, 2027. Project availability and technical duties vary by placement.",
+  "email": "",
+  "labUrl": "https://www.lockheedmartin.com/en-us/careers/candidates/students-early-careers/high-school.html",
+  "applyUrl": "https://www.lockheedmartin.com/en-us/careers/candidates/students-early-careers/high-school.html",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1536,
+  "name": "UT Southwestern Medical Center STARS Program",
+  "title": "Summer Research Program for Students",
+  "university": "University of Texas Southwestern Medical Center",
+  "state": "TX",
+  "department": "STARS Program",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical research",
+    "laboratory research",
+    "faculty mentorship",
+    "experimental methods",
+    "scientific data",
+    "research presentation"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "An eight-week, nonresidential biomedical research program for eligible North Texas high school juniors. Participants work alongside a faculty host in a research laboratory, receive a stipend, and present their findings at the end of the summer. Applicants must be at least 16 years old by June 1 of the program year, currently be a high school junior, and have no prior biomedical or biomedical-related research experience. Eligible applicants must also meet the program's U.S. citizenship, nationality, or work-authorization requirements. The 2027 application window is November 16, 2026–January 22, 2027. The experience focuses on laboratory research rather than clinical shadowing.",
+  "email": "",
+  "labUrl": "https://www.utsw.com/education/nondegree-programs/stars/programs/summer-research-opportunities.html",
+  "applyUrl": "https://www.utsw.com/education/nondegree-programs/stars/programs/summer-research-opportunities.html",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1537,
+  "name": "University of California, Santa Barbara Summer Sessions",
+  "title": "Research Mentorship Program (RMP)",
+  "university": "University of California, Santa Barbara",
+  "state": "CA",
+  "department": "Summer Sessions",
+  "field": "Interdisciplinary",
+  "tags": [
+    "interdisciplinary research",
+    "faculty mentorship",
+    "graduate research",
+    "scientific writing",
+    "research methods",
+    "research presentation"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A competitive summer program pairing qualified high school students with graduate students, postdoctoral researchers, or faculty mentors for interdisciplinary, university-level research. Participants explore a research topic, learn research techniques, and engage with the UCSB research community through academic talks and related activities. The 2027 program includes a virtual component beginning June 14 and continues through the end of July. The official program page lists applications opening December 15, 2026, with a March 2027 application window. Eligibility includes high school students in grades 10–11, with exceptional ninth graders considered case by case, and a minimum 3.80 weighted academic GPA. This is a fee-based program; applicants should review current tuition, housing, and financial-aid details before applying.",
+  "email": "",
+  "labUrl": "https://www.summer.ucsb.edu/programs/research-mentorship-program/overview",
+  "applyUrl": "https://summer.ucsb.edu/programs/research-mentorship-program/admissions",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1538,
+  "name": "University of Texas at Austin Freshman Research Initiative",
+  "title": "Summer High School Research Academy (HSRA)",
+  "university": "University of Texas at Austin",
+  "state": "TX",
+  "department": "College of Natural Sciences; Freshman Research Initiative",
+  "field": "Interdisciplinary",
+  "tags": [
+    "biochemistry",
+    "biology",
+    "chemistry",
+    "computational biology",
+    "environmental science",
+    "genomics",
+    "materials science",
+    "physics"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Program"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "A five-week, in-person summer research experience in which high school students work with UT Austin faculty, undergraduate researchers, and laboratory teams. Available project areas span biochemistry, biology, chemistry, computational chemistry and biology, environmental science, genomics, materials science, molecular biology, and physics. Students typically spend about 15–25 hours per week with their research group, attend research seminars, and present a poster at the closing symposium. For Summer 2027, the program dates are June 7–July 14, and the application is expected to open in January 2027 with a deadline in March. Applicants must be at least 15 by June 1, be Texas residents, and be entering grades 10–12; preference is given to rising juniors and seniors. Housing and transportation are not provided, and the published 2027 tuition is $4,500.",
+  "email": "hsra@utexas.edu",
+  "labUrl": "https://fri.cns.utexas.edu/community-outreach/summer-high-school-research-academy",
+  "applyUrl": "https://fri.cns.utexas.edu/community-outreach/summer-high-school-research-academy",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
+},
+{
+  "id": 1539,
+  "name": "Smithsonian National Museum of Natural History",
+  "title": "Summer High School Internship Program",
+  "university": "Smithsonian Institution",
+  "state": "DC",
+  "department": "National Museum of Natural History",
+  "field": "Natural Sciences",
+  "tags": [
+    "natural history",
+    "museum research",
+    "scientific communication",
+    "collections",
+    "biodiversity",
+    "science education",
+    "research writing"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Internship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "An eight-week summer internship for current high school students ages 15–18 in grades 9–12. Interns work with supervisors in National Museum of Natural History departments and may contribute to science communication, museum collections, natural-science research support, education, or other museum projects, depending on the available placements. The 2026 cycle included projects in exhibits and communications as well as other museum functions; the 2027 project list and application dates should be confirmed when the next cycle is announced. Applicants must be able to commute to the museum in Washington, DC, for the full program. This is a museum internship with project-dependent research content, not a guaranteed wet-lab research placement.",
+  "email": "",
+  "labUrl": "https://naturalhistory.si.edu/education/youth-programs/high-school-internship-program",
+  "applyUrl": "https://naturalhistory.si.edu/education/youth-programs/high-school-internship-program",
+  "dateAdded": "2026-10-28",
+  "listingType": "Program"
 }
 ]
