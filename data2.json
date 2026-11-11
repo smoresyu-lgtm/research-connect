@@ -39807,5 +39807,1655 @@
   "applyUrl": "https://naturalhistory.si.edu/education/youth-programs/high-school-internship-program",
   "dateAdded": "2026-11-10",
   "listingType": "Program"
+},
+  {
+  "id": 1710,
+  "name": "Trinity University High School Chemistry Summer Research",
+  "title": "High School Research Opportunity",
+  "university": "Trinity University",
+  "state": "Texas, USA",
+  "department": "Chemistry",
+  "field": "Chemistry",
+  "tags": [
+    "chemistry",
+    "high school",
+    "research",
+    "internship",
+    "research mentorship",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://trinity.edu/chemistry/research/summer-research",
+  "applyUrl": "",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1711,
+  "name": "Hudson River Environmental Society McKeon Student Research Grant",
+  "title": "High School Research Opportunity",
+  "university": "Hudson River Environmental Society",
+  "state": "New York, USA",
+  "department": "Ecology",
+  "field": "Ecology",
+  "tags": [
+    "ecology",
+    "high school",
+    "research",
+    "internship",
+    "research mentorship",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "",
+  "email": "",
+  "labUrl": "https://hrnerr.org/research-monitoring/student-research-opportunities/",
+  "applyUrl": "https://hrnerr.org/research-monitoring/student-research-opportunities/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1712,
+  "name": "Hudson River Reserve TIDES Field Research Internship",
+  "title": "High School Research Opportunity",
+  "university": "Hudson River National Estuarine Research Reserve",
+  "state": "New York, USA",
+  "department": "Ecology",
+  "field": "Ecology",
+  "tags": [
+    "ecology",
+    "high school",
+    "research",
+    "internship",
+    "research mentorship",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://hrnerr.org/research-monitoring/student-research-opportunities/",
+  "applyUrl": "https://hrnerr.org/research-monitoring/student-research-opportunities/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1713,
+  "name": "Ipswich River Watershed Association High School Science Internship",
+  "title": "High School Research Opportunity",
+  "university": "Ipswich River Watershed Association",
+  "state": "Massachusetts, USA",
+  "department": "Environmental Science",
+  "field": "Environmental Science",
+  "tags": [
+    "environmental science",
+    "high school",
+    "research",
+    "internship",
+    "research mentorship",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.ipswichriver.org/internships/",
+  "applyUrl": "https://www.ipswichriver.org/internships/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1714,
+  "name": "Northeastern Learning and Brain Development Lab High School Internship",
+  "title": "High School Research Opportunity",
+  "university": "Northeastern University",
+  "state": "Massachusetts, USA",
+  "department": "Psychology",
+  "field": "Psychology",
+  "tags": [
+    "psychology",
+    "high school",
+    "research",
+    "internship",
+    "research mentorship",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Direct PI/Lab Inquiry",
+  "resumeRating": 5,
+  "description": "",
+  "email": "LBDLpsych@northeastern.edu",
+  "labUrl": "https://lbdlpsych.sites.northeastern.edu/openings/",
+  "applyUrl": "",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1715,
+  "name": "Brooklyn Center for Brooklyn History Summer Scholars Internship",
+  "title": "High School Historical Research and Collections Opportunity",
+  "university": "Brooklyn Public Library",
+  "state": "New York, USA",
+  "department": "History",
+  "field": "History",
+  "tags": [
+    "history",
+    "high school",
+    "research",
+    "internship",
+    "historical research",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.bklynlibrary.org/cbh/education/cbh-teen-internships",
+  "applyUrl": "https://www.bklynlibrary.org/cbh/education/cbh-teen-internships",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1716,
+  "name": "Archaeological Research Institute High School Research Internship",
+  "title": "High School Historical Research and Collections Opportunity",
+  "university": "Archaeological Research Institute",
+  "state": "Indiana, USA",
+  "department": "Archaeology",
+  "field": "Archaeology",
+  "tags": [
+    "archaeology",
+    "high school",
+    "research",
+    "internship",
+    "historical research",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://exploreari.org/internships/",
+  "applyUrl": "https://exploreari.org/internships/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1717,
+  "name": "Millburn Short Hills Historical Society Summer Research Internship",
+  "title": "High School Historical Research and Collections Opportunity",
+  "university": "Millburn Short Hills Historical Society",
+  "state": "New Jersey, USA",
+  "department": "History",
+  "field": "History",
+  "tags": [
+    "history",
+    "high school",
+    "research",
+    "internship",
+    "historical research",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "",
+  "email": "",
+  "labUrl": "https://mshhistsoc.org/2026-internship/",
+  "applyUrl": "https://mshhistsoc.org/2026-internship/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1718,
+  "name": "New York Historical Student Historian Summer Internship",
+  "title": "High School Historical Research and Collections Opportunity",
+  "university": "The New York Historical",
+  "state": "New York, USA",
+  "department": "History",
+  "field": "History",
+  "tags": [
+    "history",
+    "high school",
+    "research",
+    "internship",
+    "historical research",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.researchnycalumni.org/news/internship/482/482-Student-Historian-Summer-Internship-Program",
+  "applyUrl": "https://www.researchnycalumni.org/news/internship/482/482-Student-Historian-Summer-Internship-Program",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1719,
+  "name": "Blue Hill Observatory Student Weather and Climate Internship",
+  "title": "High School Research Opportunity",
+  "university": "Blue Hill Observatory & Science Center",
+  "state": "Massachusetts, USA",
+  "department": "Atmospheric Science",
+  "field": "Atmospheric Science",
+  "tags": [
+    "atmospheric science",
+    "high school",
+    "research",
+    "internship",
+    "research mentorship",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "",
+  "email": "",
+  "labUrl": "https://bluehill.org/get-involved/career-volunteer-opportunities/",
+  "applyUrl": "https://bluehill.org/get-involved/career-volunteer-opportunities/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1720,
+  "name": "Mianus River Gorge High School Mentorship in Ecology",
+  "title": "High School Research Opportunity",
+  "university": "Mianus River Gorge",
+  "state": "New York, USA",
+  "department": "Ecology",
+  "field": "Ecology",
+  "tags": [
+    "ecology",
+    "high school",
+    "research",
+    "internship",
+    "research mentorship",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "",
+  "email": "",
+  "labUrl": "https://mianus.org/research-education/hs-mentorship-program/",
+  "applyUrl": "https://mianus.org/research-education/hs-mentorship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1721,
+  "name": "Freedom Archives High School Archival Research Internship",
+  "title": "High School Historical Research and Collections Opportunity",
+  "university": "Freedom Archives",
+  "state": "California, USA",
+  "department": "History",
+  "field": "History",
+  "tags": [
+    "history",
+    "high school",
+    "research",
+    "internship",
+    "historical research",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "",
+  "email": "",
+  "labUrl": "https://freedomarchives.org/get-involved/internships/",
+  "applyUrl": "https://freedomarchives.org/get-involved/internships/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1722,
+  "name": "Alaska Songbird Institute High School Wildlife Research Internship",
+  "title": "High School Research Opportunity",
+  "university": "Alaska Songbird Institute",
+  "state": "Alaska, USA",
+  "department": "Wildlife Biology",
+  "field": "Wildlife Biology",
+  "tags": [
+    "wildlife biology",
+    "high school",
+    "research",
+    "internship",
+    "research mentorship",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://aksongbird.org/get-involved/high-school-internships/",
+  "applyUrl": "https://aksongbird.org/get-involved/high-school-internships/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1723,
+  "name": "Arroyos and Foothills Conservancy High School Conservation Research Training",
+  "title": "High School Research Opportunity",
+  "university": "Arroyos & Foothills Conservancy",
+  "state": "California, USA",
+  "department": "Conservation Biology",
+  "field": "Conservation Biology",
+  "tags": [
+    "conservation biology",
+    "high school",
+    "research",
+    "internship",
+    "research mentorship",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "",
+  "email": "",
+  "labUrl": "https://arroyosfoothills.org/get-involved/intern-with-us/",
+  "applyUrl": "https://arroyosfoothills.org/get-involved/intern-with-us/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1724,
+  "name": "Rye Historical Society High School Senior History Research Internship",
+  "title": "High School Historical Research and Collections Opportunity",
+  "university": "Rye Historical Society",
+  "state": "New York, USA",
+  "department": "History",
+  "field": "History",
+  "tags": [
+    "history",
+    "high school",
+    "research",
+    "internship",
+    "historical research",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "",
+  "email": "natalie.hofstedt@ryehistory.org",
+  "labUrl": "https://www.ryehistory.org/volunteer-and-internship-opportunities",
+  "applyUrl": "https://www.ryehistory.org/volunteer-and-internship-opportunities",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1725,
+  "name": "Mineola Historical Society High School Archival Internship",
+  "title": "High School Historical Research and Collections Opportunity",
+  "university": "Mineola Historical Society",
+  "state": "New York, USA",
+  "department": "History",
+  "field": "History",
+  "tags": [
+    "history",
+    "high school",
+    "research",
+    "internship",
+    "historical research",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 2,
+  "description": "",
+  "email": "",
+  "labUrl": "https://mineolahistoricalsociety.org/internships",
+  "applyUrl": "https://mineolahistoricalsociety.org/internships",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1726,
+  "name": "Cary Institute Mid-Hudson Young Environmental Scientists",
+  "title": "High School Research Opportunity",
+  "university": "Cary Institute of Ecosystem Studies",
+  "state": "New York, USA",
+  "department": "Ecology",
+  "field": "Ecology",
+  "tags": [
+    "ecology",
+    "high school",
+    "research",
+    "internship",
+    "research mentorship",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.caryinstitute.org/education/internships",
+  "applyUrl": "https://www.caryinstitute.org/education/internships",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1727,
+  "name": "The 1947 Partition Archive High School Historical Research Internship",
+  "title": "High School Historical Research and Collections Opportunity",
+  "university": "The 1947 Partition Archive",
+  "state": "California, USA",
+  "department": "History",
+  "field": "History",
+  "tags": [
+    "history",
+    "high school",
+    "research",
+    "internship",
+    "historical research",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.1947partitionarchive.org/internships/",
+  "applyUrl": "https://www.1947partitionarchive.org/internships/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1728,
+  "name": "Lake Jackson Historical Association High School Research Internship",
+  "title": "High School Historical Research and Collections Opportunity",
+  "university": "Lake Jackson Historical Association",
+  "state": "Texas, USA",
+  "department": "History",
+  "field": "History",
+  "tags": [
+    "history",
+    "high school",
+    "research",
+    "internship",
+    "historical research",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.ljhistory.org/",
+  "applyUrl": "https://www.ljhistory.org/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1729,
+  "name": "Seaside Sustainability Microplastics Institute Research Internship",
+  "title": "High School Research Opportunity",
+  "university": "Seaside Sustainability",
+  "state": "Massachusetts, USA",
+  "department": "Marine Science",
+  "field": "Marine Science",
+  "tags": [
+    "marine science",
+    "high school",
+    "research",
+    "internship",
+    "research mentorship",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.seasidesustainability.org/",
+  "applyUrl": "https://www.seasidesustainability.org/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1730,
+  "name": "Bronx River Alliance EELS Environmental Research Internship",
+  "title": "High School Research Opportunity",
+  "university": "Bronx River Alliance",
+  "state": "New York, USA",
+  "department": "Urban Ecology",
+  "field": "Urban Ecology",
+  "tags": [
+    "urban ecology",
+    "high school",
+    "research",
+    "internship",
+    "research mentorship",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://bronxriver.org/?p=11955",
+  "applyUrl": "https://bronxriver.org/?p=11955",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1731,
+  "name": "Smithsonian Claudine K. Brown Research and Education Internship",
+  "title": "High School Research Opportunity",
+  "university": "Smithsonian Institution",
+  "state": "Washington, DC, USA",
+  "department": "Education",
+  "field": "Education",
+  "tags": [
+    "education",
+    "high school",
+    "research",
+    "internship",
+    "research mentorship",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 3,
+  "description": "",
+  "email": "",
+  "labUrl": "https://internships.si.edu/opportunity/claudine-k-brown-internship-education",
+  "applyUrl": "https://internships.si.edu/opportunity/claudine-k-brown-internship-education",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1732,
+  "name": "Historic Alexandria High School Senior Experience Research Placement",
+  "title": "High School Historical Research and Collections Opportunity",
+  "university": "Office of Historic Alexandria",
+  "state": "Virginia, USA",
+  "department": "History",
+  "field": "History",
+  "tags": [
+    "history",
+    "high school",
+    "research",
+    "internship",
+    "historical research",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 2,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.alexandriava.gov/historic-alexandria/internships-with-historic-alexandria",
+  "applyUrl": "https://www.alexandriava.gov/historic-alexandria/internships-with-historic-alexandria",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1733,
+  "name": "Argonne National Laboratory Exemplary Student Research Program",
+  "title": "High School Research Opportunity",
+  "university": "Argonne National Laboratory",
+  "state": "Illinois, USA",
+  "department": "Multidisciplinary STEM",
+  "field": "Multidisciplinary STEM",
+  "tags": [
+    "multidisciplinary stem",
+    "high school",
+    "research",
+    "internship",
+    "research mentorship",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 5,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.anl.gov/education",
+  "applyUrl": "https://www.anl.gov/education",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1734,
+  "name": "Kopernik Observatory High School Science Internship",
+  "title": "High School Research Opportunity",
+  "university": "Kopernik Observatory & Science Center",
+  "state": "New York, USA",
+  "department": "Astronomy",
+  "field": "Astronomy",
+  "tags": [
+    "astronomy",
+    "high school",
+    "research",
+    "internship",
+    "research mentorship",
+    "student opportunity"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Internship",
+    "Mentorship"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 2,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.kopernik.org/support/volunteer/hs-internship-program/",
+  "applyUrl": "https://www.kopernik.org/support/volunteer/hs-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Program"
+},
+{
+  "id": 1735,
+  "name": "Aimee Payne — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1736,
+  "name": "Alexandra Ulyanova — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1737,
+  "name": "Andrew J. Modzelewski — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1738,
+  "name": "Bomyi Lim — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1739,
+  "name": "Brian Capell — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1740,
+  "name": "Bushra Raj — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1741,
+  "name": "Chamith S. Rajapakse — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1742,
+  "name": "Christoph Ellebrecht — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1743,
+  "name": "Damaris N. Lorenzo — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1744,
+  "name": "Dana Graves — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1745,
+  "name": "Eileen Shore — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1746,
+  "name": "Elizabeth Grice — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1747,
+  "name": "Erfei Bi — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1748,
+  "name": "Flavia Vitale — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1749,
+  "name": "George Cotsarelis — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1750,
+  "name": "Jeremy Wang — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1751,
+  "name": "Joel D. Boerckel — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1752,
+  "name": "John Seykora — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1753,
+  "name": "Jon Epstein — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1754,
+  "name": "Juan Alvarez — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1755,
+  "name": "Kahlilia C. Morris-Blanco — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1756,
+  "name": "Kathryn Hamilton — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1757,
+  "name": "Ken Zaret — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1758,
+  "name": "Kotaro Sasaki — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
+},
+{
+  "id": 1759,
+  "name": "Kyle Vining — Penn OER High School Partner Research Lab",
+  "title": "Faculty-Hosted High School Biomedical Research Prospect",
+  "university": "University of Pennsylvania Perelman School of Medicine",
+  "state": "Pennsylvania, USA",
+  "department": "Penn Medicine participating faculty laboratory",
+  "field": "Biomedical Science",
+  "tags": [
+    "biomedical science",
+    "high school",
+    "research",
+    "faculty mentorship",
+    "research mentorship",
+    "shared program pathway"
+  ],
+  "levels": [
+    "High School"
+  ],
+  "opportunityTypes": [
+    "Research Project",
+    "Mentorship",
+    "Summer Research"
+  ],
+  "applicationType": "Program Application",
+  "resumeRating": 4,
+  "description": "",
+  "email": "",
+  "labUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "applyUrl": "https://www.med.upenn.edu/evdresearch/oer-summer-internship-program/",
+  "dateAdded": "2026-11-10",
+  "listingType": "Professor Prospect"
 }
 ]
